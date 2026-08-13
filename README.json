@@ -1,0 +1,4559 @@
+{
+  "items": [
+    {
+      "description": ": medical image | : natural image | : remote sensing | : point cloud\n: dataset | : deep learning\n: other, including correspondence, mapping, matching, alignment...\nStatistics: :fire: code is available & stars >= 100 | :star: citation >= 50",
+      "items": [],
+      "title": "Keywords"
+    },
+    {
+      "description": "Last updated: 2026/05/21\n2026/05/21 - major update: merge ~3,500 papers from IR-Papers.md, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.\n2025/09/21 - update recent papers\n2025/04/25 - update recent papers and add the repository link of Awesome-Medical-Image-Registration\n2024/12/03 - update recent papers\n2024/04/30 - update recent papers on TPAMI/MICCAI/CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA/ICLR\n2023/03/02 - add papers according to 3D-PointCloud, update recent papers on CVPR/ECCV 2022\n2022/07/27 - update recent papers on ECCV 2022\n2022/07/14 - add the corresponding open source code for the 2022 papers\n2022/07/12 - update recent papers on AAAI 2022 and add information about competitions\n2022/06/19 - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers about image registration according to MICCAI-OpenSourcePapers.\n2022/06/18 - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.\n2022/06/18 - update papers (2020-2022) about point cloud registration from awesome-point-cloud-analysis-2023.\n2020/04/20 - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.",
+      "items": [],
+      "title": "Update log"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Overlap-Aware Online-Adaptive Non-Rigid Registration of Intraoperative Tissue in Minimally Invasive Surgery. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T13:44:03Z",
+            "owner": "AIGCer0807",
+            "repo": "OANRM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CASHNet: Context-Aware Semantics-Driven Hierarchical Network for Hybrid Diffeomorphic CT-CBCT Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-15T15:44:06Z",
+            "owner": "xiaorugao999",
+            "repo": "CASHNet",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoE-Morph: Lightweight Pyramid Model With Heterogeneous Mixture of Experts for Deformable Medical Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-26T13:59:12Z",
+            "owner": "Darlinglinlinlin",
+            "repo": "MOE_Morph",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "TMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DVAP-Reg: Dual-view anatomical prior-driven cross-dimensional registration for spinal surgery navigation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-15T13:56:33Z",
+            "owner": "TMMU-KLPOP",
+            "repo": "DVAP-Reg",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-26T12:14:09Z",
+            "owner": "ybby2020",
+            "repo": "ARDMR_MIA",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIASNet: A bidirectional feature alignment and semantics-guided network for weakly-supervised medical image registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-21T07:34:04Z",
+            "owner": "xiehousheng",
+            "repo": "BIASNet",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UTMorph: A hybrid CNN-transformer network for weakly-supervised multimodal image registration in biopsy puncture. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T05:56:37Z",
+            "owner": "Prps7",
+            "repo": "UTMorph",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAGM: Geometry-aware graph matching framework for weakly supervised gyral hinge correspondence. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-29T02:57:27Z",
+            "owner": "ZhibinHe",
+            "repo": "GAGM",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised multimodal surface registration with geometric deep learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-17T19:48:55Z",
+            "owner": "mohamedasuliman",
+            "repo": "GeoMorph",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "MIA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MINIMA: Modality Invariant Image Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T14:07:00Z",
+            "owner": "LSXI7",
+            "repo": "MINIMA",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T00:19:24Z",
+            "owner": "hmorimitsu",
+            "repo": "ptlflow",
+            "stars": 547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-28T11:15:13Z",
+            "owner": "opendatalab",
+            "repo": "UniMERNet",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-15T10:05:16Z",
+            "owner": "Yore0",
+            "repo": "TTDG-MGM",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SACB-Net: Spatial-awareness Convolutions for Medical Image Registration. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T16:23:44Z",
+            "owner": "x-xc",
+            "repo": "SACB_Net",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiMorph: On-demand Atlas Construction. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-11T23:59:48Z",
+            "owner": "mabulnaga",
+            "repo": "multimorph",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-30T10:19:24Z",
+            "owner": "GeWu-Lab",
+            "repo": "Motion-based-Self-Reflection-Framework",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blood Flow Speed Estimation with Optical Coherence Tomography Angiography Images. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T02:54:58Z",
+            "owner": "Spritea",
+            "repo": "OCTA-Flow",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shape and Texture: What Influences Reliable Optical Flow Estimation?. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T19:30:39Z",
+            "owner": "llesky",
+            "repo": "Robustness-Analysis-Optical-Flow",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Buffer-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T03:16:58Z",
+            "owner": "MIT-SPARK",
+            "repo": "BUFFER-X",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-11T21:26:27Z",
+            "owner": "msu-video-group",
+            "repo": "memfof",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T02:23:27Z",
+            "owner": "Sharpiless",
+            "repo": "L2M",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroStereo: Zero-Shot Stereo Matching from Single Images. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T08:47:13Z",
+            "owner": "Windsrain",
+            "repo": "ZeroStereo",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T15:51:08Z",
+            "owner": "ZizhuoLi",
+            "repo": "CoMatch",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-25T17:36:00Z",
+            "owner": "mujc2021",
+            "repo": "Diff2I2P",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Registration beyond Points: General Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-05T20:17:26Z",
+            "owner": "joomeok",
+            "repo": "GrassmannRegistration",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T14:52:01Z",
+            "owner": "tub-rip",
+            "repo": "e2fai",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anchor Token Matching: Implicit Structure Locking for Training-Free AR Image Editing. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-15T03:56:35Z",
+            "owner": "hutaiHang",
+            "repo": "ATM",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-24T04:20:10Z",
+            "owner": "longliangLiu",
+            "repo": "PriOr-Flow",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-05T11:33:58Z",
+            "owner": "zhengcy-lambo",
+            "repo": "RARE",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-15T15:27:19Z",
+            "owner": "BIT-Vision",
+            "repo": "EMatch",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-16T04:37:29Z",
+            "owner": "tlliao",
+            "repo": "LPAM_seam-cutting",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Correspondence-Free Fast and Robust Spherical Point Pattern Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-25T02:05:13Z",
+            "owner": "ARLab-VT",
+            "repo": "Robust-Vector-Set-Alignment",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Enhanced Action-Aware Multi-Modal Prompt Tuning for Image-Text Matching. [PUB",
+          "description": "] [CODE]",
+          "children": []
+        }
+      ],
+      "title": "ICCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T18:49:39Z",
+            "owner": "OliverRensu",
+            "repo": "FlowAR",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T08:13:47Z",
+            "owner": "qortmdgh4141",
+            "repo": "GAS",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "ICML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning General-purpose Biomedical Volume Representations using Randomized Synthesis. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T20:38:57Z",
+            "owner": "neel-dey",
+            "repo": "anatomix",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-29T16:04:05Z",
+            "owner": "iwuqing",
+            "repo": "Moner",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PnP-Flow: Plug-and-Play Image Restoration with Flow Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T12:51:52Z",
+            "owner": "imigraz",
+            "repo": "Restora-Flow",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstaRevive: One-Step Image Enhancement via Dynamic Score Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T15:33:42Z",
+            "owner": "EternalEvan",
+            "repo": "InstaRevive",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-23T03:19:28Z",
+            "owner": "imagination-research",
+            "repo": "Distilled-Decoding-2",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "ICLR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optical Flow Estimation for Tiny Objects: New Problem, Specialized Benchmark, and Bioinspired Scheme. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-05T09:09:54Z",
+            "owner": "JaneEliot",
+            "repo": "OTHR",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration. [PUB",
+          "description": "] [CODE]",
+          "children": []
+        }
+      ],
+      "title": "IJCAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T09:49:03Z",
+            "owner": "multimodallearning",
+            "repo": "convexAdam",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DINO-Reg: Efficient Multimodal Image Registration With Distilled Features. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-21T16:18:44Z",
+            "owner": "RPIDIAL",
+            "repo": "DINO-Reg",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T02:21:34Z",
+            "owner": "junzastar",
+            "repo": "Self-P2IR",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decoder-Only Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-15T13:17:13Z",
+            "owner": "xi-jia",
+            "repo": "LessNet",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T06:06:12Z",
+            "owner": "Runshi-Zhang",
+            "repo": "UTSRMorph",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T14:27:18Z",
+            "owner": "ShumengLI",
+            "repo": "SFR",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-25T02:39:07Z",
+            "owner": "boahK",
+            "repo": "OTMorph",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feedback Attention to Enhance Unsupervised Deep Learning Image Registration in 3D Echocardiography. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-04T23:48:23Z",
+            "owner": "kamruleee51",
+            "repo": "Feedback_DLIR",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Semantically-Consistent Deformable 2D-3D Registration for 3D Craniofacial Structure Estimation From a Single-View Lateral Cephalometric Radiograph. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T09:23:58Z",
+            "owner": "Jyk-122",
+            "repo": "SC-DREG",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Novel Few-Shot Learning Framework for Supervised Diffeomorphic Image Registration Network. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-09-24T05:36:56Z",
+            "owner": "weijunping111",
+            "repo": "RDG-TMI",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamed Optical Flow Adaptation From Synthetic to Real Dental Scenes. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T12:59:31Z",
+            "owner": "camalab-ai",
+            "repo": "sofa-flow",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "TMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Joint coil sensitivity and motion correction in parallel MRI with a self-calibrating score-based diffusion model. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-30T11:57:12Z",
+            "owner": "MeijiTian",
+            "repo": "JSMoCo",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MUsculo-Skeleton-Aware (MUSA) deep learning for anatomically guided head-and-neck CT deformable registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T08:03:53Z",
+            "owner": "HengjieLiu",
+            "repo": "DIR-MUSA",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBSS-T1: Model-based subject-specific self-supervised motion correction for robust cardiac T1 mapping. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-30T11:36:29Z",
+            "owner": "TechnionComputationalMRILab",
+            "repo": "MBSS-T1",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COLLATOR: Consistent spatial-temporal longitudinal atlas construction via implicit neural representation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-22T06:26:03Z",
+            "owner": "maopaom",
+            "repo": "COLLATOR",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "MIA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T19:39:28Z",
+            "owner": "eigenvivek",
+            "repo": "DiffPose",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T15:02:28Z",
+            "owner": "shenao1995",
+            "repo": "RadGS_Reg",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration. [PUB",
+          "description": "] CODE []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-06T17:57:02Z",
+            "owner": "MICV-yonsei",
+            "repo": "M2M-Reg",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-25T03:31:23Z",
+            "owner": "uncbiag",
+            "repo": "dgir",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial regularisation for improved accuracy and interpretability in keypoint-based registration. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-07T16:02:44Z",
+            "owner": "BenBillot",
+            "repo": "spatial_regularisation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T09:54:34Z",
+            "owner": "siomvas",
+            "repo": "FedCLAM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-29T06:49:51Z",
+            "owner": "Bian-jh",
+            "repo": "HoP-TM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T04:41:50Z",
+            "owner": "tinymilky",
+            "repo": "VoxelOpt",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "MICCAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Toward a Training-Free Plug-and-Play Refinement Framework for Infrared and Visible Image Registration and Fusion. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-25T06:51:27Z",
+            "owner": "pubyLu",
+            "repo": "TRACE",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-03T07:41:59Z",
+            "owner": "YiGuYT",
+            "repo": "LookBeyond",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered Hyperspectral Image Super-Resolution. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-29T08:30:14Z",
+            "owner": "Jiahuiqu",
+            "repo": "CCM-RFJN",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T01:56:18Z",
+            "owner": "syl6312",
+            "repo": "DGCMIA",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "MM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Intraoperative 2D/3D Image Registration via Differentiable X-Ray Rendering. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T19:39:28Z",
+            "owner": "eigenvivek",
+            "repo": "DiffPose",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowDiffuser: Advancing Optical Flow Estimation with Diffusion Models. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-11T10:22:34Z",
+            "owner": "LA30",
+            "repo": "FlowDiffuser",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-11T08:51:51Z",
+            "owner": "zhiyuanYU134",
+            "repo": "MIRETR",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Medical Image Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-29T09:51:41Z",
+            "owner": "Coradlut",
+            "repo": "Bi-JROS",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Meshflow and Optical Flow Estimation from Event Cameras. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T04:36:08Z",
+            "owner": "boomluo02",
+            "repo": "EEMFlow",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composing Object Relations and Attributes for Image-Text Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-03T08:05:03Z",
+            "owner": "vkhoi",
+            "repo": "cora_cvpr24",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIRP-Net: Iterative Inference Residual Pyramid Network for Enhanced Image Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T10:12:22Z",
+            "owner": "Torbjorn1997",
+            "repo": "IIRP-Net",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADFactory: An Effective Framework for Generalizing Optical Flow With NeRF. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-28T07:50:10Z",
+            "owner": "HanLingsgjk",
+            "repo": "UnifiedGeneralization",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiway Point Cloud Mosaicking with Diffusion and Global Optimization. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-29T01:46:18Z",
+            "owner": "jinsz",
+            "repo": "Multiway-Point-Cloud-Mosaicking-with-Diffusion-and-Global-Optimization",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecDiffusion: Rectangling for Image Stitching with Diffusion Models. [PUB",
+          "description": "] [CODE]",
+          "children": []
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T15:55:20Z",
+            "owner": "princeton-vl",
+            "repo": "SEA-RAFT",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T03:41:02Z",
+            "owner": "yejy53",
+            "repo": "EP-BEV",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T14:25:42Z",
+            "owner": "yaorz97",
+            "repo": "PARENet",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eliminating Warping Shakes for Unsupervised Online Video Stitching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T12:55:19Z",
+            "owner": "nie-lang",
+            "repo": "StabStitch",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointRegGPT: Boosting 3D Point Cloud Registration Using Generative Point-Cloud Pairs for Training. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T17:51:31Z",
+            "owner": "Chen-Suyi",
+            "repo": "PointRegGPT",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-30T15:27:07Z",
+            "owner": "Egkang-Luis",
+            "repo": "BurstM",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "ECCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StreamFlow: Streamlined Multi-Frame Optical Flow Estimation for Video Sequences. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T03:08:49Z",
+            "owner": "littlespray",
+            "repo": "StreamFlow",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-05T14:48:54Z",
+            "owner": "yayoyo66",
+            "repo": "SRStitcher",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-27T11:54:50Z",
+            "owner": "jiangchaokang",
+            "repo": "NeuroGauss4D-PCI",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-19T14:56:25Z",
+            "owner": "zlynpu",
+            "repo": "3DFMNet",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "NeurIPS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Correlation Matching Transformation Transformers for UHD Image Restoration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-22T02:52:45Z",
+            "owner": "supersupercong",
+            "repo": "UHDformer",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIM: Contrastive Language-Image Mosaic for Region Representation. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T13:00:28Z",
+            "owner": "wusize",
+            "repo": "CLIM",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Robust Image Stitching: An Adaptive Resistance Learning against Compatible Attacks. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-02T06:38:39Z",
+            "owner": "Jzy2017",
+            "repo": "TRIS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-27T08:19:26Z",
+            "owner": "AI-IT-AVs",
+            "repo": "PosDiffNet",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optical Flow for Spike Camera with Hierarchical Spatial-Temporal Spike Fusion. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T11:01:02Z",
+            "owner": "ruizhao26",
+            "repo": "HiST-SFlow",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperJunction: Learning-Based Junction Detection for Retinal Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-27T07:01:14Z",
+            "owner": "samjcheng",
+            "repo": "SuperJunction",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "AAAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SplatFlow: Learning Multi-frame Optical Flow via Splatting. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-20T00:11:58Z",
+            "owner": "wwsource",
+            "repo": "SplatFlow",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-25T08:34:48Z",
+            "owner": "lhaippp",
+            "repo": "GyroFlowPlus",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On Finite Difference Jacobian Computation in Deformable Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T23:07:53Z",
+            "owner": "yihao6",
+            "repo": "digital_diffeomorphism",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowNAS: Neural Architecture Search for Optical Flow Estimation. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T06:26:42Z",
+            "owner": "VDIGPKU",
+            "repo": "FlowNAS",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "IJCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Fully Differentiable Framework for 2D/3D Registration and the Projective Spatial Transformers. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-16T19:06:31Z",
+            "owner": "gaocong13",
+            "repo": "Projective-Spatial-Transformers",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-05T08:11:22Z",
+            "owner": "ZAX130",
+            "repo": "RDP",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attention-Aware Non-Rigid Image Registration for Accelerated MR Imaging. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T13:39:51Z",
+            "owner": "lab-midas",
+            "repo": "GMARAFT",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GroupMorph: Medical Image Registration via Grouping Network With Contextual Fusion. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-16T09:24:21Z",
+            "owner": "TVayne",
+            "repo": "GroupMorph",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "TMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Residual Aligner-based Network (RAN): Motion-separable structure for coarse-to-fine discontinuous deformable registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T17:22:31Z",
+            "owner": "jianqingzheng",
+            "repo": "res_aligner_net",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMAN: Cascaded Multi-scale Spatial Channel Attention-guided Network for large 3D deformable registration of liver CT images. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-22T23:05:35Z",
+            "owner": "LocPham263",
+            "repo": "CMAN",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "MIA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "On-the-Fly Guidance Training for Medical Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T06:17:17Z",
+            "owner": "cilix-ai",
+            "repo": "on-the-fly-guidance",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemWarp: Discontinuity-Preserving Cardiac Registration with Memorized Anatomical Filters. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-21T12:53:23Z",
+            "owner": "tinymilky",
+            "repo": "Mem-Warp",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T04:51:31Z",
+            "owner": "nellie689",
+            "repo": "TLRN",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Groupwise Deformable Registration of Diffusion Tensor Cardiovascular Magnetic Resonance: Disentangling Diffusion Contrast, Respiratory and Cardiac Motions. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T15:45:53Z",
+            "owner": "ayanglab",
+            "repo": "DTCMR-Reg",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-31T13:40:18Z",
+            "owner": "xzluo97",
+            "repo": "Continual-Reg",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "MICCAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiffGlue: Diffusion-Aided Image Feature Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T03:55:34Z",
+            "owner": "SuhZhang",
+            "repo": "DiffGlue",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hybrid Cost Volume for Memory-Efficient Optical Flow. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T08:04:16Z",
+            "owner": "gangweix",
+            "repo": "HCVFlow",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniStitch: Depth-Aware Stitching Framework for Omnidirectional Vision with Multiple Cameras. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T05:39:41Z",
+            "owner": "tngh5004",
+            "repo": "Omnistitch",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Multi-scale Feature Learning Network with Optical Flow Correction for Micro- and Macro-expression Spotting. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-30T12:47:51Z",
+            "owner": "zzy188zzy",
+            "repo": "megc_spotting_code",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantics-Aware Image Aesthetics Assessment using Tag Matching and Contrastive Ranking. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T01:46:58Z",
+            "owner": "yzc-ippl",
+            "repo": "TMCR",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serial Section Microscopy Image Inpainting Guided by Axial Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-18T11:15:51Z",
+            "owner": "chengyr1999",
+            "repo": "FlowInpaint",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DPCP-Net: A Lightweight Progressive 3D Correspondence Pruning Network for Accurate and Efficient Point Cloud Registration. [PUB",
+          "description": "] [CODE]",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "PRISM: PRogressive dependency maxImization for Scale-invariant image Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": []
+        }
+      ],
+      "title": "MM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3D Registration with Maximal Cliques. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-30T09:45:55Z",
+            "owner": "zhangxy0517",
+            "repo": "3D-Registration-with-Maximal-Cliques",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-31T02:57:17Z",
+            "owner": "WHU-USI3DV",
+            "repo": "SGHR",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-15T15:33:44Z",
+            "owner": "qinzheng93",
+            "repo": "GraphSCNet",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Optical Flow from Geometric Matching Consistent Perspective. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-16T05:46:31Z",
+            "owner": "DQiaole",
+            "repo": "MatchFlow",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-12T16:37:46Z",
+            "owner": "SYSU-SAIL",
+            "repo": "BUFFER",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Semantic Relationship among Instances for Image-Text Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T07:46:01Z",
+            "owner": "CrossmodalGroup",
+            "repo": "HREM",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fine-grained Image-text Matching by Cross-modal Hard Aligning Network. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-13T12:23:29Z",
+            "owner": "ppanzx",
+            "repo": "CHAN",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indescribable Multi-modal Spatial Evaluator. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-03T08:56:37Z",
+            "owner": "Kid-Liet",
+            "repo": "IMSE",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Outlier Rejection for 3D Registration with Variational Bayes. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T11:25:28Z",
+            "owner": "Jiang-HB",
+            "repo": "VBReg",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PMatch: Paired Masked Image Modeling for Dense Geometric Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T21:12:36Z",
+            "owner": "ShngJZ",
+            "repo": "PMatch",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-29T08:35:25Z",
+            "owner": "GitCVfb",
+            "repo": "JAMNet",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tangentially Elongated Gaussian Belief Propagation for Event-Based Incremental Optical Flow Estimation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-05-10T11:11:34Z",
+            "owner": "DensoITLab",
+            "repo": "tegbp",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GlueStick: Robust Image Matching by Sticking Points and Lines Together. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-07T12:20:12Z",
+            "owner": "cvg",
+            "repo": "GlueStick",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-20T03:16:33Z",
+            "owner": "XiaoyuShi97",
+            "repo": "VideoFlow",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallax-Tolerant Unsupervised Deep Image Stitching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-29T09:48:21Z",
+            "owner": "nie-lang",
+            "repo": "UDIS2",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-30T13:36:05Z",
+            "owner": "IRMVLab",
+            "repo": "RegFormer",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-27T00:42:01Z",
+            "owner": "minhaolee",
+            "repo": "2D3DMATR",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DReg-NeRF: Deep Registration for Neural Radiance Fields. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T12:12:46Z",
+            "owner": "AIBluefisher",
+            "repo": "DReg-NeRF",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPI-Flow: Learning Realistic Optical Flow with Multiplane Images. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T07:50:30Z",
+            "owner": "Sharpiless",
+            "repo": "MPI-Flow",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAFlow: Incorporating Gaussian Attention into Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-11T03:14:53Z",
+            "owner": "LA30",
+            "repo": "GAFlow",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMA: Temporal Motion Aggregation for Event-based Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T07:38:25Z",
+            "owner": "ispc-lab",
+            "repo": "TMA",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Density-invariant Features for Distant Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-06T04:46:43Z",
+            "owner": "liuQuan98",
+            "repo": "GCL",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AccFlow: Backward Accumulation for Long-Range Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T11:44:42Z",
+            "owner": "mulns",
+            "repo": "AccFlow",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SemARFlow: Injecting Semantics into Unsupervised Optical Flow Estimation for Autonomous Driving. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-08T14:56:35Z",
+            "owner": "duke-vision",
+            "repo": "semantic-unsup-flow-release",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-06T02:41:16Z",
+            "owner": "phdymz",
+            "repo": "PointMBF",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chasing clouds: Differentiable volumetric rasterisation of point clouds as a highly efficient and accurate loss for large-scale deformable 3D registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-20T06:16:55Z",
+            "owner": "mattiaspaul",
+            "repo": "ChasingClouds",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explicit Motion Disentangling for Efficient Optical Flow Estimation. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-11T03:12:33Z",
+            "owner": "gddcx",
+            "repo": "EMD-Flow",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Optical Flow from Event Camera with Rendered Dataset. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-11T07:01:03Z",
+            "owner": "boomluo02",
+            "repo": "ADMFlow",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Point Cloud Registration as Masking and Reconstruction. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-14T08:29:23Z",
+            "owner": "CGuangyan-BIT",
+            "repo": "MRA",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T08:29:42Z",
+            "owner": "DelinQu",
+            "repo": "QRSC",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Center-Based Decoupled Point Cloud Registration for 6D Object Pose Estimation. [PUB",
+          "description": "] [CODE] []",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": []
+        }
+      ],
+      "title": "ICCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T02:41:01Z",
+            "owner": "junshengzhou",
+            "repo": "VP2P-Match",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Non-Rigid Shape Registration via Deep Functional Maps Prior. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-23T04:02:21Z",
+            "owner": "rqhuang88",
+            "repo": "DFR",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "NeurIPS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fourier-Net: Fast Image Registration with Band-Limited Deformation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-11T09:42:42Z",
+            "owner": "xi-jia",
+            "repo": "Fourier-Net",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-12T16:52:03Z",
+            "owner": "MengLi-l1",
+            "repo": "StrokeExtraction",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Rotation Invariance with Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-30T07:52:12Z",
+            "owner": "Crane-YU",
+            "repo": "rethink_rotation",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploit Domain-Robust Optical Flow in Domain Adaptive Video Semantic Segmentation. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T08:53:11Z",
+            "owner": "EdenHazardan",
+            "repo": "SFC",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "AAAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-08T01:11:06Z",
+            "owner": "WPC-WHU",
+            "repo": "GROR",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reference-Based Image and Video Super-Resolution via $C{2}$-Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-26T11:18:09Z",
+            "owner": "yumingj",
+            "repo": "C2-Matching",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Point Cloud Registration Framework Based on Deep Graph Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-26T13:52:40Z",
+            "owner": "fukexue",
+            "repo": "RGM",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-19T06:42:24Z",
+            "owner": "HpWang-whu",
+            "repo": "RoReg",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-08T12:13:18Z",
+            "owner": "yaoyx689",
+            "repo": "AMM_NRR",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SC${2}$2-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-21T03:03:54Z",
+            "owner": "ZhiChen902",
+            "repo": "SC2-PCR-plusplus",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formulating Event-Based Image Reconstruction as a Linear Inverse Problem With Deep Regularization Using Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-09T11:35:43Z",
+            "owner": "tub-rip",
+            "repo": "event_based_image_rec_inverse_problem",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-12T13:53:13Z",
+            "owner": "ispc-lab",
+            "repo": "HRegNet2",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "TPAMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A robust and interpretable deep learning framework for multi-modal registration via keypoints. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-11T19:10:33Z",
+            "owner": "alanqrwang",
+            "repo": "keymorph",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WarpPINN: Cine-MR image registration with physics-informed neural networks. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-18T11:48:32Z",
+            "owner": "fsahli",
+            "repo": "WarpPINN",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuSFE: Dual-Channel Squeeze-Fusion-Excitation co-attention for cross-modality registration of cardiac SPECT and CT. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-06T05:30:46Z",
+            "owner": "XiongchaoChen",
+            "repo": "DuSFE_CrossRegistration",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2Net: Efficient and flexible diffeomorphic image registration using Lipschitz continuous residual networks. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-04T04:28:44Z",
+            "owner": "ankitajoshi15",
+            "repo": "R2Net",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "MIA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Denoised Mean Teacher for Domain Adaptive Point Cloud Registration. [PUB",
+          "description": "] CODE []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-30T19:02:19Z",
+            "owner": "uncbiag",
+            "repo": "robot",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-24T13:51:08Z",
+            "owner": "ZAX130",
+            "repo": "SmileCode",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSDiffReg: Feature-Wise and Score-Wise Diffusion-Guided Unsupervised Deformable Image Registration for Cardiac Images. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-15T13:22:52Z",
+            "owner": "xmed-lab",
+            "repo": "FSDiffReg",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-13T08:07:13Z",
+            "owner": "ImFusionGmbH",
+            "repo": "DISA-universal-multimodal-registration",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIViT: Large Deformation Image Registration with Pyramid-Iterative Vision Transformer. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-04T13:59:02Z",
+            "owner": "Torbjorn1997",
+            "repo": "PIViT",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T09:25:07Z",
+            "owner": "wulalago",
+            "repo": "GSMorph",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-Ray to CT Rigid Registration Using Scene Coordinate Regression. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-25T18:08:22Z",
+            "owner": "Pragyanstha",
+            "repo": "SCR-Registration",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-30T06:30:18Z",
+            "owner": "multimodallearning",
+            "repo": "reg-cyclical-self-train",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T17:07:13Z",
+            "owner": "BaochangZhang",
+            "repo": "PSSS_registration",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-17T14:23:55Z",
+            "owner": "RuishengSu",
+            "repo": "AngioMoCo",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCMC-T1: Free-Breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T08:28:55Z",
+            "owner": "eyalhana",
+            "repo": "PCMC-T1",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inverse Consistency by Construction for Multistep Deep Registration. [PUB",
+          "description": "] CODE []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-05T16:42:37Z",
+            "owner": "uncbiag",
+            "repo": "ByConstructionICON",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-04T10:29:50Z",
+            "owner": "SCAN-NRAD",
+            "repo": "CortexMorph",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Reconstruction for Deep Learning PET Head Motion Correction. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-21T15:15:13Z",
+            "owner": "OnofreyLab",
+            "repo": "dl-hmc_fast_recon_miccai2023",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Expected Appearances for Intraoperative Registration During Neurosurgery. [PUB",
+          "description": "] CODE []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-23T22:13:10Z",
+            "owner": "rouge1616",
+            "repo": "ExApp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Unsupervised Multispectral Image Registration Network for Skin Diseases. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-12T16:47:08Z",
+            "owner": "SH-Diao123",
+            "repo": "MSIR",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Co-learning Semantic-Aware Unsupervised Segmentation for Pathological Image Registration. [PUB",
+          "description": "] CODE",
+          "children": []
+        }
+      ],
+      "title": "MICCAI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Geometric Transformer for Fast and Robust Point Cloud Registration. [PUB",
+          "description": "] [CODE] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-22T00:53:02Z",
+            "owner": "qinzheng93",
+            "repo": "GeoTransformer",
+            "stars": 975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMFlow: Learning Optical Flow via Global Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-20T10:48:03Z",
+            "owner": "haofeixu",
+            "repo": "gmflow",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REGTR: End-to-end Point Cloud Correspondences with Transformers. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-29T01:27:57Z",
+            "owner": "yewzijian",
+            "repo": "RegTR",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-29T16:01:09Z",
+            "owner": "MCG-NJU",
+            "repo": "CamLiFlow",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lepard: Learning partial point cloud matching in rigid and deformable scenes. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T07:57:00Z",
+            "owner": "rabbityl",
+            "repo": "lepard",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-20T15:30:18Z",
+            "owner": "ZhiChen902",
+            "repo": "SC2-PCR",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Affine Medical Image Registration with Coarse-to-Fine Vision Transformer. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-02T13:45:28Z",
+            "owner": "cwmok",
+            "repo": "C2FViT",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T01:20:19Z",
+            "owner": "CVI-SZU",
+            "repo": "CLIMS",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Negative-Aware Attention Framework for Image-Text Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-19T08:50:46Z",
+            "owner": "CrossmodalGroup",
+            "repo": "NAAF",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global Matching with Overlapping Attention for Optical Flow Estimation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-06T07:44:51Z",
+            "owner": "xiaofeng94",
+            "repo": "GMFlowNet",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometric Structure Preserving Warp for Natural Image Stitching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-25T08:09:13Z",
+            "owner": "flowerDuo",
+            "repo": "GES-GSP-Stitching",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:08:14Z",
+            "owner": "askerlee",
+            "repo": "craft",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MotionAug: Augmentation with Physical Correction for Human Motion Prediction. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-03-28T10:49:53Z",
+            "owner": "meaten",
+            "repo": "MotionAug-CVPR2022",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Optical Flow with Kernel Patch Attention. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-16T06:52:22Z",
+            "owner": "megvii-research",
+            "repo": "KPAFlow",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-22T03:26:00Z",
+            "owner": "Siwensun",
+            "repo": "Neural_Diffeomorphic_Flow--NDF",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optical Flow Estimation for Spiking Camera. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T08:51:44Z",
+            "owner": "Acnext",
+            "repo": "Optical-Flow-For-Spiking-Camera",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T20:27:16Z",
+            "owner": "yifannnwu",
+            "repo": "NODEO-DIR",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A variational Bayesian method for similarity learning in non-rigid image registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T04:55:38Z",
+            "owner": "dgrzech",
+            "repo": "learnsim",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-04T07:27:59Z",
+            "owner": "uncbiag",
+            "repo": "Aladdin",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coherent Point Drift Revisited for Non-rigid Shape Matching and Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-06-21T13:34:17Z",
+            "owner": "AoxiangFan",
+            "repo": "GeneralizedCoherentPointDrift",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Understanding Adversarial Robustness of Optical Flow Networks. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-29T15:26:07Z",
+            "owner": "lmb-freiburg",
+            "repo": "understanding_flow_robustness",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global-Aware Registration of Less-Overlap RGB-D Scans. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-05T11:15:11Z",
+            "owner": "2120171054",
+            "repo": "Global-Aware-Registration-of-Less-Overlap-RGB-D-Scans",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-09T05:28:09Z",
+            "owner": "Gilgamesh666666",
+            "repo": "Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Registration based Few-Shot Anomaly Detection. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-07T06:38:18Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "RegAD",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-17T06:02:01Z",
+            "owner": "apple",
+            "repo": "ml-aspanformer",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secrets of Event-Based Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-12T22:28:19Z",
+            "owner": "tub-rip",
+            "repo": "event_based_optical_flow",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-20T17:20:22Z",
+            "owner": "zxrzju",
+            "repo": "SuperLine3D",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-02T14:42:01Z",
+            "owner": "DiffuseMorph",
+            "repo": "DiffuseMorph",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFNet: Enhance Absolute Pose Regression with Direct Feature Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-02T02:14:22Z",
+            "owner": "ActiveVisionLab",
+            "repo": "DFNet",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RealFlow: EM-Based Realistic Optical Flow Dataset Generation from Videos. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-05T09:15:17Z",
+            "owner": "megvii-research",
+            "repo": "RealFlow",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generating Natural Images with Direct Patch Distributions Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-23T07:15:50Z",
+            "owner": "ariel415el",
+            "repo": "GPDM",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-03T15:22:13Z",
+            "owner": "ruc-aimc-lab",
+            "repo": "SuperRetina",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCR-CG: Point Cloud Registration via Deep Explicit Color and Geometry. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-28T11:56:37Z",
+            "owner": "Gardlin",
+            "repo": "PCR-CG",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explaining Deepfake Detection by Analysing Image Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-05T05:09:50Z",
+            "owner": "megvii-research",
+            "repo": "FST-Matching",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DG-STFM: 3D Geometric Guided Student-Teacher Feature Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-24T19:24:05Z",
+            "owner": "Ryan-prime",
+            "repo": "3DG-STFM",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-18T21:51:13Z",
+            "owner": "514DNA",
+            "repo": "LLT",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-18T11:20:33Z",
+            "owner": "phdymz",
+            "repo": "PointCLM",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Deep Multi-shape Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-18T04:50:39Z",
+            "owner": "dongliangcao",
+            "repo": "Unsupervised-Deep-Multi-Shape-Matching",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Implicit field supervision for robust non-rigid shape matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-12T14:29:45Z",
+            "owner": "Sentient07",
+            "repo": "IFMatch",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Perturbation-Constrained Adversarial Attack for Evaluating the Robustness of Optical Flow. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-13T14:15:38Z",
+            "owner": "cv-stuttgart",
+            "repo": "PCFA",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-12T09:47:36Z",
+            "owner": "jasongzy",
+            "repo": "CMT",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "ECCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Non-rigid Point Cloud Registration with Neural Deformation Pyramid. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-01T06:26:04Z",
+            "owner": "rabbityl",
+            "repo": "DeformationPyramid",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Optical Flow from Continuous Spike Streams. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-24T08:00:37Z",
+            "owner": "ruizhao26",
+            "repo": "Spike2Flow",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reduced Representation of Deformation Fields for Effective Non-rigid Shape Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-03T07:58:14Z",
+            "owner": "Sentient07",
+            "repo": "DeformationBasis",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "NeurIPS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-13T16:28:31Z",
+            "owner": "Algolzw",
+            "repo": "SPAC-Deformable-Registration",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Optical Flow with Adaptive Graph Reasoning. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-17T08:18:31Z",
+            "owner": "megvii-research",
+            "repo": "AGFlow",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reliable Inlier Evaluation for Unsupervised Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-24T06:49:22Z",
+            "owner": "supersyq",
+            "repo": "RIENet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-17T08:17:29Z",
+            "owner": "MegEngine",
+            "repo": "FINet",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeTarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-21T09:32:39Z",
+            "owner": "ZhiChen902",
+            "repo": "DetarNet",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through Pseudo-Supervision from Synthetic Optical Flow. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-17T19:40:04Z",
+            "owner": "wangkaihong",
+            "repo": "Unsup_Recycle_GAN",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "AAAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Light-Weight Deformable Registration Using Adversarial Learning With Distilling Knowledge. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T07:10:32Z",
+            "owner": "aioz-ai",
+            "repo": "LDR_ALDK",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recurrent Tissue-Aware Network for Deformable Registration of Infant Brain MR Images. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:33:43Z",
+            "owner": "Barnonewdm",
+            "repo": "RTA-Net",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "TMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cross-modal attention for multi-modal image registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-06T00:01:17Z",
+            "owner": "DIAL-RPI",
+            "repo": "Attention-Reg",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCPM-Net: An anchor-free 3D lung nodule detection network using sphere representation and center points matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-12T13:28:11Z",
+            "owner": "HiLab-git",
+            "repo": "SCPM-Net",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-01T08:50:36Z",
+            "owner": "acasamitjana",
+            "repo": "3dhirest",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual-stream pyramid registration network. [PUB",
+          "description": "] [Unofficial code] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-27T04:38:37Z",
+            "owner": "JinxLv",
+            "repo": "reimplemention-of-Dual-PRNet",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "MIA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-19T11:47:12Z",
+            "owner": "cwmok",
+            "repo": "DIRAC",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Non-iterative Coarse-to-Fine Registration Based on Single-Pass Deep Cumulative Learning. [PUB",
+          "description": "] CODE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-14T15:22:08Z",
+            "owner": "MungoMeng",
+            "repo": "Registration-NICE-Trans",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-08T09:27:12Z",
+            "owner": "imedslab",
+            "repo": "AdaTriplet",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adapting the Mean Teacher for Keypoint-Based Lung Registration Under Geometric Domain Shifts. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T10:36:55Z",
+            "owner": "multimodallearning",
+            "repo": "registration-da-mean-teacher",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP-Net: Inter-frame Motion Correction with Patlak Regularization for Whole-body Dynamic PET. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-09T14:08:34Z",
+            "owner": "gxq1998",
+            "repo": "MCP-Net.",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Deep Learning for Head Motion Correction in PET. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-22T01:47:49Z",
+            "owner": "OnofreyLab",
+            "repo": "dl-hmc_miccai2022",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "MICCAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-19T06:38:41Z",
+            "owner": "HpWang-whu",
+            "repo": "YOHO",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthesizing Counterfactual Samples for Effective Image-Text Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-01T02:33:53Z",
+            "owner": "weihao20",
+            "repo": "cfm",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "MM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PREDATOR: Registration of 3D Point Clouds with Low Overlap. [PUB",
+          "description": "] [code-pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T10:39:38Z",
+            "owner": "prs-eth",
+            "repo": "OverlapPredator",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. [PUB",
+          "description": "] [code-pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-04T08:10:30Z",
+            "owner": "QingyongHu",
+            "repo": "SpinNet",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepI2P: Image-to-Point Cloud Registration via Deep Classification. [PUB",
+          "description": "] [CODE] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-01T02:43:10Z",
+            "owner": "lijx10",
+            "repo": "DeepI2P",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leveraging Line-Point Consistence To Preserve Structures for Wide Parallax Image Stitching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-24T08:59:51Z",
+            "owner": "dut-media-lab",
+            "repo": "Image-Stitching",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointNetLK Revisited. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-13T21:44:35Z",
+            "owner": "Lilac-Lee",
+            "repo": "PointNetLK_Revisited",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "High-Resolution Optical Flow from 1D Attention and Correlation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-15T01:46:11Z",
+            "owner": "haofeixu",
+            "repo": "flow1d",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-29T01:16:53Z",
+            "owner": "MegEngine",
+            "repo": "GyroFlow",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-06-22T05:17:23Z",
+            "owner": "ChirikjianLab",
+            "repo": "LSG-CPD",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-06T16:24:50Z",
+            "owner": "MegEngine",
+            "repo": "OMNet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MosaicOS: A Simple and Effective Use of Object-Centric Images for Long-Tailed Object Detection. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-25T18:42:49Z",
+            "owner": "czhang0528",
+            "repo": "MosaicOS",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Self-Stitching Graph Network for Temporal Action Localization. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-06T14:34:34Z",
+            "owner": "coolbay",
+            "repo": "VSGN",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-11T20:25:46Z",
+            "owner": "Jiang-HB",
+            "repo": "CEMNet",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Interactive Representation for Point Cloud Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-04T02:48:23Z",
+            "owner": "Ghostish",
+            "repo": "BAT",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "ICCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image Matching Across Wide Baselines: From Paper to Practice. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-13T21:04:39Z",
+            "owner": "ubc-vision",
+            "repo": "image-matching-benchmark",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual-view Snapshot Compressive Imaging via Optical Flow Aided Recurrent Neural Network. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-23T13:16:58Z",
+            "owner": "RuiyingLu",
+            "repo": "OFaNet-for-Dual-view-SCI",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "IJCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GraphRegNet: Deep Graph Regularisation Networks on Sparse Keypoints for Dense Registration of 3D Lung CTs. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-08-19T07:10:16Z",
+            "owner": "multimodallearning",
+            "repo": "graphregnet",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDPET: A Unified Motion Correction and Denoising Adversarial Network for Low-Dose Gated PET. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-27T22:13:35Z",
+            "owner": "bbbbbbzhou",
+            "repo": "MDPET",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncertainty-Aware Annotation Protocol to Evaluate Deformable Registration Algorithms. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-05T20:46:06Z",
+            "owner": "LoicPeter",
+            "repo": "evaluation-deformable-registration",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "TMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Conditional Deformable Image Registration with Convolutional Neural Network. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T03:12:48Z",
+            "owner": "cwmok",
+            "repo": "Conditional_LapIRN",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross-modal Attention for MRI and Ultrasound Volume Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-06T00:01:17Z",
+            "owner": "DIAL-RPI",
+            "repo": "Attention-Reg",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-05T21:05:01Z",
+            "owner": "liuquande",
+            "repo": "FedIRM",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "End-to-end Ultrasound Frame to Volume Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-08T03:32:12Z",
+            "owner": "DIAL-RPI",
+            "repo": "FVR-Net",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-view analysis of unregistered medical images using cross-view transformers. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-22T20:19:37Z",
+            "owner": "gvtulder",
+            "repo": "cross-view-transformers",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Unsupervised Parameter-specific Affine Transformation for Medical Images Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-04T14:52:40Z",
+            "owner": "xuuuuuuchen",
+            "repo": "PASTA",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Deep Discontinuity-Preserving Image Registration Network. [PUB",
+          "description": "] CODE []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-07T22:42:41Z",
+            "owner": "ccmim",
+            "repo": "DDIR",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting iterative highly efficient optimisation schemes in medical image registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-09T14:50:34Z",
+            "owner": "multimodallearning",
+            "repo": "iter_lbp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Deep Network for Joint Registration and Parcellation of Cortical Surfaces. [PUB",
+          "description": "] CODE []",
+          "children": []
+        }
+      ],
+      "title": "MICCAI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning multiview 3D point cloud registration. [PUB",
+          "description": "] [CODE] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-22T14:25:49Z",
+            "owner": "zgojcic",
+            "repo": "3D_multiview_reg",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SampleNet: Differentiable Point Cloud Sampling. [PUB",
+          "description": "] [CODE] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-25T06:04:11Z",
+            "owner": "itailang",
+            "repo": "SampleNet",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Structured Network for Image-Text Matching. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-12T07:42:21Z",
+            "owner": "CrossmodalGroup",
+            "repo": "GSMN",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-26T07:52:27Z",
+            "owner": "XiaoshuiHuang",
+            "repo": "fmr",
+            "stars": 158
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-22T16:53:14Z",
+            "owner": "NVlabs",
+            "repo": "PWC-Net",
+            "stars": 1733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2020-07-03T07:15:41Z",
+            "owner": "tudelft",
+            "repo": "cuSNN",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "TPAMI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anatomical Data Augmentation via Fluid-Based Image Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-08T17:04:26Z",
+            "owner": "uncbiag",
+            "repo": "easyreg",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-16T19:06:31Z",
+            "owner": "gaocong13",
+            "repo": "Projective-Spatial-Transformers",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Based Registration Using Spatial Gradients and Noisy Segmentation Labels. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-06T20:16:27Z",
+            "owner": "TheoEst",
+            "repo": "abdominal_registration",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Highly Accurate and Memory Efficient Unsupervised Learning-Based Discrete CT Registration Using 2.5D Displacement Search. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-08T10:34:44Z",
+            "owner": "multimodallearning",
+            "repo": "pdd2.5",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning a Deformable Registration Pyramid. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-01T07:49:53Z",
+            "owner": "ngunnar",
+            "repo": "learning-a-deformable-registration-pyramid",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "MICCAI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PointNetLK: Point Cloud Registration using PointNet. [PUB",
+          "description": "] [code-pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-23T05:03:11Z",
+            "owner": "hmgoforth",
+            "repo": "PointNetLK",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [PUB",
+          "description": "] [code-pytorch] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-23T05:03:11Z",
+            "owner": "hmgoforth",
+            "repo": "PointNetLK",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-23T05:03:11Z",
+            "owner": "hmgoforth",
+            "repo": "PointNetLK",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. [PUB",
+          "description": "] [matlab] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-06-28T00:58:19Z",
+            "owner": "intellhave",
+            "repo": "SDRSAC",
+            "stars": 116
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Efficient Learning on Point Clouds with Basis Point Sets. [PUB",
+          "description": "] [CODE] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-01T10:36:30Z",
+            "owner": "sergeyprokudin",
+            "repo": "bps",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recursive Cascaded Networks for Unsupervised Medical Image Registration. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-02T16:48:29Z",
+            "owner": "zsyzzsoft",
+            "repo": "Recursive-Cascaded-Networks",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "ICCV"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-17T09:11:50Z",
+            "owner": "kevin-ssy",
+            "repo": "Optical-Flow-Guided-Feature",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Density Adaptive Point Set Registration. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-27T22:04:27Z",
+            "owner": "felja633",
+            "repo": "DARE",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. [PUB",
+          "description": "] [code-tensorflow] [] :fire:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-04T07:22:32Z",
+            "owner": "yewzijian",
+            "repo": "3DFeatNet",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conditional Prior Networks for Optical Flow. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-15T01:52:09Z",
+            "owner": "YanchaoYang",
+            "repo": "Conditional-Prior-Networks",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "ECCV"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [PUB",
+          "description": "] [CODE] [] [] :fire: :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-14T03:38:57Z",
+            "owner": "andyzeng",
+            "repo": "3dmatch-toolbox",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [PUB",
+          "description": "] [CODE] []",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-18T12:17:57Z",
+            "owner": "gilbaz",
+            "repo": "LORAX",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2016"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2015"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2014"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2013"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2012"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2011"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2010"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2009"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2008"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2007"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2006"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2005"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2004"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2003"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2002"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2001"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2000"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:22.660Z",
+    "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
+    "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
+    "enhanced_repository": "enhansome/enhansome-image-registration",
+    "enhanced_repository_description": null,
+    "title": "Awesome Image Registration with stars"
+  }
+}
