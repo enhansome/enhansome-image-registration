@@ -65,13 +65,13 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2025/09/21* - update recent papers
 
-*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) ⭐ 252 | 🐛 0 | 📅 2026-07-20
+*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) ⭐ 253 | 🐛 0 | 📅 2026-07-20
 
 *2024/12/03* - update recent papers
 
 *2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
-*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,937 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,936 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -162,7 +162,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 665 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
+* MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 666 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
 * DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 547 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 * Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 494 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
 * Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)] \[[CODE](https://github.com/Yore0/TTDG-MGM) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2025-06-15]
@@ -505,7 +505,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 683 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
-* PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 90 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
+* PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
 * PointRegGPT: Boosting 3D Point Cloud Registration Using Generative Point-Cloud Pairs for Training. \[[PUB](https://doi.org/10.1007/978-3-031-72983-6_16)] \[[CODE](https://github.com/Chen-Suyi/PointRegGPT) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-02-24]
 * BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
@@ -1534,7 +1534,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2894353)] \[[CODE](https://github.com/NVlabs/PWC-Net) ⭐ 1,733 | 🐛 63 | 🌐 Python | 📅 2022-08-22]
+* Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2894353)] \[[CODE](https://github.com/NVlabs/PWC-Net) ⭐ 1,734 | 🐛 63 | 🌐 Python | 📅 2022-08-22]
 * Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2903179)] \[[CODE](https://github.com/tudelft/cuSNN) ⭐ 137 | 🐛 2 | 🌐 Cuda | 📅 2020-07-03]
 * Aggregated Wasserstein Distance and State Registration for Hidden Markov Models. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2908635)]
 * Distance Surface for Event-Based Optical Flow. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2986748)] \[**`oth.`**]
@@ -1628,9 +1628,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* PointNetLK: Point Cloud Registration using PointNet. \[[PUB](https://arxiv.org/abs/1903.05711)] \[[code-pytorch](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23] \[**`pc.`**] :fire:
-* PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. \[[PUB](https://arxiv.org/abs/1903.05711)] \[[code-pytorch](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23] \[**`pc.`**] :fire:
-* PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/html/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.html)] \[[CODE](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23]
+* PointNetLK: Point Cloud Registration using PointNet. \[[PUB](https://arxiv.org/abs/1903.05711)] \[[code-pytorch](https://github.com/hmgoforth/PointNetLK) ⭐ 491 | 🐛 14 | 🌐 Python | 📅 2019-06-23] \[**`pc.`**] :fire:
+* PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. \[[PUB](https://arxiv.org/abs/1903.05711)] \[[code-pytorch](https://github.com/hmgoforth/PointNetLK) ⭐ 491 | 🐛 14 | 🌐 Python | 📅 2019-06-23] \[**`pc.`**] :fire:
+* PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/html/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.html)] \[[CODE](https://github.com/hmgoforth/PointNetLK) ⭐ 491 | 🐛 14 | 🌐 Python | 📅 2019-06-23]
 * SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. \[[PUB](https://arxiv.org/abs/1904.03483)] \[[matlab](https://github.com/intellhave/SDRSAC) ⭐ 116 | 🐛 7 | 🌐 MATLAB | 📅 2019-06-28] \[**`pc.`**]
 * 3D Local Features for Direct Pairwise Registration. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] \[**`pc.`**]
 * Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2019/html/Lai_Bridging_Stereo_Matching_and_Optical_Flow_via_Spatiotemporal_Correspondence_CVPR_2019_paper.html)]
@@ -1723,7 +1723,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Real-Time Deep Pose Estimation With Geodesic Loss for Image-to-Template Rigid Registration. \[[PUB](https://doi.org/10.1109/TMI.2018.2866442)]
 * RetinaMatch: Efficient Template Matching of Retina Images for Teleophthalmology. \[[PUB](https://doi.org/10.1109/TMI.2019.2923466)]
 * Robust Optical Flow Estimation in Cardiac Ultrasound Images Using a Sparse Representation. \[[PUB](https://doi.org/10.1109/TMI.2018.2870947)]
-* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,746 | 🐛 156 | 🌐 Python | 📅 2026-07-27]
+* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,747 | 🐛 156 | 🌐 Python | 📅 2026-07-27]
 
 ### MIA
 
@@ -1823,7 +1823,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### CVPR
 
 * Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Sun_Optical_Flow_Guided_CVPR_2018_paper.html)] \[[CODE](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ⭐ 201 | 🐛 0 | 🌐 C++ | 📅 2019-05-17]
-* Density Adaptive Point Set Registration. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf)] \[[CODE](https://github.com/felja633/DARE) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2021-11-27] \[**`pc.`**]
+* Density Adaptive Point Set Registration. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf)] \[[CODE](https://github.com/felja633/DARE) ⭐ 68 | 🐛 5 | 🌐 Python | 📅 2021-11-27] \[**`pc.`**]
 * 3D Registration of Curves and Surfaces Using Local Differential Information. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Raposo_3D_Registration_of_CVPR_2018_paper.html)]
 * A Unifying Contrast Maximization Framework for Event Cameras, With Applications to Motion, Depth, and Optical Flow Estimation. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Gallego_A_Unifying_Contrast_CVPR_2018_paper.html)] \[**`oth.`**]
 * An Unsupervised Learning Model for Deformable Medical Image Registration. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html)]
@@ -1843,7 +1843,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-030-01267-0_37)] \[[code-tensorflow](https://github.com/yewzijian/3DFeatNet) ⭐ 222 | 🐛 1 | 🌐 Python | 📅 2019-07-04] \[**`pc.`**] :fire:
+* 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-030-01267-0_37)] \[[code-tensorflow](https://github.com/yewzijian/3DFeatNet) ⭐ 221 | 🐛 1 | 🌐 Python | 📅 2019-07-04] \[**`pc.`**] :fire:
 * Conditional Prior Networks for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-030-01267-0_17)] \[[CODE](https://github.com/YanchaoYang/Conditional-Prior-Networks) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2019-07-15]
 * Contextual-Based Image Inpainting: Infer, Match, and Translate. \[[PUB](https://doi.org/10.1007/978-3-030-01216-8_1)] \[**`dep.`**]
 * Deep Cross-Modal Projection Learning for Image-Text Matching. \[[PUB](https://doi.org/10.1007/978-3-030-01246-5_42)]
@@ -1970,8 +1970,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] \[[CODE](https://github.com/andyzeng/3dmatch-toolbox) ⭐ 906 | 🐛 23 | 🌐 C++ | 📅 2025-10-14] \[**`pc.`**] \[**`data.`**] :fire: :star:
-* 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. \[[PUB](https://doi.org/10.1109/CVPR.2017.265)] \[[CODE](https://github.com/gilbaz/LORAX) ⭐ 91 | 🐛 9 | 🌐 Python | 📅 2019-04-18] \[**`pc.`**]
+* 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] \[[CODE](https://github.com/andyzeng/3dmatch-toolbox) ⭐ 904 | 🐛 23 | 🌐 C++ | 📅 2025-10-14] \[**`pc.`**] \[**`data.`**] :fire: :star:
+* 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. \[[PUB](https://doi.org/10.1109/CVPR.2017.265)] \[[CODE](https://github.com/gilbaz/LORAX) ⭐ 89 | 🐛 9 | 🌐 Python | 📅 2019-04-18] \[**`pc.`**]
 * A Combinatorial Solution to Non-Rigid 3D Shape-to-Image Matching. \[[PUB](https://doi.org/10.1109/CVPR.2017.157)] \[**`oth.`**]
 * A General Framework for Curve and Surface Comparison and Registration with Oriented Varifolds. \[[PUB](https://doi.org/10.1109/CVPR.2017.487)]
 * Accurate Optical Flow via Direct Cost Volume Processing. \[[PUB](https://doi.org/10.1109/CVPR.2017.615)] \[**`oth.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

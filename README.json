@@ -172,7 +172,7 @@
             "last_commit": "2025-10-09T14:07:00Z",
             "owner": "LSXI7",
             "repo": "MINIMA",
-            "stars": 665
+            "stars": 666
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "last_commit": "2024-08-14T14:25:42Z",
             "owner": "yaorz97",
             "repo": "PARENet",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -4153,7 +4153,7 @@
             "last_commit": "2022-08-22T16:53:14Z",
             "owner": "NVlabs",
             "repo": "PWC-Net",
-            "stars": 1733
+            "stars": 1734
           }
         },
         {
@@ -4268,7 +4268,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -4282,7 +4282,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -4296,7 +4296,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -4383,7 +4383,7 @@
             "last_commit": "2021-11-27T22:04:27Z",
             "owner": "felja633",
             "repo": "DARE",
-            "stars": 69
+            "stars": 68
           }
         }
       ],
@@ -4403,7 +4403,7 @@
             "last_commit": "2019-07-04T07:22:32Z",
             "owner": "yewzijian",
             "repo": "3DFeatNet",
-            "stars": 222
+            "stars": 221
           }
         },
         {
@@ -4442,7 +4442,7 @@
             "last_commit": "2025-10-14T03:38:57Z",
             "owner": "andyzeng",
             "repo": "3dmatch-toolbox",
-            "stars": 906
+            "stars": 904
           }
         },
         {
@@ -4456,7 +4456,7 @@
             "last_commit": "2019-04-18T12:17:57Z",
             "owner": "gilbaz",
             "repo": "LORAX",
-            "stars": 91
+            "stars": 89
           }
         }
       ],
@@ -4549,7 +4549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:52:41.712Z",
+    "last_updated": "2026-08-14T06:49:53.379Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
     "enhanced_repository": "enhansome/enhansome-image-registration",
