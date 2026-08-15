@@ -1193,7 +1193,7 @@
             "last_commit": "2026-03-26T15:55:20Z",
             "owner": "princeton-vl",
             "repo": "SEA-RAFT",
-            "stars": 683
+            "stars": 684
           }
         },
         {
@@ -1950,7 +1950,7 @@
             "last_commit": "2025-04-07T12:20:12Z",
             "owner": "cvg",
             "repo": "GlueStick",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -2268,7 +2268,7 @@
             "last_commit": "2023-11-12T16:52:03Z",
             "owner": "MengLi-l1",
             "repo": "StrokeExtraction",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -2496,7 +2496,7 @@
             "last_commit": "2022-05-30T19:02:19Z",
             "owner": "uncbiag",
             "repo": "robot",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -2849,7 +2849,7 @@
             "last_commit": "2023-06-19T08:50:46Z",
             "owner": "CrossmodalGroup",
             "repo": "NAAF",
-            "stars": 119
+            "stars": 118
           }
         },
         {
@@ -3093,7 +3093,7 @@
             "last_commit": "2025-03-12T22:28:19Z",
             "owner": "tub-rip",
             "repo": "event_based_optical_flow",
-            "stars": 198
+            "stars": 197
           }
         },
         {
@@ -3880,7 +3880,7 @@
             "last_commit": "2024-05-13T21:04:39Z",
             "owner": "ubc-vision",
             "repo": "image-matching-benchmark",
-            "stars": 549
+            "stars": 548
           }
         },
         {
@@ -4119,7 +4119,7 @@
             "last_commit": "2020-10-12T07:42:21Z",
             "owner": "CrossmodalGroup",
             "repo": "GSMN",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -4403,7 +4403,7 @@
             "last_commit": "2019-07-04T07:22:32Z",
             "owner": "yewzijian",
             "repo": "3DFeatNet",
-            "stars": 221
+            "stars": 220
           }
         },
         {
@@ -4549,7 +4549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:49:53.379Z",
+    "last_updated": "2026-08-15T05:47:09.300Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
     "enhanced_repository": "enhansome/enhansome-image-registration",
