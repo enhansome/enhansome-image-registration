@@ -172,7 +172,7 @@
             "last_commit": "2025-10-09T14:07:00Z",
             "owner": "LSXI7",
             "repo": "MINIMA",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-21T00:19:24Z",
             "owner": "hmorimitsu",
             "repo": "ptlflow",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-09-28T11:15:13Z",
             "owner": "opendatalab",
             "repo": "UniMERNet",
-            "stars": 494
+            "stars": 495
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-07-14T03:16:58Z",
             "owner": "MIT-SPARK",
             "repo": "BUFFER-X",
-            "stars": 278
+            "stars": 279
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2025-12-11T21:26:27Z",
             "owner": "msu-video-group",
             "repo": "memfof",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -695,6 +695,20 @@
         },
         {
           "node_type": "item",
+          "title": "Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T14:27:18Z",
+            "owner": "ShumengLI",
+            "repo": "SFR",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
           "title": "UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. [PUB",
           "description": "] [CODE]",
           "children": [],
@@ -705,20 +719,6 @@
             "owner": "Runshi-Zhang",
             "repo": "UTSRMorph",
             "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. [PUB",
-          "description": "] [CODE]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-22T14:27:18Z",
-            "owner": "ShumengLI",
-            "repo": "SFR",
-            "stars": 21
           }
         },
         {
@@ -1193,7 +1193,7 @@
             "last_commit": "2026-03-26T15:55:20Z",
             "owner": "princeton-vl",
             "repo": "SEA-RAFT",
-            "stars": 685
+            "stars": 686
           }
         },
         {
@@ -1950,7 +1950,7 @@
             "last_commit": "2025-04-07T12:20:12Z",
             "owner": "cvg",
             "repo": "GlueStick",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -2765,7 +2765,7 @@
             "last_commit": "2023-10-29T01:27:57Z",
             "owner": "yewzijian",
             "repo": "RegTR",
-            "stars": 270
+            "stars": 271
           }
         },
         {
@@ -4153,7 +4153,7 @@
             "last_commit": "2022-08-22T16:53:14Z",
             "owner": "NVlabs",
             "repo": "PWC-Net",
-            "stars": 1734
+            "stars": 1735
           }
         },
         {
@@ -4268,7 +4268,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -4282,7 +4282,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -4296,7 +4296,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -4549,7 +4549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:56:00.741Z",
+    "last_updated": "2026-08-18T05:51:43.331Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
     "enhanced_repository": "enhansome/enhansome-image-registration",
