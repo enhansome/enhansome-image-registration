@@ -718,7 +718,7 @@
             "last_commit": "2025-08-22T06:06:12Z",
             "owner": "Runshi-Zhang",
             "repo": "UTSRMorph",
-            "stars": 22
+            "stars": 21
           }
         },
         {
@@ -1193,7 +1193,7 @@
             "last_commit": "2026-03-26T15:55:20Z",
             "owner": "princeton-vl",
             "repo": "SEA-RAFT",
-            "stars": 686
+            "stars": 688
           }
         },
         {
@@ -2316,7 +2316,7 @@
             "last_commit": "2024-05-08T01:11:06Z",
             "owner": "WPC-WHU",
             "repo": "GROR",
-            "stars": 233
+            "stars": 232
           }
         },
         {
@@ -2372,7 +2372,7 @@
             "last_commit": "2022-06-08T12:13:18Z",
             "owner": "yaoyx689",
             "repo": "AMM_NRR",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -2751,7 +2751,7 @@
             "last_commit": "2024-02-20T10:48:03Z",
             "owner": "haofeixu",
             "repo": "gmflow",
-            "stars": 799
+            "stars": 798
           }
         },
         {
@@ -2980,20 +2980,6 @@
         },
         {
           "node_type": "item",
-          "title": "Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. [PUB",
-          "description": "] [CODE]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-04T07:27:59Z",
-            "owner": "uncbiag",
-            "repo": "Aladdin",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Coherent Point Drift Revisited for Non-rigid Shape Matching and Registration. [PUB",
           "description": "] [CODE]",
           "children": [],
@@ -3003,6 +2989,20 @@
             "last_commit": "2022-06-21T13:34:17Z",
             "owner": "AoxiangFan",
             "repo": "GeneralizedCoherentPointDrift",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. [PUB",
+          "description": "] [CODE]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-04T07:27:59Z",
+            "owner": "uncbiag",
+            "repo": "Aladdin",
             "stars": 18
           }
         },
@@ -4153,7 +4153,7 @@
             "last_commit": "2022-08-22T16:53:14Z",
             "owner": "NVlabs",
             "repo": "PWC-Net",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -4549,7 +4549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:51:43.331Z",
+    "last_updated": "2026-08-19T05:52:56.925Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
     "enhanced_repository": "enhansome/enhansome-image-registration",

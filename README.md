@@ -2,13 +2,13 @@
 
 A curated list of image registration related books, papers, videos, and toolboxes
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23
+[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
 
 [**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
 It is used in computer vision, medical imaging, military automatic target recognition, compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from different measurements.
 
-We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 11 | 🌐 Python | 📅 2026-08-07 if you need it.
+We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 12 | 🌐 Python | 📅 2026-08-19 if you need it.
 
 Please note that if this page does not display the full content, please visit the [official homepage](https://awesome-image-registration-organization.github.io/awesome-image-registration/) for full information.
 
@@ -61,7 +61,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *Last updated: 2026/05/21*
 
-*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 11 | 🌐 Python | 📅 2026-08-07, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
+*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 12 | 🌐 Python | 📅 2026-08-19, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
 
 *2025/09/21* - update recent papers
 
@@ -79,7 +79,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
-*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,293 | 🐛 1 | 📅 2023-11-01.
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,292 | 🐛 1 | 📅 2023-11-01.
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
@@ -320,7 +320,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. \[[PUB](https://doi.org/10.1109/TMI.2025.3574198)] \[[CODE](https://github.com/junzastar/Self-P2IR) ⭐ 33 | 🐛 8 | 🌐 Python | 📅 2025-12-04]
 * Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
 * Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. \[[PUB](https://doi.org/10.1109/TMI.2025.3532084)] \[[CODE](https://github.com/ShumengLI/SFR) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2024-10-22]
-* UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3467919)] \[[CODE](https://github.com/Runshi-Zhang/UTSRMorph) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2025-08-22]
+* UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3467919)] \[[CODE](https://github.com/Runshi-Zhang/UTSRMorph) ⭐ 21 | 🐛 7 | 🌐 Python | 📅 2025-08-22]
 * OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. \[[PUB](https://doi.org/10.1109/TMI.2024.3437295)] \[[CODE](https://github.com/boahK/OTMorph) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2024-12-25]
 * Feedback Attention to Enhance Unsupervised Deep Learning Image Registration in 3D Echocardiography. \[[PUB](https://doi.org/10.1109/TMI.2025.3530501)] \[[CODE](https://github.com/kamruleee51/Feedback_DLIR) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-12-04]
 * Toward Semantically-Consistent Deformable 2D-3D Registration for 3D Craniofacial Structure Estimation From a Single-View Lateral Cephalometric Radiograph. \[[PUB](https://doi.org/10.1109/TMI.2024.3456251)] \[[CODE](https://github.com/Jyk-122/SC-DREG) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-09-17]
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 686 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 688 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -829,11 +829,11 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2022.3226498)] \[[CODE](https://github.com/WPC-WHU/GROR) ⭐ 233 | 🐛 5 | 🌐 C++ | 📅 2024-05-08] \[**`pc.`**]
+* A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2022.3226498)] \[[CODE](https://github.com/WPC-WHU/GROR) ⭐ 232 | 🐛 5 | 🌐 C++ | 📅 2024-05-08] \[**`pc.`**]
 * Reference-Based Image and Video Super-Resolution via $C{2}$-Matching. \[[PUB](https://doi.org/10.1109/TPAMI.2022.3231089)] \[[CODE](https://github.com/yumingj/C2-Matching) ⭐ 223 | 🐛 21 | 🌐 Python | 📅 2024-02-26] \[**`data.`**]
 * Robust Point Cloud Registration Framework Based on Deep Graph Matching. \[[PUB](https://arxiv.org/abs/2103.04256)] \[[CODE](https://github.com/fukexue/RGM) ⭐ 148 | 🐛 10 | 🌐 Python | 📅 2021-06-26] \[**`pc.`**]
 * RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3244951)] \[[CODE](https://github.com/HpWang-whu/RoReg) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2024-02-19] \[**`pc.`**]
-* Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3247603)] \[[CODE](https://github.com/yaoyx689/AMM_NRR) ⭐ 69 | 🐛 1 | 🌐 C++ | 📅 2022-06-08] \[**`pc.`**]
+* Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3247603)] \[[CODE](https://github.com/yaoyx689/AMM_NRR) ⭐ 70 | 🐛 1 | 🌐 C++ | 📅 2022-06-08] \[**`pc.`**]
 * SC${2}$2-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3272557)] \[[CODE](https://github.com/ZhiChen902/SC2-PCR-plusplus) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2023-12-21] \[**`pc.`**]
 * Formulating Event-Based Image Reconstruction as a Linear Inverse Problem With Deep Regularization Using Optical Flow. \[[PUB](https://doi.org/10.1109/TPAMI.2022.3230727)] \[[CODE](https://github.com/tub-rip/event_based_image_rec_inverse_problem) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2024-11-09]
 * HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3284896)] \[[CODE](https://github.com/ispc-lab/HRegNet2) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2022-01-12] \[**`pc.`**]
@@ -983,7 +983,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### CVPR
 
 * Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 975 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
-* GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 799 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
+* GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 798 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
 * REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 253 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
 * Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 240 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
@@ -1000,8 +1000,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Optical Flow Estimation for Spiking Camera. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01732)] \[[CODE](https://github.com/Acnext/Optical-Flow-For-Spiking-Camera) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2023-06-26]
 * NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.02014)] \[[CODE](https://github.com/yifannnwu/NODEO-DIR) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2024-02-03]
 * A variational Bayesian method for similarity learning in non-rigid image registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00022)] \[[CODE](https://github.com/dgrzech/learnsim) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-08-08]
+* Coherent Point Drift Revisited for Non-rigid Shape Matching and Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00148)] \[[CODE](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift) ⭐ 19 | 🐛 0 | 🌐 MATLAB | 📅 2022-06-21]
 * Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.02012)] \[[CODE](https://github.com/uncbiag/Aladdin) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2022-07-04]
-* Coherent Point Drift Revisited for Non-rigid Shape Matching and Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00148)] \[[CODE](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift) ⭐ 18 | 🐛 0 | 🌐 MATLAB | 📅 2022-06-21]
 * Towards Understanding Adversarial Robustness of Optical Flow Networks. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00871)] \[[CODE](https://github.com/lmb-freiburg/understanding_flow_robustness) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-05-29]
 * Global-Aware Registration of Less-Overlap RGB-D Scans. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00625)] \[[CODE](https://github.com/2120171054/Global-Aware-Registration-of-Less-Overlap-RGB-D-Scans) ⭐ 3 | 🐛 1 | 📅 2022-03-05]
 * Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00655)] \[[CODE](https://github.com/Gilgamesh666666/Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2022-08-09] \[**`pc.`**]
@@ -1534,7 +1534,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2894353)] \[[CODE](https://github.com/NVlabs/PWC-Net) ⭐ 1,735 | 🐛 63 | 🌐 Python | 📅 2022-08-22]
+* Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2894353)] \[[CODE](https://github.com/NVlabs/PWC-Net) ⭐ 1,736 | 🐛 63 | 🌐 Python | 📅 2022-08-22]
 * Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2903179)] \[[CODE](https://github.com/tudelft/cuSNN) ⭐ 137 | 🐛 2 | 🌐 Cuda | 📅 2020-07-03]
 * Aggregated Wasserstein Distance and State Registration for Hidden Markov Models. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2908635)]
 * Distance Surface for Event-Based Optical Flow. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2986748)] \[**`oth.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
