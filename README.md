@@ -316,7 +316,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### TMI
 
 * ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3462248)] \[[CODE](http://github.com/multimodallearning/convexAdam) ⭐ 90 | 🐛 6 | 🌐 Python | 📅 2025-11-17]
-* DINO-Reg: Efficient Multimodal Image Registration With Distilled Features. \[[PUB](https://doi.org/10.1109/TMI.2025.3567247)] \[[CODE](https://github.com/RPIDIAL/DINO-Reg) ⭐ 65 | 🐛 4 | 🌐 Python | 📅 2025-03-21]
+* DINO-Reg: Efficient Multimodal Image Registration With Distilled Features. \[[PUB](https://doi.org/10.1109/TMI.2025.3567247)] \[[CODE](https://github.com/RPIDIAL/DINO-Reg) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2025-03-21]
 * Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. \[[PUB](https://doi.org/10.1109/TMI.2025.3574198)] \[[CODE](https://github.com/junzastar/Self-P2IR) ⭐ 33 | 🐛 8 | 🌐 Python | 📅 2025-12-04]
 * Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
 * Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. \[[PUB](https://doi.org/10.1109/TMI.2025.3532084)] \[[CODE](https://github.com/ShumengLI/SFR) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2024-10-22]
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 688 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 690 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -876,7 +876,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### MIA
 
 * A robust and interpretable deep learning framework for multi-modal registration via keypoints. \[[PUB](https://doi.org/10.1016/j.media.2023.102962)] \[[CODE](https://github.com/alanqrwang/keymorph) ⭐ 95 | 🐛 9 | 🌐 Python | 📅 2024-08-11]
-* WarpPINN: Cine-MR image registration with physics-informed neural networks. \[[PUB](https://doi.org/10.1016/j.media.2023.102925)] \[[CODE](https://github.com/fsahli/WarpPINN) ⭐ 20 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-18]
+* WarpPINN: Cine-MR image registration with physics-informed neural networks. \[[PUB](https://doi.org/10.1016/j.media.2023.102925)] \[[CODE](https://github.com/fsahli/WarpPINN) ⭐ 21 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-18]
 * DuSFE: Dual-Channel Squeeze-Fusion-Excitation co-attention for cross-modality registration of cardiac SPECT and CT. \[[PUB](https://doi.org/10.1016/j.media.2023.102840)] \[[CODE](https://github.com/XiongchaoChen/DuSFE_CrossRegistration) ⭐ 19 | 🐛 6 | 🌐 Python | 📅 2024-04-06]
 * R2Net: Efficient and flexible diffeomorphic image registration using Lipschitz continuous residual networks. \[[PUB](https://doi.org/10.1016/j.media.2023.102917)] \[[CODE](https://github.com/ankitajoshi15/R2Net) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-08-04]
 * AMNet: Adaptive multi-level network for deformable registration of 3D brain MR images. \[[PUB](https://doi.org/10.1016/j.media.2023.102740)]
@@ -986,7 +986,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 798 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
 * REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 253 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
-* Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 240 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
+* Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 239 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
 * SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01287)] \[[CODE](https://github.com/ZhiChen902/SC2-PCR) ⭐ 199 | 🐛 3 | 🌐 Python | 📅 2023-12-20] \[**`pc.`**]
 * Affine Medical Image Registration with Coarse-to-Fine Vision Transformer. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.02017)] \[[CODE](https://github.com/cwmok/C2FViT) ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
 * CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00444)] \[[CODE](https://github.com/CVI-SZU/CLIMS) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2024-06-07]
@@ -1723,7 +1723,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Real-Time Deep Pose Estimation With Geodesic Loss for Image-to-Template Rigid Registration. \[[PUB](https://doi.org/10.1109/TMI.2018.2866442)]
 * RetinaMatch: Efficient Template Matching of Retina Images for Teleophthalmology. \[[PUB](https://doi.org/10.1109/TMI.2019.2923466)]
 * Robust Optical Flow Estimation in Cardiac Ultrasound Images Using a Sparse Representation. \[[PUB](https://doi.org/10.1109/TMI.2018.2870947)]
-* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,746 | 🐛 156 | 🌐 Python | 📅 2026-08-17]
+* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,747 | 🐛 156 | 🌐 Python | 📅 2026-08-17]
 
 ### MIA
 
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

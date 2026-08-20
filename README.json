@@ -690,7 +690,7 @@
                     "last_commit": "2025-03-21T16:18:44Z",
                     "owner": "RPIDIAL",
                     "repo": "DINO-Reg",
-                    "stars": 65
+                    "stars": 66
                   }
                 },
                 {
@@ -1257,7 +1257,7 @@
                     "last_commit": "2026-03-26T15:55:20Z",
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 688
+                    "stars": 690
                   }
                 },
                 {
@@ -2585,7 +2585,7 @@
                     "last_commit": "2025-09-18T11:48:32Z",
                     "owner": "fsahli",
                     "repo": "WarpPINN",
-                    "stars": 20
+                    "stars": 21
                   }
                 },
                 {
@@ -2951,7 +2951,7 @@
                     "last_commit": "2023-03-24T07:57:00Z",
                     "owner": "rabbityl",
                     "repo": "lepard",
-                    "stars": 240
+                    "stars": 239
                   }
                 },
                 {
@@ -4764,7 +4764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:49.547Z",
+    "last_updated": "2026-08-20T05:52:47.438Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_id": 218470804,
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
