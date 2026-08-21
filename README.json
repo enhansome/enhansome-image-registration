@@ -190,7 +190,7 @@
                     "last_commit": "2026-07-21T00:19:24Z",
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 548
+                    "stars": 549
                   }
                 },
                 {
@@ -1354,7 +1354,7 @@
                     "last_commit": "2025-03-10T03:08:49Z",
                     "owner": "littlespray",
                     "repo": "StreamFlow",
-                    "stars": 41
+                    "stars": 42
                   }
                 },
                 {
@@ -1890,7 +1890,7 @@
                     "last_commit": "2024-05-31T02:57:17Z",
                     "owner": "WHU-USI3DV",
                     "repo": "SGHR",
-                    "stars": 225
+                    "stars": 226
                   }
                 },
                 {
@@ -2062,7 +2062,7 @@
                     "last_commit": "2025-04-07T12:20:12Z",
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 677
+                    "stars": 678
                   }
                 },
                 {
@@ -2891,7 +2891,7 @@
                     "last_commit": "2023-11-22T00:53:02Z",
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 975
+                    "stars": 973
                   }
                 },
                 {
@@ -4764,7 +4764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:52:47.438Z",
+    "last_updated": "2026-08-21T05:54:01.591Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_id": 218470804,
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
