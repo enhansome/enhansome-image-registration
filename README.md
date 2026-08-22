@@ -833,7 +833,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Reference-Based Image and Video Super-Resolution via $C{2}$-Matching. \[[PUB](https://doi.org/10.1109/TPAMI.2022.3231089)] \[[CODE](https://github.com/yumingj/C2-Matching) ⭐ 223 | 🐛 21 | 🌐 Python | 📅 2024-02-26] \[**`data.`**]
 * Robust Point Cloud Registration Framework Based on Deep Graph Matching. \[[PUB](https://arxiv.org/abs/2103.04256)] \[[CODE](https://github.com/fukexue/RGM) ⭐ 148 | 🐛 10 | 🌐 Python | 📅 2021-06-26] \[**`pc.`**]
 * RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3244951)] \[[CODE](https://github.com/HpWang-whu/RoReg) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2024-02-19] \[**`pc.`**]
-* Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3247603)] \[[CODE](https://github.com/yaoyx689/AMM_NRR) ⭐ 70 | 🐛 1 | 🌐 C++ | 📅 2022-06-08] \[**`pc.`**]
+* Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3247603)] \[[CODE](https://github.com/yaoyx689/AMM_NRR) ⭐ 71 | 🐛 1 | 🌐 C++ | 📅 2022-06-08] \[**`pc.`**]
 * SC${2}$2-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3272557)] \[[CODE](https://github.com/ZhiChen902/SC2-PCR-plusplus) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2023-12-21] \[**`pc.`**]
 * Formulating Event-Based Image Reconstruction as a Linear Inverse Problem With Deep Regularization Using Optical Flow. \[[PUB](https://doi.org/10.1109/TPAMI.2022.3230727)] \[[CODE](https://github.com/tub-rip/event_based_image_rec_inverse_problem) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2024-11-09]
 * HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2023.3284896)] \[[CODE](https://github.com/ispc-lab/HRegNet2) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2022-01-12] \[**`pc.`**]
@@ -1748,7 +1748,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * A Cooperative Autoencoder for Population-Based Regularization of CNN Image Registration. \[[PUB](https://doi.org/10.1007/978-3-030-32245-8_44)]
 * A Hybrid Deep Learning Framework for Integrated Segmentation and Registration: Evaluation on Longitudinal White Matter Tract Changes. \[[PUB](https://doi.org/10.1007/978-3-030-32248-9_72)]
 * Adversarial Optimization for Joint Registration and Segmentation in Prostate CT Radiotherapy. \[[PUB](https://doi.org/10.1007/978-3-030-32226-7_41)]
-* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks. \[[PUB](https://doi.org/10.1007/978-3-030-32226-7_6)] \[[CODE](https://github.com/multimodallearning/pdd_net) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2021-07-30] \[**`medi.`**]
+* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks. \[[PUB](https://doi.org/10.1007/978-3-030-32226-7_6)] \[[CODE](https://github.com/multimodallearning/pdd_net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2021-07-30] \[**`medi.`**]
 * Conditional Segmentation in Lieu of Image Registration. \[[PUB](https://doi.org/10.1007/978-3-030-32245-8_45)]
 * Deep Sequential Mosaicking of Fetoscopic Videos. \[[PUB](https://doi.org/10.1007/978-3-030-32239-7_35)]
 * DeepAtlas: Joint Semi-supervised Learning of Image Registration and Segmentation. \[[PUB](https://doi.org/10.1007/978-3-030-32245-8_47)]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
