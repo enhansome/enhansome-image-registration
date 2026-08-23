@@ -83,7 +83,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
-*2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) ⭐ 1,591 | 🐛 5 | 📅 2024-04-10.
+*2022/06/18* - update papers (2020-2022) about point cloud registration from [awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) ⭐ 1,592 | 🐛 5 | 📅 2024-04-10.
 
 *2020/04/20* - update recent papers (2017-2020) about point cloud registration and make some diagram about history of image registration.
 
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 690 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 691 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -903,7 +903,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * X-Ray to CT Rigid Registration Using Scene Coordinate Regression. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_74)] [CODE](https://github.com/Pragyanstha/SCR-Registration) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2023-11-25
 * Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_64)] [CODE](https://github.com/multimodallearning/reg-cyclical-self-train) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-06-30
 * A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration. \[[PUB](https://doi.org/10.1007/978-3-031-43996-4_49)] [CODE](https://github.com/BaochangZhang/PSSS_registration) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2023-11-03
-* AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_72)] \[[CODE](https://github.com/RuishengSu/AngioMoCo) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2024-05-17]
+* AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_72)] \[[CODE](https://github.com/RuishengSu/AngioMoCo) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2024-05-17]
 * PCMC-T1: Free-Breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_22)] \[[CODE](https://github.com/eyalhana/PCMC-T1) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 * Inverse Consistency by Construction for Multistep Deep Registration. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_65)] [CODE](https://github.com/uncbiag/ByConstructionICON) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05 \[**`medi.`**]
 * CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_69)] [CODE](https://github.com/SCAN-NRAD/CortexMorph) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-10-04
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
