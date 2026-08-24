@@ -153,6 +153,28 @@
               "description": null,
               "node_type": "group",
               "title": "MIA"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery With Patches-to-Partial Matching. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 900827264,
+                    "language": "Python",
+                    "last_commit": "2025-07-29T20:05:41Z",
+                    "owner": "zixinyang9109",
+                    "repo": "P2P",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JBHI"
             }
           ],
           "description": null,
@@ -665,6 +687,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning. [PUB",
+                  "description": "] CODE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 600648522,
+                    "language": "Python",
+                    "last_commit": "2025-04-01T16:36:55Z",
+                    "owner": "YutingHe-list",
+                    "repo": "GEMINI",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TPAMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -1031,6 +1075,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 933102080,
+                    "language": "Python",
+                    "last_commit": "2025-09-09T05:31:31Z",
+                    "owner": "HaoXu0507",
+                    "repo": "IPMI25-SAM-Assisted-Registration",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IPMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Toward a Training-Free Plug-and-Play Refinement Framework for Infrared and Visible Image Registration and Fusion. [PUB",
                   "description": "] [CODE] []",
                   "children": [],
@@ -1093,6 +1159,28 @@
               "description": null,
               "node_type": "group",
               "title": "MM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Beyond General Alignment: Fine-Grained Entity-Centric Image-Text Matching with Multimodal Attentive Experts. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 843727994,
+                    "language": "Python",
+                    "last_commit": "2025-04-08T08:04:46Z",
+                    "owner": "wangyxxjtu",
+                    "repo": "ETE",
+                    "stars": 7
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SIGIR"
             }
           ],
           "description": null,
@@ -1257,7 +1345,7 @@
                     "last_commit": "2026-03-26T15:55:20Z",
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 691
+                    "stars": 692
                   }
                 },
                 {
@@ -1503,6 +1591,28 @@
               "description": null,
               "node_type": "group",
               "title": "AAAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 735770235,
+                    "language": null,
+                    "last_commit": "2025-09-16T06:31:04Z",
+                    "owner": "yxzhang15",
+                    "repo": "PCR",
+                    "stars": 196
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCAI"
             },
             {
               "children": [
@@ -1853,6 +1963,28 @@
               "description": null,
               "node_type": "group",
               "title": "MM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ComCLIP: Training-Free Compositional Image and Text Matching. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 716907264,
+                    "language": "Python",
+                    "last_commit": "2024-08-18T13:07:49Z",
+                    "owner": "UCSB-AI",
+                    "repo": "ComCLIP",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NAACL"
             }
           ],
           "description": null,
@@ -2433,6 +2565,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "APR: Online Distant Point Cloud Registration through Aggregated Point Cloud Reconstruction. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637807702,
+                    "language": "Python",
+                    "last_commit": "2024-01-16T11:39:31Z",
+                    "owner": "liuQuan98",
+                    "repo": "APR",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration. [PUB",
                   "description": "] [CODE] []",
                   "children": [],
@@ -2555,6 +2709,50 @@
               "description": null,
               "node_type": "group",
               "title": "TPAMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 409434967,
+                    "language": "C++",
+                    "last_commit": "2023-12-01T10:48:33Z",
+                    "owner": "NaughtyZZ",
+                    "repo": "3D_face_dense_registration",
+                    "stars": 56
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 562459041,
+                    "language": "Python",
+                    "last_commit": "2024-07-09T00:50:38Z",
+                    "owner": "Blcony",
+                    "repo": "SDHNet",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TMI"
             },
             {
               "children": [
@@ -2869,6 +3067,28 @@
               "description": null,
               "node_type": "group",
               "title": "MICCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Your Negative May not Be True Negative: Boosting Image-Text Matching with False Negative Elimination. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 656560703,
+                    "language": "Python",
+                    "last_commit": "2023-12-03T08:51:44Z",
+                    "owner": "LuminosityX",
+                    "repo": "FNE",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MM"
             }
           ],
           "description": null,
@@ -2891,7 +3111,7 @@
                     "last_commit": "2023-11-22T00:53:02Z",
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 973
+                    "stars": 974
                   }
                 },
                 {
@@ -3659,6 +3879,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 486592467,
+                    "language": "Python",
+                    "last_commit": "2022-04-28T13:21:59Z",
+                    "owner": "heyblackC",
+                    "repo": "DFMIR",
+                    "stars": 54
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Light-Weight Deformable Registration Using Adversarial Learning With Distilling Knowledge. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -3860,6 +4102,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 309361260,
+                    "language": "Python",
+                    "last_commit": "2022-04-06T11:02:07Z",
+                    "owner": "NanYoMy",
+                    "repo": "cmmas",
+                    "stars": 18
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JBHI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -3892,6 +4156,50 @@
               "description": null,
               "node_type": "group",
               "title": "MM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GraphReg: Dynamical Point Cloud Registration with Geometry-aware Graph Signal Processing. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 462705030,
+                    "language": "Cuda",
+                    "last_commit": "2025-02-15T05:01:40Z",
+                    "owner": "zikai1",
+                    "repo": "GraphReg",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TIP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WSDesc: Weakly Supervised 3D Local Descriptor Learning for Point Cloud Registration. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469666891,
+                    "language": "Python",
+                    "last_commit": "2022-03-18T14:42:20Z",
+                    "owner": "craigleili",
+                    "repo": "WSDesc",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TVCG"
             }
           ],
           "description": null,
@@ -4113,6 +4421,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Three-dimensional spike localization and improved motion correction for Neuropixels recordings. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 379549864,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-07-21T06:27:45Z",
+                    "owner": "int-brain-lab",
+                    "repo": "spikes_localization_registration",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NeurIPS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 169186528,
+                    "language": "Python",
+                    "last_commit": "2022-05-17T05:58:28Z",
+                    "owner": "twhui",
+                    "repo": "LiteFlowNet2",
+                    "stars": 285
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TPAMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Image Matching Across Wide Baselines: From Paper to Practice. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -4324,6 +4676,50 @@
               "description": null,
               "node_type": "group",
               "title": "MICCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deep Learning Based Geometric Registration for Medical Images: How Accurate Can We Get Without Visual Features?. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 319908661,
+                    "language": "Python",
+                    "last_commit": "2020-12-09T10:05:43Z",
+                    "owner": "multimodallearning",
+                    "repo": "deep-geo-reg",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IPMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A Benchmark for Point Clouds Registration Algorithms. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 185767790,
+                    "language": "Python",
+                    "last_commit": "2023-10-11T13:56:38Z",
+                    "owner": "iralabdisco",
+                    "repo": "point_clouds_registration_benchmark",
+                    "stars": 102
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Robotics and Autonomous Systems"
             }
           ],
           "description": null,
@@ -4398,6 +4794,28 @@
               "description": null,
               "node_type": "group",
               "title": "CVPR"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 239914707,
+                    "language": "Python",
+                    "last_commit": "2020-08-12T02:11:31Z",
+                    "owner": "jiahaoli95",
+                    "repo": "idam",
+                    "stars": 47
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ECCV"
             },
             {
               "children": [
@@ -4517,6 +4935,28 @@
               "description": null,
               "node_type": "group",
               "title": "MICCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Registration Loss Learning for Deep Probabilistic Point Set Registration. [PUB",
+                  "description": "] [code-pytorch] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 300606465,
+                    "language": "Python",
+                    "last_commit": "2021-11-27T22:05:35Z",
+                    "owner": "felja633",
+                    "repo": "RLLReg",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3DV"
             }
           ],
           "description": null,
@@ -4628,6 +5068,94 @@
               "description": null,
               "node_type": "group",
               "title": "ICCV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Hallucinating Optical Flow Features for Video Classification. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188766778,
+                    "language": "Python",
+                    "last_commit": "2019-07-19T04:08:11Z",
+                    "owner": "YongyiTang92",
+                    "repo": "MoNet-Features",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VoxelMorph: A Learning Framework for Deformable Medical Image Registration. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133389787,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T22:35:41Z",
+                    "owner": "voxelmorph",
+                    "repo": "voxelmorph",
+                    "stars": 2747
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TMI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 194848757,
+                    "language": "Python",
+                    "last_commit": "2021-07-30T19:45:47Z",
+                    "owner": "multimodallearning",
+                    "repo": "pdd_net",
+                    "stars": 64
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MICCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Robust low-overlap 3-D point cloud registration for outlier rejection. [PUB",
+                  "description": "] [matlab] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51546061,
+                    "language": "C++",
+                    "last_commit": "2021-06-04T18:50:04Z",
+                    "owner": "JStech",
+                    "repo": "ICP",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ICRA"
             }
           ],
           "description": null,
@@ -4709,6 +5237,72 @@
               "description": null,
               "node_type": "group",
               "title": "ECCV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "H-Net: Neural Network for Cross-domain Image Patch Matching. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 131837343,
+                    "language": "Python",
+                    "last_commit": "2019-03-29T02:11:05Z",
+                    "owner": "xuelunshen",
+                    "repo": "H-Net",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCAI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PCN: Point Completion Network. [PUB",
+                  "description": "] [code-tensorflow] [] :fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 143089260,
+                    "language": "Python",
+                    "last_commit": "2023-11-09T22:22:05Z",
+                    "owner": "wentaoyuan",
+                    "repo": "pcn",
+                    "stars": 486
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3DV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Multi-temporal Remote Sensing Image Registration Using Deep Convolutional Features. [PUB",
+                  "description": "] [CODE] [] :fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121105981,
+                    "language": "Python",
+                    "last_commit": "2020-12-28T10:00:45Z",
+                    "owner": "inrainbws",
+                    "repo": "cnn-registration",
+                    "stars": 459
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IEEE Access"
             }
           ],
           "description": null,
@@ -4758,13 +5352,64 @@
           "description": null,
           "node_type": "group",
           "title": "2017"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fast Global Registration. [PUB",
+                  "description": "] CODE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 73948204,
+                    "language": "C++",
+                    "last_commit": "2024-09-02T19:26:33Z",
+                    "owner": "isl-org",
+                    "repo": "FastGlobalRegistration",
+                    "stars": 553
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ECCV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration. [PUB",
+                  "description": "] CODE []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147154639,
+                    "language": "C++",
+                    "last_commit": "2019-06-02T03:18:40Z",
+                    "owner": "yangjiaolong",
+                    "repo": "Go-ICP",
+                    "stars": 506
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TPAMI"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016"
         }
       ],
       "title": "Paper Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:59:24.947Z",
+    "last_updated": "2026-08-24T14:08:26.183Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_id": 218470804,
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",

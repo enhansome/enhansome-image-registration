@@ -71,7 +71,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
-*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,936 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,937 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -155,8 +155,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### JBHI
 
-* Medical Image Privacy in Federated Learning: Segmentation-Reorganization and Sparsified Gradient Matching Attacks. \[[PUB](https://doi.org/10.1109/JBHI.2025.3593631)] \[**`medi.`**]
 * Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery With Patches-to-Partial Matching. \[[PUB](https://doi.org/10.1109/JBHI.2025.3583875)] \[[CODE](https://github.com/zixinyang9109/P2P) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-07-29]
+* Medical Image Privacy in Federated Learning: Segmentation-Reorganization and Sparsified Gradient Matching Attacks. \[[PUB](https://doi.org/10.1109/JBHI.2025.3593631)] \[**`medi.`**]
 
 ## 2025
 
@@ -291,9 +291,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
+* Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning. \[[PUB](https://www.arxiv.org/abs/2502.05282)] [CODE](https://github.com/YutingHe-list/GEMINI) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-04-01
 * Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation. \[[PUB](https://doi.org/10.1109/TPAMI.2024.3466241)]
 * Flow-Anything: Learning Real-World Optical Flow Estimation From Large-Scale Single-View Images. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3576851)]
-* Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning. \[[PUB](https://www.arxiv.org/abs/2502.05282)] [CODE](https://github.com/YutingHe-list/GEMINI) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-04-01
 * Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3584847)]
 * MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3581162)]
 * Non-Rigid Point Cloud Registration via Anisotropic Hybrid Field Harmonization. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3572584)]
@@ -400,8 +400,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IPMI
 
-* GSSD: A Self-distillation Paradigm with Gradient Surgery for End-to-End Deformable Image Registration. \[[PUB](https://doi.org/10.1007/978-3-031-96628-6_5)]
 * Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness. \[[PUB](https://doi.org/10.1007/978-3-031-96628-6_6)] \[[CODE](https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-09-09]
+* GSSD: A Self-distillation Paradigm with Gradient Surgery for End-to-End Deformable Image Registration. \[[PUB](https://doi.org/10.1007/978-3-031-96628-6_5)]
 * Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing. \[[PUB](https://doi.org/10.1007/978-3-031-96628-6_8)] \[**`medi.`**]
 * Vascular-Topology-Aware Deep Structure Matching for 2D DSA and 3D CTA Rigid Registration. \[[PUB](https://doi.org/10.1007/978-3-031-96628-6_7)] \[**`medi.`**]
 
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 691 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 692 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -856,11 +856,12 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IJCV
 
-* Fast and Accurate 3D Registration from Line Intersection Constraints. \[[PUB](https://doi.org/10.1007/s11263-023-01774-1)] \[**`pc.`**]
 * Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method. \[[PUB](https://doi.org/10.1007/s11263-023-01825-7)] \[[CODE](https://github.com/NaughtyZZ/3D_face_dense_registration) ⭐ 56 | 🐛 3 | 🌐 C++ | 📅 2023-12-01] \[**`medi.`**]
+* Fast and Accurate 3D Registration from Line Intersection Constraints. \[[PUB](https://doi.org/10.1007/s11263-023-01774-1)] \[**`pc.`**]
 
 ### TMI
 
+* Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2023.3244333)] \[[CODE](https://github.com/Blcony/SDHNet) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2024-07-09]
 * A Deep Learning Method for Motion Artifact Correction in Intravascular Photoacoustic Image Sequence. \[[PUB](https://doi.org/10.1109/TMI.2022.3202910)]
 * AFFIRM: Affinity Fusion-Based Framework for Iteratively Random Motion Correction of Multi-Slice Fetal Brain MRI. \[[PUB](https://doi.org/10.1109/TMI.2022.3208277)]
 * Deep Learning-Based Image Registration in Dynamic Myocardial Perfusion CT Imaging. \[[PUB](https://doi.org/10.1109/TMI.2022.3214380)]
@@ -869,7 +870,6 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * MCP-Net: Introducing Patlak Loss Optimization to Whole-Body Dynamic PET Inter-Frame Motion Correction. \[[PUB](https://doi.org/10.1109/TMI.2023.3290003)]
 * Meta-Learning Initializations for Interactive Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2022.3218147)]
 * Optical Co-Registration Method of Triaxial OPM-MEG and MRI. \[[PUB](https://doi.org/10.1109/TMI.2023.3263167)]
-* Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2023.3244333)] \[[CODE](https://github.com/Blcony/SDHNet) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2024-07-09]
 * Self-Supervised Learning for Non-Rigid Registration Between Near-Isometric 3D Surfaces in Medical Imaging. \[[PUB](https://doi.org/10.1109/TMI.2022.3218662)]
 * X-Ray to DRR Images Translation for Efficient Multiple Objects Similarity Measures in Deformable Model 3D/2D Registration. \[[PUB](https://doi.org/10.1109/TMI.2022.3218568)]
 
@@ -942,6 +942,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### MM
 
+* Your Negative May not Be True Negative: Boosting Image-Text Matching with False Negative Elimination. \[[PUB](https://doi.org/10.1145/3581783.3612101)] \[[CODE](https://github.com/LuminosityX/FNE) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2023-12-03] \[**`dep.`**]
 * 360-Degree Panorama Generation from Few Unregistered NFoV Images. \[[PUB](https://doi.org/10.1145/3581783.3612508)]
 * A Capture to Registration Framework for Realistic Image Super-Resolution in the Industry Environment. \[[PUB](https://doi.org/10.1145/3581783.3611973)] \[**`data.`**]
 * Deep Algorithm Unrolling with Registration Embedding for Pansharpening. \[[PUB](https://doi.org/10.1145/3581783.3613754)]
@@ -956,7 +957,6 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * QA-CLIMS: Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation. \[[PUB](https://doi.org/10.1145/3581783.3612148)]
 * Towards Deconfounded Image-Text Matching with Causal Inference. \[[PUB](https://doi.org/10.1145/3581783.3612472)] \[**`data.`**]
 * Unlocking the Power of Cross-Dimensional Semantic Dependency for Image-Text Matching. \[[PUB](https://doi.org/10.1145/3581783.3611703)] \[**`data.`**]
-* Your Negative May not Be True Negative: Boosting Image-Text Matching with False Negative Elimination. \[[PUB](https://doi.org/10.1145/3581783.3612101)] \[[CODE](https://github.com/LuminosityX/FNE) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2023-12-03] \[**`dep.`**]
 
 ### CCS
 
@@ -982,7 +982,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 973 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
+* Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 974 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
 * GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 798 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
 * REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 253 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
@@ -1085,9 +1085,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IJCAI
 
+* Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation. \[[PUB](https://doi.org/10.24963/ijcai.2022/117)] \[[CODE](https://github.com/heyblackC/DFMIR) ⭐ 54 | 🐛 4 | 🌐 Python | 📅 2022-04-28] \[**`medi.`**]
 * Targeted Multimodal Sentiment Classification based on Coarse-to-Fine Grained Image-Target Matching. \[[PUB](https://doi.org/10.24963/ijcai.2022/622)] \[**`data.`**]
 * Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration. \[[PUB](https://doi.org/10.24963/ijcai.2022/487)] \[**`dep.`**]
-* Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation. \[[PUB](https://doi.org/10.24963/ijcai.2022/117)] \[[CODE](https://github.com/heyblackC/DFMIR) ⭐ 54 | 🐛 4 | 🌐 Python | 📅 2022-04-28] \[**`medi.`**]
 
 ### TPAMI
 
@@ -1183,8 +1183,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### JBHI
 
-* Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting. \[[PUB](https://doi.org/10.1109/JBHI.2022.3149754)]
 * Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion. \[[PUB](https://doi.org/10.1109/JBHI.2022.3149114)] \[[CODE](https://github.com/NanYoMy/cmmas) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2022-04-06]
+* Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting. \[[PUB](https://doi.org/10.1109/JBHI.2022.3149754)]
 * Few-Shot Learning for Deformable Medical Image Registration With Perception-Correspondence Decoupling and Reverse Teaching. \[[PUB](https://doi.org/10.1109/JBHI.2021.3095409)]
 * Improved Segmentation of Echocardiography With Orientation-Congruency of Optical Flow and Motion-Enhanced Segmentation. \[[PUB](https://doi.org/10.1109/JBHI.2022.3221429)] \[**`oth.`**]
 * Joint Deformable Image Registration and ADC Map Regularization: Application to DWI-Based Lymphoma Classification. \[[PUB](https://doi.org/10.1109/JBHI.2022.3156009)]
@@ -1295,11 +1295,11 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### NeurIPS
 
+* Three-dimensional spike localization and improved motion correction for Neuropixels recordings. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/b950ea26ca12daae142bd74dba4427c8-Abstract.html)] \[[CODE](https://github.com/int-brain-lab/spikes_localization_registration.git) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-21] \[**`medi.`**]
 * Accurate Point Cloud Registration with Robust Optimal Transport. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/2b0f658cbffd284984fb11d90254081f-Abstract.html)]
 * CoFiNet: Reliable Coarse-to-fine Correspondences for Robust PointCloud Registration. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/c85b2ea9a678e74fdc8bafe5d0707c31-Abstract.html)]
 * Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/39d4b545fb02556829aab1db805021c3-Abstract.html)]
 * Shape Registration in the Time of Transformers. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/2d3d9d5373f378108cdbd30a3c52bd3e-Abstract.html)]
-* Three-dimensional spike localization and improved motion correction for Neuropixels recordings. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/b950ea26ca12daae142bd74dba4427c8-Abstract.html)] \[[CODE](https://github.com/int-brain-lab/spikes_localization_registration.git) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-07-21] \[**`medi.`**]
 * TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification. \[[PUB](https://proceedings.neurips.cc/paper/2021/hash/0f49c89d1e7298bb9930789c8ed59d48-Abstract.html)]
 
 ### ICLR
@@ -1488,6 +1488,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
+* Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-030-58586-0_23)] \[[CODE](https://github.com/jiahaowork/idam) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2020-08-12]
 * A Closest Point Proposal for MCMC-based Probabilistic Surface Registration. \[[PUB](https://doi.org/10.1007/978-3-030-58520-4_17)]
 * Adaptive Offline Quintuplet Loss for Image-Text Matching. \[[PUB](https://doi.org/10.1007/978-3-030-58601-0_33)] \[**`data.`**]
 * Consensus-Aware Visual-Semantic Embedding for Image-Text Matching. \[[PUB](https://doi.org/10.1007/978-3-030-58586-0_2)]
@@ -1495,7 +1496,6 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * DeepGMR: Learning Latent Gaussian Mixture Models for Registration. \[[PUB](https://doi.org/10.1007/978-3-030-58558-7_43)]
 * Image Stitching and Rectification for Hand-Held Cameras. \[[PUB](https://doi.org/10.1007/978-3-030-58571-6_15)] \[**`oth.`**]
 * Improving Optical Flow on a Pyramid Level. \[[PUB](https://doi.org/10.1007/978-3-030-58604-1_46)] \[**`oth.`**]
-* Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-030-58586-0_23)] \[[CODE](https://github.com/jiahaowork/idam) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2020-08-12]
 * Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image. \[[PUB](https://doi.org/10.1007/978-3-030-58517-4_39)] \[**`oth.`**]
 * JSSR: A Joint Synthesis, Segmentation, and Registration System for 3D Multi-modal Image Alignment of Large-Scale Pathological CT Scans. \[[PUB](https://doi.org/10.1007/978-3-030-58601-0_16)]
 * LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation. \[[PUB](https://doi.org/10.1007/978-3-030-58565-5_11)]
@@ -1708,6 +1708,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TMI
 
+* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,747 | 🐛 156 | 🌐 Python | 📅 2026-08-17]
 * 3D Multi-Resolution Optical Flow Analysis of Cardiovascular Pulse Propagation in Human Brain. \[[PUB](https://doi.org/10.1109/TMI.2019.2904762)]
 * A Global Method for Non-Rigid Registration of Cell Nuclei in Live Cell Time-Lapse Images. \[[PUB](https://doi.org/10.1109/TMI.2019.2901918)]
 * A Statistical Model for Rigid Image Registration Performance: The Influence of Soft-Tissue Deformation as a Confounding Noise Source. \[[PUB](https://doi.org/10.1109/TMI.2019.2907868)]
@@ -1723,7 +1724,6 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Real-Time Deep Pose Estimation With Geodesic Loss for Image-to-Template Rigid Registration. \[[PUB](https://doi.org/10.1109/TMI.2018.2866442)]
 * RetinaMatch: Efficient Template Matching of Retina Images for Teleophthalmology. \[[PUB](https://doi.org/10.1109/TMI.2019.2923466)]
 * Robust Optical Flow Estimation in Cardiac Ultrasound Images Using a Sparse Representation. \[[PUB](https://doi.org/10.1109/TMI.2018.2870947)]
-* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,747 | 🐛 156 | 🌐 Python | 📅 2026-08-17]
 
 ### MIA
 
@@ -1745,10 +1745,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### MICCAI
 
+* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks. \[[PUB](https://doi.org/10.1007/978-3-030-32226-7_6)] \[[CODE](https://github.com/multimodallearning/pdd_net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2021-07-30] \[**`medi.`**]
 * A Cooperative Autoencoder for Population-Based Regularization of CNN Image Registration. \[[PUB](https://doi.org/10.1007/978-3-030-32245-8_44)]
 * A Hybrid Deep Learning Framework for Integrated Segmentation and Registration: Evaluation on Longitudinal White Matter Tract Changes. \[[PUB](https://doi.org/10.1007/978-3-030-32248-9_72)]
 * Adversarial Optimization for Joint Registration and Segmentation in Prostate CT Radiotherapy. \[[PUB](https://doi.org/10.1007/978-3-030-32226-7_41)]
-* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks. \[[PUB](https://doi.org/10.1007/978-3-030-32226-7_6)] \[[CODE](https://github.com/multimodallearning/pdd_net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2021-07-30] \[**`medi.`**]
 * Conditional Segmentation in Lieu of Image Registration. \[[PUB](https://doi.org/10.1007/978-3-030-32245-8_45)]
 * Deep Sequential Mosaicking of Fetoscopic Videos. \[[PUB](https://doi.org/10.1007/978-3-030-32239-7_35)]
 * DeepAtlas: Joint Semi-supervised Learning of Image Registration and Segmentation. \[[PUB](https://doi.org/10.1007/978-3-030-32245-8_47)]
@@ -1798,9 +1798,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICRA
 
+* Robust low-overlap 3-D point cloud registration for outlier rejection. \[[PUB](https://ieeexplore.ieee.org/abstract/document/8793857)] \[[matlab](https://github.com/JStech/ICP) ⭐ 38 | 🐛 0 | 🌐 C++ | 📅 2021-06-04] \[**`pc.`**]
 * CELLO-3D: Estimating the Covariance of ICP in the Real World. \[[PUB](https://export.arxiv.org/abs/1810.01470)] \[**`pc.`**]
 * Robust Generalized Point Set Registration Using Inhomogeneous Hybrid Mixture Models Via Expectation. \[[PUB](https://ras.papercept.net/conferences/conferences/ICRA19/program/ICRA19_ContentListWeb_3.html)] \[**`pc.`**]
-* Robust low-overlap 3-D point cloud registration for outlier rejection. \[[PUB](https://ieeexplore.ieee.org/abstract/document/8793857)] \[[matlab](https://github.com/JStech/ICP) ⭐ 38 | 🐛 0 | 🌐 C++ | 📅 2021-06-04] \[**`pc.`**]
 
 ### ACL
 
@@ -2145,9 +2145,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
+* Fast Global Registration. \[[PUB](https://doi.org/10.1007/978-3-319-46475-6_47)] [CODE](https://github.com/intel-isl/FastGlobalRegistration) ⚠️ Archived
 * A Distance for HMMs Based on Aggregated Wasserstein Metric and State Registration. \[[PUB](https://doi.org/10.1007/978-3-319-46466-4_27)]
 * Exploiting Semantic Information and Deep Matching for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-319-46466-4_10)] \[**`oth.`**]
-* Fast Global Registration. \[[PUB](https://doi.org/10.1007/978-3-319-46475-6_47)] [CODE](https://github.com/intel-isl/FastGlobalRegistration) ⚠️ Archived
 * Fast Optical Flow Using Dense Inverse Search. \[[PUB](https://doi.org/10.1007/978-3-319-46493-0_29)] \[**`oth.`**]
 * Global Registration of 3D Point Sets via LRS Decomposition. \[[PUB](https://doi.org/10.1007/978-3-319-46493-0_30)] \[**`pc.`**]
 * Guided Matching Based on Statistical Optical Flow for Fast and Robust Correspondence Analysis. \[[PUB](https://doi.org/10.1007/978-3-319-46478-7_7)] \[**`oth.`**]
@@ -2171,9 +2171,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
+* Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2513405)] [CODE](https://github.com/yangjiaolong/Go-ICP) ⭐ 506 | 🐛 11 | 🌐 C++ | 📅 2019-06-02 \[**`pc.`**]
 * A Stochastic Approach to Diffeomorphic Point Set Registration with Landmark Constraints. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2448102)] \[**`pc.`**]
 * Fast Rotation Search with Stereographic Projections for 3D Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2016.2517636)] \[**`pc.`**]
-* Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2513405)] [CODE](https://github.com/yangjiaolong/Go-ICP) ⭐ 506 | 🐛 11 | 🌐 C++ | 📅 2019-06-02 \[**`pc.`**]
 * Higher-Order Graph Principles towards Non-Rigid Surface Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2016.2528240)]
 * Scalable Feature Matching by Dual Cascaded Scalar Quantization for Image Retrieval. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2430329)] \[**`data.`**]
 
