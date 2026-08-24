@@ -175,7 +175,7 @@
                     "last_commit": "2025-10-09T14:07:00Z",
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 667
+                    "stars": 668
                   }
                 },
                 {
@@ -482,7 +482,7 @@
                     "last_commit": "2025-11-15T15:27:19Z",
                     "owner": "BIT-Vision",
                     "repo": "EMatch",
-                    "stars": 11
+                    "stars": 12
                   }
                 },
                 {
@@ -2182,7 +2182,7 @@
                     "last_commit": "2024-03-08T07:38:25Z",
                     "owner": "ispc-lab",
                     "repo": "TMA",
-                    "stars": 34
+                    "stars": 35
                   }
                 },
                 {
@@ -3303,7 +3303,7 @@
                     "last_commit": "2023-06-02T14:42:01Z",
                     "owner": "DiffuseMorph",
                     "repo": "DiffuseMorph",
-                    "stars": 117
+                    "stars": 118
                   }
                 },
                 {
@@ -4764,7 +4764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:51:36.640Z",
+    "last_updated": "2026-08-24T05:59:24.947Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_id": 218470804,
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",

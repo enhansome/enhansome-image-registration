@@ -162,7 +162,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 667 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
+* MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 668 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
 * DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 549 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 * Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 495 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
 * Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)] \[[CODE](https://github.com/Yore0/TTDG-MGM) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2025-06-15]
@@ -211,7 +211,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Anchor Token Matching: Implicit Structure Locking for Training-Free AR Image Editing. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01688)] \[[CODE](https://github.com/hutaiHang/ATM) ⭐ 28 | 🐛 3 | 📅 2025-04-15] \[**`dep.`**]
 * PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00506)] \[[CODE](https://github.com/longliangLiu/PriOr-Flow) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2025-07-24]
 * RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02464)] \[[CODE](https://github.com/zhengcy-lambo/RARE.git) ⭐ 13 | 🐛 1 | 📅 2025-07-05]
-* EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00553)] \[[CODE](https://github.com/BIT-Vision/EMatch) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-11-15] \[**`oth.`**]
+* EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00553)] \[[CODE](https://github.com/BIT-Vision/EMatch) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-11-15] \[**`oth.`**]
 * Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02531)] \[[CODE](https://github.com/tlliao/LPAM_seam-cutting) ⭐ 10 | 🐛 1 | 🌐 C++ | 📅 2025-12-16] \[**`oth.`**]
 * Correspondence-Free Fast and Robust Spherical Point Pattern Registration. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02614)] \[[CODE](https://github.com/ARLab-VT/Robust-Vector-Set-Alignment) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-25]
 * Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01562)]
@@ -761,7 +761,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * DReg-NeRF: Deep Registration for Neural Radiance Fields. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.02075)] \[[CODE](https://github.com/AIBluefisher/DReg-NeRF) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2023-09-04]
 * MPI-Flow: Learning Realistic Optical Flow with Multiplane Images. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01274)] \[[CODE](https://github.com/Sharpiless/MPI-Flow) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2024-05-07]
 * GAFlow: Incorporating Gaussian Attention into Optical Flow. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00884)] \[[CODE](https://github.com/LA30/GAFlow) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2023-10-11]
-* TMA: Temporal Motion Aggregation for Event-based Optical Flow. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00888)] \[[CODE](https://github.com/ispc-lab/TMA) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2024-03-08]
+* TMA: Temporal Motion Aggregation for Event-based Optical Flow. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00888)] \[[CODE](https://github.com/ispc-lab/TMA) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2024-03-08]
 * Density-invariant Features for Distant Point Cloud Registration. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01670)] \[[CODE](https://github.com/liuQuan98/GCL) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-08-06] \[**`pc.`**]
 * AccFlow: Backward Accumulation for Long-Range Optical Flow. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01113)] \[[CODE](https://github.com/mulns/AccFlow) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2026-01-26]
 * SemARFlow: Injecting Semantics into Unsupervised Optical Flow Estimation for Autonomous Driving. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00877)] \[[CODE](https://github.com/duke-vision/semantic-unsup-flow-release) ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2023-10-08]
@@ -1022,7 +1022,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer. \[[PUB](https://doi.org/10.1007/978-3-031-19824-3_2)] \[[CODE](https://github.com/apple/ml-aspanformer) ⭐ 252 | 🐛 0 | 🌐 Python | 📅 2023-01-17]
 * Secrets of Event-Based Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-19797-0_36)] \[[CODE](https://github.com/tub-rip/event_based_optical_flow) ⭐ 197 | 🐛 7 | 🌐 Python | 📅 2025-03-12]
 * SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud. \[[PUB](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_16)] \[[CODE](https://github.com/zxrzju/SuperLine3D) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2022-07-20] \[**`pc.`**]
-* DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model. \[[PUB](https://doi.org/10.1007/978-3-031-19821-2_20)] \[[CODE](https://github.com/diffusemorph/diffusemorph) ⭐ 117 | 🐛 17 | 🌐 Python | 📅 2023-06-02]
+* DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model. \[[PUB](https://doi.org/10.1007/978-3-031-19821-2_20)] \[[CODE](https://github.com/diffusemorph/diffusemorph) ⭐ 118 | 🐛 17 | 🌐 Python | 📅 2023-06-02]
 * DFNet: Enhance Absolute Pose Regression with Direct Feature Matching. \[[PUB](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_1)] \[[CODE](https://github.com/activevisionlab/dfnet) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2024-03-02]
 * RealFlow: EM-Based Realistic Optical Flow Dataset Generation from Videos. \[[PUB](https://doi.org/10.1007/978-3-031-19800-7_17)] \[[CODE](https://github.com/megvii-research/RealFlow) ⭐ 103 | 🐛 12 | 🌐 Python | 📅 2023-01-05]
 * Generating Natural Images with Direct Patch Distributions Matching. \[[PUB](https://doi.org/10.1007/978-3-031-19790-1_33)] \[[CODE](https://github.com/ariel415el/GPDM) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2024-05-23] \[**`nat.`**]
@@ -1941,7 +1941,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### 3DV
 
-* PCN: Point Completion Network. \[[PUB](https://arxiv.org/abs/1808.00671)] \[[code-tensorflow](https://github.com/TonythePlaneswalker/pcn) ⭐ 485 | 🐛 30 | 🌐 Python | 📅 2023-11-09] \[**`pc.`**] :fire:
+* PCN: Point Completion Network. \[[PUB](https://arxiv.org/abs/1808.00671)] \[[code-tensorflow](https://github.com/TonythePlaneswalker/pcn) ⭐ 486 | 🐛 30 | 🌐 Python | 📅 2023-11-09] \[**`pc.`**] :fire:
 
 ### ICRA
 
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
