@@ -697,7 +697,7 @@
                     "last_commit": "2025-04-01T16:36:55Z",
                     "owner": "YutingHe-list",
                     "repo": "GEMINI",
-                    "stars": 13
+                    "stars": 14
                   }
                 }
               ],
@@ -3111,7 +3111,7 @@
                     "last_commit": "2023-11-22T00:53:02Z",
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 974
+                    "stars": 975
                   }
                 },
                 {
@@ -5325,7 +5325,7 @@
                     "last_commit": "2025-10-14T03:38:57Z",
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 904
+                    "stars": 905
                   }
                 },
                 {
@@ -5409,7 +5409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:26.183Z",
+    "last_updated": "2026-08-25T06:04:50.544Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_id": 218470804,
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",

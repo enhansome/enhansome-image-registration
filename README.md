@@ -8,7 +8,7 @@ A curated list of image registration related books, papers, videos, and toolboxe
 
 It is used in computer vision, medical imaging, military automatic target recognition, compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from different measurements.
 
-We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 12 | 🌐 Python | 📅 2026-08-19 if you need it.
+We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 13 | 🌐 Python | 📅 2026-08-25 if you need it.
 
 Please note that if this page does not display the full content, please visit the [official homepage](https://awesome-image-registration-organization.github.io/awesome-image-registration/) for full information.
 
@@ -61,11 +61,11 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *Last updated: 2026/05/21*
 
-*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 12 | 🌐 Python | 📅 2026-08-19, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
+*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 13 | 🌐 Python | 📅 2026-08-25, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
 
 *2025/09/21* - update recent papers
 
-*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) ⭐ 254 | 🐛 0 | 📅 2026-07-20
+*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) ⭐ 254 | 🐛 0 | 📅 2026-08-25
 
 *2024/12/03* - update recent papers
 
@@ -291,7 +291,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning. \[[PUB](https://www.arxiv.org/abs/2502.05282)] [CODE](https://github.com/YutingHe-list/GEMINI) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-04-01
+* Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning. \[[PUB](https://www.arxiv.org/abs/2502.05282)] [CODE](https://github.com/YutingHe-list/GEMINI) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-04-01
 * Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation. \[[PUB](https://doi.org/10.1109/TPAMI.2024.3466241)]
 * Flow-Anything: Learning Real-World Optical Flow Estimation From Large-Scale Single-View Images. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3576851)]
 * Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3584847)]
@@ -982,7 +982,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 974 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
+* Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 975 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
 * GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 798 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
 * REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 253 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
@@ -1970,7 +1970,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] \[[CODE](https://github.com/andyzeng/3dmatch-toolbox) ⭐ 904 | 🐛 23 | 🌐 C++ | 📅 2025-10-14] \[**`pc.`**] \[**`data.`**] :fire: :star:
+* 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.pdf)] \[[CODE](https://github.com/andyzeng/3dmatch-toolbox) ⭐ 905 | 🐛 23 | 🌐 C++ | 📅 2025-10-14] \[**`pc.`**] \[**`data.`**] :fire: :star:
 * 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. \[[PUB](https://doi.org/10.1109/CVPR.2017.265)] \[[CODE](https://github.com/gilbaz/LORAX) ⭐ 89 | 🐛 9 | 🌐 Python | 📅 2019-04-18] \[**`pc.`**]
 * A Combinatorial Solution to Non-Rigid 3D Shape-to-Image Matching. \[[PUB](https://doi.org/10.1109/CVPR.2017.157)] \[**`oth.`**]
 * A General Framework for Curve and Surface Comparison and Registration with Oriented Varifolds. \[[PUB](https://doi.org/10.1109/CVPR.2017.487)]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
