@@ -623,7 +623,7 @@
                     "last_commit": "2026-06-16T12:51:52Z",
                     "owner": "imigraz",
                     "repo": "Restora-Flow",
-                    "stars": 18
+                    "stars": 19
                   }
                 },
                 {
@@ -1345,7 +1345,7 @@
                     "last_commit": "2026-03-26T15:55:20Z",
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 692
+                    "stars": 693
                   }
                 },
                 {
@@ -3463,7 +3463,7 @@
                     "last_commit": "2022-09-07T06:38:18Z",
                     "owner": "MediaBrain-SJTU",
                     "repo": "RegAD",
-                    "stars": 323
+                    "stars": 322
                   }
                 },
                 {
@@ -3740,7 +3740,7 @@
                     "last_commit": "2025-01-01T06:26:04Z",
                     "owner": "rabbityl",
                     "repo": "DeformationPyramid",
-                    "stars": 220
+                    "stars": 221
                   }
                 },
                 {
@@ -5105,7 +5105,7 @@
                     "last_commit": "2026-08-17T22:35:41Z",
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2747
+                    "stars": 2748
                   }
                 }
               ],
@@ -5409,7 +5409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:50.544Z",
+    "last_updated": "2026-08-26T05:56:05.648Z",
     "original_repository": "Awesome-Image-Registration-Organization/awesome-image-registration",
     "original_repository_id": 218470804,
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
