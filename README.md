@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 693 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 694 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
