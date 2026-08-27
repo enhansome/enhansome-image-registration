@@ -79,7 +79,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
-*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,292 | 🐛 1 | 📅 2023-11-01.
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,293 | 🐛 1 | 📅 2023-11-01.
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
@@ -162,8 +162,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 668 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
-* DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 549 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
+* MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 669 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
+* DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 550 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 * Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 495 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
 * Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)] \[[CODE](https://github.com/Yore0/TTDG-MGM) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2025-06-15]
 * SACB-Net: Spatial-awareness Convolutions for Medical Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration_CVPR_2025_paper.html)] [CODE](https://github.com/x-xc/SACB_Net) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-11-07
@@ -200,7 +200,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICCV
 
-* Buffer-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00367)] \[[CODE](https://github.com/MIT-SPARK/BUFFER-X) ⭐ 279 | 🐛 3 | 🌐 Python | 📅 2026-07-14]
+* Buffer-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00367)] \[[CODE](https://github.com/MIT-SPARK/BUFFER-X) ⭐ 280 | 🐛 3 | 🌐 Python | 📅 2026-07-14]
 * MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00767)] \[[CODE](https://github.com/msu-video-group/memfof) ⭐ 103 | 🐛 0 | 🌐 Python | 📅 2025-12-11]
 * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00624)] \[[CODE](https://github.com/Sharpiless/L2M) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2026-05-23]
 * ZeroStereo: Zero-Shot Stereo Matching from Single Images. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02616)] \[[CODE](https://github.com/Windsrain/ZeroStereo) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-05-21]
@@ -211,7 +211,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Anchor Token Matching: Implicit Structure Locking for Training-Free AR Image Editing. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01688)] \[[CODE](https://github.com/hutaiHang/ATM) ⭐ 28 | 🐛 3 | 📅 2025-04-15] \[**`dep.`**]
 * PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00506)] \[[CODE](https://github.com/longliangLiu/PriOr-Flow) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2025-07-24]
 * RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02464)] \[[CODE](https://github.com/zhengcy-lambo/RARE.git) ⭐ 13 | 🐛 1 | 📅 2025-07-05]
-* EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00553)] \[[CODE](https://github.com/BIT-Vision/EMatch) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-11-15] \[**`oth.`**]
+* EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00553)] \[[CODE](https://github.com/BIT-Vision/EMatch) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-11-15] \[**`oth.`**]
 * Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02531)] \[[CODE](https://github.com/tlliao/LPAM_seam-cutting) ⭐ 10 | 🐛 1 | 🌐 C++ | 📅 2025-12-16] \[**`oth.`**]
 * Correspondence-Free Fast and Robust Spherical Point Pattern Registration. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02614)] \[[CODE](https://github.com/ARLab-VT/Robust-Vector-Set-Alignment) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-25]
 * Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01562)]
@@ -321,7 +321,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
 * Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. \[[PUB](https://doi.org/10.1109/TMI.2025.3532084)] \[[CODE](https://github.com/ShumengLI/SFR) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2024-10-22]
 * UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3467919)] \[[CODE](https://github.com/Runshi-Zhang/UTSRMorph) ⭐ 21 | 🐛 7 | 🌐 Python | 📅 2025-08-22]
-* OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. \[[PUB](https://doi.org/10.1109/TMI.2024.3437295)] \[[CODE](https://github.com/boahK/OTMorph) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2024-12-25]
+* OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. \[[PUB](https://doi.org/10.1109/TMI.2024.3437295)] \[[CODE](https://github.com/boahK/OTMorph) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-12-25]
 * Feedback Attention to Enhance Unsupervised Deep Learning Image Registration in 3D Echocardiography. \[[PUB](https://doi.org/10.1109/TMI.2025.3530501)] \[[CODE](https://github.com/kamruleee51/Feedback_DLIR) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-12-04]
 * Toward Semantically-Consistent Deformable 2D-3D Registration for 3D Craniofacial Structure Estimation From a Single-View Lateral Cephalometric Radiograph. \[[PUB](https://doi.org/10.1109/TMI.2024.3456251)] \[[CODE](https://github.com/Jyk-122/SC-DREG) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-09-17]
 * A Novel Few-Shot Learning Framework for Supervised Diffeomorphic Image Registration Network. \[[PUB](https://doi.org/10.1109/TMI.2025.3585199)] \[[CODE](https://github.com/weijunping111/RDG-TMI.git) ⭐ 2 | 🐛 0 | 🌐 MATLAB | 📅 2025-09-24]
@@ -810,7 +810,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### AAAI
 
 * Fourier-Net: Fast Image Registration with Band-Limited Deformation. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25182)] \[[CODE](https://github.com/xi-jia/Fourier-Net) ⭐ 67 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-11]
-* Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25220)] \[[CODE](https://github.com/MengLi-l1/StrokeExtraction) ⭐ 41 | 🐛 10 | 🌐 Python | 📅 2023-11-12] \[**`dep.`**]
+* Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25220)] \[[CODE](https://github.com/MengLi-l1/StrokeExtraction) ⭐ 41 | 🐛 11 | 🌐 Python | 📅 2023-11-12] \[**`dep.`**]
 * Rethinking Rotation Invariance with Point Cloud Registration. \[[PUB](https://doi.org/10.1609/aaai.v37i3.25438)] \[[CODE](https://github.com/Crane-YU/rethink_rotation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2022-12-30] \[**`pc.`**]
 * Exploit Domain-Robust Optical Flow in Domain Adaptive Video Semantic Segmentation. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25140)] \[[CODE](https://github.com/EdenHazardan/SFC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-06-13] \[**`oth.`**]
 * Bidirectional Optical Flow NeRF: High Accuracy and High Quality under Fewer Views. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25109)]
@@ -903,7 +903,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * X-Ray to CT Rigid Registration Using Scene Coordinate Regression. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_74)] [CODE](https://github.com/Pragyanstha/SCR-Registration) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2023-11-25
 * Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_64)] [CODE](https://github.com/multimodallearning/reg-cyclical-self-train) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-06-30
 * A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration. \[[PUB](https://doi.org/10.1007/978-3-031-43996-4_49)] [CODE](https://github.com/BaochangZhang/PSSS_registration) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2023-11-03
-* AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_72)] \[[CODE](https://github.com/RuishengSu/AngioMoCo) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2024-05-17]
+* AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_72)] \[[CODE](https://github.com/RuishengSu/AngioMoCo) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2024-05-17]
 * PCMC-T1: Free-Breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_22)] \[[CODE](https://github.com/eyalhana/PCMC-T1) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 * Inverse Consistency by Construction for Multistep Deep Registration. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_65)] [CODE](https://github.com/uncbiag/ByConstructionICON) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05 \[**`medi.`**]
 * CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_69)] [CODE](https://github.com/SCAN-NRAD/CortexMorph) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-10-04
@@ -982,8 +982,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 975 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
-* GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 798 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
+* Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 976 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
+* GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 799 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
 * REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 253 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
 * Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 239 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
