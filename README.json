@@ -20,7 +20,8 @@
                     "owner": "AIGCer0807",
                     "repo": "OANRM",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "xiaorugao999",
                     "repo": "CASHNet",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "Darlinglinlinlin",
                     "repo": "MOE_Morph",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -72,7 +75,8 @@
                     "owner": "TMMU-KLPOP",
                     "repo": "DVAP-Reg",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "ybby2020",
                     "repo": "ARDMR_MIA",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "xiehousheng",
                     "repo": "BIASNet",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "Prps7",
                     "repo": "UTMorph",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "ZhibinHe",
                     "repo": "GAGM",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "mohamedasuliman",
                     "repo": "GeoMorph",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -169,7 +178,8 @@
                     "owner": "zixinyang9109",
                     "repo": "P2P",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -198,7 +208,8 @@
                     "owner": "LSXI7",
                     "repo": "MINIMA",
                     "stars": 669
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -213,7 +224,8 @@
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
                     "stars": 550
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -228,7 +240,8 @@
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
                     "stars": 495
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +256,8 @@
                     "owner": "Yore0",
                     "repo": "TTDG-MGM",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +272,8 @@
                     "owner": "x-xc",
                     "repo": "SACB_Net",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +288,8 @@
                     "owner": "mabulnaga",
                     "repo": "multimorph",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -288,7 +304,8 @@
                     "owner": "GeWu-Lab",
                     "repo": "Motion-based-Self-Reflection-Framework",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -303,7 +320,8 @@
                     "owner": "Spritea",
                     "repo": "OCTA-Flow",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -318,7 +336,8 @@
                     "owner": "llesky",
                     "repo": "Robustness-Analysis-Optical-Flow",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -339,8 +358,9 @@
                     "last_commit": "2026-07-14T03:16:58Z",
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 280
-                  }
+                    "stars": 281
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -355,7 +375,8 @@
                     "owner": "msu-video-group",
                     "repo": "memfof",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -370,7 +391,8 @@
                     "owner": "Sharpiless",
                     "repo": "L2M",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -385,7 +407,8 @@
                     "owner": "Windsrain",
                     "repo": "ZeroStereo",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +423,8 @@
                     "owner": "ZizhuoLi",
                     "repo": "CoMatch",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +439,8 @@
                     "owner": "mujc2021",
                     "repo": "Diff2I2P",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -430,7 +455,8 @@
                     "owner": "joomeok",
                     "repo": "GrassmannRegistration",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -445,7 +471,8 @@
                     "owner": "tub-rip",
                     "repo": "e2fai",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -460,7 +487,8 @@
                     "owner": "hutaiHang",
                     "repo": "ATM",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -475,7 +503,8 @@
                     "owner": "longliangLiu",
                     "repo": "PriOr-Flow",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -490,7 +519,8 @@
                     "owner": "zhengcy-lambo",
                     "repo": "RARE",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -505,7 +535,8 @@
                     "owner": "BIT-Vision",
                     "repo": "EMatch",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -520,7 +551,8 @@
                     "owner": "tlliao",
                     "repo": "LPAM_seam-cutting",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -535,7 +567,8 @@
                     "owner": "ARLab-VT",
                     "repo": "Robust-Vector-Set-Alignment",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -557,7 +590,8 @@
                     "owner": "OliverRensu",
                     "repo": "FlowAR",
                     "stars": 171
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -572,7 +606,8 @@
                     "owner": "qortmdgh4141",
                     "repo": "GAS",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -594,7 +629,8 @@
                     "owner": "neel-dey",
                     "repo": "anatomix",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -609,7 +645,8 @@
                     "owner": "iwuqing",
                     "repo": "Moner",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -624,7 +661,8 @@
                     "owner": "imigraz",
                     "repo": "Restora-Flow",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -639,7 +677,8 @@
                     "owner": "EternalEvan",
                     "repo": "InstaRevive",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -654,7 +693,8 @@
                     "owner": "imagination-research",
                     "repo": "Distilled-Decoding-2",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -676,7 +716,8 @@
                     "owner": "JaneEliot",
                     "repo": "OTHR",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -698,7 +739,8 @@
                     "owner": "YutingHe-list",
                     "repo": "GEMINI",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -720,7 +762,8 @@
                     "owner": "multimodallearning",
                     "repo": "convexAdam",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -735,7 +778,8 @@
                     "owner": "RPIDIAL",
                     "repo": "DINO-Reg",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -750,7 +794,8 @@
                     "owner": "junzastar",
                     "repo": "Self-P2IR",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -765,7 +810,8 @@
                     "owner": "xi-jia",
                     "repo": "LessNet",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -780,7 +826,8 @@
                     "owner": "ShumengLI",
                     "repo": "SFR",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -795,7 +842,8 @@
                     "owner": "Runshi-Zhang",
                     "repo": "UTSRMorph",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -810,7 +858,8 @@
                     "owner": "boahK",
                     "repo": "OTMorph",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -825,7 +874,8 @@
                     "owner": "kamruleee51",
                     "repo": "Feedback_DLIR",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -840,7 +890,8 @@
                     "owner": "Jyk-122",
                     "repo": "SC-DREG",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -855,7 +906,8 @@
                     "owner": "weijunping111",
                     "repo": "RDG-TMI",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -870,7 +922,8 @@
                     "owner": "camalab-ai",
                     "repo": "sofa-flow",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -892,7 +945,8 @@
                     "owner": "MeijiTian",
                     "repo": "JSMoCo",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -907,7 +961,8 @@
                     "owner": "HengjieLiu",
                     "repo": "DIR-MUSA",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -922,7 +977,8 @@
                     "owner": "TechnionComputationalMRILab",
                     "repo": "MBSS-T1",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -937,7 +993,8 @@
                     "owner": "maopaom",
                     "repo": "COLLATOR",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -959,7 +1016,8 @@
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -974,7 +1032,8 @@
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -989,7 +1048,8 @@
                     "owner": "MICV-yonsei",
                     "repo": "M2M-Reg",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1004,7 +1064,8 @@
                     "owner": "uncbiag",
                     "repo": "dgir",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1019,7 +1080,24 @@
                     "owner": "BenBillot",
                     "repo": "spatial_regularisation",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1010940861,
+                    "language": "Python",
+                    "last_commit": "2025-09-29T06:49:51Z",
+                    "owner": "Bian-jh",
+                    "repo": "HoP-TM",
+                    "stars": 4
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1034,22 +1112,8 @@
                     "owner": "siomvas",
                     "repo": "FedCLAM",
                     "stars": 3
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1010940861,
-                    "language": "Python",
-                    "last_commit": "2025-09-29T06:49:51Z",
-                    "owner": "Bian-jh",
-                    "repo": "HoP-TM",
-                    "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1064,7 +1128,8 @@
                     "owner": "tinymilky",
                     "repo": "VoxelOpt",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1086,7 +1151,8 @@
                     "owner": "HaoXu0507",
                     "repo": "IPMI25-SAM-Assisted-Registration",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1108,7 +1174,8 @@
                     "owner": "pubyLu",
                     "repo": "TRACE",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1123,7 +1190,8 @@
                     "owner": "YiGuYT",
                     "repo": "LookBeyond",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1138,7 +1206,8 @@
                     "owner": "Jiahuiqu",
                     "repo": "CCM-RFJN",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1153,7 +1222,8 @@
                     "owner": "syl6312",
                     "repo": "DGCMIA",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1175,7 +1245,8 @@
                     "owner": "wangyxxjtu",
                     "repo": "ETE",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1204,7 +1275,8 @@
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1219,7 +1291,8 @@
                     "owner": "LA30",
                     "repo": "FlowDiffuser",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1234,7 +1307,8 @@
                     "owner": "zhiyuanYU134",
                     "repo": "MIRETR",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1249,7 +1323,8 @@
                     "owner": "Coradlut",
                     "repo": "Bi-JROS",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1264,7 +1339,8 @@
                     "owner": "boomluo02",
                     "repo": "EEMFlow",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1279,7 +1355,8 @@
                     "owner": "vkhoi",
                     "repo": "cora_cvpr24",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1294,7 +1371,8 @@
                     "owner": "Torbjorn1997",
                     "repo": "IIRP-Net",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1309,7 +1387,8 @@
                     "owner": "HanLingsgjk",
                     "repo": "UnifiedGeneralization",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1324,7 +1403,8 @@
                     "owner": "jinsz",
                     "repo": "Multiway-Point-Cloud-Mosaicking-with-Diffusion-and-Global-Optimization",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1345,8 +1425,9 @@
                     "last_commit": "2026-03-26T15:55:20Z",
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 694
-                  }
+                    "stars": 695
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1361,7 +1442,8 @@
                     "owner": "yejy53",
                     "repo": "EP-BEV",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1376,7 +1458,8 @@
                     "owner": "yaorz97",
                     "repo": "PARENet",
                     "stars": 92
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1391,7 +1474,8 @@
                     "owner": "nie-lang",
                     "repo": "StabStitch",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1406,7 +1490,8 @@
                     "owner": "Chen-Suyi",
                     "repo": "PointRegGPT",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1421,7 +1506,8 @@
                     "owner": "Egkang-Luis",
                     "repo": "BurstM",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1443,7 +1529,8 @@
                     "owner": "littlespray",
                     "repo": "StreamFlow",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1458,7 +1545,8 @@
                     "owner": "yayoyo66",
                     "repo": "SRStitcher",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1473,7 +1561,8 @@
                     "owner": "jiangchaokang",
                     "repo": "NeuroGauss4D-PCI",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1488,7 +1577,8 @@
                     "owner": "zlynpu",
                     "repo": "3DFMNet",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1510,7 +1600,8 @@
                     "owner": "supersupercong",
                     "repo": "UHDformer",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1525,7 +1616,8 @@
                     "owner": "wusize",
                     "repo": "CLIM",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1540,7 +1632,8 @@
                     "owner": "Jzy2017",
                     "repo": "TRIS",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1555,7 +1648,8 @@
                     "owner": "AI-IT-AVs",
                     "repo": "PosDiffNet",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1570,7 +1664,8 @@
                     "owner": "ruizhao26",
                     "repo": "HiST-SFlow",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1585,7 +1680,8 @@
                     "owner": "samjcheng",
                     "repo": "SuperJunction",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1607,7 +1703,8 @@
                     "owner": "yxzhang15",
                     "repo": "PCR",
                     "stars": 196
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1629,7 +1726,8 @@
                     "owner": "wwsource",
                     "repo": "SplatFlow",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1644,7 +1742,8 @@
                     "owner": "lhaippp",
                     "repo": "GyroFlowPlus",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1659,7 +1758,8 @@
                     "owner": "yihao6",
                     "repo": "digital_diffeomorphism",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1674,7 +1774,8 @@
                     "owner": "VDIGPKU",
                     "repo": "FlowNAS",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1696,7 +1797,8 @@
                     "owner": "gaocong13",
                     "repo": "Projective-Spatial-Transformers",
                     "stars": 135
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1711,7 +1813,8 @@
                     "owner": "ZAX130",
                     "repo": "RDP",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1726,7 +1829,8 @@
                     "owner": "lab-midas",
                     "repo": "GMARAFT",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1741,7 +1845,8 @@
                     "owner": "TVayne",
                     "repo": "GroupMorph",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1763,7 +1868,8 @@
                     "owner": "jianqingzheng",
                     "repo": "res_aligner_net",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1778,7 +1884,8 @@
                     "owner": "LocPham263",
                     "repo": "CMAN",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1800,7 +1907,8 @@
                     "owner": "cilix-ai",
                     "repo": "on-the-fly-guidance",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1815,7 +1923,8 @@
                     "owner": "tinymilky",
                     "repo": "Mem-Warp",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1830,7 +1939,8 @@
                     "owner": "nellie689",
                     "repo": "TLRN",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1845,7 +1955,8 @@
                     "owner": "ayanglab",
                     "repo": "DTCMR-Reg",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1860,7 +1971,8 @@
                     "owner": "xzluo97",
                     "repo": "Continual-Reg",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1882,7 +1994,8 @@
                     "owner": "SuhZhang",
                     "repo": "DiffGlue",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1897,7 +2010,8 @@
                     "owner": "gangweix",
                     "repo": "HCVFlow",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1912,7 +2026,8 @@
                     "owner": "tngh5004",
                     "repo": "Omnistitch",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1927,7 +2042,8 @@
                     "owner": "zzy188zzy",
                     "repo": "megc_spotting_code",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1942,7 +2058,8 @@
                     "owner": "yzc-ippl",
                     "repo": "TMCR",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -1957,7 +2074,8 @@
                     "owner": "chengyr1999",
                     "repo": "FlowInpaint",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1979,7 +2097,8 @@
                     "owner": "UCSB-AI",
                     "repo": "ComCLIP",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2008,7 +2127,8 @@
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
                     "stars": 544
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2023,7 +2143,8 @@
                     "owner": "WHU-USI3DV",
                     "repo": "SGHR",
                     "stars": 226
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2038,7 +2159,8 @@
                     "owner": "qinzheng93",
                     "repo": "GraphSCNet",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2053,7 +2175,8 @@
                     "owner": "DQiaole",
                     "repo": "MatchFlow",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2068,7 +2191,8 @@
                     "owner": "SYSU-SAIL",
                     "repo": "BUFFER",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2083,7 +2207,8 @@
                     "owner": "CrossmodalGroup",
                     "repo": "HREM",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2098,7 +2223,8 @@
                     "owner": "ppanzx",
                     "repo": "CHAN",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2113,7 +2239,8 @@
                     "owner": "Kid-Liet",
                     "repo": "IMSE",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2128,7 +2255,8 @@
                     "owner": "Jiang-HB",
                     "repo": "VBReg",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2143,7 +2271,8 @@
                     "owner": "ShngJZ",
                     "repo": "PMatch",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2158,7 +2287,8 @@
                     "owner": "GitCVfb",
                     "repo": "JAMNet",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2173,7 +2303,8 @@
                     "owner": "DensoITLab",
                     "repo": "tegbp",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2195,7 +2326,8 @@
                     "owner": "cvg",
                     "repo": "GlueStick",
                     "stars": 678
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2210,7 +2342,8 @@
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
                     "stars": 330
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2225,7 +2358,8 @@
                     "owner": "nie-lang",
                     "repo": "UDIS2",
                     "stars": 314
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2239,8 +2373,9 @@
                     "last_commit": "2025-11-30T13:36:05Z",
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
-                    "stars": 151
-                  }
+                    "stars": 152
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2254,8 +2389,9 @@
                     "last_commit": "2023-10-27T00:42:01Z",
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 149
-                  }
+                    "stars": 150
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2270,7 +2406,8 @@
                     "owner": "AIBluefisher",
                     "repo": "DReg-NeRF",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2285,7 +2422,8 @@
                     "owner": "Sharpiless",
                     "repo": "MPI-Flow",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2300,7 +2438,8 @@
                     "owner": "LA30",
                     "repo": "GAFlow",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2315,7 +2454,8 @@
                     "owner": "ispc-lab",
                     "repo": "TMA",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2330,7 +2470,8 @@
                     "owner": "liuQuan98",
                     "repo": "GCL",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2345,7 +2486,8 @@
                     "owner": "mulns",
                     "repo": "AccFlow",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2360,7 +2502,8 @@
                     "owner": "duke-vision",
                     "repo": "semantic-unsup-flow-release",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2375,7 +2518,8 @@
                     "owner": "phdymz",
                     "repo": "PointMBF",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2390,7 +2534,8 @@
                     "owner": "mattiaspaul",
                     "repo": "ChasingClouds",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2405,7 +2550,8 @@
                     "owner": "gddcx",
                     "repo": "EMD-Flow",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2420,7 +2566,8 @@
                     "owner": "boomluo02",
                     "repo": "ADMFlow",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2435,7 +2582,8 @@
                     "owner": "CGuangyan-BIT",
                     "repo": "MRA",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2450,7 +2598,8 @@
                     "owner": "DelinQu",
                     "repo": "QRSC",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2472,7 +2621,8 @@
                     "owner": "junshengzhou",
                     "repo": "VP2P-Match",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2487,7 +2637,8 @@
                     "owner": "rqhuang88",
                     "repo": "DFR",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2509,7 +2660,8 @@
                     "owner": "xi-jia",
                     "repo": "Fourier-Net",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2524,7 +2676,8 @@
                     "owner": "MengLi-l1",
                     "repo": "StrokeExtraction",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2539,7 +2692,8 @@
                     "owner": "Crane-YU",
                     "repo": "rethink_rotation",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2554,7 +2708,8 @@
                     "owner": "EdenHazardan",
                     "repo": "SFC",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2576,7 +2731,8 @@
                     "owner": "liuQuan98",
                     "repo": "APR",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2598,7 +2754,8 @@
                     "owner": "WPC-WHU",
                     "repo": "GROR",
                     "stars": 232
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2613,7 +2770,8 @@
                     "owner": "yumingj",
                     "repo": "C2-Matching",
                     "stars": 223
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2628,7 +2786,8 @@
                     "owner": "fukexue",
                     "repo": "RGM",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2643,7 +2802,8 @@
                     "owner": "HpWang-whu",
                     "repo": "RoReg",
                     "stars": 139
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2658,7 +2818,8 @@
                     "owner": "yaoyx689",
                     "repo": "AMM_NRR",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2673,7 +2834,8 @@
                     "owner": "ZhiChen902",
                     "repo": "SC2-PCR-plusplus",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2688,7 +2850,8 @@
                     "owner": "tub-rip",
                     "repo": "event_based_image_rec_inverse_problem",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2703,7 +2866,8 @@
                     "owner": "ispc-lab",
                     "repo": "HRegNet2",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2725,7 +2889,8 @@
                     "owner": "NaughtyZZ",
                     "repo": "3D_face_dense_registration",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2747,7 +2912,8 @@
                     "owner": "Blcony",
                     "repo": "SDHNet",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2769,7 +2935,8 @@
                     "owner": "alanqrwang",
                     "repo": "keymorph",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2784,7 +2951,8 @@
                     "owner": "fsahli",
                     "repo": "WarpPINN",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2799,7 +2967,8 @@
                     "owner": "XiongchaoChen",
                     "repo": "DuSFE_CrossRegistration",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2814,7 +2983,8 @@
                     "owner": "ankitajoshi15",
                     "repo": "R2Net",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -2836,7 +3006,8 @@
                     "owner": "uncbiag",
                     "repo": "robot",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2851,7 +3022,8 @@
                     "owner": "ZAX130",
                     "repo": "SmileCode",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2866,7 +3038,8 @@
                     "owner": "xmed-lab",
                     "repo": "FSDiffReg",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2881,7 +3054,8 @@
                     "owner": "ImFusionGmbH",
                     "repo": "DISA-universal-multimodal-registration",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2896,7 +3070,8 @@
                     "owner": "Torbjorn1997",
                     "repo": "PIViT",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2911,7 +3086,8 @@
                     "owner": "wulalago",
                     "repo": "GSMorph",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2926,7 +3102,8 @@
                     "owner": "Pragyanstha",
                     "repo": "SCR-Registration",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2941,7 +3118,8 @@
                     "owner": "multimodallearning",
                     "repo": "reg-cyclical-self-train",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2956,7 +3134,8 @@
                     "owner": "BaochangZhang",
                     "repo": "PSSS_registration",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2971,7 +3150,8 @@
                     "owner": "RuishengSu",
                     "repo": "AngioMoCo",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -2986,7 +3166,8 @@
                     "owner": "eyalhana",
                     "repo": "PCMC-T1",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3001,7 +3182,8 @@
                     "owner": "uncbiag",
                     "repo": "ByConstructionICON",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3016,7 +3198,8 @@
                     "owner": "SCAN-NRAD",
                     "repo": "CortexMorph",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3031,7 +3214,8 @@
                     "owner": "OnofreyLab",
                     "repo": "dl-hmc_fast_recon_miccai2023",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3046,7 +3230,8 @@
                     "owner": "rouge1616",
                     "repo": "ExApp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3061,7 +3246,8 @@
                     "owner": "SH-Diao123",
                     "repo": "MSIR",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3083,7 +3269,8 @@
                     "owner": "LuminosityX",
                     "repo": "FNE",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3112,7 +3299,8 @@
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
                     "stars": 976
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3127,7 +3315,8 @@
                     "owner": "haofeixu",
                     "repo": "gmflow",
                     "stars": 799
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3142,7 +3331,8 @@
                     "owner": "yewzijian",
                     "repo": "RegTR",
                     "stars": 271
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3157,7 +3347,8 @@
                     "owner": "MCG-NJU",
                     "repo": "CamLiFlow",
                     "stars": 253
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3172,7 +3363,8 @@
                     "owner": "rabbityl",
                     "repo": "lepard",
                     "stars": 239
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3187,7 +3379,8 @@
                     "owner": "ZhiChen902",
                     "repo": "SC2-PCR",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3202,7 +3395,8 @@
                     "owner": "cwmok",
                     "repo": "C2FViT",
                     "stars": 155
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3217,7 +3411,8 @@
                     "owner": "CVI-SZU",
                     "repo": "CLIMS",
                     "stars": 139
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3232,7 +3427,8 @@
                     "owner": "CrossmodalGroup",
                     "repo": "NAAF",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3247,7 +3443,8 @@
                     "owner": "xiaofeng94",
                     "repo": "GMFlowNet",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3262,7 +3459,8 @@
                     "owner": "flowerDuo",
                     "repo": "GES-GSP-Stitching",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3277,7 +3475,8 @@
                     "owner": "askerlee",
                     "repo": "craft",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3292,7 +3491,8 @@
                     "owner": "meaten",
                     "repo": "MotionAug-CVPR2022",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3307,7 +3507,8 @@
                     "owner": "megvii-research",
                     "repo": "KPAFlow",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3322,7 +3523,8 @@
                     "owner": "Siwensun",
                     "repo": "Neural_Diffeomorphic_Flow--NDF",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3337,7 +3539,8 @@
                     "owner": "Acnext",
                     "repo": "Optical-Flow-For-Spiking-Camera",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3352,7 +3555,8 @@
                     "owner": "yifannnwu",
                     "repo": "NODEO-DIR",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3367,7 +3571,8 @@
                     "owner": "dgrzech",
                     "repo": "learnsim",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3382,7 +3587,8 @@
                     "owner": "AoxiangFan",
                     "repo": "GeneralizedCoherentPointDrift",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3397,7 +3603,8 @@
                     "owner": "uncbiag",
                     "repo": "Aladdin",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3412,7 +3619,8 @@
                     "owner": "lmb-freiburg",
                     "repo": "understanding_flow_robustness",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3427,7 +3635,8 @@
                     "owner": "2120171054",
                     "repo": "Global-Aware-Registration-of-Less-Overlap-RGB-D-Scans",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3442,7 +3651,8 @@
                     "owner": "Gilgamesh666666",
                     "repo": "Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3464,7 +3674,8 @@
                     "owner": "MediaBrain-SJTU",
                     "repo": "RegAD",
                     "stars": 322
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3479,7 +3690,8 @@
                     "owner": "apple",
                     "repo": "ml-aspanformer",
                     "stars": 252
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3494,7 +3706,8 @@
                     "owner": "tub-rip",
                     "repo": "event_based_optical_flow",
                     "stars": 197
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3509,7 +3722,8 @@
                     "owner": "zxrzju",
                     "repo": "SuperLine3D",
                     "stars": 150
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3524,7 +3738,8 @@
                     "owner": "DiffuseMorph",
                     "repo": "DiffuseMorph",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3539,7 +3754,8 @@
                     "owner": "ActiveVisionLab",
                     "repo": "DFNet",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3554,7 +3770,8 @@
                     "owner": "megvii-research",
                     "repo": "RealFlow",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3569,7 +3786,8 @@
                     "owner": "ariel415el",
                     "repo": "GPDM",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3584,7 +3802,8 @@
                     "owner": "ruc-aimc-lab",
                     "repo": "SuperRetina",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3599,7 +3818,8 @@
                     "owner": "Gardlin",
                     "repo": "PCR-CG",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3614,7 +3834,8 @@
                     "owner": "megvii-research",
                     "repo": "FST-Matching",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3629,7 +3850,8 @@
                     "owner": "Ryan-prime",
                     "repo": "3DG-STFM",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3644,7 +3866,8 @@
                     "owner": "514DNA",
                     "repo": "LLT",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3659,7 +3882,8 @@
                     "owner": "phdymz",
                     "repo": "PointCLM",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3674,7 +3898,8 @@
                     "owner": "dongliangcao",
                     "repo": "Unsupervised-Deep-Multi-Shape-Matching",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3689,7 +3914,8 @@
                     "owner": "Sentient07",
                     "repo": "IFMatch",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3704,7 +3930,8 @@
                     "owner": "cv-stuttgart",
                     "repo": "PCFA",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3719,7 +3946,8 @@
                     "owner": "jasongzy",
                     "repo": "CMT",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3740,8 +3968,9 @@
                     "last_commit": "2025-01-01T06:26:04Z",
                     "owner": "rabbityl",
                     "repo": "DeformationPyramid",
-                    "stars": 221
-                  }
+                    "stars": 222
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3756,7 +3985,8 @@
                     "owner": "ruizhao26",
                     "repo": "Spike2Flow",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3771,7 +4001,8 @@
                     "owner": "Sentient07",
                     "repo": "DeformationBasis",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3793,7 +4024,8 @@
                     "owner": "Algolzw",
                     "repo": "SPAC-Deformable-Registration",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3808,7 +4040,8 @@
                     "owner": "megvii-research",
                     "repo": "AGFlow",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3823,7 +4056,8 @@
                     "owner": "supersyq",
                     "repo": "RIENet",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3838,7 +4072,8 @@
                     "owner": "MegEngine",
                     "repo": "FINet",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3853,7 +4088,8 @@
                     "owner": "ZhiChen902",
                     "repo": "DetarNet",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3868,7 +4104,8 @@
                     "owner": "wangkaihong",
                     "repo": "Unsup_Recycle_GAN",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3890,7 +4127,8 @@
                     "owner": "heyblackC",
                     "repo": "DFMIR",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3912,7 +4150,8 @@
                     "owner": "aioz-ai",
                     "repo": "LDR_ALDK",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3927,7 +4166,8 @@
                     "owner": "Barnonewdm",
                     "repo": "RTA-Net",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -3949,7 +4189,8 @@
                     "owner": "DIAL-RPI",
                     "repo": "Attention-Reg",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3964,7 +4205,8 @@
                     "owner": "HiLab-git",
                     "repo": "SCPM-Net",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3979,7 +4221,8 @@
                     "owner": "acasamitjana",
                     "repo": "3dhirest",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -3994,7 +4237,8 @@
                     "owner": "JinxLv",
                     "repo": "reimplemention-of-Dual-PRNet",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4016,7 +4260,8 @@
                     "owner": "cwmok",
                     "repo": "DIRAC",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4031,7 +4276,8 @@
                     "owner": "MungoMeng",
                     "repo": "Registration-NICE-Trans",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4046,7 +4292,8 @@
                     "owner": "imedslab",
                     "repo": "AdaTriplet",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4061,7 +4308,8 @@
                     "owner": "multimodallearning",
                     "repo": "registration-da-mean-teacher",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4076,7 +4324,8 @@
                     "owner": "gxq1998",
                     "repo": "MCP-Net.",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4091,7 +4340,8 @@
                     "owner": "OnofreyLab",
                     "repo": "dl-hmc_miccai2022",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4113,7 +4363,8 @@
                     "owner": "NanYoMy",
                     "repo": "cmmas",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4135,7 +4386,8 @@
                     "owner": "HpWang-whu",
                     "repo": "YOHO",
                     "stars": 153
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4150,7 +4402,8 @@
                     "owner": "weihao20",
                     "repo": "cfm",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4172,7 +4425,8 @@
                     "owner": "zikai1",
                     "repo": "GraphReg",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4194,7 +4448,8 @@
                     "owner": "craigleili",
                     "repo": "WSDesc",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4223,7 +4478,8 @@
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
                     "stars": 604
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4238,7 +4494,8 @@
                     "owner": "QingyongHu",
                     "repo": "SpinNet",
                     "stars": 309
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4252,8 +4509,9 @@
                     "last_commit": "2023-06-01T02:43:10Z",
                     "owner": "lijx10",
                     "repo": "DeepI2P",
-                    "stars": 260
-                  }
+                    "stars": 261
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4268,7 +4526,8 @@
                     "owner": "dut-media-lab",
                     "repo": "Image-Stitching",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4283,7 +4542,8 @@
                     "owner": "Lilac-Lee",
                     "repo": "PointNetLK_Revisited",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4305,7 +4565,8 @@
                     "owner": "haofeixu",
                     "repo": "flow1d",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4320,7 +4581,8 @@
                     "owner": "MegEngine",
                     "repo": "GyroFlow",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4335,7 +4597,8 @@
                     "owner": "ChirikjianLab",
                     "repo": "LSG-CPD",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4350,7 +4613,8 @@
                     "owner": "MegEngine",
                     "repo": "OMNet",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4365,7 +4629,8 @@
                     "owner": "czhang0528",
                     "repo": "MosaicOS",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4380,7 +4645,8 @@
                     "owner": "coolbay",
                     "repo": "VSGN",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4395,7 +4661,8 @@
                     "owner": "Jiang-HB",
                     "repo": "CEMNet",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4410,7 +4677,8 @@
                     "owner": "Ghostish",
                     "repo": "BAT",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4432,7 +4700,8 @@
                     "owner": "int-brain-lab",
                     "repo": "spikes_localization_registration",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4454,7 +4723,8 @@
                     "owner": "twhui",
                     "repo": "LiteFlowNet2",
                     "stars": 285
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4476,7 +4746,8 @@
                     "owner": "ubc-vision",
                     "repo": "image-matching-benchmark",
                     "stars": 548
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4491,7 +4762,8 @@
                     "owner": "RuiyingLu",
                     "repo": "OFaNet-for-Dual-view-SCI",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4513,7 +4785,8 @@
                     "owner": "multimodallearning",
                     "repo": "graphregnet",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4528,7 +4801,8 @@
                     "owner": "bbbbbbzhou",
                     "repo": "MDPET",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4543,7 +4817,8 @@
                     "owner": "LoicPeter",
                     "repo": "evaluation-deformable-registration",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4565,7 +4840,8 @@
                     "owner": "cwmok",
                     "repo": "Conditional_LapIRN",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4580,7 +4856,8 @@
                     "owner": "DIAL-RPI",
                     "repo": "Attention-Reg",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4595,7 +4872,8 @@
                     "owner": "liuquande",
                     "repo": "FedIRM",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4610,7 +4888,8 @@
                     "owner": "DIAL-RPI",
                     "repo": "FVR-Net",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4625,7 +4904,8 @@
                     "owner": "gvtulder",
                     "repo": "cross-view-transformers",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4640,7 +4920,8 @@
                     "owner": "xuuuuuuchen",
                     "repo": "PASTA",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4655,7 +4936,8 @@
                     "owner": "ccmim",
                     "repo": "DDIR",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4670,7 +4952,8 @@
                     "owner": "multimodallearning",
                     "repo": "iter_lbp",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4692,7 +4975,8 @@
                     "owner": "multimodallearning",
                     "repo": "deep-geo-reg",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4714,7 +4998,8 @@
                     "owner": "iralabdisco",
                     "repo": "point_clouds_registration_benchmark",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4743,7 +5028,8 @@
                     "owner": "zgojcic",
                     "repo": "3D_multiview_reg",
                     "stars": 403
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4758,7 +5044,8 @@
                     "owner": "itailang",
                     "repo": "SampleNet",
                     "stars": 392
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4773,7 +5060,8 @@
                     "owner": "CrossmodalGroup",
                     "repo": "GSMN",
                     "stars": 169
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4788,7 +5076,8 @@
                     "owner": "XiaoshuiHuang",
                     "repo": "fmr",
                     "stars": 158
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4810,7 +5099,8 @@
                     "owner": "jiahaoli95",
                     "repo": "idam",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4832,7 +5122,8 @@
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
                     "stars": 1736
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4847,7 +5138,8 @@
                     "owner": "tudelft",
                     "repo": "cuSNN",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4869,7 +5161,8 @@
                     "owner": "uncbiag",
                     "repo": "easyreg",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4884,7 +5177,8 @@
                     "owner": "gaocong13",
                     "repo": "Projective-Spatial-Transformers",
                     "stars": 135
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4899,7 +5193,8 @@
                     "owner": "TheoEst",
                     "repo": "abdominal_registration",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4914,7 +5209,8 @@
                     "owner": "multimodallearning",
                     "repo": "pdd2.5",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4929,7 +5225,8 @@
                     "owner": "ngunnar",
                     "repo": "learning-a-deformable-registration-pyramid",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4951,7 +5248,8 @@
                     "owner": "felja633",
                     "repo": "RLLReg",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -4980,7 +5278,8 @@
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
                     "stars": 492
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -4995,7 +5294,8 @@
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
                     "stars": 492
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -5010,7 +5310,8 @@
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
                     "stars": 492
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -5025,7 +5326,8 @@
                     "owner": "intellhave",
                     "repo": "SDRSAC",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5047,7 +5349,8 @@
                     "owner": "sergeyprokudin",
                     "repo": "bps",
                     "stars": 203
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -5062,7 +5365,8 @@
                     "owner": "zsyzzsoft",
                     "repo": "Recursive-Cascaded-Networks",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5084,7 +5388,8 @@
                     "owner": "YongyiTang92",
                     "repo": "MoNet-Features",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5106,7 +5411,8 @@
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2748
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5128,7 +5434,8 @@
                     "owner": "multimodallearning",
                     "repo": "pdd_net",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5150,7 +5457,8 @@
                     "owner": "JStech",
                     "repo": "ICP",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5179,7 +5487,8 @@
                     "owner": "kevin-ssy",
                     "repo": "Optical-Flow-Guided-Feature",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -5194,7 +5503,8 @@
                     "owner": "felja633",
                     "repo": "DARE",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5216,7 +5526,8 @@
                     "owner": "yewzijian",
                     "repo": "3DFeatNet",
                     "stars": 220
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -5231,7 +5542,8 @@
                     "owner": "YanchaoYang",
                     "repo": "Conditional-Prior-Networks",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5253,7 +5565,8 @@
                     "owner": "xuelunshen",
                     "repo": "H-Net",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5275,7 +5588,8 @@
                     "owner": "wentaoyuan",
                     "repo": "pcn",
                     "stars": 486
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5296,8 +5610,9 @@
                     "last_commit": "2020-12-28T10:00:45Z",
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 459
-                  }
+                    "stars": 458
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5326,7 +5641,8 @@
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
                     "stars": 905
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 },
                 {
                   "node_type": "item",
@@ -5341,7 +5657,8 @@
                     "owner": "gilbaz",
                     "repo": "LORAX",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5370,7 +5687,8 @@
                     "owner": "isl-org",
                     "repo": "FastGlobalRegistration",
                     "stars": 553
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5392,7 +5710,8 @@
                     "owner": "yangjiaolong",
                     "repo": "Go-ICP",
                     "stars": 506
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -5409,7 +5728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:35:54.386Z",
+    "last_updated": "2026-08-28T17:31:21.643Z",
     "original_repository_info": {
       "archived": false,
       "id": 218470804,
@@ -5417,7 +5736,7 @@
       "last_commit": "2026-07-23T06:17:17Z",
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1544
+      "stars": 1543
     },
     "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
     "enhanced_repository": "enhansome/enhansome-image-registration",
