@@ -1243,7 +1243,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### CVPR
 
 * PREDATOR: Registration of 3D Point Clouds with Low Overlap. \[[PUB](https://arxiv.org/pdf/2011.13005.pdf)] \[[code-pytorch](https://github.com/ShengyuH/OverlapPredator) ⭐ 604 | 🐛 17 | 🌐 Python | 📅 2025-02-20] \[**`pc.`**] :fire:
-* SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. \[[PUB](https://github.com/QingyongHu/SpinNet) ⭐ 309 | 🐛 21 | 🌐 Python | 📅 2021-08-04] \[[code-pytorch](https://github.com/QingyongHu/SpinNet) ⭐ 309 | 🐛 21 | 🌐 Python | 📅 2021-08-04] \[**`pc.`**] :fire:
+* SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. \[[PUB](https://github.com/QingyongHu/SpinNet) ⭐ 310 | 🐛 21 | 🌐 Python | 📅 2021-08-04] \[[code-pytorch](https://github.com/QingyongHu/SpinNet) ⭐ 310 | 🐛 21 | 🌐 Python | 📅 2021-08-04] \[**`pc.`**] :fire:
 * DeepI2P: Image-to-Point Cloud Registration via Deep Classification. \[[PUB](https://arxiv.org/abs/2104.03501)] \[[CODE](https://github.com/lijx10/DeepI2P) ⭐ 261 | 🐛 15 | 🌐 C++ | 📅 2023-06-01] \[**`pc.`**] :fire:
 * Leveraging Line-Point Consistence To Preserve Structures for Wide Parallax Image Stitching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Jia_Leveraging_Line-Point_Consistence_To_Preserve_Structures_for_Wide_Parallax_Image_CVPR_2021_paper.html)] \[[CODE](https://github.com/dut-media-lab/Image-Stitching) ⭐ 101 | 🐛 7 | 🌐 C | 📅 2021-05-24] \[**`oth.`**]
 * PointNetLK Revisited. \[[PUB](https://arxiv.org/pdf/2008.09527.pdf)] \[[CODE](https://github.com/Lilac-Lee/PointNetLK_Revisited) ⭐ 52 | 🐛 9 | 🌐 Python | 📅 2022-04-13] \[**`pc.`**]

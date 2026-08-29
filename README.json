@@ -6171,7 +6171,7 @@
                     "open_issues": 21,
                     "owner": "QingyongHu",
                     "repo": "SpinNet",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "3dmatch",
                       "descriptor",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:02.314Z",
+    "last_updated": "2026-08-29T11:42:45.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
