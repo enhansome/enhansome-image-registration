@@ -508,7 +508,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
 * PointRegGPT: Boosting 3D Point Cloud Registration Using Generative Point-Cloud Pairs for Training. \[[PUB](https://doi.org/10.1007/978-3-031-72983-6_16)] \[[CODE](https://github.com/Chen-Suyi/PointRegGPT) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-02-24]
-* BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
+* BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 38 | 🐛 3 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
 * Adaptive Correspondence Scoring for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72920-1_5)]
 * BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation Using RGB Frames and Events. \[[PUB](https://doi.org/10.1007/978-3-031-72855-6_2)]
 * Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning. \[[PUB](https://doi.org/10.1007/978-3-031-73223-2_5)] \[**`pc.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
