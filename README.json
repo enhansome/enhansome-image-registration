@@ -477,7 +477,7 @@
                     "open_issues": 3,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 281,
+                    "stars": 282,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:42:45.236Z",
+    "last_updated": "2026-08-30T10:33:07.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
