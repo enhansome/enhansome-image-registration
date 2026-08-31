@@ -261,7 +261,7 @@
                     "open_issues": 39,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 669,
+                    "stars": 671,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 495,
+                    "stars": 496,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2919,7 +2919,7 @@
                     "open_issues": 5,
                     "owner": "WHU-USI3DV",
                     "repo": "SGHR",
-                    "stars": 226,
+                    "stars": 225,
                     "topics": [
                       "multiview-registration",
                       "paper",
@@ -3200,7 +3200,7 @@
                     "open_issues": 3,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 52,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 976,
+                    "stars": 977,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4575,7 +4575,7 @@
                     "open_issues": 1,
                     "owner": "MCG-NJU",
                     "repo": "CamLiFlow",
-                    "stars": 253,
+                    "stars": 252,
                     "topics": [
                       "cvpr2022",
                       "multimodal",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:33:07.249Z",
+    "last_updated": "2026-08-31T11:41:30.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
