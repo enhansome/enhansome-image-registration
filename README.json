@@ -802,7 +802,7 @@
                     "open_issues": 5,
                     "owner": "OliverRensu",
                     "repo": "FlowAR",
-                    "stars": 171,
+                    "stars": 172,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 695,
+                    "stars": 696,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1970,7 +1970,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 92,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2136,7 +2136,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-01-19T14:56:25Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "zlynpu",
                     "repo": "3DFMNet",
                     "stars": 19,
@@ -2898,7 +2898,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 544,
+                    "stars": 543,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2919,7 +2919,7 @@
                     "open_issues": 5,
                     "owner": "WHU-USI3DV",
                     "repo": "SGHR",
-                    "stars": 225,
+                    "stars": 224,
                     "topics": [
                       "multiview-registration",
                       "paper",
@@ -2996,7 +2996,7 @@
                     "open_issues": 13,
                     "owner": "SYSU-SAIL",
                     "repo": "BUFFER",
-                    "stars": 98,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3228,27 +3228,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV2023]RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration",
-                    "homepage": null,
-                    "id": 667751457,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-11-30T13:36:05Z",
-                    "open_issues": 10,
-                    "owner": "IRMVLab",
-                    "repo": "RegFormer",
-                    "stars": 152,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
                   "description": "] [CODE] []",
                   "children": [],
@@ -3270,6 +3249,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV2023]RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration",
+                    "homepage": null,
+                    "id": 667751457,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-11-30T13:36:05Z",
+                    "open_issues": 10,
+                    "owner": "IRMVLab",
+                    "repo": "RegFormer",
+                    "stars": 150,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DReg-NeRF: Deep Registration for Neural Radiance Fields. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -3281,7 +3281,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2023-09-04T12:12:46Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "AIBluefisher",
                     "repo": "DReg-NeRF",
                     "stars": 69,
@@ -3814,7 +3814,7 @@
                     "open_issues": 4,
                     "owner": "HpWang-whu",
                     "repo": "RoReg",
-                    "stars": 139,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3856,7 +3856,7 @@
                     "open_issues": 3,
                     "owner": "ZhiChen902",
                     "repo": "SC2-PCR-plusplus",
-                    "stars": 64,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3915,7 +3915,7 @@
                     "open_issues": 1,
                     "owner": "ispc-lab",
                     "repo": "HRegNet2",
-                    "stars": 12,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4150,7 +4150,7 @@
                     "open_issues": 12,
                     "owner": "xmed-lab",
                     "repo": "FSDiffReg",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 52,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 977,
+                    "stars": 976,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4554,7 +4554,7 @@
                     "open_issues": 20,
                     "owner": "yewzijian",
                     "repo": "RegTR",
-                    "stars": 271,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5023,7 +5023,7 @@
                     "open_issues": 14,
                     "owner": "MediaBrain-SJTU",
                     "repo": "RegAD",
-                    "stars": 322,
+                    "stars": 323,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6024,7 +6024,7 @@
                     "open_issues": 0,
                     "owner": "HpWang-whu",
                     "repo": "YOHO",
-                    "stars": 153,
+                    "stars": 152,
                     "topics": [
                       "point-cloud",
                       "registration"
@@ -6144,7 +6144,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 604,
+                    "stars": 603,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -7045,7 +7045,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1736,
+                    "stars": 1737,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:41:30.684Z",
+    "last_updated": "2026-09-01T10:15:39.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
