@@ -261,7 +261,7 @@
                     "open_issues": 39,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 671,
+                    "stars": 672,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -1027,7 +1027,7 @@
                     "open_issues": 6,
                     "owner": "multimodallearning",
                     "repo": "convexAdam",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1375,7 +1375,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -1727,7 +1727,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -1753,7 +1753,7 @@
                     "open_issues": 2,
                     "owner": "LA30",
                     "repo": "FlowDiffuser",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 696,
+                    "stars": 697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2898,7 +2898,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 543,
+                    "stars": 542,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 52,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 976,
+                    "stars": 977,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4554,7 +4554,7 @@
                     "open_issues": 20,
                     "owner": "yewzijian",
                     "repo": "RegTR",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7422,7 +7422,7 @@
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2748,
+                    "stars": 2749,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7692,7 +7692,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 458,
+                    "stars": 457,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:15:39.063Z",
+    "last_updated": "2026-09-02T09:44:50.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
