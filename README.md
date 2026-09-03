@@ -2,7 +2,7 @@
 
 A curated list of image registration related books, papers, videos, and toolboxes
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23
+[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
 
 [**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
@@ -200,7 +200,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICCV
 
-* Buffer-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00367)] \[[CODE](https://github.com/MIT-SPARK/BUFFER-X) ⭐ 282 | 🐛 3 | 🌐 Python | 📅 2026-07-14]
+* Buffer-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00367)] \[[CODE](https://github.com/MIT-SPARK/BUFFER-X) ⭐ 283 | 🐛 3 | 🌐 Python | 📅 2026-07-14]
 * MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00767)] \[[CODE](https://github.com/msu-video-group/memfof) ⭐ 103 | 🐛 0 | 🌐 Python | 📅 2025-12-11]
 * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00624)] \[[CODE](https://github.com/Sharpiless/L2M) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2026-05-23]
 * ZeroStereo: Zero-Shot Stereo Matching from Single Images. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02616)] \[[CODE](https://github.com/Windsrain/ZeroStereo) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-05-21]
@@ -539,7 +539,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * StreamFlow: Streamlined Multi-Frame Optical Flow Estimation for Video Sequences. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/116a952bc0a8cb03113408c1a215be7c-Abstract-Conference.html)] \[[CODE](https://github.com/littlespray/StreamFlow) ⭐ 42 | 🐛 4 | 🌐 Python | 📅 2025-03-10]
 * Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/dfa1106ea7065899b13f2be9da04efb4-Abstract-Conference.html)] \[[CODE](https://github.com/yayoyo66/SRStitcher) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2024-11-05]
 * NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/aa9508b2577e0d9c824da9e2e27fe9d6-Abstract-Conference.html)] \[[CODE](https://github.com/jiangchaokang/NeuroGauss4D-PCI) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2024-05-27]
-* 3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/cc52950239c3129464b0a6e379e2a9b0-Abstract-Conference.html)] \[[CODE](https://github.com/zlynpu/3DFMNet) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2025-01-19]
+* 3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/cc52950239c3129464b0a6e379e2a9b0-Abstract-Conference.html)] \[[CODE](https://github.com/zlynpu/3DFMNet) ⭐ 19 | 🐛 6 | 🌐 Python | 📅 2025-01-19]
 * A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/821a6e5681b072351fd3c21fac44739a-Abstract-Conference.html)]
 * A robust inlier identification algorithm for point cloud registration via 𝓁0-minimization. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/735c847a07bf6dd4486ca1ace242a88c-Abstract-Conference.html)]
 * An eye for an ear: zero-shot audio description leveraging an image captioner with audio-visual token distribution matching. \[[PUB](http://papers.nips.cc/paper_files/paper/2024/hash/4426af45e987692abf1b80108951ff8a-Abstract-Conference.html)]
@@ -758,7 +758,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 314 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 150 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
 * RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00776)] \[[CODE](https://github.com/IRMVLab/RegFormer) ⭐ 150 | 🐛 10 | 🌐 Python | 📅 2025-11-30] \[**`pc.`**]
-* DReg-NeRF: Deep Registration for Neural Radiance Fields. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.02075)] \[[CODE](https://github.com/AIBluefisher/DReg-NeRF) ⭐ 69 | 🐛 4 | 🌐 Python | 📅 2023-09-04]
+* DReg-NeRF: Deep Registration for Neural Radiance Fields. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.02075)] \[[CODE](https://github.com/AIBluefisher/DReg-NeRF) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2023-09-04]
 * MPI-Flow: Learning Realistic Optical Flow with Multiplane Images. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01274)] \[[CODE](https://github.com/Sharpiless/MPI-Flow) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2024-05-07]
 * GAFlow: Incorporating Gaussian Attention into Optical Flow. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00884)] \[[CODE](https://github.com/LA30/GAFlow) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2023-10-11]
 * TMA: Temporal Motion Aggregation for Event-based Optical Flow. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00888)] \[[CODE](https://github.com/ispc-lab/TMA) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2024-03-08]
@@ -984,7 +984,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 977 | 🐛 52 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
 * GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 799 | 🐛 6 | 🌐 Python | 📅 2024-02-20]
-* REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 270 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
+* REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 271 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 252 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
 * Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 239 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
 * SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01287)] \[[CODE](https://github.com/ZhiChen902/SC2-PCR) ⭐ 199 | 🐛 3 | 🌐 Python | 📅 2023-12-20] \[**`pc.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

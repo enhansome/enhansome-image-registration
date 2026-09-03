@@ -477,7 +477,7 @@
                     "open_issues": 3,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -2136,7 +2136,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-01-19T14:56:25Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "zlynpu",
                     "repo": "3DFMNet",
                     "stars": 19,
@@ -3281,7 +3281,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2023-09-04T12:12:46Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "AIBluefisher",
                     "repo": "DReg-NeRF",
                     "stars": 69,
@@ -4554,7 +4554,7 @@
                     "open_issues": 20,
                     "owner": "yewzijian",
                     "repo": "RegTR",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:44:50.046Z",
+    "last_updated": "2026-09-03T09:57:26.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1543,
+      "stars": 1544,
       "topics": [
         "awesome",
         "awesome-list",
