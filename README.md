@@ -163,7 +163,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### CVPR
 
 * MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 672 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
-* DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 550 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
+* DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 551 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 * Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 496 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
 * Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)] \[[CODE](https://github.com/Yore0/TTDG-MGM) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2025-06-15]
 * SACB-Net: Spatial-awareness Convolutions for Medical Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration_CVPR_2025_paper.html)] [CODE](https://github.com/x-xc/SACB_Net) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-11-07
@@ -315,7 +315,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TMI
 
-* ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3462248)] \[[CODE](http://github.com/multimodallearning/convexAdam) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2025-11-17]
+* ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3462248)] \[[CODE](http://github.com/multimodallearning/convexAdam) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2025-11-17]
 * DINO-Reg: Efficient Multimodal Image Registration With Distilled Features. \[[PUB](https://doi.org/10.1109/TMI.2025.3567247)] \[[CODE](https://github.com/RPIDIAL/DINO-Reg) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2025-03-21]
 * Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. \[[PUB](https://doi.org/10.1109/TMI.2025.3574198)] \[[CODE](https://github.com/junzastar/Self-P2IR) ⭐ 33 | 🐛 8 | 🌐 Python | 📅 2025-12-04]
 * Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 697 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 698 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 90 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -615,7 +615,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * A Fully Differentiable Framework for 2D/3D Registration and the Projective Spatial Transformers. \[[PUB](https://doi.org/10.1109/TMI.2023.3299588)] \[[CODE](https://github.com/gaocong13/Projective-Spatial-Transformers) ⭐ 135 | 🐛 18 | 🌐 Python | 📅 2023-09-16]
 * Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3362968)] \[[CODE](https://github.com/ZAX130/RDP) ⭐ 65 | 🐛 8 | 🌐 Python | 📅 2026-03-05]
-* Attention-Aware Non-Rigid Image Registration for Accelerated MR Imaging. \[[PUB](https://doi.org/10.1109/TMI.2024.3385024)] \[[CODE](https://github.com/lab-midas/GMARAFT) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-10-24]
+* Attention-Aware Non-Rigid Image Registration for Accelerated MR Imaging. \[[PUB](https://doi.org/10.1109/TMI.2024.3385024)] \[[CODE](https://github.com/lab-midas/GMARAFT) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2025-10-24]
 * GroupMorph: Medical Image Registration via Grouping Network With Contextual Fusion. \[[PUB](https://doi.org/10.1109/TMI.2024.3400603)] \[[CODE](https://github.com/TVayne/GroupMorph) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-07-16]
 * 3D/2D Vessel Registration Based on Monte Carlo Tree Search and Manifold Regularization. \[[PUB](https://doi.org/10.1109/TMI.2023.3347896)]
 * A Multi-Scale Fusion and Transformer Based Registration Guided Speckle Noise Reduction for OCT Images. \[[PUB](https://doi.org/10.1109/TMI.2023.3309813)]
@@ -753,7 +753,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICCV
 
-* GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 678 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
+* GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 680 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
 * VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 331 | 🐛 3 | 🌐 Python | 📅 2023-09-20]
 * Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 314 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 150 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
@@ -1055,7 +1055,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### NeurIPS
 
-* Non-rigid Point Cloud Registration with Neural Deformation Pyramid. \[[PUB](https://arxiv.org/pdf/2205.12796.pdf)] \[[CODE](https://github.com/rabbityl/DeformationPyramid) ⭐ 222 | 🐛 10 | 🌐 Python | 📅 2025-01-01] \[**`pc.`**]
+* Non-rigid Point Cloud Registration with Neural Deformation Pyramid. \[[PUB](https://arxiv.org/pdf/2205.12796.pdf)] \[[CODE](https://github.com/rabbityl/DeformationPyramid) ⭐ 223 | 🐛 10 | 🌐 Python | 📅 2025-01-01] \[**`pc.`**]
 * Learning Optical Flow from Continuous Spike Streams. \[[PUB](http://papers.nips.cc/paper_files/paper/2022/hash/33951c28630e48c441cb59db356f2037-Abstract-Conference.html)] \[[CODE](https://github.com/ruizhao26/Spike2Flow) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2022-11-24]
 * Reduced Representation of Deformation Fields for Effective Non-rigid Shape Matching. \[[PUB](http://papers.nips.cc/paper_files/paper/2022/hash/43d1d3bdd92204c96fa4ac3c578f6a33-Abstract-Conference.html)] \[[CODE](https://github.com/Sentient07/DeformationBasis) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-01-03]
 * CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation. \[[PUB](http://papers.nips.cc/paper_files/paper/2022/hash/cb78e6b5246b03e0b82b4acc8b11cc21-Abstract-Conference.html)] \[**`dep.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

@@ -286,7 +286,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 550,
+                    "stars": 551,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -1027,7 +1027,7 @@
                     "open_issues": 6,
                     "owner": "multimodallearning",
                     "repo": "convexAdam",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 697,
+                    "stars": 698,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2473,7 +2473,7 @@
                     "open_issues": 0,
                     "owner": "lab-midas",
                     "repo": "GMARAFT",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": [
                       "deep-learning",
                       "image-registration",
@@ -3171,7 +3171,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 678,
+                    "stars": 680,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -5460,7 +5460,7 @@
                     "open_issues": 10,
                     "owner": "rabbityl",
                     "repo": "DeformationPyramid",
-                    "stars": 222,
+                    "stars": 223,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:57:26.787Z",
+    "last_updated": "2026-09-04T09:45:46.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
