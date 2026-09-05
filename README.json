@@ -847,7 +847,7 @@
                     "id": 882936246,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-07-29T20:38:57Z",
+                    "last_commit": "2026-09-05T04:33:27Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 698,
+                    "stars": 699,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 52,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 977,
+                    "stars": 978,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:45:46.716Z",
+    "last_updated": "2026-09-05T09:10:48.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
