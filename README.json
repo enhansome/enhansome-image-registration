@@ -4757,7 +4757,7 @@
                     "open_issues": 1,
                     "owner": "askerlee",
                     "repo": "craft",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7522,7 +7522,7 @@
                     "open_issues": 0,
                     "owner": "kevin-ssy",
                     "repo": "Optical-Flow-Guided-Feature",
-                    "stars": 201,
+                    "stars": 202,
                     "topics": [
                       "action-recognition",
                       "deep-learning",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:10:48.890Z",
+    "last_updated": "2026-09-06T09:32:10.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",

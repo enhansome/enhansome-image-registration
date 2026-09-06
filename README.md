@@ -993,7 +993,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Negative-Aware Attention Framework for Image-Text Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01521)] \[[CODE](https://github.com/CrossmodalGroup/NAAF) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2023-06-19] \[**`data.`**]
 * Global Matching with Overlapping Attention for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01707)] \[[CODE](https://github.com/xiaofeng94/GMFlowNet) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2022-07-06]
 * Geometric Structure Preserving Warp for Natural Image Stitching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00367)] \[[CODE](https://github.com/flowerDuo/GES-GSP-Stitching) ⭐ 91 | 🐛 15 | 🌐 C++ | 📅 2023-06-25]
-* CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01708)] \[[CODE](https://github.com/askerlee/craft) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2026-08-12]
+* CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01708)] \[[CODE](https://github.com/askerlee/craft) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2026-08-12]
 * MotionAug: Augmentation with Physical Correction for Human Motion Prediction. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00632)] \[[CODE](https://github.com/meaten/MotionAug) ⭐ 85 | 🐛 1 | 🌐 C++ | 📅 2022-03-28]
 * Learning Optical Flow with Kernel Patch Attention. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00870)] \[[CODE](https://github.com/megvii-research/KPAFlow) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2022-09-16]
 * Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.02018)] \[[CODE](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2024-04-22]
@@ -1822,7 +1822,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Sun_Optical_Flow_Guided_CVPR_2018_paper.html)] \[[CODE](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ⭐ 201 | 🐛 0 | 🌐 C++ | 📅 2019-05-17]
+* Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Sun_Optical_Flow_Guided_CVPR_2018_paper.html)] \[[CODE](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ⭐ 202 | 🐛 0 | 🌐 C++ | 📅 2019-05-17]
 * Density Adaptive Point Set Registration. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf)] \[[CODE](https://github.com/felja633/DARE) ⭐ 68 | 🐛 5 | 🌐 Python | 📅 2021-11-27] \[**`pc.`**]
 * 3D Registration of Curves and Surfaces Using Local Differential Information. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Raposo_3D_Registration_of_CVPR_2018_paper.html)]
 * A Unifying Contrast Maximization Framework for Event Cameras, With Applications to Motion, Depth, and Optical Flow Estimation. \[[PUB](http://openaccess.thecvf.com/content_cvpr_2018/html/Gallego_A_Unifying_Contrast_CVPR_2018_paper.html)] \[**`oth.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
