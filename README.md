@@ -2,7 +2,7 @@
 
 A curated list of image registration related books, papers, videos, and toolboxes
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
+[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,545 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,545 | 🐛 0 | 📅 2026-07-23
 
 [**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
@@ -71,7 +71,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
-*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,937 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,938 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -164,7 +164,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 672 | 🐛 39 | 🌐 Python | 📅 2025-10-09]
 * DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 551 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
-* Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 496 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
+* Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 497 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
 * Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)] \[[CODE](https://github.com/Yore0/TTDG-MGM) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2025-06-15]
 * SACB-Net: Spatial-awareness Convolutions for Medical Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration_CVPR_2025_paper.html)] [CODE](https://github.com/x-xc/SACB_Net) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-11-07
 * MultiMorph: On-demand Atlas Construction. \[[PUB](https://arxiv.org/pdf/2504.00247)] [CODE](https://github.com/mabulnaga/multimorph) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2025-06-11
@@ -422,8 +422,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * Toward a Training-Free Plug-and-Play Refinement Framework for Infrared and Visible Image Registration and Fusion. \[[PUB](https://doi.org/10.1145/3746027.3755087)] \[[CODE](https://github.com/pubyLu/TRACE) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-12-25] \[**`dep.`**]
 * Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion. \[[PUB](https://doi.org/10.1145/3746027.3754779)] \[[CODE](https://github.com/YiGuYT/LookBeyond) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-11-03]
+* Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching. \[[PUB](https://doi.org/10.1145/3746027.3755834)] \[[CODE](https://github.com/syl6312/DGCMIA) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-07-25]
 * Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered Hyperspectral Image Super-Resolution. \[[PUB](https://doi.org/10.1145/3746027.3755406)] \[[CODE](https://github.com/Jiahuiqu/CCM-RFJN) ⭐ 1 | 🐛 0 | 📅 2025-07-29]
-* Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching. \[[PUB](https://doi.org/10.1145/3746027.3755834)] \[[CODE](https://github.com/syl6312/DGCMIA) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-07-25]
 * Domain Crossover Non-Rigid Registration for 3D Human Meshes. \[[PUB](https://doi.org/10.1145/3746027.3754705)] \[**`data.`**]
 * Regist3R: Incremental Registration with Stereo Foundation Model. \[[PUB](https://doi.org/10.1145/3746027.3755466)]
 
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 699 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 700 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 90 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 73 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -728,7 +728,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### CVPR
 
 * 3D Registration with Maximal Cliques. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.01702)] \[[CODE](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) ⭐ 542 | 🐛 42 | 🌐 C++ | 📅 2026-03-30] \[**`pc.`**]
-* Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.00917)] \[[CODE](https://github.com/WHU-USI3DV/SGHR) ⭐ 224 | 🐛 5 | 🌐 Python | 📅 2024-05-31] \[**`pc.`**]
+* Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.00917)] \[[CODE](https://github.com/WHU-USI3DV/SGHR) ⭐ 225 | 🐛 5 | 🌐 Python | 📅 2024-05-31] \[**`pc.`**]
 * Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.00522)] \[[CODE](https://github.com/qinzheng93/GraphSCNet) ⭐ 109 | 🐛 6 | 🌐 Python | 📅 2023-06-15] \[**`pc.`**]
 * Rethinking Optical Flow from Geometric Matching Consistent Perspective. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.00135)] \[[CODE](https://github.com/DQiaole/MatchFlow) ⭐ 100 | 🐛 1 | 🌐 Python | 📅 2023-03-16]
 * BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52729.2023.00127)] \[[CODE](https://github.com/aosheng1996/BUFFER) ⭐ 97 | 🐛 13 | 🌐 Python | 📅 2026-02-12] \[**`pc.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

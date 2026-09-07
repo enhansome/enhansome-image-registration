@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 496,
+                    "stars": 497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1629,27 +1629,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered Hyperspectral Image Super-Resolution. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The implement of the paper \"Cycle-Consistent Mamba-Based Registration-fusion joint Network for Unregistered HyperspectralImage Super-Resolution\". (ACMMM 25)",
-                    "homepage": null,
-                    "id": 1028239707,
-                    "language": null,
-                    "license": "MIT",
-                    "last_commit": "2025-07-29T08:30:14Z",
-                    "open_issues": 0,
-                    "owner": "Jiahuiqu",
-                    "repo": "CCM-RFJN",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -1664,6 +1643,27 @@
                     "open_issues": 0,
                     "owner": "syl6312",
                     "repo": "DGCMIA",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered Hyperspectral Image Super-Resolution. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The implement of the paper \"Cycle-Consistent Mamba-Based Registration-fusion joint Network for Unregistered HyperspectralImage Super-Resolution\". (ACMMM 25)",
+                    "homepage": null,
+                    "id": 1028239707,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2025-07-29T08:30:14Z",
+                    "open_issues": 0,
+                    "owner": "Jiahuiqu",
+                    "repo": "CCM-RFJN",
                     "stars": 1,
                     "topics": []
                   },
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 699,
+                    "stars": 700,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2919,7 +2919,7 @@
                     "open_issues": 5,
                     "owner": "WHU-USI3DV",
                     "repo": "SGHR",
-                    "stars": 224,
+                    "stars": 225,
                     "topics": [
                       "multiview-registration",
                       "paper",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:32:10.014Z",
+    "last_updated": "2026-09-07T10:32:04.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1544,
+      "stars": 1545,
       "topics": [
         "awesome",
         "awesome-list",
