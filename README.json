@@ -261,7 +261,7 @@
                     "open_issues": 39,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 672,
+                    "stars": 673,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 497,
+                    "stars": 498,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -477,7 +477,7 @@
                     "open_issues": 3,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 283,
+                    "stars": 284,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -751,7 +751,7 @@
                     "open_issues": 1,
                     "owner": "tlliao",
                     "repo": "LPAM_seam-cutting",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "image-stitching"
                     ]
@@ -802,7 +802,7 @@
                     "open_issues": 5,
                     "owner": "OliverRensu",
                     "repo": "FlowAR",
-                    "stars": 172,
+                    "stars": 171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1048,7 +1048,7 @@
                     "open_issues": 4,
                     "owner": "RPIDIAL",
                     "repo": "DINO-Reg",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 700,
+                    "stars": 701,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1991,7 +1991,7 @@
                     "open_issues": 7,
                     "owner": "nie-lang",
                     "repo": "StabStitch",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2724,27 +2724,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Hybrid Cost Volume for Memory-Efficient Optical Flow. [PUB",
-                  "description": "] [CODE] []",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ACMMM 2024] Hybrid Cost Volume for Memory-Efficient Optical Flow",
-                    "homepage": null,
-                    "id": 837603975,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-09-06T08:04:16Z",
-                    "open_issues": 0,
-                    "owner": "gangweix",
-                    "repo": "HCVFlow",
-                    "stars": 19,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "OmniStitch: Depth-Aware Stitching Framework for Omnidirectional Vision with Multiple Cameras. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -2759,6 +2738,27 @@
                     "open_issues": 2,
                     "owner": "tngh5004",
                     "repo": "Omnistitch",
+                    "stars": 20,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hybrid Cost Volume for Memory-Efficient Optical Flow. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ACMMM 2024] Hybrid Cost Volume for Memory-Efficient Optical Flow",
+                    "homepage": null,
+                    "id": 837603975,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-09-06T08:04:16Z",
+                    "open_issues": 0,
+                    "owner": "gangweix",
+                    "repo": "HCVFlow",
                     "stars": 19,
                     "topics": []
                   },
@@ -2996,7 +2996,7 @@
                     "open_issues": 13,
                     "owner": "SYSU-SAIL",
                     "repo": "BUFFER",
-                    "stars": 97,
+                    "stars": 99,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6340,7 +6340,7 @@
                     "open_issues": 0,
                     "owner": "ChirikjianLab",
                     "repo": "LSG-CPD",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "iccv",
                       "iccv2021",
@@ -7422,7 +7422,7 @@
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2749,
+                    "stars": 2751,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:32:04.005Z",
+    "last_updated": "2026-09-08T09:52:42.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
