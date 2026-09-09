@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 498,
+                    "stars": 499,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -512,7 +512,7 @@
                     "open_issues": 0,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -569,27 +569,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV '25 Highlight] CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching",
-                    "homepage": null,
-                    "id": 1015924631,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-07-25T15:51:08Z",
-                    "open_issues": 3,
-                    "owner": "ZizhuoLi",
-                    "repo": "CoMatch",
-                    "stars": 39,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -604,6 +583,27 @@
                     "open_issues": 1,
                     "owner": "mujc2021",
                     "repo": "Diff2I2P",
+                    "stars": 40,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV '25 Highlight] CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching",
+                    "homepage": null,
+                    "id": 1015924631,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-07-25T15:51:08Z",
+                    "open_issues": 3,
+                    "owner": "ZizhuoLi",
+                    "repo": "CoMatch",
                     "stars": 39,
                     "topics": []
                   },
@@ -847,7 +847,7 @@
                     "id": 882936246,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T04:33:27Z",
+                    "last_commit": "2026-09-09T04:27:14Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -3242,7 +3242,7 @@
                     "open_issues": 14,
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4003,7 +4003,7 @@
                     "open_issues": 9,
                     "owner": "alanqrwang",
                     "repo": "keymorph",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": [
                       "affine",
                       "brain",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:52:42.126Z",
+    "last_updated": "2026-09-09T09:55:22.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
