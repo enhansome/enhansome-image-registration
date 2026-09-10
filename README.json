@@ -477,7 +477,7 @@
                     "open_issues": 3,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 284,
+                    "stars": 286,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -845,9 +845,9 @@
                     "description": "[ICLR 2025] Learning General-purpose Biomedical Volume Representations using Randomized Synthesis",
                     "homepage": "http://www.neeldey.com/anatomix/",
                     "id": 882936246,
-                    "language": "Python",
+                    "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T04:27:14Z",
+                    "last_commit": "2026-09-09T14:16:12Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -1970,7 +1970,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2898,7 +2898,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2919,7 +2919,7 @@
                     "open_issues": 5,
                     "owner": "WHU-USI3DV",
                     "repo": "SGHR",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": [
                       "multiview-registration",
                       "paper",
@@ -2959,6 +2959,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2023] BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration",
+                    "homepage": null,
+                    "id": 655851532,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-02-12T16:37:46Z",
+                    "open_issues": 13,
+                    "owner": "SYSU-SAIL",
+                    "repo": "BUFFER",
+                    "stars": 100,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Rethinking Optical Flow from Geometric Matching Consistent Perspective. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -2977,27 +2998,6 @@
                     "topics": [
                       "optical-flow"
                     ]
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2023] BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration",
-                    "homepage": null,
-                    "id": 655851532,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-02-12T16:37:46Z",
-                    "open_issues": 13,
-                    "owner": "SYSU-SAIL",
-                    "repo": "BUFFER",
-                    "stars": 99,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
                 },
@@ -3087,6 +3087,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The source code for the paper: Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction (CVPR2023)",
+                    "homepage": null,
+                    "id": 646728443,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-05-29T08:35:25Z",
+                    "open_issues": 0,
+                    "owner": "GitCVfb",
+                    "repo": "JAMNet",
+                    "stars": 24,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "PMatch: Paired Masked Image Modeling for Dense Geometric Matching. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -3102,27 +3123,6 @@
                     "owner": "ShngJZ",
                     "repo": "PMatch",
                     "stars": 24,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction. [PUB",
-                  "description": "] [CODE] []",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The source code for the paper: Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction (CVPR2023)",
-                    "homepage": null,
-                    "id": 646728443,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-05-29T08:35:25Z",
-                    "open_issues": 0,
-                    "owner": "GitCVfb",
-                    "repo": "JAMNet",
-                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3200,7 +3200,7 @@
                     "open_issues": 3,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 331,
+                    "stars": 332,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3221,7 +3221,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3263,7 +3263,7 @@
                     "open_issues": 10,
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3552,7 +3552,7 @@
                     "open_issues": 1,
                     "owner": "DelinQu",
                     "repo": "QRSC",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3814,7 +3814,7 @@
                     "open_issues": 4,
                     "owner": "HpWang-whu",
                     "repo": "RoReg",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3856,7 +3856,7 @@
                     "open_issues": 3,
                     "owner": "ZhiChen902",
                     "repo": "SC2-PCR-plusplus",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3915,7 +3915,7 @@
                     "open_issues": 1,
                     "owner": "ispc-lab",
                     "repo": "HRegNet2",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 52,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 978,
+                    "stars": 980,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4554,7 +4554,7 @@
                     "open_issues": 20,
                     "owner": "yewzijian",
                     "repo": "RegTR",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4602,7 +4602,7 @@
                     "open_issues": 15,
                     "owner": "rabbityl",
                     "repo": "lepard",
-                    "stars": 239,
+                    "stars": 240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6024,7 +6024,7 @@
                     "open_issues": 0,
                     "owner": "HpWang-whu",
                     "repo": "YOHO",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": [
                       "point-cloud",
                       "registration"
@@ -6144,7 +6144,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 603,
+                    "stars": 604,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:55:22.779Z",
+    "last_updated": "2026-09-10T09:52:56.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
