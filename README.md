@@ -137,9 +137,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * DVAP-Reg: Dual-view anatomical prior-driven cross-dimensional registration for spinal surgery navigation. \[[PUB](https://doi.org/10.1016/j.media.2025.103930)] \[[CODE](https://github.com/TMMU-KLPOP/DVAP-Reg) ⭐ 6 | 🐛 1 | 📅 2025-12-15]
 * ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. \[[PUB](https://doi.org/10.1016/j.media.2025.103844)] \[[CODE](https://github.com/ybby2020/ARDMR_MIA) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2025-08-26]
 * BIASNet: A bidirectional feature alignment and semantics-guided network for weakly-supervised medical image registration. \[[PUB](https://doi.org/10.1016/j.media.2025.103913)] \[[CODE](https://github.com/xiehousheng/BIASNet) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-12-21]
+* Unsupervised multimodal surface registration with geometric deep learning. \[[PUB](https://doi.org/10.1016/j.media.2025.103821)] \[[CODE](https://github.com/mohamedasuliman/GeoMorph) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-09-17]
 * UTMorph: A hybrid CNN-transformer network for weakly-supervised multimodal image registration in biopsy puncture. \[[PUB](https://doi.org/10.1016/j.media.2026.103938)] \[[CODE](https://github.com/Prps7/UTMorph) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-01-25]
 * GAGM: Geometry-aware graph matching framework for weakly supervised gyral hinge correspondence. \[[PUB](https://doi.org/10.1016/j.media.2025.103820)] \[[CODE](https://github.com/ZhibinHe/GAGM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-09-29]
-* Unsupervised multimodal surface registration with geometric deep learning. \[[PUB](https://doi.org/10.1016/j.media.2025.103821)] \[[CODE](https://github.com/mohamedasuliman/GeoMorph) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2023-09-17]
 * BundleWarp: Enhancing white matter tractometry and morphometry with precise neuronal mapping using streamline-based nonlinear registration. \[[PUB](https://doi.org/10.1016/j.media.2026.104114)]
 * Calibration-free 3D-2D surface registration for image guided intervention. \[[PUB](https://doi.org/10.1016/j.media.2026.104092)]
 * From model based to learned regularization in medical image registration: A comprehensive review. \[[PUB](https://doi.org/10.1016/j.media.2025.103854)]
@@ -320,8 +320,8 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. \[[PUB](https://doi.org/10.1109/TMI.2025.3574198)] \[[CODE](https://github.com/junzastar/Self-P2IR) ⭐ 33 | 🐛 8 | 🌐 Python | 📅 2025-12-04]
 * Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
 * Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. \[[PUB](https://doi.org/10.1109/TMI.2025.3532084)] \[[CODE](https://github.com/ShumengLI/SFR) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2024-10-22]
+* OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. \[[PUB](https://doi.org/10.1109/TMI.2024.3437295)] \[[CODE](https://github.com/boahK/OTMorph) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2024-12-25]
 * UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3467919)] \[[CODE](https://github.com/Runshi-Zhang/UTSRMorph) ⭐ 21 | 🐛 7 | 🌐 Python | 📅 2025-08-22]
-* OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. \[[PUB](https://doi.org/10.1109/TMI.2024.3437295)] \[[CODE](https://github.com/boahK/OTMorph) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-12-25]
 * Feedback Attention to Enhance Unsupervised Deep Learning Image Registration in 3D Echocardiography. \[[PUB](https://doi.org/10.1109/TMI.2025.3530501)] \[[CODE](https://github.com/kamruleee51/Feedback_DLIR) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-12-04]
 * Toward Semantically-Consistent Deformable 2D-3D Registration for 3D Craniofacial Structure Estimation From a Single-View Lateral Cephalometric Radiograph. \[[PUB](https://doi.org/10.1109/TMI.2024.3456251)] \[[CODE](https://github.com/Jyk-122/SC-DREG) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-09-17]
 * A Novel Few-Shot Learning Framework for Supervised Diffeomorphic Image Registration Network. \[[PUB](https://doi.org/10.1109/TMI.2025.3585199)] \[[CODE](https://github.com/weijunping111/RDG-TMI.git) ⭐ 2 | 🐛 0 | 🌐 MATLAB | 📅 2025-09-24]
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 701 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 702 | 🐛 3 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 74 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -753,7 +753,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICCV
 
-* GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 680 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
+* GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 681 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
 * VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 332 | 🐛 3 | 🌐 Python | 📅 2023-09-20]
 * Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 315 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 151 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
@@ -1242,7 +1242,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* PREDATOR: Registration of 3D Point Clouds with Low Overlap. \[[PUB](https://arxiv.org/pdf/2011.13005.pdf)] \[[code-pytorch](https://github.com/ShengyuH/OverlapPredator) ⭐ 604 | 🐛 17 | 🌐 Python | 📅 2025-02-20] \[**`pc.`**] :fire:
+* PREDATOR: Registration of 3D Point Clouds with Low Overlap. \[[PUB](https://arxiv.org/pdf/2011.13005.pdf)] \[[code-pytorch](https://github.com/ShengyuH/OverlapPredator) ⭐ 605 | 🐛 17 | 🌐 Python | 📅 2025-02-20] \[**`pc.`**] :fire:
 * SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. \[[PUB](https://github.com/QingyongHu/SpinNet) ⭐ 310 | 🐛 21 | 🌐 Python | 📅 2021-08-04] \[[code-pytorch](https://github.com/QingyongHu/SpinNet) ⭐ 310 | 🐛 21 | 🌐 Python | 📅 2021-08-04] \[**`pc.`**] :fire:
 * DeepI2P: Image-to-Point Cloud Registration via Deep Classification. \[[PUB](https://arxiv.org/abs/2104.03501)] \[[CODE](https://github.com/lijx10/DeepI2P) ⭐ 261 | 🐛 15 | 🌐 C++ | 📅 2023-06-01] \[**`pc.`**] :fire:
 * Leveraging Line-Point Consistence To Preserve Structures for Wide Parallax Image Stitching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2021/html/Jia_Leveraging_Line-Point_Consistence_To_Preserve_Structures_for_Wide_Parallax_Image_CVPR_2021_paper.html)] \[[CODE](https://github.com/dut-media-lab/Image-Stitching) ⭐ 101 | 🐛 7 | 🌐 C | 📅 2021-05-24] \[**`oth.`**]
@@ -1708,7 +1708,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TMI
 
-* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,751 | 🐛 156 | 🌐 Python | 📅 2026-08-17]
+* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,751 | 🐛 156 | 🌐 Python | 📅 2026-09-10]
 * 3D Multi-Resolution Optical Flow Analysis of Cardiovascular Pulse Propagation in Human Brain. \[[PUB](https://doi.org/10.1109/TMI.2019.2904762)]
 * A Global Method for Non-Rigid Registration of Cell Nuclei in Live Cell Time-Lapse Images. \[[PUB](https://doi.org/10.1109/TMI.2019.2901918)]
 * A Statistical Model for Rigid Image Registration Performance: The Influence of Soft-Tissue Deformation as a Confounding Noise Source. \[[PUB](https://doi.org/10.1109/TMI.2019.2907868)]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

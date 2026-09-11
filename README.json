@@ -142,6 +142,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Unsupervised multimodal surface registration with geometric deep learning. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Geometric Deep Learning for Cortical Surface Registration",
+                    "homepage": null,
+                    "id": 594724473,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-09-17T19:48:55Z",
+                    "open_issues": 1,
+                    "owner": "mohamedasuliman",
+                    "repo": "GeoMorph",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "UTMorph: A hybrid CNN-transformer network for weakly-supervised multimodal image registration in biopsy puncture. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -177,27 +198,6 @@
                     "open_issues": 0,
                     "owner": "ZhibinHe",
                     "repo": "GAGM",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Unsupervised multimodal surface registration with geometric deep learning. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Geometric Deep Learning for Cortical Surface Registration",
-                    "homepage": null,
-                    "id": 594724473,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-09-17T19:48:55Z",
-                    "open_issues": 1,
-                    "owner": "mohamedasuliman",
-                    "repo": "GeoMorph",
                     "stars": 1,
                     "topics": []
                   },
@@ -1118,6 +1118,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. [PUB",
+                  "description": "] [CODE]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official repository for \"OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport\".",
+                    "homepage": null,
+                    "id": 811517598,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-12-25T02:39:07Z",
+                    "open_issues": 5,
+                    "owner": "boahK",
+                    "repo": "OTMorph",
+                    "stars": 21,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. [PUB",
                   "description": "] [CODE]",
                   "children": [],
@@ -1133,27 +1154,6 @@
                     "owner": "Runshi-Zhang",
                     "repo": "UTSRMorph",
                     "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official repository for \"OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport\".",
-                    "homepage": null,
-                    "id": 811517598,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-12-25T02:39:07Z",
-                    "open_issues": 5,
-                    "owner": "boahK",
-                    "repo": "OTMorph",
-                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 701,
+                    "stars": 702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3171,7 +3171,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 680,
+                    "stars": 681,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -6144,7 +6144,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 604,
+                    "stars": 605,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -7418,7 +7418,7 @@
                     "id": 133389787,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-17T22:35:41Z",
+                    "last_commit": "2026-09-10T20:05:18Z",
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:52:56.427Z",
+    "last_updated": "2026-09-11T09:51:58.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
