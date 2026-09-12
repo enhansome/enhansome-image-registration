@@ -258,7 +258,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-09T14:07:00Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
                     "stars": 673,
@@ -512,7 +512,7 @@
                     "open_issues": 0,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -847,7 +847,7 @@
                     "id": 882936246,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T14:16:12Z",
+                    "last_commit": "2026-09-12T04:10:30Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -880,7 +880,7 @@
                     "open_issues": 1,
                     "owner": "iwuqing",
                     "repo": "Moner",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 702,
+                    "stars": 703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3171,7 +3171,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 681,
+                    "stars": 682,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -5040,9 +5040,9 @@
                     "id": 574724337,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2023-01-17T06:02:01Z",
+                    "last_commit": "2026-09-11T15:50:39Z",
                     "open_issues": 0,
-                    "owner": "apple",
+                    "owner": "apple-aiml-research",
                     "repo": "ml-aspanformer",
                     "stars": 252,
                     "topics": []
@@ -7418,7 +7418,7 @@
                     "id": 133389787,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T20:05:18Z",
+                    "last_commit": "2026-09-11T20:04:15Z",
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:51:58.341Z",
+    "last_updated": "2026-09-12T09:28:05.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
