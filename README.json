@@ -477,7 +477,7 @@
                     "open_issues": 3,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 286,
+                    "stars": 287,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -847,7 +847,7 @@
                     "id": 882936246,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-12T04:10:30Z",
+                    "last_commit": "2026-09-13T05:54:27Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -901,7 +901,7 @@
                     "open_issues": 0,
                     "owner": "imigraz",
                     "repo": "Restora-Flow",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3221,7 +3221,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 315,
+                    "stars": 316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4199,27 +4199,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration. [PUB",
-                  "description": "] CODE",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Gradient Surgery for Hyperparamer-free Deformable Registration in Cardiac MRI",
-                    "homepage": null,
-                    "id": 577430382,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-03-20T09:25:07Z",
-                    "open_issues": 0,
-                    "owner": "wulalago",
-                    "repo": "GSMorph",
-                    "stars": 19,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "X-Ray to CT Rigid Registration Using Scene Coordinate Regression. [PUB",
                   "description": "] CODE",
                   "children": [],
@@ -4235,6 +4214,27 @@
                     "owner": "Pragyanstha",
                     "repo": "SCR-Registration",
                     "stars": 19,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration. [PUB",
+                  "description": "] CODE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Gradient Surgery for Hyperparamer-free Deformable Registration in Cardiac MRI",
+                    "homepage": null,
+                    "id": 577430382,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-03-20T09:25:07Z",
+                    "open_issues": 0,
+                    "owner": "wulalago",
+                    "repo": "GSMorph",
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7730,7 +7730,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 905,
+                    "stars": 906,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:28:05.158Z",
+    "last_updated": "2026-09-13T10:24:25.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1545,
+      "stars": 1544,
       "topics": [
         "awesome",
         "awesome-list",
