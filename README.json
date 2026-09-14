@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 499,
+                    "stars": 500,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -512,7 +512,7 @@
                     "open_issues": 0,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -1928,7 +1928,7 @@
                     "open_issues": 3,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 703,
+                    "stars": 704,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2167,7 +2167,7 @@
                     "open_issues": 5,
                     "owner": "supersupercong",
                     "repo": "UHDformer",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3228,27 +3228,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
-                  "description": "] [CODE] []",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV2023] 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds",
-                    "homepage": null,
-                    "id": 531443848,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-10-27T00:42:01Z",
-                    "open_issues": 14,
-                    "owner": "minhaolee",
-                    "repo": "2D3DMATR",
-                    "stars": 151,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. [PUB",
                   "description": "] [CODE] []",
                   "children": [],
@@ -3263,6 +3242,27 @@
                     "open_issues": 10,
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
+                    "stars": 152,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV2023] 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds",
+                    "homepage": null,
+                    "id": 531443848,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-10-27T00:42:01Z",
+                    "open_issues": 14,
+                    "owner": "minhaolee",
+                    "repo": "2D3DMATR",
                     "stars": 151,
                     "topics": []
                   },
@@ -6144,7 +6144,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 605,
+                    "stars": 606,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -6375,7 +6375,7 @@
                     "open_issues": 1,
                     "owner": "MegEngine",
                     "repo": "OMNet",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": [
                       "deep-learning",
                       "megengine"
@@ -7659,7 +7659,7 @@
                     "open_issues": 30,
                     "owner": "wentaoyuan",
                     "repo": "pcn",
-                    "stars": 486,
+                    "stars": 488,
                     "topics": [
                       "3d-reconstruction",
                       "computer-vision",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:24:25.733Z",
+    "last_updated": "2026-09-14T10:48:47.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1544,
+      "stars": 1545,
       "topics": [
         "awesome",
         "awesome-list",
