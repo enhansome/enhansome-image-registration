@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 673,
+                    "stars": 674,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -356,7 +356,7 @@
                     "open_issues": 1,
                     "owner": "x-xc",
                     "repo": "SACB_Net",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": [
                       "convolution",
                       "image-registration",
@@ -509,7 +509,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2025-12-11T21:26:27Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "msu-video-group",
                     "repo": "memfof",
                     "stars": 106,
@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 98,
+                    "stars": 99,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1069,7 +1069,7 @@
                     "open_issues": 8,
                     "owner": "junzastar",
                     "repo": "Self-P2IR",
-                    "stars": 33,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1090,7 +1090,7 @@
                     "open_issues": 0,
                     "owner": "xi-jia",
                     "repo": "LessNet",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1925,7 +1925,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-03-26T15:55:20Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
                     "stars": 704,
@@ -2073,7 +2073,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-03-10T03:08:49Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "littlespray",
                     "repo": "StreamFlow",
                     "stars": 42,
@@ -2333,7 +2333,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-05-20T00:11:58Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "wwsource",
                     "repo": "SplatFlow",
                     "stars": 64,
@@ -3171,7 +3171,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 682,
+                    "stars": 683,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -3197,7 +3197,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2023-09-20T03:16:33Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
                     "stars": 332,
@@ -3228,6 +3228,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
+                  "description": "] [CODE] []",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV2023] 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds",
+                    "homepage": null,
+                    "id": 531443848,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-10-27T00:42:01Z",
+                    "open_issues": 14,
+                    "owner": "minhaolee",
+                    "repo": "2D3DMATR",
+                    "stars": 152,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. [PUB",
                   "description": "] [CODE] []",
                   "children": [],
@@ -3243,27 +3264,6 @@
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
                     "stars": 152,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
-                  "description": "] [CODE] []",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV2023] 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds",
-                    "homepage": null,
-                    "id": 531443848,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-10-27T00:42:01Z",
-                    "open_issues": 14,
-                    "owner": "minhaolee",
-                    "repo": "2D3DMATR",
-                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4003,7 +4003,7 @@
                     "open_issues": 9,
                     "owner": "alanqrwang",
                     "repo": "keymorph",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "affine",
                       "brain",
@@ -4494,7 +4494,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-11-22T00:53:02Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
                     "stars": 980,
@@ -4525,7 +4525,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-02-20T10:48:03Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
                     "stars": 799,
@@ -5175,7 +5175,7 @@
                     "open_issues": 12,
                     "owner": "megvii-research",
                     "repo": "RealFlow",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7730,7 +7730,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 906,
+                    "stars": 907,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:48:47.612Z",
+    "last_updated": "2026-09-15T10:12:46.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1545,
+      "stars": 1546,
       "topics": [
         "awesome",
         "awesome-list",
