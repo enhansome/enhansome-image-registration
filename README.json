@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 675,
+                    "stars": 678,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -583,7 +583,7 @@
                     "open_issues": 1,
                     "owner": "mujc2021",
                     "repo": "Diff2I2P",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1375,7 +1375,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 193,
+                    "stars": 194,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -1727,7 +1727,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 193,
+                    "stars": 194,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -3221,7 +3221,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 317,
+                    "stars": 318,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3242,7 +3242,7 @@
                     "open_issues": 14,
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6938,7 +6938,7 @@
                     "open_issues": 0,
                     "owner": "itailang",
                     "repo": "SampleNet",
-                    "stars": 392,
+                    "stars": 391,
                     "topics": [
                       "cvpr2020",
                       "deep-learning",
@@ -7692,7 +7692,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 457,
+                    "stars": 458,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:06:17.997Z",
+    "last_updated": "2026-09-17T10:09:25.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
