@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "xiaorugao999",
                     "repo": "CASHNet",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 678,
+                    "stars": 679,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 500,
+                    "stars": 501,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -751,7 +751,7 @@
                     "open_issues": 1,
                     "owner": "tlliao",
                     "repo": "LPAM_seam-cutting",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": [
                       "image-stitching"
                     ]
@@ -1401,7 +1401,7 @@
                     "open_issues": 5,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3200,7 +3200,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 332,
+                    "stars": 333,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:09:25.430Z",
+    "last_updated": "2026-09-18T09:55:43.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
