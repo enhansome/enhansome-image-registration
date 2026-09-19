@@ -286,7 +286,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 552,
+                    "stars": 553,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -477,7 +477,7 @@
                     "open_issues": 3,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 288,
+                    "stars": 289,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -512,7 +512,7 @@
                     "open_issues": 1,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -847,11 +847,11 @@
                     "id": 882936246,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T05:54:27Z",
+                    "last_commit": "2026-09-19T04:32:50Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 704,
+                    "stars": 706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2898,7 +2898,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 544,
+                    "stars": 545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7422,7 +7422,7 @@
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2751,
+                    "stars": 2752,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:55:43.204Z",
+    "last_updated": "2026-09-19T09:37:11.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
