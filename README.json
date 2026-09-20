@@ -335,7 +335,7 @@
                     "open_issues": 1,
                     "owner": "Yore0",
                     "repo": "TTDG-MGM",
-                    "stars": 99,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -847,7 +847,7 @@
                     "id": 882936246,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T04:32:50Z",
+                    "last_commit": "2026-09-20T00:14:06Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 706,
+                    "stars": 707,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1970,7 +1970,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7422,7 +7422,7 @@
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2752,
+                    "stars": 2753,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:37:11.751Z",
+    "last_updated": "2026-09-20T09:53:39.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1546,
+      "stars": 1545,
       "topics": [
         "awesome",
         "awesome-list",
