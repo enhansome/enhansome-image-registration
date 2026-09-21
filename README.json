@@ -512,7 +512,7 @@
                     "open_issues": 1,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1527,7 +1527,7 @@
                     "open_issues": 1,
                     "owner": "tinymilky",
                     "repo": "VoxelOpt",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": [
                       "abdominal-ct",
                       "agent-friendly",
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 707,
+                    "stars": 709,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 981,
+                    "stars": 982,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4528,7 +4528,7 @@
                     "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
-                    "stars": 799,
+                    "stars": 800,
                     "topics": [
                       "cvpr2022",
                       "global-matching",
@@ -5126,7 +5126,7 @@
                     "open_issues": 17,
                     "owner": "DiffuseMorph",
                     "repo": "DiffuseMorph",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7825,7 +7825,7 @@
                     "open_issues": 11,
                     "owner": "yangjiaolong",
                     "repo": "Go-ICP",
-                    "stars": 506,
+                    "stars": 508,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:53:39.345Z",
+    "last_updated": "2026-09-21T10:52:22.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1545,
+      "stars": 1546,
       "topics": [
         "awesome",
         "awesome-list",
