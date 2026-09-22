@@ -314,7 +314,7 @@
                     "open_issues": 38,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 501,
+                    "stars": 502,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -847,7 +847,7 @@
                     "id": 882936246,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-09-20T00:14:06Z",
+                    "last_commit": "2026-09-21T12:20:47Z",
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
@@ -1401,7 +1401,7 @@
                     "open_issues": 5,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 709,
+                    "stars": 710,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2308,7 +2308,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 196,
+                    "stars": 197,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3221,7 +3221,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 318,
+                    "stars": 319,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7422,7 +7422,7 @@
                     "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2753,
+                    "stars": 2754,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:52:22.235Z",
+    "last_updated": "2026-09-22T10:07:19.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",

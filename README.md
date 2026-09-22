@@ -79,7 +79,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
-*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,292 | 🐛 1 | 📅 2023-11-01.
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,291 | 🐛 0 | 📅 2026-09-21.
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
@@ -164,7 +164,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * MINIMA: Modality Invariant Image Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_MINIMA_Modality_Invariant_Image_Matching_CVPR_2025_paper.html)] \[[CODE](https://github.com/LSXI7/MINIMA) ⭐ 679 | 🐛 40 | 🌐 Python | 📅 2025-10-09]
 * DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Morimitsu_DPFlow_Adaptive_Optical_Flow_Estimation_with_a_Dual-Pyramid_Framework_CVPR_2025_paper.html)] \[[CODE](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow) ⭐ 553 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
-* Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 501 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
+* Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Image_Over_Text_Transforming_Formula_Recognition_Evaluation_with_Character_Detection_CVPR_2025_paper.html)] \[[CODE](https://github.com/opendatalab/UniMERNet/tree/main/cdm) ⭐ 502 | 🐛 38 | 🌐 Python | 📅 2025-09-28]
 * Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)] \[[CODE](https://github.com/Yore0/TTDG-MGM) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2025-06-15]
 * SACB-Net: Spatial-awareness Convolutions for Medical Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration_CVPR_2025_paper.html)] [CODE](https://github.com/x-xc/SACB_Net) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2025-11-07
 * MultiMorph: On-demand Atlas Construction. \[[PUB](https://arxiv.org/pdf/2504.00247)] [CODE](https://github.com/mabulnaga/multimorph) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2025-06-11
@@ -251,7 +251,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICLR
 
-* Learning General-purpose Biomedical Volume Representations using Randomized Synthesis. \[[PUB](https://arxiv.org/abs/2411.02372)] [CODE](https://github.com/neel-dey/anatomix) ⭐ 101 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-20
+* Learning General-purpose Biomedical Volume Representations using Randomized Synthesis. \[[PUB](https://arxiv.org/abs/2411.02372)] [CODE](https://github.com/neel-dey/anatomix) ⭐ 101 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-21
 * Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation. \[[PUB](https://openreview.net/forum?id=OdnqG1fYpo)] \[[CODE](https://github.com/iwuqing/Moner) ⭐ 23 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-29]
 * PnP-Flow: Plug-and-Play Image Restoration with Flow Matching. \[[PUB](https://openreview.net/forum?id=5AtHrq3B5R)] \[[CODE](https://github.com/imigraz/Restora-Flow) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
 * InstaRevive: One-Step Image Enhancement via Dynamic Score Matching. \[[PUB](https://openreview.net/forum?id=G1CN7R5qwE)] \[[CODE](https://github.com/EternalEvan/InstaRevive) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-04-21] \[**`dep.`**]
@@ -363,7 +363,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### MICCAI
 
 * Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation. \[[PUB](https://doi.org/10.1007/978-3-032-04984-1_62)] \[[CODE](https://github.com/eigenvivek/DiffPose) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2025-04-21]
-* RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration. \[[PUB](https://doi.org/10.1007/978-3-032-05114-1_44)] \[[CODE](https://github.com/shenao1995/RadGS_Reg) ⭐ 39 | 🐛 5 | 🌐 Python | 📅 2026-07-11]
+* RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration. \[[PUB](https://doi.org/10.1007/978-3-032-05114-1_44)] \[[CODE](https://github.com/shenao1995/RadGS_Reg) ⭐ 40 | 🐛 5 | 🌐 Python | 📅 2026-07-11]
 * Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-04971-1_41)] [CODE](https://github.com/MICV-yonsei/M2M-Reg) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-07-06 \[**`medi.`**]
 * Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models. \[[PUB](https://doi.org/10.1007/978-3-032-04965-0_23)] [CODE](https://github.com/uncbiag/dgir) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-09-25
 * Spatial regularisation for improved accuracy and interpretability in keypoint-based registration. \[[PUB](https://doi.org/10.1007/978-3-032-05185-1_56)] [CODE](https://github.com/BenBillot/spatial_regularisation) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-03-07
@@ -503,7 +503,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 709 | 🐛 4 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 710 | 🐛 4 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 74 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -585,7 +585,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IJCAI
 
-* A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. \[[PUB](https://www.ijcai.org/proceedings/2024/922)] \[[CODE](https://github.com/yxzhang15/PCR) ⭐ 196 | 🐛 0 | 📅 2025-09-16]
+* A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. \[[PUB](https://www.ijcai.org/proceedings/2024/922)] \[[CODE](https://github.com/yxzhang15/PCR) ⭐ 197 | 🐛 0 | 📅 2025-09-16]
 * A New Guaranteed Outlier Removal Method Based on Plane Constraints for Large-Scale LiDAR Point Cloud Registration. \[[PUB](https://www.ijcai.org/proceedings/2024/759)]
 
 ### TPAMI
@@ -755,7 +755,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 683 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
 * VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 333 | 🐛 4 | 🌐 Python | 📅 2023-09-20]
-* Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 318 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
+* Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 319 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 153 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
 * RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00776)] \[[CODE](https://github.com/IRMVLab/RegFormer) ⭐ 152 | 🐛 10 | 🌐 Python | 📅 2025-11-30] \[**`pc.`**]
 * DReg-NeRF: Deep Registration for Neural Radiance Fields. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.02075)] \[[CODE](https://github.com/AIBluefisher/DReg-NeRF) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2023-09-04]
@@ -1708,7 +1708,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TMI
 
-* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,753 | 🐛 156 | 🌐 Python | 📅 2026-09-11]
+* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,754 | 🐛 156 | 🌐 Python | 📅 2026-09-11]
 * 3D Multi-Resolution Optical Flow Analysis of Cardiovascular Pulse Propagation in Human Brain. \[[PUB](https://doi.org/10.1109/TMI.2019.2904762)]
 * A Global Method for Non-Rigid Registration of Cell Nuclei in Live Cell Time-Lapse Images. \[[PUB](https://doi.org/10.1109/TMI.2019.2901918)]
 * A Statistical Model for Rigid Image Registration Performance: The Influence of Soft-Tissue Deformation as a Confounding Noise Source. \[[PUB](https://doi.org/10.1109/TMI.2019.2907868)]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
