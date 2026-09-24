@@ -65,7 +65,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2025/09/21* - update recent papers
 
-*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) ⭐ 254 | 🐛 0 | 📅 2026-09-17
+*2025/04/25* - update recent papers and add the repository link of [Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) ⭐ 255 | 🐛 0 | 📅 2026-09-17
 
 *2024/12/03* - update recent papers
 
@@ -79,7 +79,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2022/07/12* - update recent papers on AAAI 2022 and add information about competitions
 
-*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,291 | 🐛 0 | 📅 2026-09-21.
+*2022/06/19* - update recent TPAMI papers (2017-2021) about image registration according to dblp search engine, update recent MICCAI papers  about image registration according to  [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,294 | 🐛 0 | 📅 2026-09-23.
 
 *2022/06/18* - update recent papers (2017-2021) on CVPR/ICCV/ECCV/AAAI/NeurIPS/MIA about image registration according to dblp search engine.
 
@@ -508,7 +508,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 74 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
 * PointRegGPT: Boosting 3D Point Cloud Registration Using Generative Point-Cloud Pairs for Training. \[[PUB](https://doi.org/10.1007/978-3-031-72983-6_16)] \[[CODE](https://github.com/Chen-Suyi/PointRegGPT) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-02-24]
-* BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 38 | 🐛 3 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
+* BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 38 | 🐛 4 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
 * Adaptive Correspondence Scoring for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72920-1_5)]
 * BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation Using RGB Frames and Events. \[[PUB](https://doi.org/10.1007/978-3-031-72855-6_2)]
 * Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning. \[[PUB](https://doi.org/10.1007/978-3-031-73223-2_5)] \[**`pc.`**]
@@ -614,7 +614,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### TMI
 
 * A Fully Differentiable Framework for 2D/3D Registration and the Projective Spatial Transformers. \[[PUB](https://doi.org/10.1109/TMI.2023.3299588)] \[[CODE](https://github.com/gaocong13/Projective-Spatial-Transformers) ⭐ 135 | 🐛 18 | 🌐 Python | 📅 2023-09-16]
-* Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3362968)] \[[CODE](https://github.com/ZAX130/RDP) ⭐ 65 | 🐛 8 | 🌐 Python | 📅 2026-03-05]
+* Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3362968)] \[[CODE](https://github.com/ZAX130/RDP) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2026-03-05]
 * Attention-Aware Non-Rigid Image Registration for Accelerated MR Imaging. \[[PUB](https://doi.org/10.1109/TMI.2024.3385024)] \[[CODE](https://github.com/lab-midas/GMARAFT) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2025-10-24]
 * GroupMorph: Medical Image Registration via Grouping Network With Contextual Fusion. \[[PUB](https://doi.org/10.1109/TMI.2024.3400603)] \[[CODE](https://github.com/TVayne/GroupMorph) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-07-16]
 * 3D/2D Vessel Registration Based on Monte Carlo Tree Search and Manifold Regularization. \[[PUB](https://doi.org/10.1109/TMI.2023.3347896)]
@@ -754,7 +754,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### ICCV
 
 * GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 683 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
-* VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 333 | 🐛 4 | 🌐 Python | 📅 2023-09-20]
+* VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 334 | 🐛 4 | 🌐 Python | 📅 2023-09-20]
 * Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 319 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 153 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
 * RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00776)] \[[CODE](https://github.com/IRMVLab/RegFormer) ⭐ 152 | 🐛 10 | 🌐 Python | 📅 2025-11-30] \[**`pc.`**]
@@ -1457,7 +1457,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### CVPR
 
-* Learning multiview 3D point cloud registration. \[[PUB](https://arxiv.org/abs/2001.05119)] \[[CODE](https://github.com/zgojcic/3D_multiview_reg) ⭐ 403 | 🐛 14 | 🌐 Python | 📅 2020-07-22] \[**`pc.`**] :fire:
+* Learning multiview 3D point cloud registration. \[[PUB](https://arxiv.org/abs/2001.05119)] \[[CODE](https://github.com/zgojcic/3D_multiview_reg) ⭐ 404 | 🐛 14 | 🌐 Python | 📅 2020-07-22] \[**`pc.`**] :fire:
 * SampleNet: Differentiable Point Cloud Sampling. \[[PUB](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lang_SampleNet_Differentiable_Point_Cloud_Sampling_CVPR_2020_paper.pdf)] \[[CODE](https://github.com/itailang/SampleNet) ⭐ 391 | 🐛 0 | 🌐 Python | 📅 2023-06-25] \[**`pc.`**] :fire:
 * Graph Structured Network for Image-Text Matching. \[[PUB](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Graph_Structured_Network_for_Image-Text_Matching_CVPR_2020_paper.html)] \[[CODE](https://github.com/CrossmodalGroup/GSMN) ⭐ 169 | 🐛 19 | 🌐 Python | 📅 2020-10-12] \[**`data.`**]
 * Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. \[[PUB](https://arxiv.org/abs/2005.01014)] \[[CODE](https://github.com/XiaoshuiHuang/fmr) ⭐ 158 | 🐛 9 | 🌐 Python | 📅 2021-04-26] \[**`pc.`**]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

@@ -2036,7 +2036,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-09-30T15:27:07Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "Egkang-Luis",
                     "repo": "BurstM",
                     "stars": 38,
@@ -2448,7 +2448,7 @@
                     "open_issues": 8,
                     "owner": "ZAX130",
                     "repo": "RDP",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": [
                       "image",
                       "medical",
@@ -3200,7 +3200,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 333,
+                    "stars": 334,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6917,7 +6917,7 @@
                     "open_issues": 14,
                     "owner": "zgojcic",
                     "repo": "3D_multiview_reg",
-                    "stars": 403,
+                    "stars": 404,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:09:26.026Z",
+    "last_updated": "2026-09-24T10:14:51.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
