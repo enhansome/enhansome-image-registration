@@ -2308,7 +2308,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 197,
+                    "stars": 205,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 982,
+                    "stars": 983,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:19:20.552Z",
+    "last_updated": "2026-09-26T09:58:20.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
