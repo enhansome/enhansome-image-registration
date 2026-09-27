@@ -509,7 +509,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2025-12-11T21:26:27Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "msu-video-group",
                     "repo": "memfof",
                     "stars": 109,
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 711,
+                    "stars": 712,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2308,7 +2308,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 205,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4528,7 +4528,7 @@
                     "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
-                    "stars": 800,
+                    "stars": 801,
                     "topics": [
                       "cvpr2022",
                       "global-matching",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:58:20.830Z",
+    "last_updated": "2026-09-27T10:37:41.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
