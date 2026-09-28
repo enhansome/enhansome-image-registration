@@ -204,7 +204,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00767)] \[[CODE](https://github.com/msu-video-group/memfof) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2025-12-11]
 * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00624)] \[[CODE](https://github.com/Sharpiless/L2M) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2026-05-23]
 * ZeroStereo: Zero-Shot Stereo Matching from Single Images. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02616)] \[[CODE](https://github.com/Windsrain/ZeroStereo) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-05-21]
-* Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02391)] \[[CODE](https://github.com/mujc2021/Diff2I2P) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-02-25]
+* Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02391)] \[[CODE](https://github.com/mujc2021/Diff2I2P) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2026-02-25]
 * CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01721)] \[[CODE](https://github.com/ZizhuoLi/CoMatch) ⭐ 39 | 🐛 3 | 🌐 Python | 📅 2025-07-25]
 * Registration beyond Points: General Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00359)] \[[CODE](https://github.com/joomeok/GrassmannRegistration) ⭐ 35 | 🐛 1 | 🌐 C++ | 📅 2025-10-05]
 * Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00748)] \[[CODE](https://github.com/tub-rip/E2FAI) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2026-01-22]
@@ -585,7 +585,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IJCAI
 
-* A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. \[[PUB](https://www.ijcai.org/proceedings/2024/922)] \[[CODE](https://github.com/yxzhang15/PCR) ⭐ 214 | 🐛 0 | 📅 2025-09-16]
+* A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. \[[PUB](https://www.ijcai.org/proceedings/2024/922)] \[[CODE](https://github.com/yxzhang15/PCR) ⭐ 218 | 🐛 0 | 📅 2025-09-16]
 * A New Guaranteed Outlier Removal Method Based on Plane Constraints for Large-Scale LiDAR Point Cloud Registration. \[[PUB](https://www.ijcai.org/proceedings/2024/759)]
 
 ### TPAMI
@@ -693,7 +693,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * OmniStitch: Depth-Aware Stitching Framework for Omnidirectional Vision with Multiple Cameras. \[[PUB](https://doi.org/10.1145/3664647.3681208)] \[[CODE](https://github.com/tngh5004/Omnistitch) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2024-08-05]
 * Hybrid Cost Volume for Memory-Efficient Optical Flow. \[[PUB](https://doi.org/10.1145/3664647.3680643)] \[[CODE](https://github.com/gangweiX/HCVFlow) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-09-06] \[**`oth.`**]
 * A Multi-scale Feature Learning Network with Optical Flow Correction for Micro- and Macro-expression Spotting. \[[PUB](https://doi.org/10.1145/3664647.3689143)] \[[CODE](https://github.com/zzy188zzy/megc_spotting_code) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-09-30]
-* Semantics-Aware Image Aesthetics Assessment using Tag Matching and Contrastive Ranking. \[[PUB](https://doi.org/10.1145/3664647.3680972)] \[[CODE](https://github.com/yzc-ippl/TMCR) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-06-08] \[**`data.`**]
+* Semantics-Aware Image Aesthetics Assessment using Tag Matching and Contrastive Ranking. \[[PUB](https://doi.org/10.1145/3664647.3680972)] \[[CODE](https://github.com/yzc-ippl/TMCR) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-06-08] \[**`data.`**]
 * Serial Section Microscopy Image Inpainting Guided by Axial Optical Flow. \[[PUB](https://doi.org/10.1145/3664647.3681023)] \[[CODE](https://github.com/chengyr1999/FlowInpaint/) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-12-18]
 * 3DPCP-Net: A Lightweight Progressive 3D Correspondence Pruning Network for Accurate and Efficient Point Cloud Registration. \[[PUB](https://doi.org/10.1145/3664647.3681320)] \[[CODE](https://github.com/jtw220/3DPCP-Net)]
 * Bridging the Modality Gap: Dimension Information Alignment and Sparse Spatial Constraint for Image-Text Matching. \[[PUB](https://doi.org/10.1145/3664647.3681424)]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

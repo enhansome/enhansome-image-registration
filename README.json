@@ -580,7 +580,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-02-25T17:36:00Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "mujc2021",
                     "repo": "Diff2I2P",
                     "stars": 41,
@@ -2308,7 +2308,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 214,
+                    "stars": 218,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2798,7 +2798,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-06-08T01:46:58Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "yzc-ippl",
                     "repo": "TMCR",
                     "stars": 8,
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:37:41.702Z",
+    "last_updated": "2026-09-28T11:49:41.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
