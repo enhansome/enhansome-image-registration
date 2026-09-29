@@ -3171,7 +3171,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 683,
+                    "stars": 684,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -4318,7 +4318,7 @@
                     "open_issues": 1,
                     "owner": "eyalhana",
                     "repo": "PCMC-T1",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": [
                       "alignment",
                       "cardiac",
@@ -4528,7 +4528,7 @@
                     "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
-                    "stars": 801,
+                    "stars": 802,
                     "topics": [
                       "cvpr2022",
                       "global-matching",
@@ -5996,7 +5996,7 @@
                     "open_issues": 0,
                     "owner": "NanYoMy",
                     "repo": "cmmas",
-                    "stars": 18,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7692,7 +7692,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 458,
+                    "stars": 459,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:49:41.867Z",
+    "last_updated": "2026-09-29T11:26:52.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",

@@ -753,7 +753,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICCV
 
-* GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 683 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
+* GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 684 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
 * VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 334 | 🐛 4 | 🌐 Python | 📅 2023-09-20]
 * Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 319 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 153 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
@@ -904,7 +904,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_64)] [CODE](https://github.com/multimodallearning/reg-cyclical-self-train) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-06-30
 * A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration. \[[PUB](https://doi.org/10.1007/978-3-031-43996-4_49)] [CODE](https://github.com/BaochangZhang/PSSS_registration) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2023-11-03
 * AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_72)] \[[CODE](https://github.com/RuishengSu/AngioMoCo) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2024-05-17]
-* PCMC-T1: Free-Breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_22)] \[[CODE](https://github.com/eyalhana/PCMC-T1) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
+* PCMC-T1: Free-Breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction. \[[PUB](https://doi.org/10.1007/978-3-031-43990-2_22)] \[[CODE](https://github.com/eyalhana/PCMC-T1) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 * Inverse Consistency by Construction for Multistep Deep Registration. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_65)] [CODE](https://github.com/uncbiag/ByConstructionICON) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05 \[**`medi.`**]
 * CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_69)] [CODE](https://github.com/SCAN-NRAD/CortexMorph) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-10-04
 * Fast Reconstruction for Deep Learning PET Head Motion Correction. \[[PUB](https://doi.org/10.1007/978-3-031-43999-5_67)] \[[CODE](https://github.com/OnofreyLab/dl-hmc_fast_recon_miccai2023) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-21]
@@ -983,7 +983,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### CVPR
 
 * Geometric Transformer for Fast and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01086)] \[[CODE](https://github.com/qinzheng93/GeoTransformer) ⭐ 983 | 🐛 53 | 🌐 Python | 📅 2023-11-22] \[**`pc.`**] :fire:
-* GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 801 | 🐛 7 | 🌐 Python | 📅 2024-02-20]
+* GMFlow: Learning Optical Flow via Global Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00795)] \[[CODE](https://github.com/haofeixu/gmflow) ⭐ 802 | 🐛 7 | 🌐 Python | 📅 2024-02-20]
 * REGTR: End-to-end Point Cloud Correspondences with Transformers. \[[PUB](https://arxiv.org/pdf/2203.14517v1.pdf)] \[[CODE](https://github.com/yewzijian/RegTR) ⭐ 272 | 🐛 20 | 🌐 Python | 📅 2023-10-29] \[**`pc.`**]
 * CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00570)] \[[CODE](https://github.com/MCG-NJU/CamLiFlow) ⭐ 252 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
 * Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 240 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
@@ -1183,7 +1183,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### JBHI
 
-* Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion. \[[PUB](https://doi.org/10.1109/JBHI.2022.3149114)] \[[CODE](https://github.com/NanYoMy/cmmas) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2022-04-06]
+* Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion. \[[PUB](https://doi.org/10.1109/JBHI.2022.3149114)] \[[CODE](https://github.com/NanYoMy/cmmas) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2022-04-06]
 * Brain MR Atlas Construction Using Symmetric Deep Neural Inpainting. \[[PUB](https://doi.org/10.1109/JBHI.2022.3149754)]
 * Few-Shot Learning for Deformable Medical Image Registration With Perception-Correspondence Decoupling and Reverse Teaching. \[[PUB](https://doi.org/10.1109/JBHI.2021.3095409)]
 * Improved Segmentation of Echocardiography With Orientation-Congruency of Optical Flow and Motion-Enhanced Segmentation. \[[PUB](https://doi.org/10.1109/JBHI.2022.3221429)] \[**`oth.`**]
@@ -1956,7 +1956,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IEEE Access
 
-* Multi-temporal Remote Sensing Image Registration Using Deep Convolutional Features. \[[PUB](https://ieeexplore.ieee.org/document/8404075)] \[[CODE](https://github.com/yzhq97/cnn-registration) ⭐ 458 | 🐛 25 | 🌐 Python | 📅 2020-12-28] \[**`rs.`**] :fire:
+* Multi-temporal Remote Sensing Image Registration Using Deep Convolutional Features. \[[PUB](https://ieeexplore.ieee.org/document/8404075)] \[[CODE](https://github.com/yzhq97/cnn-registration) ⭐ 459 | 🐛 25 | 🌐 Python | 📅 2020-12-28] \[**`rs.`**] :fire:
 
 ### COLING
 
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
