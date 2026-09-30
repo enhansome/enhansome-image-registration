@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 679,
+                    "stars": 681,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -286,7 +286,7 @@
                     "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 554,
+                    "stars": 555,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -474,7 +474,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-07-14T03:16:58Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
                     "stars": 289,
@@ -512,7 +512,7 @@
                     "open_issues": 0,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 109,
+                    "stars": 110,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -1027,7 +1027,7 @@
                     "open_issues": 6,
                     "owner": "multimodallearning",
                     "repo": "convexAdam",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7419,7 +7419,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 156,
+                    "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2754,
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:26:52.025Z",
+    "last_updated": "2026-09-30T11:15:15.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
