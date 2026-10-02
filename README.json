@@ -4665,7 +4665,7 @@
                     "open_issues": 7,
                     "owner": "CVI-SZU",
                     "repo": "CLIMS",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": [
                       "semantic-segmentation",
                       "weakly-supervised-learning",
@@ -6525,7 +6525,7 @@
                     "open_issues": 0,
                     "owner": "twhui",
                     "repo": "LiteFlowNet2",
-                    "stars": 285,
+                    "stars": 286,
                     "topics": [
                       "caffe",
                       "cnn",
@@ -7045,7 +7045,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1737,
+                    "stars": 1738,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7825,7 +7825,7 @@
                     "open_issues": 11,
                     "owner": "yangjiaolong",
                     "repo": "Go-ICP",
-                    "stars": 508,
+                    "stars": 509,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:42:16.497Z",
+    "last_updated": "2026-10-02T11:11:44.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",

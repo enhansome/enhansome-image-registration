@@ -71,7 +71,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
-*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,940 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,941 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -989,7 +989,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Lepard: Learning partial point cloud matching in rigid and deformable scenes. \[[PUB](https://ieeexplore.ieee.org/document/9878922)] \[[CODE](https://github.com/rabbityl/lepard) ⭐ 240 | 🐛 15 | 🌐 Python | 📅 2023-03-24]
 * SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01287)] \[[CODE](https://github.com/ZhiChen902/SC2-PCR) ⭐ 199 | 🐛 3 | 🌐 Python | 📅 2023-12-20] \[**`pc.`**]
 * Affine Medical Image Registration with Coarse-to-Fine Vision Transformer. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.02017)] \[[CODE](https://github.com/cwmok/C2FViT) ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2023-11-02]
-* CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00444)] \[[CODE](https://github.com/CVI-SZU/CLIMS) ⭐ 139 | 🐛 7 | 🌐 Python | 📅 2024-06-07]
+* CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00444)] \[[CODE](https://github.com/CVI-SZU/CLIMS) ⭐ 140 | 🐛 7 | 🌐 Python | 📅 2024-06-07]
 * Negative-Aware Attention Framework for Image-Text Matching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01521)] \[[CODE](https://github.com/CrossmodalGroup/NAAF) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2023-06-19] \[**`data.`**]
 * Global Matching with Overlapping Attention for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.01707)] \[[CODE](https://github.com/xiaofeng94/GMFlowNet) ⭐ 104 | 🐛 4 | 🌐 Python | 📅 2022-07-06]
 * Geometric Structure Preserving Warp for Natural Image Stitching. \[[PUB](https://doi.org/10.1109/CVPR52688.2022.00367)] \[[CODE](https://github.com/flowerDuo/GES-GSP-Stitching) ⭐ 91 | 🐛 15 | 🌐 C++ | 📅 2023-06-25]
@@ -1324,7 +1324,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2976928)] \[[CODE](https://github.com/twhui/LiteFlowNet2) ⭐ 285 | 🐛 0 | 🌐 Python | 📅 2022-05-17]
+* A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2976928)] \[[CODE](https://github.com/twhui/LiteFlowNet2) ⭐ 286 | 🐛 0 | 🌐 Python | 📅 2022-05-17]
 * Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression. \[[PUB](https://doi.org/10.1109/TPAMI.2020.3043769)]
 * DENAO: Monocular Depth Estimation Network With Auxiliary Optical Flow. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2977021)]
 * Point Set Registration for 3D Range Scans Using Fuzzy Cluster-Based Metric and Efficient Global Optimization. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2978477)]
@@ -1534,7 +1534,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2894353)] \[[CODE](https://github.com/NVlabs/PWC-Net) ⭐ 1,737 | 🐛 63 | 🌐 Python | 📅 2022-08-22]
+* Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2894353)] \[[CODE](https://github.com/NVlabs/PWC-Net) ⭐ 1,738 | 🐛 63 | 🌐 Python | 📅 2022-08-22]
 * Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2903179)] \[[CODE](https://github.com/tudelft/cuSNN) ⭐ 137 | 🐛 2 | 🌐 Cuda | 📅 2020-07-03]
 * Aggregated Wasserstein Distance and State Registration for Hidden Markov Models. \[[PUB](https://doi.org/10.1109/TPAMI.2019.2908635)]
 * Distance Surface for Event-Based Optical Flow. \[[PUB](https://doi.org/10.1109/TPAMI.2020.2986748)] \[**`oth.`**]
@@ -2171,7 +2171,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TPAMI
 
-* Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2513405)] [CODE](https://github.com/yangjiaolong/Go-ICP) ⭐ 508 | 🐛 11 | 🌐 C++ | 📅 2019-06-02 \[**`pc.`**]
+* Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2513405)] [CODE](https://github.com/yangjiaolong/Go-ICP) ⭐ 509 | 🐛 11 | 🌐 C++ | 📅 2019-06-02 \[**`pc.`**]
 * A Stochastic Approach to Diffeomorphic Point Set Registration with Landmark Constraints. \[[PUB](https://doi.org/10.1109/TPAMI.2015.2448102)] \[**`pc.`**]
 * Fast Rotation Search with Stereographic Projections for 3D Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2016.2517636)] \[**`pc.`**]
 * Higher-Order Graph Principles towards Non-Rigid Surface Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2016.2528240)]
@@ -4372,4 +4372,4 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
