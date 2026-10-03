@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Overlap-Aware Online-Adaptive Non-Rigid Registration of Intraoperative Tissue in Minimally Invasive Surgery. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "AIGCer0807/OANRM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "CASHNet: Context-Aware Semantics-Driven Hierarchical Network for Hybrid Diffeomorphic CT-CBCT Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xiaorugao999/CASHNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "MoE-Morph: Lightweight Pyramid Model With Heterogeneous Mixture of Experts for Deformable Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Darlinglinlinlin/MOE_Morph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -80,7 +80,7 @@
                 {
                   "node_type": "item",
                   "title": "DVAP-Reg: Dual-view anatomical prior-driven cross-dimensional registration for spinal surgery navigation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "TMMU-KLPOP/DVAP-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -101,7 +101,7 @@
                 {
                   "node_type": "item",
                   "title": "ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ybby2020/ARDMR_MIA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -122,7 +122,7 @@
                 {
                   "node_type": "item",
                   "title": "BIASNet: A bidirectional feature alignment and semantics-guided network for weakly-supervised medical image registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xiehousheng/BIASNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -143,7 +143,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised multimodal surface registration with geometric deep learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "mohamedasuliman/GeoMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -164,7 +164,7 @@
                 {
                   "node_type": "item",
                   "title": "UTMorph: A hybrid CNN-transformer network for weakly-supervised multimodal image registration in biopsy puncture. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Prps7/UTMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -185,7 +185,7 @@
                 {
                   "node_type": "item",
                   "title": "GAGM: Geometry-aware graph matching framework for weakly supervised gyral hinge correspondence. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ZhibinHe/GAGM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -213,7 +213,7 @@
                 {
                   "node_type": "item",
                   "title": "Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery With Patches-to-Partial Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zixinyang9109/P2P",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -248,7 +248,7 @@
                 {
                   "node_type": "item",
                   "title": "MINIMA: Modality Invariant Image Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "LSXI7/MINIMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -273,7 +273,7 @@
                 {
                   "node_type": "item",
                   "title": "DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework. [PUB",
-                  "description": "] [CODE]",
+                  "description": "hmorimitsu/ptlflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -301,7 +301,7 @@
                 {
                   "node_type": "item",
                   "title": "Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "opendatalab/UniMERNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -311,7 +311,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-09-28T11:15:13Z",
-                    "open_issues": 38,
+                    "open_issues": 39,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
                     "stars": 503,
@@ -322,7 +322,7 @@
                 {
                   "node_type": "item",
                   "title": "Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Yore0/TTDG-MGM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -343,7 +343,7 @@
                 {
                   "node_type": "item",
                   "title": "SACB-Net: Spatial-awareness Convolutions for Medical Image Registration. [PUB",
-                  "description": "] CODE",
+                  "description": "x-xc/SACB_Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -369,7 +369,7 @@
                 {
                   "node_type": "item",
                   "title": "MultiMorph: On-demand Atlas Construction. [PUB",
-                  "description": "] CODE",
+                  "description": "mabulnaga/multimorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -394,7 +394,7 @@
                 {
                   "node_type": "item",
                   "title": "Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction. [PUB",
-                  "description": "] [CODE]",
+                  "description": "GeWu-Lab/Motion-based-Self-Reflection-Framework",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -415,7 +415,7 @@
                 {
                   "node_type": "item",
                   "title": "Blood Flow Speed Estimation with Optical Coherence Tomography Angiography Images. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Spritea/OCTA-Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -436,7 +436,7 @@
                 {
                   "node_type": "item",
                   "title": "Shape and Texture: What Influences Reliable Optical Flow Estimation?. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "llesky/Robustness-Analysis-Optical-Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -464,7 +464,7 @@
                 {
                   "node_type": "item",
                   "title": "Buffer-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes. [PUB",
-                  "description": "] [CODE]",
+                  "description": "MIT-SPARK/BUFFER-X",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -499,7 +499,7 @@
                 {
                   "node_type": "item",
                   "title": "MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "msu-video-group/memfof",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -525,7 +525,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Sharpiless/L2M",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -546,7 +546,7 @@
                 {
                   "node_type": "item",
                   "title": "ZeroStereo: Zero-Shot Stereo Matching from Single Images. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Windsrain/ZeroStereo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -570,7 +570,7 @@
                 {
                   "node_type": "item",
                   "title": "Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior. [PUB",
-                  "description": "] [CODE]",
+                  "description": "mujc2021/Diff2I2P",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -591,7 +591,7 @@
                 {
                   "node_type": "item",
                   "title": "CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ZizhuoLi/CoMatch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -612,7 +612,7 @@
                 {
                   "node_type": "item",
                   "title": "Registration beyond Points: General Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold. [PUB",
-                  "description": "] [CODE]",
+                  "description": "joomeok/GrassmannRegistration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -633,7 +633,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras. [PUB",
-                  "description": "] [CODE]",
+                  "description": "tub-rip/e2fai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -654,7 +654,7 @@
                 {
                   "node_type": "item",
                   "title": "Anchor Token Matching: Implicit Structure Locking for Training-Free AR Image Editing. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "hutaiHang/ATM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -675,7 +675,7 @@
                 {
                   "node_type": "item",
                   "title": "PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View. [PUB",
-                  "description": "] [CODE]",
+                  "description": "longliangLiu/PriOr-Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -696,7 +696,7 @@
                 {
                   "node_type": "item",
                   "title": "RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zhengcy-lambo/RARE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -717,7 +717,7 @@
                 {
                   "node_type": "item",
                   "title": "EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "BIT-Vision/EMatch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -738,7 +738,7 @@
                 {
                   "node_type": "item",
                   "title": "Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "tlliao/LPAM_seam-cutting",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -761,7 +761,7 @@
                 {
                   "node_type": "item",
                   "title": "Correspondence-Free Fast and Robust Spherical Point Pattern Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ARLab-VT/Robust-Vector-Set-Alignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -789,7 +789,7 @@
                 {
                   "node_type": "item",
                   "title": "FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "OliverRensu/FlowAR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -810,7 +810,7 @@
                 {
                   "node_type": "item",
                   "title": "Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "qortmdgh4141/GAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -838,7 +838,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning General-purpose Biomedical Volume Representations using Randomized Synthesis. [PUB",
-                  "description": "] CODE",
+                  "description": "neel-dey/anatomix",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -867,7 +867,7 @@
                 {
                   "node_type": "item",
                   "title": "Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "iwuqing/Moner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -888,7 +888,7 @@
                 {
                   "node_type": "item",
                   "title": "PnP-Flow: Plug-and-Play Image Restoration with Flow Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "imigraz/Restora-Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -909,7 +909,7 @@
                 {
                   "node_type": "item",
                   "title": "InstaRevive: One-Step Image Enhancement via Dynamic Score Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "EternalEvan/InstaRevive",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -930,7 +930,7 @@
                 {
                   "node_type": "item",
                   "title": "Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "imagination-research/Distilled-Decoding-2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -958,7 +958,7 @@
                 {
                   "node_type": "item",
                   "title": "Optical Flow Estimation for Tiny Objects: New Problem, Specialized Benchmark, and Bioinspired Scheme. [PUB",
-                  "description": "] [CODE]",
+                  "description": "JaneEliot/OTHR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -986,7 +986,7 @@
                 {
                   "node_type": "item",
                   "title": "Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning. [PUB",
-                  "description": "] CODE",
+                  "description": "YutingHe-list/GEMINI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1014,7 +1014,7 @@
                 {
                   "node_type": "item",
                   "title": "ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "multimodallearning/convexAdam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1035,7 +1035,7 @@
                 {
                   "node_type": "item",
                   "title": "DINO-Reg: Efficient Multimodal Image Registration With Distilled Features. [PUB",
-                  "description": "] [CODE]",
+                  "description": "RPIDIAL/DINO-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1056,7 +1056,7 @@
                 {
                   "node_type": "item",
                   "title": "Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. [PUB",
-                  "description": "] [CODE]",
+                  "description": "junzastar/Self-P2IR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1077,7 +1077,7 @@
                 {
                   "node_type": "item",
                   "title": "Decoder-Only Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xi-jia/LessNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1098,7 +1098,7 @@
                 {
                   "node_type": "item",
                   "title": "Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ShumengLI/SFR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1119,7 +1119,7 @@
                 {
                   "node_type": "item",
                   "title": "OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. [PUB",
-                  "description": "] [CODE]",
+                  "description": "boahK/OTMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1140,7 +1140,7 @@
                 {
                   "node_type": "item",
                   "title": "UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Runshi-Zhang/UTSRMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1161,7 +1161,7 @@
                 {
                   "node_type": "item",
                   "title": "Feedback Attention to Enhance Unsupervised Deep Learning Image Registration in 3D Echocardiography. [PUB",
-                  "description": "] [CODE]",
+                  "description": "kamruleee51/Feedback_DLIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1188,7 +1188,7 @@
                 {
                   "node_type": "item",
                   "title": "Toward Semantically-Consistent Deformable 2D-3D Registration for 3D Craniofacial Structure Estimation From a Single-View Lateral Cephalometric Radiograph. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Jyk-122/SC-DREG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1209,7 +1209,7 @@
                 {
                   "node_type": "item",
                   "title": "A Novel Few-Shot Learning Framework for Supervised Diffeomorphic Image Registration Network. [PUB",
-                  "description": "] [CODE]",
+                  "description": "weijunping111/RDG-TMI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1230,7 +1230,7 @@
                 {
                   "node_type": "item",
                   "title": "Streamed Optical Flow Adaptation From Synthetic to Real Dental Scenes. [PUB",
-                  "description": "] [CODE]",
+                  "description": "camalab-ai/sofa-flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1267,7 +1267,7 @@
                 {
                   "node_type": "item",
                   "title": "Joint coil sensitivity and motion correction in parallel MRI with a self-calibrating score-based diffusion model. [PUB",
-                  "description": "] [CODE]",
+                  "description": "MeijiTian/JSMoCo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1288,7 +1288,7 @@
                 {
                   "node_type": "item",
                   "title": "MUsculo-Skeleton-Aware (MUSA) deep learning for anatomically guided head-and-neck CT deformable registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "HengjieLiu/DIR-MUSA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1313,7 +1313,7 @@
                 {
                   "node_type": "item",
                   "title": "MBSS-T1: Model-based subject-specific self-supervised motion correction for robust cardiac T1 mapping. [PUB",
-                  "description": "] [CODE]",
+                  "description": "TechnionComputationalMRILab/MBSS-T1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1334,7 +1334,7 @@
                 {
                   "node_type": "item",
                   "title": "COLLATOR: Consistent spatial-temporal longitudinal atlas construction via implicit neural representation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "maopaom/COLLATOR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1362,7 +1362,7 @@
                 {
                   "node_type": "item",
                   "title": "Weakly-Supervised 2D/3D Image Registration via Differentiable X-ray Rendering and ROI Segmentation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "eigenvivek/DiffPose",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1388,7 +1388,7 @@
                 {
                   "node_type": "item",
                   "title": "RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "shenao1995/RadGS_Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1409,7 +1409,7 @@
                 {
                   "node_type": "item",
                   "title": "Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration. [PUB",
-                  "description": "] CODE []",
+                  "description": "MICV-yonsei/M2M-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1430,7 +1430,7 @@
                 {
                   "node_type": "item",
                   "title": "Guiding Registration with Emergent Similarity from Pre-Trained Diffusion Models. [PUB",
-                  "description": "] CODE",
+                  "description": "uncbiag/dgir",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1451,7 +1451,7 @@
                 {
                   "node_type": "item",
                   "title": "Spatial regularisation for improved accuracy and interpretability in keypoint-based registration. [PUB",
-                  "description": "] CODE",
+                  "description": "BenBillot/spatial_regularisation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1472,7 +1472,7 @@
                 {
                   "node_type": "item",
                   "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Bian-jh/HoP-TM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1492,29 +1492,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation. [PUB",
-                  "description": "] [CODE]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "PyTorch implementation of FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation, accepted at MICCAI 2025",
-                    "homepage": null,
-                    "id": 939026548,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-03-02T09:54:34Z",
-                    "open_issues": 1,
-                    "owner": "siomvas",
-                    "repo": "FedCLAM",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration. [PUB",
-                  "description": "] CODE",
+                  "description": "tinymilky/VoxelOpt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1527,7 +1506,7 @@
                     "open_issues": 1,
                     "owner": "tinymilky",
                     "repo": "VoxelOpt",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "abdominal-ct",
                       "agent-friendly",
@@ -1549,6 +1528,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation. [PUB",
+                  "description": "siomvas/FedCLAM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PyTorch implementation of FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation, accepted at MICCAI 2025",
+                    "homepage": null,
+                    "id": 939026548,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-03-02T09:54:34Z",
+                    "open_issues": 1,
+                    "owner": "siomvas",
+                    "repo": "FedCLAM",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
                 }
               ],
               "description": null,
@@ -1560,7 +1560,7 @@
                 {
                   "node_type": "item",
                   "title": "Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness. [PUB",
-                  "description": "] [CODE]",
+                  "description": "HaoXu0507/IPMI25-SAM-Assisted-Registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1588,7 +1588,7 @@
                 {
                   "node_type": "item",
                   "title": "Toward a Training-Free Plug-and-Play Refinement Framework for Infrared and Visible Image Registration and Fusion. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "pubyLu/TRACE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1609,7 +1609,7 @@
                 {
                   "node_type": "item",
                   "title": "Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion. [PUB",
-                  "description": "] [CODE]",
+                  "description": "YiGuYT/LookBeyond",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1630,7 +1630,7 @@
                 {
                   "node_type": "item",
                   "title": "Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "syl6312/DGCMIA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1651,7 +1651,7 @@
                 {
                   "node_type": "item",
                   "title": "Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered Hyperspectral Image Super-Resolution. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Jiahuiqu/CCM-RFJN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1679,7 +1679,7 @@
                 {
                   "node_type": "item",
                   "title": "Beyond General Alignment: Fine-Grained Entity-Centric Image-Text Matching with Multimodal Attentive Experts. [PUB",
-                  "description": "] [CODE]",
+                  "description": "wangyxxjtu/ETE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1714,7 +1714,7 @@
                 {
                   "node_type": "item",
                   "title": "Intraoperative 2D/3D Image Registration via Differentiable X-Ray Rendering. [PUB",
-                  "description": "] [CODE]",
+                  "description": "eigenvivek/DiffPose",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1740,7 +1740,7 @@
                 {
                   "node_type": "item",
                   "title": "FlowDiffuser: Advancing Optical Flow Estimation with Diffusion Models. [PUB",
-                  "description": "] [CODE]",
+                  "description": "LA30/FlowDiffuser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1761,7 +1761,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zhiyuanYU134/MIRETR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1782,7 +1782,7 @@
                 {
                   "node_type": "item",
                   "title": "Bi-level Learning of Task-Specific Decoders for Joint Registration and One-Shot Medical Image Segmentation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Coradlut/Bi-JROS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1803,7 +1803,7 @@
                 {
                   "node_type": "item",
                   "title": "Efficient Meshflow and Optical Flow Estimation from Event Cameras. [PUB",
-                  "description": "] [CODE]",
+                  "description": "boomluo02/EEMFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1824,7 +1824,7 @@
                 {
                   "node_type": "item",
                   "title": "Composing Object Relations and Attributes for Image-Text Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "vkhoi/cora_cvpr24",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1845,7 +1845,7 @@
                 {
                   "node_type": "item",
                   "title": "IIRP-Net: Iterative Inference Residual Pyramid Network for Enhanced Image Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Torbjorn1997/IIRP-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1866,7 +1866,7 @@
                 {
                   "node_type": "item",
                   "title": "ADFactory: An Effective Framework for Generalizing Optical Flow With NeRF. [PUB",
-                  "description": "] [CODE]",
+                  "description": "HanLingsgjk/UnifiedGeneralization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1887,7 +1887,7 @@
                 {
                   "node_type": "item",
                   "title": "Multiway Point Cloud Mosaicking with Diffusion and Global Optimization. [PUB",
-                  "description": "] [CODE]",
+                  "description": "jinsz/Multiway-Point-Cloud-Mosaicking-with-Diffusion-and-Global-Optimization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1915,7 +1915,7 @@
                 {
                   "node_type": "item",
                   "title": "SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "princeton-vl/SEA-RAFT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1936,7 +1936,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. [PUB",
-                  "description": "] [CODE]",
+                  "description": "yejy53/EP-BEV",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1957,7 +1957,7 @@
                 {
                   "node_type": "item",
                   "title": "PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "yaorz97/PARENet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1978,7 +1978,7 @@
                 {
                   "node_type": "item",
                   "title": "Eliminating Warping Shakes for Unsupervised Online Video Stitching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "nie-lang/StabStitch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1999,7 +1999,7 @@
                 {
                   "node_type": "item",
                   "title": "PointRegGPT: Boosting 3D Point Cloud Registration Using Generative Point-Cloud Pairs for Training. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Chen-Suyi/PointRegGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2026,7 +2026,7 @@
                 {
                   "node_type": "item",
                   "title": "BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Egkang-Luis/BurstM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2063,7 +2063,7 @@
                 {
                   "node_type": "item",
                   "title": "StreamFlow: Streamlined Multi-Frame Optical Flow Estimation for Video Sequences. [PUB",
-                  "description": "] [CODE]",
+                  "description": "littlespray/StreamFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2084,7 +2084,7 @@
                 {
                   "node_type": "item",
                   "title": "Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model. [PUB",
-                  "description": "] [CODE]",
+                  "description": "yayoyo66/SRStitcher",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2105,7 +2105,7 @@
                 {
                   "node_type": "item",
                   "title": "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "jiangchaokang/NeuroGauss4D-PCI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2126,7 +2126,7 @@
                 {
                   "node_type": "item",
                   "title": "3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zlynpu/3DFMNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2154,7 +2154,7 @@
                 {
                   "node_type": "item",
                   "title": "Correlation Matching Transformation Transformers for UHD Image Restoration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "supersupercong/UHDformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2175,7 +2175,7 @@
                 {
                   "node_type": "item",
                   "title": "CLIM: Contrastive Language-Image Mosaic for Region Representation. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "wusize/CLIM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2199,7 +2199,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards Robust Image Stitching: An Adaptive Resistance Learning against Compatible Attacks. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Jzy2017/TRIS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2225,7 +2225,7 @@
                 {
                   "node_type": "item",
                   "title": "PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "AI-IT-AVs/PosDiffNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2246,7 +2246,7 @@
                 {
                   "node_type": "item",
                   "title": "Optical Flow for Spike Camera with Hierarchical Spatial-Temporal Spike Fusion. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ruizhao26/HiST-SFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2267,7 +2267,7 @@
                 {
                   "node_type": "item",
                   "title": "SuperJunction: Learning-Based Junction Detection for Retinal Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "samjcheng/SuperJunction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2295,7 +2295,7 @@
                 {
                   "node_type": "item",
                   "title": "A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "yxzhang15/PCR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2323,7 +2323,7 @@
                 {
                   "node_type": "item",
                   "title": "SplatFlow: Learning Multi-frame Optical Flow via Splatting. [PUB",
-                  "description": "] [CODE]",
+                  "description": "wwsource/SplatFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2344,7 +2344,7 @@
                 {
                   "node_type": "item",
                   "title": "GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "lhaippp/GyroFlowPlus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2365,7 +2365,7 @@
                 {
                   "node_type": "item",
                   "title": "On Finite Difference Jacobian Computation in Deformable Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "yihao6/digital_diffeomorphism",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2386,7 +2386,7 @@
                 {
                   "node_type": "item",
                   "title": "FlowNAS: Neural Architecture Search for Optical Flow Estimation. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "VDIGPKU/FlowNAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2414,7 +2414,7 @@
                 {
                   "node_type": "item",
                   "title": "A Fully Differentiable Framework for 2D/3D Registration and the Projective Spatial Transformers. [PUB",
-                  "description": "] [CODE]",
+                  "description": "gaocong13/Projective-Spatial-Transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2435,7 +2435,7 @@
                 {
                   "node_type": "item",
                   "title": "Recursive Deformable Pyramid Network for Unsupervised Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ZAX130/RDP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2460,7 +2460,7 @@
                 {
                   "node_type": "item",
                   "title": "Attention-Aware Non-Rigid Image Registration for Accelerated MR Imaging. [PUB",
-                  "description": "] [CODE]",
+                  "description": "lab-midas/GMARAFT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2486,7 +2486,7 @@
                 {
                   "node_type": "item",
                   "title": "GroupMorph: Medical Image Registration via Grouping Network With Contextual Fusion. [PUB",
-                  "description": "] [CODE]",
+                  "description": "TVayne/GroupMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2514,7 +2514,7 @@
                 {
                   "node_type": "item",
                   "title": "Residual Aligner-based Network (RAN): Motion-separable structure for coarse-to-fine discontinuous deformable registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "jianqingzheng/res_aligner_net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2545,7 +2545,7 @@
                 {
                   "node_type": "item",
                   "title": "CMAN: Cascaded Multi-scale Spatial Channel Attention-guided Network for large 3D deformable registration of liver CT images. [PUB",
-                  "description": "] [CODE]",
+                  "description": "LocPham263/CMAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2573,7 +2573,7 @@
                 {
                   "node_type": "item",
                   "title": "On-the-Fly Guidance Training for Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "cilix-ai/on-the-fly-guidance",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2601,7 +2601,7 @@
                 {
                   "node_type": "item",
                   "title": "MemWarp: Discontinuity-Preserving Cardiac Registration with Memorized Anatomical Filters. [PUB",
-                  "description": "] [CODE]",
+                  "description": "tinymilky/Mem-Warp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2634,7 +2634,7 @@
                 {
                   "node_type": "item",
                   "title": "TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "nellie689/TLRN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2655,7 +2655,7 @@
                 {
                   "node_type": "item",
                   "title": "Groupwise Deformable Registration of Diffusion Tensor Cardiovascular Magnetic Resonance: Disentangling Diffusion Contrast, Respiratory and Cardiac Motions. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ayanglab/DTCMR-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2676,7 +2676,7 @@
                 {
                   "node_type": "item",
                   "title": "Toward Universal Medical Image Registration via Sharpness-Aware Meta-Continual Learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xzluo97/Continual-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2704,7 +2704,7 @@
                 {
                   "node_type": "item",
                   "title": "DiffGlue: Diffusion-Aided Image Feature Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "SuhZhang/DiffGlue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2725,7 +2725,7 @@
                 {
                   "node_type": "item",
                   "title": "OmniStitch: Depth-Aware Stitching Framework for Omnidirectional Vision with Multiple Cameras. [PUB",
-                  "description": "] [CODE]",
+                  "description": "tngh5004/Omnistitch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2746,7 +2746,7 @@
                 {
                   "node_type": "item",
                   "title": "Hybrid Cost Volume for Memory-Efficient Optical Flow. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "gangweix/HCVFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2767,7 +2767,7 @@
                 {
                   "node_type": "item",
                   "title": "A Multi-scale Feature Learning Network with Optical Flow Correction for Micro- and Macro-expression Spotting. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zzy188zzy/megc_spotting_code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2788,7 +2788,7 @@
                 {
                   "node_type": "item",
                   "title": "Semantics-Aware Image Aesthetics Assessment using Tag Matching and Contrastive Ranking. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "yzc-ippl/TMCR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2809,7 +2809,7 @@
                 {
                   "node_type": "item",
                   "title": "Serial Section Microscopy Image Inpainting Guided by Axial Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "chengyr1999/FlowInpaint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2837,7 +2837,7 @@
                 {
                   "node_type": "item",
                   "title": "ComCLIP: Training-Free Compositional Image and Text Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "UCSB-AI/ComCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2885,7 +2885,7 @@
                 {
                   "node_type": "item",
                   "title": "3D Registration with Maximal Cliques. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "zhangxy0517/3D-Registration-with-Maximal-Cliques",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2906,7 +2906,7 @@
                 {
                   "node_type": "item",
                   "title": "Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "WHU-USI3DV/SGHR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2931,7 +2931,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "qinzheng93/GraphSCNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2960,7 +2960,7 @@
                 {
                   "node_type": "item",
                   "title": "BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "SYSU-SAIL/BUFFER",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2981,7 +2981,7 @@
                 {
                   "node_type": "item",
                   "title": "Rethinking Optical Flow from Geometric Matching Consistent Perspective. [PUB",
-                  "description": "] [CODE]",
+                  "description": "DQiaole/MatchFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3004,7 +3004,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Semantic Relationship among Instances for Image-Text Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "CrossmodalGroup/HREM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3025,7 +3025,7 @@
                 {
                   "node_type": "item",
                   "title": "Fine-grained Image-text Matching by Cross-modal Hard Aligning Network. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ppanzx/CHAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3046,7 +3046,7 @@
                 {
                   "node_type": "item",
                   "title": "Indescribable Multi-modal Spatial Evaluator. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Kid-Liet/IMSE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3067,7 +3067,7 @@
                 {
                   "node_type": "item",
                   "title": "Robust Outlier Rejection for 3D Registration with Variational Bayes. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Jiang-HB/VBReg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3088,7 +3088,7 @@
                 {
                   "node_type": "item",
                   "title": "Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "GitCVfb/JAMNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3109,7 +3109,7 @@
                 {
                   "node_type": "item",
                   "title": "PMatch: Paired Masked Image Modeling for Dense Geometric Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ShngJZ/PMatch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3130,7 +3130,7 @@
                 {
                   "node_type": "item",
                   "title": "Tangentially Elongated Gaussian Belief Propagation for Event-Based Incremental Optical Flow Estimation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "DensoITLab/tegbp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3158,7 +3158,7 @@
                 {
                   "node_type": "item",
                   "title": "GlueStick: Robust Image Matching by Sticking Points and Lines Together. [PUB",
-                  "description": "] [CODE]",
+                  "description": "cvg/GlueStick",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3187,7 +3187,7 @@
                 {
                   "node_type": "item",
                   "title": "VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "XiaoyuShi97/VideoFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3208,7 +3208,7 @@
                 {
                   "node_type": "item",
                   "title": "Parallax-Tolerant Unsupervised Deep Image Stitching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "nie-lang/UDIS2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3229,7 +3229,7 @@
                 {
                   "node_type": "item",
                   "title": "2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "minhaolee/2D3DMATR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3250,7 +3250,7 @@
                 {
                   "node_type": "item",
                   "title": "RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "IRMVLab/RegFormer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3271,7 +3271,7 @@
                 {
                   "node_type": "item",
                   "title": "DReg-NeRF: Deep Registration for Neural Radiance Fields. [PUB",
-                  "description": "] [CODE]",
+                  "description": "AIBluefisher/DReg-NeRF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3297,7 +3297,7 @@
                 {
                   "node_type": "item",
                   "title": "MPI-Flow: Learning Realistic Optical Flow with Multiplane Images. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Sharpiless/MPI-Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3324,7 +3324,7 @@
                 {
                   "node_type": "item",
                   "title": "GAFlow: Incorporating Gaussian Attention into Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "LA30/GAFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3345,7 +3345,7 @@
                 {
                   "node_type": "item",
                   "title": "TMA: Temporal Motion Aggregation for Event-based Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ispc-lab/TMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3366,7 +3366,7 @@
                 {
                   "node_type": "item",
                   "title": "Density-invariant Features for Distant Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "liuQuan98/GCL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3387,7 +3387,7 @@
                 {
                   "node_type": "item",
                   "title": "AccFlow: Backward Accumulation for Long-Range Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "mulns/AccFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3408,7 +3408,7 @@
                 {
                   "node_type": "item",
                   "title": "SemARFlow: Injecting Semantics into Unsupervised Optical Flow Estimation for Autonomous Driving. [PUB",
-                  "description": "] [CODE]",
+                  "description": "duke-vision/semantic-unsup-flow-release",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3434,7 +3434,7 @@
                 {
                   "node_type": "item",
                   "title": "PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "phdymz/PointMBF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3455,7 +3455,7 @@
                 {
                   "node_type": "item",
                   "title": "Chasing clouds: Differentiable volumetric rasterisation of point clouds as a highly efficient and accurate loss for large-scale deformable 3D registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "mattiaspaul/ChasingClouds",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3476,7 +3476,7 @@
                 {
                   "node_type": "item",
                   "title": "Explicit Motion Disentangling for Efficient Optical Flow Estimation. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "gddcx/EMD-Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3497,7 +3497,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Optical Flow from Event Camera with Rendered Dataset. [PUB",
-                  "description": "] [CODE]",
+                  "description": "boomluo02/ADMFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3518,7 +3518,7 @@
                 {
                   "node_type": "item",
                   "title": "Rethinking Point Cloud Registration as Masking and Reconstruction. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "CGuangyan-BIT/MRA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3539,7 +3539,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction. [PUB",
-                  "description": "] [CODE]",
+                  "description": "DelinQu/QRSC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3567,7 +3567,7 @@
                 {
                   "node_type": "item",
                   "title": "Differentiable Registration of Images and LiDAR Point Clouds with VoxelPoint-to-Pixel Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "junshengzhou/VP2P-Match",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3588,7 +3588,7 @@
                 {
                   "node_type": "item",
                   "title": "Non-Rigid Shape Registration via Deep Functional Maps Prior. [PUB",
-                  "description": "] [CODE]",
+                  "description": "rqhuang88/DFR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3616,7 +3616,7 @@
                 {
                   "node_type": "item",
                   "title": "Fourier-Net: Fast Image Registration with Band-Limited Deformation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xi-jia/Fourier-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3637,7 +3637,7 @@
                 {
                   "node_type": "item",
                   "title": "Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "MengLi-l1/StrokeExtraction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3658,7 +3658,7 @@
                 {
                   "node_type": "item",
                   "title": "Rethinking Rotation Invariance with Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Crane-YU/rethink_rotation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3682,7 +3682,7 @@
                 {
                   "node_type": "item",
                   "title": "Exploit Domain-Robust Optical Flow in Domain Adaptive Video Semantic Segmentation. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "EdenHazardan/SFC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3710,7 +3710,7 @@
                 {
                   "node_type": "item",
                   "title": "APR: Online Distant Point Cloud Registration through Aggregated Point Cloud Reconstruction. [PUB",
-                  "description": "] [CODE]",
+                  "description": "liuQuan98/APR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3738,7 +3738,7 @@
                 {
                   "node_type": "item",
                   "title": "A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "WPC-WHU/GROR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3759,7 +3759,7 @@
                 {
                   "node_type": "item",
                   "title": "Reference-Based Image and Video Super-Resolution via $C{2}$-Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "yumingj/C2-Matching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3780,7 +3780,7 @@
                 {
                   "node_type": "item",
                   "title": "Robust Point Cloud Registration Framework Based on Deep Graph Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "fukexue/RGM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3801,7 +3801,7 @@
                 {
                   "node_type": "item",
                   "title": "RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "HpWang-whu/RoReg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3822,7 +3822,7 @@
                 {
                   "node_type": "item",
                   "title": "Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "yaoyx689/AMM_NRR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3843,7 +3843,7 @@
                 {
                   "node_type": "item",
                   "title": "SC${2}$2-PCR++: Rethinking the Generation and Selection for Efficient and Robust Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ZhiChen902/SC2-PCR-plusplus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3864,7 +3864,7 @@
                 {
                   "node_type": "item",
                   "title": "Formulating Event-Based Image Reconstruction as a Linear Inverse Problem With Deep Regularization Using Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "tub-rip/event_based_image_rec_inverse_problem",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3902,7 +3902,7 @@
                 {
                   "node_type": "item",
                   "title": "HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ispc-lab/HRegNet2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3930,7 +3930,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "NaughtyZZ/3D_face_dense_registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3962,7 +3962,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Blcony/SDHNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3990,7 +3990,7 @@
                 {
                   "node_type": "item",
                   "title": "A robust and interpretable deep learning framework for multi-modal registration via keypoints. [PUB",
-                  "description": "] [CODE]",
+                  "description": "alanqrwang/keymorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4022,7 +4022,7 @@
                 {
                   "node_type": "item",
                   "title": "WarpPINN: Cine-MR image registration with physics-informed neural networks. [PUB",
-                  "description": "] [CODE]",
+                  "description": "fsahli/WarpPINN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4043,7 +4043,7 @@
                 {
                   "node_type": "item",
                   "title": "DuSFE: Dual-Channel Squeeze-Fusion-Excitation co-attention for cross-modality registration of cardiac SPECT and CT. [PUB",
-                  "description": "] [CODE]",
+                  "description": "XiongchaoChen/DuSFE_CrossRegistration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4064,7 +4064,7 @@
                 {
                   "node_type": "item",
                   "title": "R2Net: Efficient and flexible diffeomorphic image registration using Lipschitz continuous residual networks. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ankitajoshi15/R2Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4092,7 +4092,7 @@
                 {
                   "node_type": "item",
                   "title": "A Denoised Mean Teacher for Domain Adaptive Point Cloud Registration. [PUB",
-                  "description": "] CODE []",
+                  "description": "uncbiag/robot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4113,7 +4113,7 @@
                 {
                   "node_type": "item",
                   "title": "ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer. [PUB",
-                  "description": "] CODE",
+                  "description": "ZAX130/SmileCode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4137,7 +4137,7 @@
                 {
                   "node_type": "item",
                   "title": "FSDiffReg: Feature-Wise and Score-Wise Diffusion-Guided Unsupervised Deformable Image Registration for Cardiac Images. [PUB",
-                  "description": "] CODE",
+                  "description": "xmed-lab/FSDiffReg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4158,7 +4158,7 @@
                 {
                   "node_type": "item",
                   "title": "DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration. [PUB",
-                  "description": "] CODE",
+                  "description": "ImFusionGmbH/DISA-universal-multimodal-registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4179,7 +4179,7 @@
                 {
                   "node_type": "item",
                   "title": "PIViT: Large Deformation Image Registration with Pyramid-Iterative Vision Transformer. [PUB",
-                  "description": "] CODE",
+                  "description": "Torbjorn1997/PIViT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4200,7 +4200,7 @@
                 {
                   "node_type": "item",
                   "title": "X-Ray to CT Rigid Registration Using Scene Coordinate Regression. [PUB",
-                  "description": "] CODE",
+                  "description": "Pragyanstha/SCR-Registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4221,7 +4221,7 @@
                 {
                   "node_type": "item",
                   "title": "GSMorph: Gradient Surgery for Cine-MRI Cardiac Deformable Registration. [PUB",
-                  "description": "] CODE",
+                  "description": "wulalago/GSMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4242,7 +4242,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised 3D Registration Through Optimization-Guided Cyclical Self-training. [PUB",
-                  "description": "] CODE",
+                  "description": "multimodallearning/reg-cyclical-self-train",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4263,7 +4263,7 @@
                 {
                   "node_type": "item",
                   "title": "A Patient-Specific Self-supervised Model for Automatic X-Ray/CT Registration. [PUB",
-                  "description": "] CODE",
+                  "description": "BaochangZhang/PSSS_registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4284,7 +4284,7 @@
                 {
                   "node_type": "item",
                   "title": "AngioMoCo: Learning-Based Motion Correction in Cerebral Digital Subtraction Angiography. [PUB",
-                  "description": "] [CODE]",
+                  "description": "RuishengSu/AngioMoCo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4305,7 +4305,7 @@
                 {
                   "node_type": "item",
                   "title": "PCMC-T1: Free-Breathing Myocardial T1 Mapping with Physically-Constrained Motion Correction. [PUB",
-                  "description": "] [CODE]",
+                  "description": "eyalhana/PCMC-T1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4337,7 +4337,7 @@
                 {
                   "node_type": "item",
                   "title": "Inverse Consistency by Construction for Multistep Deep Registration. [PUB",
-                  "description": "] CODE []",
+                  "description": "uncbiag/ByConstructionICON",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4358,7 +4358,7 @@
                 {
                   "node_type": "item",
                   "title": "CortexMorph: Fast Cortical Thickness Estimation via Diffeomorphic Registration Using VoxelMorph. [PUB",
-                  "description": "] CODE",
+                  "description": "SCAN-NRAD/CortexMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4379,7 +4379,7 @@
                 {
                   "node_type": "item",
                   "title": "Fast Reconstruction for Deep Learning PET Head Motion Correction. [PUB",
-                  "description": "] [CODE]",
+                  "description": "OnofreyLab/dl-hmc_fast_recon_miccai2023",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4400,7 +4400,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Expected Appearances for Intraoperative Registration During Neurosurgery. [PUB",
-                  "description": "] CODE []",
+                  "description": "rouge1616/ExApp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4421,7 +4421,7 @@
                 {
                   "node_type": "item",
                   "title": "An Unsupervised Multispectral Image Registration Network for Skin Diseases. [PUB",
-                  "description": "] CODE",
+                  "description": "SH-Diao123/MSIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4449,7 +4449,7 @@
                 {
                   "node_type": "item",
                   "title": "Your Negative May not Be True Negative: Boosting Image-Text Matching with False Negative Elimination. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "LuminosityX/FNE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4515,7 +4515,7 @@
                 {
                   "node_type": "item",
                   "title": "GMFlow: Learning Optical Flow via Global Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "haofeixu/gmflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4541,7 +4541,7 @@
                 {
                   "node_type": "item",
                   "title": "REGTR: End-to-end Point Cloud Correspondences with Transformers. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "yewzijian/RegTR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4562,7 +4562,7 @@
                 {
                   "node_type": "item",
                   "title": "CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "MCG-NJU/CamLiFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4589,7 +4589,7 @@
                 {
                   "node_type": "item",
                   "title": "Lepard: Learning partial point cloud matching in rigid and deformable scenes. [PUB",
-                  "description": "] [CODE]",
+                  "description": "rabbityl/lepard",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4610,7 +4610,7 @@
                 {
                   "node_type": "item",
                   "title": "SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ZhiChen902/SC2-PCR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4631,7 +4631,7 @@
                 {
                   "node_type": "item",
                   "title": "Affine Medical Image Registration with Coarse-to-Fine Vision Transformer. [PUB",
-                  "description": "] [CODE]",
+                  "description": "cwmok/C2FViT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4652,7 +4652,7 @@
                 {
                   "node_type": "item",
                   "title": "CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "CVI-SZU/CLIMS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4677,7 +4677,7 @@
                 {
                   "node_type": "item",
                   "title": "Negative-Aware Attention Framework for Image-Text Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "CrossmodalGroup/NAAF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4698,7 +4698,7 @@
                 {
                   "node_type": "item",
                   "title": "Global Matching with Overlapping Attention for Optical Flow Estimation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xiaofeng94/GMFlowNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4723,7 +4723,7 @@
                 {
                   "node_type": "item",
                   "title": "Geometric Structure Preserving Warp for Natural Image Stitching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "flowerDuo/GES-GSP-Stitching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4744,7 +4744,7 @@
                 {
                   "node_type": "item",
                   "title": "CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "askerlee/craft",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4765,7 +4765,7 @@
                 {
                   "node_type": "item",
                   "title": "MotionAug: Augmentation with Physical Correction for Human Motion Prediction. [PUB",
-                  "description": "] [CODE]",
+                  "description": "meaten/MotionAug-CVPR2022",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4786,7 +4786,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Optical Flow with Kernel Patch Attention. [PUB",
-                  "description": "] [CODE]",
+                  "description": "megvii-research/KPAFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4807,7 +4807,7 @@
                 {
                   "node_type": "item",
                   "title": "Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Siwensun/Neural_Diffeomorphic_Flow--NDF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4828,7 +4828,7 @@
                 {
                   "node_type": "item",
                   "title": "Optical Flow Estimation for Spiking Camera. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Acnext/Optical-Flow-For-Spiking-Camera",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4849,7 +4849,7 @@
                 {
                   "node_type": "item",
                   "title": "NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "yifannnwu/NODEO-DIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4870,7 +4870,7 @@
                 {
                   "node_type": "item",
                   "title": "A variational Bayesian method for similarity learning in non-rigid image registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "dgrzech/learnsim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4891,7 +4891,7 @@
                 {
                   "node_type": "item",
                   "title": "Coherent Point Drift Revisited for Non-rigid Shape Matching and Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "AoxiangFan/GeneralizedCoherentPointDrift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4912,7 +4912,7 @@
                 {
                   "node_type": "item",
                   "title": "Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning with Pairwise Alignment. [PUB",
-                  "description": "] [CODE]",
+                  "description": "uncbiag/Aladdin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4940,7 +4940,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards Understanding Adversarial Robustness of Optical Flow Networks. [PUB",
-                  "description": "] [CODE]",
+                  "description": "lmb-freiburg/understanding_flow_robustness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4961,7 +4961,7 @@
                 {
                   "node_type": "item",
                   "title": "Global-Aware Registration of Less-Overlap RGB-D Scans. [PUB",
-                  "description": "] [CODE]",
+                  "description": "2120171054/Global-Aware-Registration-of-Less-Overlap-RGB-D-Scans",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4982,7 +4982,7 @@
                 {
                   "node_type": "item",
                   "title": "Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Gilgamesh666666/Multi-instance-Point-Cloud-Registration-by-Efficient-Correspondence-Clustering",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5010,7 +5010,7 @@
                 {
                   "node_type": "item",
                   "title": "Registration based Few-Shot Anomaly Detection. [PUB",
-                  "description": "] [CODE]",
+                  "description": "MediaBrain-SJTU/RegAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5031,7 +5031,7 @@
                 {
                   "node_type": "item",
                   "title": "ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer. [PUB",
-                  "description": "] [CODE]",
+                  "description": "apple-aiml-research/ml-aspanformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5052,7 +5052,7 @@
                 {
                   "node_type": "item",
                   "title": "Secrets of Event-Based Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "tub-rip/event_based_optical_flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5092,7 +5092,7 @@
                 {
                   "node_type": "item",
                   "title": "SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "zxrzju/SuperLine3D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5113,7 +5113,7 @@
                 {
                   "node_type": "item",
                   "title": "DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model. [PUB",
-                  "description": "] [CODE]",
+                  "description": "DiffuseMorph/DiffuseMorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5134,7 +5134,7 @@
                 {
                   "node_type": "item",
                   "title": "DFNet: Enhance Absolute Pose Regression with Direct Feature Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ActiveVisionLab/DFNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5162,7 +5162,7 @@
                 {
                   "node_type": "item",
                   "title": "RealFlow: EM-Based Realistic Optical Flow Dataset Generation from Videos. [PUB",
-                  "description": "] [CODE]",
+                  "description": "megvii-research/RealFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5183,7 +5183,7 @@
                 {
                   "node_type": "item",
                   "title": "Generating Natural Images with Direct Patch Distributions Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ariel415el/GPDM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5204,7 +5204,7 @@
                 {
                   "node_type": "item",
                   "title": "Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ruc-aimc-lab/SuperRetina",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5225,7 +5225,7 @@
                 {
                   "node_type": "item",
                   "title": "PCR-CG: Point Cloud Registration via Deep Explicit Color and Geometry. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Gardlin/PCR-CG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5250,7 +5250,7 @@
                 {
                   "node_type": "item",
                   "title": "Explaining Deepfake Detection by Analysing Image Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "megvii-research/FST-Matching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5276,7 +5276,7 @@
                 {
                   "node_type": "item",
                   "title": "3DG-STFM: 3D Geometric Guided Student-Teacher Feature Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Ryan-prime/3DG-STFM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5297,7 +5297,7 @@
                 {
                   "node_type": "item",
                   "title": "Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "514DNA/LLT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5322,7 +5322,7 @@
                 {
                   "node_type": "item",
                   "title": "PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "phdymz/PointCLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5343,7 +5343,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Deep Multi-shape Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "dongliangcao/Unsupervised-Deep-Multi-Shape-Matching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5370,7 +5370,7 @@
                 {
                   "node_type": "item",
                   "title": "Implicit field supervision for robust non-rigid shape matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Sentient07/IFMatch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5391,7 +5391,7 @@
                 {
                   "node_type": "item",
                   "title": "A Perturbation-Constrained Adversarial Attack for Evaluating the Robustness of Optical Flow. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "cv-stuttgart/PCFA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5419,7 +5419,7 @@
                 {
                   "node_type": "item",
                   "title": "CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds. [PUB",
-                  "description": "] [CODE]",
+                  "description": "jasongzy/CMT",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5447,7 +5447,7 @@
                 {
                   "node_type": "item",
                   "title": "Non-rigid Point Cloud Registration with Neural Deformation Pyramid. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "rabbityl/DeformationPyramid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5468,7 +5468,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Optical Flow from Continuous Spike Streams. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ruizhao26/Spike2Flow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5489,7 +5489,7 @@
                 {
                   "node_type": "item",
                   "title": "Reduced Representation of Deformation Fields for Effective Non-rigid Shape Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Sentient07/DeformationBasis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5517,7 +5517,7 @@
                 {
                   "node_type": "item",
                   "title": "Stochastic Planner-Actor-Critic for Unsupervised Deformable Image Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Algolzw/SPAC-Deformable-Registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5543,7 +5543,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Optical Flow with Adaptive Graph Reasoning. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "megvii-research/AGFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5566,7 +5566,7 @@
                 {
                   "node_type": "item",
                   "title": "Reliable Inlier Evaluation for Unsupervised Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "supersyq/RIENet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5587,7 +5587,7 @@
                 {
                   "node_type": "item",
                   "title": "FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "MegEngine/FINet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5611,7 +5611,7 @@
                 {
                   "node_type": "item",
                   "title": "DeTarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ZhiChen902/DetarNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5632,7 +5632,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Temporally and Semantically Consistent Unpaired Video-to-Video Translation through Pseudo-Supervision from Synthetic Optical Flow. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "wangkaihong/Unsup_Recycle_GAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5660,7 +5660,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "heyblackC/DFMIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5688,7 +5688,7 @@
                 {
                   "node_type": "item",
                   "title": "Light-Weight Deformable Registration Using Adversarial Learning With Distilling Knowledge. [PUB",
-                  "description": "] [CODE]",
+                  "description": "aioz-ai/LDR_ALDK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5720,7 +5720,7 @@
                 {
                   "node_type": "item",
                   "title": "Recurrent Tissue-Aware Network for Deformable Registration of Infant Brain MR Images. [PUB",
-                  "description": "] [CODE]",
+                  "description": "Barnonewdm/RTA-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5752,7 +5752,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-modal attention for multi-modal image registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "DIAL-RPI/Attention-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5773,7 +5773,7 @@
                 {
                   "node_type": "item",
                   "title": "SCPM-Net: An anchor-free 3D lung nodule detection network using sphere representation and center points matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "HiLab-git/SCPM-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5798,7 +5798,7 @@
                 {
                   "node_type": "item",
                   "title": "Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "acasamitjana/3dhirest",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5847,7 +5847,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans. [PUB",
-                  "description": "] [CODE]",
+                  "description": "cwmok/DIRAC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5868,7 +5868,7 @@
                 {
                   "node_type": "item",
                   "title": "Non-iterative Coarse-to-Fine Registration Based on Single-Pass Deep Cumulative Learning. [PUB",
-                  "description": "] CODE",
+                  "description": "MungoMeng/Registration-NICE-Trans",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5892,7 +5892,7 @@
                 {
                   "node_type": "item",
                   "title": "AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "imedslab/AdaTriplet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5913,7 +5913,7 @@
                 {
                   "node_type": "item",
                   "title": "Adapting the Mean Teacher for Keypoint-Based Lung Registration Under Geometric Domain Shifts. [PUB",
-                  "description": "] [CODE]",
+                  "description": "multimodallearning/registration-da-mean-teacher",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5934,7 +5934,7 @@
                 {
                   "node_type": "item",
                   "title": "MCP-Net: Inter-frame Motion Correction with Patlak Regularization for Whole-body Dynamic PET. [PUB",
-                  "description": "] [CODE]",
+                  "description": "gxq1998/MCP-Net.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5955,7 +5955,7 @@
                 {
                   "node_type": "item",
                   "title": "Supervised Deep Learning for Head Motion Correction in PET. [PUB",
-                  "description": "] [CODE]",
+                  "description": "OnofreyLab/dl-hmc_miccai2022",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5983,7 +5983,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion. [PUB",
-                  "description": "] [CODE]",
+                  "description": "NanYoMy/cmmas",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6011,7 +6011,7 @@
                 {
                   "node_type": "item",
                   "title": "You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors. [PUB",
-                  "description": "] [CODE]",
+                  "description": "HpWang-whu/YOHO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6035,7 +6035,7 @@
                 {
                   "node_type": "item",
                   "title": "Synthesizing Counterfactual Samples for Effective Image-Text Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "weihao20/cfm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6063,7 +6063,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphReg: Dynamical Point Cloud Registration with Geometry-aware Graph Signal Processing. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zikai1/GraphReg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6096,7 +6096,7 @@
                 {
                   "node_type": "item",
                   "title": "WSDesc: Weakly Supervised 3D Local Descriptor Learning for Point Cloud Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "craigleili/WSDesc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6219,7 +6219,7 @@
                 {
                   "node_type": "item",
                   "title": "Leveraging Line-Point Consistence To Preserve Structures for Wide Parallax Image Stitching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "dut-media-lab/Image-Stitching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6240,7 +6240,7 @@
                 {
                   "node_type": "item",
                   "title": "PointNetLK Revisited. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Lilac-Lee/PointNetLK_Revisited",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6275,7 +6275,7 @@
                 {
                   "node_type": "item",
                   "title": "High-Resolution Optical Flow from 1D Attention and Correlation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "haofeixu/flow1d",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6302,7 +6302,7 @@
                 {
                   "node_type": "item",
                   "title": "GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning. [PUB",
-                  "description": "] [CODE]",
+                  "description": "MegEngine/GyroFlow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6327,7 +6327,7 @@
                 {
                   "node_type": "item",
                   "title": "LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "ChirikjianLab/LSG-CPD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6362,7 +6362,7 @@
                 {
                   "node_type": "item",
                   "title": "OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "MegEngine/OMNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6386,7 +6386,7 @@
                 {
                   "node_type": "item",
                   "title": "MosaicOS: A Simple and Effective Use of Object-Centric Images for Long-Tailed Object Detection. [PUB",
-                  "description": "] [CODE]",
+                  "description": "czhang0528/MosaicOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6414,7 +6414,7 @@
                 {
                   "node_type": "item",
                   "title": "Video Self-Stitching Graph Network for Temporal Action Localization. [PUB",
-                  "description": "] [CODE]",
+                  "description": "coolbay/VSGN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6435,7 +6435,7 @@
                 {
                   "node_type": "item",
                   "title": "Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Jiang-HB/CEMNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6456,7 +6456,7 @@
                 {
                   "node_type": "item",
                   "title": "Feature Interactive Representation for Point Cloud Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "Ghostish/BAT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6484,7 +6484,7 @@
                 {
                   "node_type": "item",
                   "title": "Three-dimensional spike localization and improved motion correction for Neuropixels recordings. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "int-brain-lab/spikes_localization_registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6512,7 +6512,7 @@
                 {
                   "node_type": "item",
                   "title": "A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization. [PUB",
-                  "description": "] [CODE]",
+                  "description": "twhui/LiteFlowNet2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6547,7 +6547,7 @@
                 {
                   "node_type": "item",
                   "title": "Image Matching Across Wide Baselines: From Paper to Practice. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ubc-vision/image-matching-benchmark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6568,7 +6568,7 @@
                 {
                   "node_type": "item",
                   "title": "Dual-view Snapshot Compressive Imaging via Optical Flow Aided Recurrent Neural Network. [PUB",
-                  "description": "] [CODE]",
+                  "description": "RuiyingLu/OFaNet-for-Dual-view-SCI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6596,7 +6596,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphRegNet: Deep Graph Regularisation Networks on Sparse Keypoints for Dense Registration of 3D Lung CTs. [PUB",
-                  "description": "] [CODE]",
+                  "description": "multimodallearning/graphregnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6617,7 +6617,7 @@
                 {
                   "node_type": "item",
                   "title": "MDPET: A Unified Motion Correction and Denoising Adversarial Network for Low-Dose Gated PET. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "bbbbbbzhou/MDPET",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6638,7 +6638,7 @@
                 {
                   "node_type": "item",
                   "title": "Uncertainty-Aware Annotation Protocol to Evaluate Deformable Registration Algorithms. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "LoicPeter/evaluation-deformable-registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6666,7 +6666,7 @@
                 {
                   "node_type": "item",
                   "title": "Conditional Deformable Image Registration with Convolutional Neural Network. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "cwmok/Conditional_LapIRN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6687,7 +6687,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-modal Attention for MRI and Ultrasound Volume Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "DIAL-RPI/Attention-Reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6708,7 +6708,7 @@
                 {
                   "node_type": "item",
                   "title": "Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "liuquande/FedIRM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6729,7 +6729,7 @@
                 {
                   "node_type": "item",
                   "title": "End-to-end Ultrasound Frame to Volume Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "DIAL-RPI/FVR-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6750,7 +6750,7 @@
                 {
                   "node_type": "item",
                   "title": "Multi-view analysis of unregistered medical images using cross-view transformers. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "gvtulder/cross-view-transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6771,7 +6771,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Unsupervised Parameter-specific Affine Transformation for Medical Images Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "xuuuuuuchen/PASTA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6792,7 +6792,7 @@
                 {
                   "node_type": "item",
                   "title": "A Deep Discontinuity-Preserving Image Registration Network. [PUB",
-                  "description": "] CODE []",
+                  "description": "ccmim/DDIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6813,7 +6813,7 @@
                 {
                   "node_type": "item",
                   "title": "Revisiting iterative highly efficient optimisation schemes in medical image registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "multimodallearning/iter_lbp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6841,7 +6841,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Learning Based Geometric Registration for Medical Images: How Accurate Can We Get Without Visual Features?. [PUB",
-                  "description": "] [CODE]",
+                  "description": "multimodallearning/deep-geo-reg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6869,7 +6869,7 @@
                 {
                   "node_type": "item",
                   "title": "A Benchmark for Point Clouds Registration Algorithms. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "iralabdisco/point_clouds_registration_benchmark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6955,7 +6955,7 @@
                 {
                   "node_type": "item",
                   "title": "Graph Structured Network for Image-Text Matching. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "CrossmodalGroup/GSMN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6976,7 +6976,7 @@
                 {
                   "node_type": "item",
                   "title": "Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "XiaoshuiHuang/fmr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7004,7 +7004,7 @@
                 {
                   "node_type": "item",
                   "title": "Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "jiahaoli95/idam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7032,7 +7032,7 @@
                 {
                   "node_type": "item",
                   "title": "Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation. [PUB",
-                  "description": "] [CODE]",
+                  "description": "NVlabs/PWC-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7061,7 +7061,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception. [PUB",
-                  "description": "] [CODE]",
+                  "description": "tudelft/cuSNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7094,7 +7094,7 @@
                 {
                   "node_type": "item",
                   "title": "Anatomical Data Augmentation via Fluid-Based Image Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "uncbiag/easyreg",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7115,7 +7115,7 @@
                 {
                   "node_type": "item",
                   "title": "Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "gaocong13/Projective-Spatial-Transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7136,7 +7136,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Learning Based Registration Using Spatial Gradients and Noisy Segmentation Labels. [PUB",
-                  "description": "] [CODE]",
+                  "description": "TheoEst/abdominal_registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7157,7 +7157,7 @@
                 {
                   "node_type": "item",
                   "title": "Highly Accurate and Memory Efficient Unsupervised Learning-Based Discrete CT Registration Using 2.5D Displacement Search. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "multimodallearning/pdd2.5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7178,7 +7178,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning a Deformable Registration Pyramid. [PUB",
-                  "description": "] [CODE]",
+                  "description": "ngunnar/learning-a-deformable-registration-pyramid",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7283,7 +7283,7 @@
                 {
                   "node_type": "item",
                   "title": "PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet. [PUB",
-                  "description": "] [CODE]",
+                  "description": "hmgoforth/PointNetLK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7353,7 +7353,7 @@
                 {
                   "node_type": "item",
                   "title": "Recursive Cascaded Networks for Unsupervised Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "zsyzzsoft/Recursive-Cascaded-Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7381,7 +7381,7 @@
                 {
                   "node_type": "item",
                   "title": "Hallucinating Optical Flow Features for Video Classification. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "YongyiTang92/MoNet-Features",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7409,7 +7409,7 @@
                 {
                   "node_type": "item",
                   "title": "VoxelMorph: A Learning Framework for Deformable Medical Image Registration. [PUB",
-                  "description": "] [CODE]",
+                  "description": "voxelmorph/voxelmorph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7446,7 +7446,7 @@
                 {
                   "node_type": "item",
                   "title": "Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "multimodallearning/pdd_net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7509,7 +7509,7 @@
                 {
                   "node_type": "item",
                   "title": "Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition. [PUB",
-                  "description": "] [CODE]",
+                  "description": "kevin-ssy/Optical-Flow-Guided-Feature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7537,7 +7537,7 @@
                 {
                   "node_type": "item",
                   "title": "Density Adaptive Point Set Registration. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "felja633/DARE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7590,7 +7590,7 @@
                 {
                   "node_type": "item",
                   "title": "Conditional Prior Networks for Optical Flow. [PUB",
-                  "description": "] [CODE]",
+                  "description": "YanchaoYang/Conditional-Prior-Networks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7618,7 +7618,7 @@
                 {
                   "node_type": "item",
                   "title": "H-Net: Neural Network for Cross-domain Image Patch Matching. [PUB",
-                  "description": "] [CODE]",
+                  "description": "xuelunshen/H-Net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7749,7 +7749,7 @@
                 {
                   "node_type": "item",
                   "title": "3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [PUB",
-                  "description": "] [CODE] []",
+                  "description": "gilbaz/LORAX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7784,7 +7784,7 @@
                 {
                   "node_type": "item",
                   "title": "Fast Global Registration. [PUB",
-                  "description": "] CODE",
+                  "description": "isl-org/FastGlobalRegistration",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -7797,7 +7797,7 @@
                     "open_issues": 22,
                     "owner": "isl-org",
                     "repo": "FastGlobalRegistration",
-                    "stars": 554,
+                    "stars": 553,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7812,7 +7812,7 @@
                 {
                   "node_type": "item",
                   "title": "Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration. [PUB",
-                  "description": "] CODE []",
+                  "description": "yangjiaolong/Go-ICP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:11:44.911Z",
+    "last_updated": "2026-10-03T04:51:22.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1546,
+      "stars": 1547,
       "topics": [
         "awesome",
         "awesome-list",
