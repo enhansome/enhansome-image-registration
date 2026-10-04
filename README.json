@@ -695,6 +695,29 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. [PUB",
+                  "description": "tlliao/LPAM_seam-cutting",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICCV 2025] Code for Leveraging Local Patch Alignment to Seam Cutting for Large Parallax Image Stitching",
+                    "homepage": null,
+                    "id": 725601746,
+                    "language": "C++",
+                    "license": "MIT",
+                    "last_commit": "2025-12-16T04:37:29Z",
+                    "open_issues": 1,
+                    "owner": "tlliao",
+                    "repo": "LPAM_seam-cutting",
+                    "stars": 13,
+                    "topics": [
+                      "image-stitching"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning. [PUB",
                   "description": "zhengcy-lambo/RARE",
                   "children": [],
@@ -732,29 +755,6 @@
                     "repo": "EMatch",
                     "stars": 12,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. [PUB",
-                  "description": "tlliao/LPAM_seam-cutting",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICCV 2025] Code for Leveraging Local Patch Alignment to Seam Cutting for Large Parallax Image Stitching",
-                    "homepage": null,
-                    "id": 725601746,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2025-12-16T04:37:29Z",
-                    "open_issues": 1,
-                    "owner": "tlliao",
-                    "repo": "LPAM_seam-cutting",
-                    "stars": 12,
-                    "topics": [
-                      "image-stitching"
-                    ]
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
                 },
@@ -1401,7 +1401,7 @@
                     "open_issues": 5,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 713,
+                    "stars": 715,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7422,7 +7422,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2754,
+                    "stars": 2753,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:29:27.035Z",
+    "last_updated": "2026-10-04T11:11:07.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1547,
+      "stars": 1548,
       "topics": [
         "awesome",
         "awesome-list",
