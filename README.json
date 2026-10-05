@@ -477,7 +477,7 @@
                     "open_issues": 4,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 290,
+                    "stars": 291,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -583,7 +583,7 @@
                     "open_issues": 2,
                     "owner": "mujc2021",
                     "repo": "Diff2I2P",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7845,7 +7845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:11:07.702Z",
+    "last_updated": "2026-10-05T12:25:08.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -7857,7 +7857,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1548,
+      "stars": 1549,
       "topics": [
         "awesome",
         "awesome-list",
