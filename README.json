@@ -314,7 +314,7 @@
                     "open_issues": 39,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 503,
+                    "stars": 504,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5175,7 +5175,7 @@
                     "open_issues": 12,
                     "owner": "megvii-research",
                     "repo": "RealFlow",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6232,7 +6232,7 @@
                     "open_issues": 7,
                     "owner": "dut-media-lab",
                     "repo": "Image-Stitching",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7839,13 +7839,1368 @@
           "description": null,
           "node_type": "group",
           "title": "2016"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ImageRegistration",
+                  "description": ". :fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A demo that implement image registration by matching SIFT descriptors and appling RANSAC and affine transformation.",
+                    "homepage": null,
+                    "id": 87803940,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-03-05T09:38:40Z",
+                    "open_issues": 1,
+                    "owner": "quqixun",
+                    "repo": "ImageRegistration",
+                    "stars": 228,
+                    "topics": [
+                      "affine-transformation",
+                      "image-registration",
+                      "ransac",
+                      "sift-descriptors"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Medical Image Registration",
+                  "description": ". :fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Medical Image Registration",
+                    "homepage": null,
+                    "id": 156013204,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2019-12-28T23:39:02Z",
+                    "open_issues": 1,
+                    "owner": "natandrade",
+                    "repo": "Tutorial-Medical-Image-Registration",
+                    "stars": 226,
+                    "topics": [
+                      "medical-image-analysis",
+                      "medical-image-processing",
+                      "medical-image-registration",
+                      "medical-imaging",
+                      "tutorial-medical-image-registration"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Sibgrapi 2018] Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches [PDF&Slides]",
+                  "description": ". :fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Medical Image Registration",
+                    "homepage": null,
+                    "id": 156013204,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2019-12-28T23:39:02Z",
+                    "open_issues": 1,
+                    "owner": "natandrade",
+                    "repo": "Tutorial-Medical-Image-Registration",
+                    "stars": 226,
+                    "topics": [
+                      "medical-image-analysis",
+                      "medical-image-processing",
+                      "medical-image-registration",
+                      "medical-imaging",
+                      "tutorial-medical-image-registration"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[MICCAI2019] learn2reg",
+                  "description": "PDF. :fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 212097931,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2020-02-06T23:51:47Z",
+                    "open_issues": 1,
+                    "owner": "learn2reg",
+                    "repo": "tutorials2019",
+                    "stars": 198,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tutorials"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "1987"
         }
       ],
       "title": "Paper Lists"
+    },
+    {
+      "description": "Many thanks to yzhao062 Anomaly Detection Learning Resources. I followed his style to collect resources\nThis resources collect:",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "HPatches",
+                      "description": "The HPatches dataset was used as the basis for the local descriptor evaluation challenge that was presented in the Local Features: State of the Art, Open Problems and Performance Evaluation workshop during ECCV 2016.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "HPatches: Homography-patches dataset.",
+                        "homepage": null,
+                        "id": 65322350,
+                        "language": null,
+                        "license": "MIT",
+                        "last_commit": "2025-03-26T21:22:07Z",
+                        "open_issues": 5,
+                        "owner": "hpatches",
+                        "repo": "hpatches-dataset",
+                        "stars": 283,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "LANDSAT",
+                      "description": "olivierhagolle/LANDSAT-Download",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Automated download of LANDSAT data from USGS website",
+                        "homepage": " http://olivierhagolle.github.io/LANDSAT-Download",
+                        "id": 22250145,
+                        "language": "Python",
+                        "license": "GPL-3.0",
+                        "last_commit": "2020-11-12T09:54:52Z",
+                        "open_issues": 17,
+                        "owner": "olivierhagolle",
+                        "repo": "LANDSAT-Download",
+                        "stars": 211,
+                        "topics": [
+                          "data-downloader",
+                          "landsat",
+                          "remote-sensing"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "MUUFLGulfport",
+                      "description": "GatorSense/MUUFLGulfport",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "MUUFL Gulfport Hyperspectral and LIDAR Data: This data set includes HSI and LIDAR data, Scoring Code, Photographs of Scene, Description of Data",
+                        "homepage": null,
+                        "id": 59327546,
+                        "language": "Matlab",
+                        "license": "MIT",
+                        "last_commit": "2018-12-07T02:11:18Z",
+                        "open_issues": 2,
+                        "owner": "GatorSense",
+                        "repo": "MUUFLGulfport",
+                        "stars": 99,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    }
+                  ],
+                  "description": "ISPRS Benchmarks\nThe Zurich Urban Micro Aerial Vehicle Dataset\nZurich Summer Dataset\nInria Aerial Image Labeling DataSet\nNWPU-RESISC45\nDOTA",
+                  "node_type": "group",
+                  "title": "Remote Sensing"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "链接：https://github.com/timzhang642/3D-Machine-Learning",
+                      "description": "timzhang642/3D-Machine-Learning",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A resource repository for 3D machine learning",
+                        "homepage": null,
+                        "id": 100120455,
+                        "language": null,
+                        "license": null,
+                        "last_commit": "2024-07-04T19:13:09Z",
+                        "open_issues": 21,
+                        "owner": "timzhang642",
+                        "repo": "3D-Machine-Learning",
+                        "stars": 10203,
+                        "topics": [
+                          "3d",
+                          "3d-reconstruction",
+                          "constructive-solid-geometries",
+                          "machine-learning",
+                          "mesh",
+                          "neural-networks",
+                          "papers",
+                          "point-cloud",
+                          "primitives",
+                          "voxel"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "awesome-point-cloud-analysis",
+                      "description": "Yochengliu/awesome-point-cloud-analysis",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A list of papers and datasets about point cloud analysis (processing)",
+                        "homepage": null,
+                        "id": 183274427,
+                        "language": null,
+                        "license": null,
+                        "last_commit": "2023-05-19T04:34:48Z",
+                        "open_issues": 3,
+                        "owner": "Yochengliu",
+                        "repo": "awesome-point-cloud-analysis",
+                        "stars": 4225,
+                        "topics": [
+                          "3d-graphics",
+                          "3d-reconstruction",
+                          "3d-registration",
+                          "3d-representation",
+                          "point-cloud-classification",
+                          "point-cloud-dataset",
+                          "point-cloud-detection",
+                          "point-cloud-processing",
+                          "point-cloud-recognition",
+                          "point-cloud-registration",
+                          "point-cloud-segmentation",
+                          "point-clouds",
+                          "point-set-registration"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    }
+                  ],
+                  "description": "The Stanford 3D Scanning Repository（斯坦福大学的3d扫描存储库）\nhttp://graphics.stanford.edu/data/3Dscanrep/\n这应该是做点云数据最初大家用最多的数据集，其中包含最开始做配准的Bunny、Happy Buddha、Dragon等模型。\n[Stanford 3D] The Stanford 3D Scanning Repository. []\nShapenet\nShapeNet是一个丰富标注的大规模点云数据集，其中包含了55中常见的物品类别和513000个三维模型。\nThe KITTI Vision Benchmark Suite\n链接：http://www.cvlibs.net/datasets/kitti/\n这个数据集来自德国卡尔斯鲁厄理工学院的一个项目，其中包含了利用KIT的无人车平台采集的大量城市环境的点云数据集（KITTI），这个数据集不仅有雷达、图像、GPS、INS的数据，而且有经过人工标记的分割跟踪结果，可以用来客观的评价大范围三维建模和精细分类的效果和性能。\nRobotic 3D Scan Repository\n链接：http://kos.informatik.uni-osnabrueck.de/3Dscans/\n这个数据集比较适合做SLAM研究，包含了大量的 Riegl 和 Velodyne 雷达数据\n佐治亚理工大型几何模型数据集\n链接：https://www.cc.gatech.edu/projects/large_models/\nPASCAL3D+\n链接：http://cvgl.stanford.edu/projects/pascal3d.html\n包含了12中刚体分类，每一类超过了3000个实例。并且包含了对应的imageNet中每一类的图像。\n其他总结\nOther\n[UWA Dataset] [] (Uploaded by @sukun1045 for their repository shlizee/Predict-Cluster)\n[ASL Datasets Repository(ETH)] This site is dedicated to provide datasets for the Robotics community with the aim to facilitate result evaluations and comparisons. [ ]\n[3D Match] Keypoint Matching Benchmark, Geometric Registration Benchmark, RGB-D Reconstruction Datasets. [ ]",
+                  "node_type": "group",
+                  "title": "Point Cloud"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Datasets"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets & Competitions"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[Keras] VoxelMorph",
+                  "description": "fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Unsupervised Learning for Image Registration",
+                    "homepage": null,
+                    "id": 133389787,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-11T20:04:15Z",
+                    "open_issues": 155,
+                    "owner": "voxelmorph",
+                    "repo": "voxelmorph",
+                    "stars": 2753,
+                    "topics": [
+                      "deep-learning",
+                      "diffeomorphism",
+                      "image-alignment",
+                      "image-registration",
+                      "machine-learning",
+                      "optical-flow",
+                      "probabilistic",
+                      "unsupervised-learning"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Keras] FAIM",
+                  "description": "fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "a project for developing registration tools with convolutional neural networks",
+                    "homepage": null,
+                    "id": 124142893,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2020-03-27T16:20:19Z",
+                    "open_issues": 0,
+                    "owner": "dykuang",
+                    "repo": "Medical-image-registration",
+                    "stars": 191,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Tensorflow] Weakly-supervised CNN",
+                  "description": "fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "(This repo is no longer up-to-date. Any updates will be at https://github.com/DeepRegNet/DeepReg/) A demo of the re-factored label-driven registration code, based on \"Weakly-supervised convolutional neural networks for multimodal image registration\"",
+                    "homepage": null,
+                    "id": 135561493,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2019-02-24T00:05:15Z",
+                    "open_issues": 0,
+                    "owner": "YipengHu",
+                    "repo": "label-reg",
+                    "stars": 125,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "image-guided-interventions",
+                      "medical-image-registration",
+                      "tensorflow",
+                      "weakly-supervised-learning"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Tensorflow] RegNet3D",
+                  "description": "fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Nonrigid image registration using multi-scale 3D convolutional neural networks",
+                    "homepage": null,
+                    "id": 116586770,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-06-21T13:47:23Z",
+                    "open_issues": 12,
+                    "owner": "hsokooti",
+                    "repo": "RegNet",
+                    "stars": 200,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "image-registration",
+                      "machine-learning",
+                      "medical-image-processing",
+                      "tensorflow"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Tensorflow] Recursive-Cascaded-Networks",
+                  "description": "microsoft/Recursive-Cascaded-Networks",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "[ICCV 2019] Recursive Cascaded Networks for Unsupervised Medical Image Registration",
+                    "homepage": "https://arxiv.org/abs/1907.12353",
+                    "id": 215749159,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2021-12-13T22:53:44Z",
+                    "open_issues": 24,
+                    "owner": "microsoft",
+                    "repo": "Recursive-Cascaded-Networks",
+                    "stars": 374,
+                    "topics": [
+                      "iccv2019",
+                      "medical-image-registration",
+                      "unsupervised-learning"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Pytorch] Probabilistic Dense Displacement Network",
+                  "description": "multimodallearning/pdd_net",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Probabilistic Dense Displacement Network (3D discrete deep learning registration) ",
+                    "homepage": null,
+                    "id": 194848757,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2021-07-30T19:45:47Z",
+                    "open_issues": 2,
+                    "owner": "multimodallearning",
+                    "repo": "pdd_net",
+                    "stars": 64,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Pytorch] Linear and Deformable Image Registration",
+                  "description": "kumarshreshtha/image-registration-cnn",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A pytorch implementation of CNN based MRI image registration based on Christodoulidis Stergios et al. \"Linear and Deformable Image Registration with 3D Convolutional Neural Networks\", 2018.",
+                    "homepage": "https://arxiv.org/abs/1809.06226",
+                    "id": 198499328,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2022-08-21T18:49:51Z",
+                    "open_issues": 1,
+                    "owner": "kumarshreshtha",
+                    "repo": "image-registration-cnn",
+                    "stars": 58,
+                    "topics": [
+                      "cnn",
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "image-registration",
+                      "medical-imaging",
+                      "pytorch"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Pytorch] Inverse-Consistent Deep Networks",
+                  "description": "zhangjun001/ICNet",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Inverse-Consistent Deep Networks for Unsupervised Deformable Image Registration",
+                    "homepage": null,
+                    "id": 245925100,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2020-12-08T11:55:23Z",
+                    "open_issues": 7,
+                    "owner": "zhangjun001",
+                    "repo": "ICNet",
+                    "stars": 56,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Pytorch] Non-parametric image registration",
+                  "description": "fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Image Registration",
+                    "homepage": null,
+                    "id": 179505048,
+                    "language": "TeX",
+                    "license": null,
+                    "last_commit": "2019-11-14T22:18:14Z",
+                    "open_issues": 1,
+                    "owner": "uncbiag",
+                    "repo": "registration",
+                    "stars": 294,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Pytorch] One Shot Deformable Medical Image Registration",
+                  "description": "ToFec/OneShotImageRegistration",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "One Shot Deformable Medical Image Registration",
+                    "homepage": null,
+                    "id": 196229390,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2020-05-08T14:26:56Z",
+                    "open_issues": 3,
+                    "owner": "ToFec",
+                    "repo": "OneShotImageRegistration",
+                    "stars": 40,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Pytorch] Image-and-Spatial Transformer Networks",
+                  "description": "biomedia-mira/istn",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Image-and-Spatial Transformer Networks",
+                    "homepage": null,
+                    "id": 197156860,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2023-02-15T22:08:01Z",
+                    "open_issues": 5,
+                    "owner": "biomedia-mira",
+                    "repo": "istn",
+                    "stars": 112,
+                    "topics": [
+                      "deep-learning",
+                      "image-registration",
+                      "medical-imaging",
+                      "spatial-transformer-networks"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                }
+              ],
+              "description": "[c++] ITK: Segmentation & Registration Toolkit\nAn open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis. Developed through extreme programming methodologies. ITK employs leading-edge algorithms for registering and segmenting multidimensional data.\n[c++] [Python] [Java] SimpleITK: a simplified layer built on top of ITK.\n[c++] ANTs: Advanced Normalization Tools.\nImage registration with variable transformations (elastic, diffeomorphic, diffeomorphisms, unbiased) and similarity metrics (landmarks, cross-correlation, mutual information, etc.). Image segmentation with priors & nonparametric, multivariate models.\n[c++] Elastix: open source software, based on the well-known ITK .\nThe software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems. [manual]\n[C++] [Python] [Java] [R] [Ruby] [Lua] [Tcl] [C#] SimpleElastix: a medical image registration library that makes state-of-the-art image registration really easy to do in languages like Python, Java and R.\n3D slicer : an open source software platform for medical image informatics, image processing, and three-dimensional visualization. Built over two decades through support from the National Institutes of Health and a worldwide developer community, Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.\nGithub repository for deep learning medical image registration:",
+              "node_type": "group",
+              "title": "Medical Image"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[C++] OTB",
+                  "description": "Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Github mirror of https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb",
+                    "homepage": "https://www.orfeo-toolbox.org/",
+                    "id": 39262442,
+                    "language": "C++",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-18T17:18:26Z",
+                    "open_issues": 7,
+                    "owner": "orfeotoolbox",
+                    "repo": "OTB",
+                    "stars": 393,
+                    "topics": [
+                      "cpp14",
+                      "image-processing",
+                      "open-science",
+                      "open-source",
+                      "orfeotoolbox",
+                      "osgeo",
+                      "otb",
+                      "remote-sensing",
+                      "reproducible-research"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[C++] [Python] OpenCV",
+                  "description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open Source Computer Vision Library",
+                    "homepage": "https://opencv.org",
+                    "id": 5108051,
+                    "language": "C++",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-06T09:44:51Z",
+                    "open_issues": 2771,
+                    "owner": "opencv",
+                    "repo": "opencv",
+                    "stars": 91080,
+                    "topics": [
+                      "c-plus-plus",
+                      "computer-vision",
+                      "deep-learning",
+                      "image-processing",
+                      "opencv"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[Python] Spectral Python (SPy)",
+                  "description": "Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Python module for hyperspectral image processing",
+                    "homepage": null,
+                    "id": 16567502,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-04T16:45:13Z",
+                    "open_issues": 21,
+                    "owner": "spectralpython",
+                    "repo": "spectral",
+                    "stars": 686,
+                    "topics": [
+                      "anomaly-detection",
+                      "hyperspectral",
+                      "hyperspectral-image-classification",
+                      "image-processing",
+                      "python",
+                      "remote-sensing",
+                      "target-detection",
+                      "visualization"
+                    ]
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[C++] [Matlab] gco-v3.0",
+                  "description": "Multi-label optimization library by Olga Veksler and Andrew Delong.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Multi-label optimization library by Olga Veksler and Andrew Delong",
+                    "homepage": null,
+                    "id": 31524512,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2018-11-27T08:07:57Z",
+                    "open_issues": 4,
+                    "owner": "nsubtil",
+                    "repo": "gco-v3.0",
+                    "stars": 67,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "AANAP",
+                  "description": "YaqiLYU/AANAP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An implementation of AANAP in CVPR 2015 paper.",
+                    "homepage": null,
+                    "id": 110415977,
+                    "language": "Matlab",
+                    "license": "MIT",
+                    "last_commit": "2017-11-17T03:54:21Z",
+                    "open_issues": 3,
+                    "owner": "YaqiLYU",
+                    "repo": "AANAP",
+                    "stars": 111,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "NISwGSP",
+                  "description": "firdauslubis88/NISwGSP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "C++ implementation of the ECCV 2016 paper, Natural Image Stitching with the Global Similarity Prior (Windows Visual Studio 15.7 Version)",
+                    "homepage": null,
+                    "id": 133437027,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2020-11-01T03:22:54Z",
+                    "open_issues": 18,
+                    "owner": "firdauslubis88",
+                    "repo": "NISwGSP",
+                    "stars": 67,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Parallax-tolerant image stitching",
+                  "description": "fire:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "source codes for Parallax-Tolerant Image Stitching Based on Robust Elastic Warping",
+                    "homepage": null,
+                    "id": 89052181,
+                    "language": "MATLAB",
+                    "license": null,
+                    "last_commit": "2019-01-07T10:27:55Z",
+                    "open_issues": 2,
+                    "owner": "gain2217",
+                    "repo": "Robust_Elastic_Warping",
+                    "stars": 155,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:45:08.934Z"
+                }
+              ],
+              "description": "[C++] ITK: Insight Toolkit (ITK) an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis. Developed through extreme programming methodologies, ITK employs leading-edge algorithms for registering and segmenting multidimensional data.\nPost Processing Tools\n[C++] enblend: Enblend blends away the seams in a panoramic image mosaic using a multi-resolution spline. Enfuse merges different exposures of the same scene to produce an image that looks much like a tone-mapped image.\n[C++] maxflow: An implementation of the maxflow algorithm which can be used to detect the optimal seamline.\nSource Code\nAPAP\nSPHP",
+              "node_type": "group",
+              "title": "Remote Sensing"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "libpointmatcher",
+                      "description": "fire:",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics",
+                        "homepage": "https://libpointmatcher.readthedocs.io/en/latest/",
+                        "id": 1266625,
+                        "language": "C++",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2026-08-27T14:20:25Z",
+                        "open_issues": 100,
+                        "owner": "norlab-ulaval",
+                        "repo": "libpointmatcher",
+                        "stars": 1838,
+                        "topics": [
+                          "libnabo",
+                          "libpointmatcher",
+                          "lidar",
+                          "point-clouds",
+                          "robotics",
+                          "ros",
+                          "ubuntu"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "g-icp",
+                      "description": "fire:",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Generalized ICP reference implementation",
+                        "homepage": null,
+                        "id": 40751480,
+                        "language": "C++",
+                        "license": "NOASSERTION",
+                        "last_commit": "2015-08-15T21:25:53Z",
+                        "open_issues": 2,
+                        "owner": "avsegal",
+                        "repo": "gicp",
+                        "stars": 186,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "splatreg",
+                      "description": "registers/merges 3D Gaussian-splat scans by recovering their SE(3)/Sim(3) transform: Levenberg-Marquardt over ICP with a Gaussian-SDF residual computed directly from the target Gaussians, no meshing.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Register Gaussian splats: align & merge two 3DGS scans into one SE(3)/Sim(3) frame — classical, learned, or zero-shot (BUFFER-X) seeds + splat-native refine. pip install splatreg.",
+                        "homepage": "https://archerkattri.github.io/splatreg/",
+                        "id": 1260804203,
+                        "language": "Python",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2026-09-18T04:49:49Z",
+                        "open_issues": 0,
+                        "owner": "Archerkattri",
+                        "repo": "splatreg",
+                        "stars": 24,
+                        "topics": [
+                          "3dgs",
+                          "gaussian-splatting",
+                          "point-cloud-registration",
+                          "pytorch",
+                          "registration",
+                          "se3",
+                          "sim3"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    }
+                  ],
+                  "description": "SLAM6D\nLibicp\nn-icp",
+                  "node_type": "group",
+                  "title": "ICP开源库"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Point Cloud"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Toolbox"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "14 lectures on visual SLAM",
+                      "description": "By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan. 视觉SLAM十四讲 视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。 [github] [Videos]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 62030242,
+                        "language": "C++",
+                        "license": "MIT",
+                        "last_commit": "2024-03-22T07:09:47Z",
+                        "open_issues": 204,
+                        "owner": "gaoxiang12",
+                        "repo": "slambook",
+                        "stars": 7508,
+                        "topics": [
+                          "slam"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    }
+                  ],
+                  "description": "点云数据配准及曲面细分技术 by 薛耀红, 赵建平, 蒋振刚, 等 书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。",
+                  "node_type": "group",
+                  "title": "Point Cloud"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Books"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "ImageRegistration",
+                      "description": "fire:",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A demo that implement image registration by matching SIFT descriptors and appling RANSAC and affine transformation.",
+                        "homepage": null,
+                        "id": 87803940,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2023-03-05T09:38:40Z",
+                        "open_issues": 1,
+                        "owner": "quqixun",
+                        "repo": "ImageRegistration",
+                        "stars": 228,
+                        "topics": [
+                          "affine-transformation",
+                          "image-registration",
+                          "ransac",
+                          "sift-descriptors"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    }
+                  ],
+                  "description": "A demo that implement image registration by matching SIFT descriptors and appling RANSAC and affine transformation.",
+                  "node_type": "group",
+                  "title": "Natural image"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Medical Image Registration",
+                      "description": "fire:",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Medical Image Registration",
+                        "homepage": null,
+                        "id": 156013204,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2019-12-28T23:39:02Z",
+                        "open_issues": 1,
+                        "owner": "natandrade",
+                        "repo": "Tutorial-Medical-Image-Registration",
+                        "stars": 226,
+                        "topics": [
+                          "medical-image-analysis",
+                          "medical-image-processing",
+                          "medical-image-registration",
+                          "medical-imaging",
+                          "tutorial-medical-image-registration"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "[MICCAI2019] learn2reg",
+                      "description": "PDF :fire:",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 212097931,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2020-02-06T23:51:47Z",
+                        "open_issues": 1,
+                        "owner": "learn2reg",
+                        "repo": "tutorials2019",
+                        "stars": 198,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "[MICCAI2019] Autograd Image Registration Laboratory",
+                      "description": "airlab-unibas/MICCAITutorial2019",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 186973389,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2019-10-07T13:55:04Z",
+                        "open_issues": 0,
+                        "owner": "airlab-unibas",
+                        "repo": "MICCAITutorial2019",
+                        "stars": 15,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "[Sibgrapi 2018] Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches [PDF&Slides]",
+                      "description": "fire:",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Medical Image Registration",
+                        "homepage": null,
+                        "id": 156013204,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2019-12-28T23:39:02Z",
+                        "open_issues": 1,
+                        "owner": "natandrade",
+                        "repo": "Tutorial-Medical-Image-Registration",
+                        "stars": 226,
+                        "topics": [
+                          "medical-image-analysis",
+                          "medical-image-processing",
+                          "medical-image-registration",
+                          "medical-imaging",
+                          "tutorial-medical-image-registration"
+                        ]
+                      },
+                      "first_seen": "2026-10-06T10:45:08.934Z"
+                    }
+                  ],
+                  "description": "Big thanks to Yipeng Hu organizing the excellent tutorial.Description:Medical image registration has been a cornerstone in the research fields of medical image computing and computer assisted intervention, responsible for many clinical applications. Whilst machine learning methods have long been important in developing pairwise algorithms, recently proposed deep-learning-based frameworks directly infer displacement fields without iterative optimization for unseen image pairs, using neural networks trained from large population data. These novel approaches promise to tackle several most challenging aspects previously faced by classical pairwise methods, such as high computational cost, robustness for generalization and lack of inter-modality similarity measures.Output from several international research groups working in this area include award-winning conference presentations, high-impact journal publications, well-received open-source implementations and industrial-partnered translational projects, generating significant interests to all levels of world-wide researchers. Accessing to the experience and expertise in this inherently multidisciplinary topic can be beneficial to many in our community, especially for the next generation of young scientists, engineers and clinicians who often have only been exposed to a subset of these methodologies and applications.We organize a tutorial including both theoretical and practical sessions, inviting expert lectures and tutoring coding for real-world examples. Three hands-on sessions guiding participants to understand and implement published algorithms using clinical imaging data. This aims to provide an opportunity for the participants to bridge the gap between expertises in medical image registration and deep learning, as well as to start a forum to discuss know-hows, challenges and future opportunities in this area.\nSimpleITK, ITK, scipy, OpenCV, Tensorflow and PyTorch all offer tools for registering images, we explore a few here to see how well they work when applied to the fairly tricky problem of registering from the same person at different time and disease points.\nA tutorial for anyone who wants to learn Medical Image Registration, by Natan Andrade, Fabio Augusto Faria, Fábio Augusto Menocci Cappabianco\nThere are some packages in R for image manipulation and after some test I select “imager” , based on the CImg C++, fast and providing several image processing tools.",
+                  "node_type": "group",
+                  "title": "Medical Image"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tutorials"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books & Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hoya012",
+              "description": "deep_learning_object_detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A paper list of object detection using deep learning.",
+                "homepage": null,
+                "id": 149211688,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-02-12T09:30:31Z",
+                "open_issues": 5,
+                "owner": "hoya012",
+                "repo": "deep_learning_object_detection",
+                "stars": 11380,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deeplearning",
+                  "object-detection",
+                  "objectdetection"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "yzhao062",
+              "description": "Anomaly Detection Learning Resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+                "homepage": null,
+                "id": 133717148,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-03-02T04:42:20Z",
+                "open_issues": 14,
+                "owner": "yzhao062",
+                "repo": "anomaly-detection-resources",
+                "stars": 9406,
+                "topics": [
+                  "anomaly-detection",
+                  "awesome",
+                  "awesome-list",
+                  "data-mining",
+                  "fraud",
+                  "fraud-detection",
+                  "graph-neural-networks",
+                  "large-language-models",
+                  "llm",
+                  "machine-learning",
+                  "outlier",
+                  "outlier-detection",
+                  "outlier-ensembles",
+                  "time-series-analysis",
+                  "unsupervised-learning",
+                  "vlm",
+                  "vlms"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Amusi",
+              "description": "awesome-object-detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+                "homepage": null,
+                "id": 128416044,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-12-17T04:28:58Z",
+                "open_issues": 7,
+                "owner": "amusi",
+                "repo": "awesome-object-detection",
+                "stars": 7508,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "detection",
+                  "object-detection",
+                  "object-localisation"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Yochengliu",
+              "description": "awesome-point-cloud-analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A list of papers and datasets about point cloud analysis (processing)",
+                "homepage": null,
+                "id": 183274427,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-05-19T04:34:48Z",
+                "open_issues": 3,
+                "owner": "Yochengliu",
+                "repo": "awesome-point-cloud-analysis",
+                "stars": 4225,
+                "topics": [
+                  "3d-graphics",
+                  "3d-reconstruction",
+                  "3d-registration",
+                  "3d-representation",
+                  "point-cloud-classification",
+                  "point-cloud-dataset",
+                  "point-cloud-detection",
+                  "point-cloud-processing",
+                  "point-cloud-recognition",
+                  "point-cloud-registration",
+                  "point-cloud-segmentation",
+                  "point-clouds",
+                  "point-set-registration"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "zhulf0804",
+              "description": "3D-PointCloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Papers and Datasets  about Point Cloud.",
+                "homepage": null,
+                "id": 174076842,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-08-30T09:40:10Z",
+                "open_issues": 4,
+                "owner": "zhulf0804",
+                "repo": "3D-PointCloud",
+                "stars": 2940,
+                "topics": [
+                  "autonomous-driving",
+                  "classification",
+                  "completion",
+                  "datasets",
+                  "detection",
+                  "generation",
+                  "monocular",
+                  "papers",
+                  "point-cloud",
+                  "registration",
+                  "segmentation"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "youngfish42",
+              "description": "Awesome-Federated-Learning-on-Graph-and-Tabular-Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Comprehensive and timely academic information on federated learning (papers, frameworks, datasets, tutorials, workshops)",
+                "homepage": "https://youngfish42.github.io/Awesome-FL",
+                "id": 494658282,
+                "language": "Python",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-10-03T04:00:05Z",
+                "open_issues": 0,
+                "owner": "youngfish42",
+                "repo": "Awesome-FL",
+                "stars": 2015,
+                "topics": [
+                  "artificial-intelligence",
+                  "awesome",
+                  "computer-vision",
+                  "data-mining",
+                  "database",
+                  "deep-learning",
+                  "efficiency",
+                  "federated-learning",
+                  "federated-learning-framework",
+                  "graph",
+                  "graph-neural-networks",
+                  "information-retrieval",
+                  "knowledge-graph",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "paper",
+                  "privacy",
+                  "security",
+                  "system",
+                  "tabular-data"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NUAAXQ",
+              "description": "awesome-point-cloud-analysis-2022",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A list of papers and datasets about point cloud analysis (processing) since 2017. Update every day!",
+                "homepage": null,
+                "id": 249245204,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-04-10T08:25:30Z",
+                "open_issues": 5,
+                "owner": "NUAAXQ",
+                "repo": "awesome-point-cloud-analysis-2023",
+                "stars": 1590,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "JunMa11",
+              "description": "MICCAI-OpenSourcePapers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MICCAI 2019-2026 Open Source Papers",
+                "homepage": null,
+                "id": 214146401,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-23T17:35:54Z",
+                "open_issues": 0,
+                "owner": "JunMa11",
+                "repo": "MICCAI-OpenSourcePapers",
+                "stars": 1295,
+                "topics": [
+                  "deep-learning",
+                  "medical-imaging"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tzxiang",
+              "description": "awesome-image-alignment-and-stitching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome resources for image alignment and stitching ...",
+                "homepage": null,
+                "id": 227467409,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-08-08T09:33:10Z",
+                "open_issues": 0,
+                "owner": "tzxiang",
+                "repo": "awesome-image-alignment-and-stitching",
+                "stars": 465,
+                "topics": [
+                  "alignment",
+                  "awesome",
+                  "awesome-list",
+                  "computer-vision",
+                  "stitching"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Zi LI",
+              "description": "Awesome-Medical-Image-Registration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repo is a collection of AWESOME things about 🌟Medical Image Registration🌟, including materials, papers, code and datasets.",
+                "homepage": null,
+                "id": 863365527,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-17T10:58:57Z",
+                "open_issues": 0,
+                "owner": "Alison-brie",
+                "repo": "Awesome-Medical-Image-Registration",
+                "stars": 256,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            },
+            {
+              "node_type": "item",
+              "title": "visionxiang",
+              "description": "awesome-computational-photography",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.",
+                "homepage": null,
+                "id": 410011728,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-07-07T06:39:10Z",
+                "open_issues": 1,
+                "owner": "visionxiang",
+                "repo": "awesome-computational-photography",
+                "stars": 190,
+                "topics": [
+                  "computational-photography",
+                  "image-alignment",
+                  "image-matching",
+                  "image-registration",
+                  "image-stitching"
+                ]
+              },
+              "first_seen": "2026-10-06T10:45:08.934Z"
+            }
+          ],
+          "description": "Many thanks :heart: to all project contributors:\nMany thanks :heart: to the other awesome list:",
+          "node_type": "group",
+          "title": "Acknowledgments"
+        }
+      ],
+      "title": "Learning Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:25:08.434Z",
+    "last_updated": "2026-10-06T10:45:08.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
