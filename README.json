@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1375,7 +1375,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -1727,7 +1727,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -7522,7 +7522,7 @@
                     "open_issues": 0,
                     "owner": "kevin-ssy",
                     "repo": "Optical-Flow-Guided-Feature",
-                    "stars": 202,
+                    "stars": 203,
                     "topics": [
                       "action-recognition",
                       "deep-learning",
@@ -7983,7 +7983,7 @@
                         "open_issues": 5,
                         "owner": "hpatches",
                         "repo": "hpatches-dataset",
-                        "stars": 283,
+                        "stars": 284,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8057,7 +8057,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10203,
+                        "stars": 10204,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T09:44:51Z",
-                    "open_issues": 2771,
+                    "last_commit": "2026-10-07T07:28:59Z",
+                    "open_issues": 2780,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91080,
+                    "stars": 91095,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7508,
+                        "stars": 7509,
                         "topics": [
                           "slam"
                         ]
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11380,
+                "stars": 11378,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9406,
+                "stars": 9410,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -8949,7 +8949,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7508,
+                "stars": 7507,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9044,7 +9044,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2015,
+                "stars": 2016,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9131,7 +9131,7 @@
                 "open_issues": 0,
                 "owner": "tzxiang",
                 "repo": "awesome-image-alignment-and-stitching",
-                "stars": 465,
+                "stars": 464,
                 "topics": [
                   "alignment",
                   "awesome",
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:07:06.206Z",
+    "last_updated": "2026-10-07T11:52:36.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
