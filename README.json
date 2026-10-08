@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 682,
+                    "stars": 683,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -1118,27 +1118,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. [PUB",
-                  "description": "boahK/OTMorph",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official repository for \"OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport\".",
-                    "homepage": null,
-                    "id": 811517598,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-12-25T02:39:07Z",
-                    "open_issues": 5,
-                    "owner": "boahK",
-                    "repo": "OTMorph",
-                    "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. [PUB",
                   "description": "Runshi-Zhang/UTSRMorph",
                   "children": [],
@@ -1153,6 +1132,27 @@
                     "open_issues": 7,
                     "owner": "Runshi-Zhang",
                     "repo": "UTSRMorph",
+                    "stars": 22,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. [PUB",
+                  "description": "boahK/OTMorph",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official repository for \"OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport\".",
+                    "homepage": null,
+                    "id": 811517598,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-12-25T02:39:07Z",
+                    "open_issues": 5,
+                    "owner": "boahK",
+                    "repo": "OTMorph",
                     "stars": 21,
                     "topics": []
                   },
@@ -1375,7 +1375,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -1727,7 +1727,7 @@
                     "open_issues": 3,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "2d-3d-registration",
                       "camera-pose-estimation",
@@ -1834,7 +1834,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-09-03T08:05:03Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "vkhoi",
                     "repo": "cora_cvpr24",
                     "stars": 28,
@@ -1970,7 +1970,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2308,7 +2308,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 218,
+                    "stars": 219,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7254,7 +7254,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 492,
+                    "stars": 493,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7275,7 +7275,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 492,
+                    "stars": 493,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7296,7 +7296,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 492,
+                    "stars": 493,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7422,7 +7422,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2753,
+                    "stars": 2754,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7730,7 +7730,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 907,
+                    "stars": 908,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -8057,7 +8057,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10204,
+                        "stars": 10203,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8143,7 +8143,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2753,
+                    "stars": 2754,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8415,7 +8415,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T17:18:26Z",
+                    "last_commit": "2026-10-07T17:24:48Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T07:28:59Z",
-                    "open_issues": 2780,
+                    "last_commit": "2026-10-08T11:34:39Z",
+                    "open_issues": 2786,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91095,
+                    "stars": 91113,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7509,
+                        "stars": 7510,
                         "topics": [
                           "slam"
                         ]
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11378,
+                "stars": 11376,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9410,
+                "stars": 9412,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -8949,7 +8949,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7507,
+                "stars": 7508,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9158,7 +9158,7 @@
                 "open_issues": 0,
                 "owner": "Alison-brie",
                 "repo": "Awesome-Medical-Image-Registration",
-                "stars": 256,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:52:36.153Z",
+    "last_updated": "2026-10-08T12:07:59.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9212,7 +9212,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1549,
+      "stars": 1550,
       "topics": [
         "awesome",
         "awesome-list",
