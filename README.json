@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 683,
+                    "stars": 682,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -282,7 +282,7 @@
                     "id": 375416785,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-21T00:19:24Z",
+                    "last_commit": "2026-10-09T11:36:17Z",
                     "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
@@ -356,7 +356,7 @@
                     "open_issues": 1,
                     "owner": "x-xc",
                     "repo": "SACB_Net",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "convolution",
                       "image-registration",
@@ -1622,7 +1622,7 @@
                     "open_issues": 0,
                     "owner": "YiGuYT",
                     "repo": "LookBeyond",
-                    "stars": 4,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1753,7 +1753,7 @@
                     "open_issues": 2,
                     "owner": "LA30",
                     "repo": "FlowDiffuser",
-                    "stars": 107,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2097,7 +2097,7 @@
                     "open_issues": 4,
                     "owner": "yayoyo66",
                     "repo": "SRStitcher",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2738,7 +2738,7 @@
                     "open_issues": 2,
                     "owner": "tngh5004",
                     "repo": "Omnistitch",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3242,7 +3242,7 @@
                     "open_issues": 14,
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 153,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4497,7 +4497,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 983,
+                    "stars": 982,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4528,7 +4528,7 @@
                     "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
-                    "stars": 802,
+                    "stars": 803,
                     "topics": [
                       "cvpr2022",
                       "global-matching",
@@ -5044,7 +5044,7 @@
                     "open_issues": 0,
                     "owner": "apple-aiml-research",
                     "repo": "ml-aspanformer",
-                    "stars": 252,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5460,7 +5460,7 @@
                     "open_issues": 10,
                     "owner": "rabbityl",
                     "repo": "DeformationPyramid",
-                    "stars": 223,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6938,7 +6938,7 @@
                     "open_issues": 0,
                     "owner": "itailang",
                     "repo": "SampleNet",
-                    "stars": 391,
+                    "stars": 390,
                     "topics": [
                       "cvpr2020",
                       "deep-learning",
@@ -8415,7 +8415,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T17:24:48Z",
+                    "last_commit": "2026-10-08T16:26:02Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T11:34:39Z",
-                    "open_issues": 2786,
+                    "last_commit": "2026-10-09T11:10:45Z",
+                    "open_issues": 2784,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91113,
+                    "stars": 91126,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8600,7 +8600,7 @@
                         "open_issues": 100,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1838,
+                        "stars": 1839,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7510,
+                        "stars": 7512,
                         "topics": [
                           "slam"
                         ]
@@ -9086,7 +9086,7 @@
                 "open_issues": 5,
                 "owner": "NUAAXQ",
                 "repo": "awesome-point-cloud-analysis-2023",
-                "stars": 1590,
+                "stars": 1584,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9107,7 +9107,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:07:59.383Z",
+    "last_updated": "2026-10-09T11:59:30.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
