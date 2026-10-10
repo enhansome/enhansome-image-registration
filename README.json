@@ -282,8 +282,8 @@
                     "id": 375416785,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T11:36:17Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-09T12:12:02Z",
+                    "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
                     "stars": 555,
@@ -314,7 +314,7 @@
                     "open_issues": 39,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 504,
+                    "stars": 506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -477,7 +477,7 @@
                     "open_issues": 4,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 291,
+                    "stars": 290,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -601,7 +601,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-07-25T15:51:08Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "ZizhuoLi",
                     "repo": "CoMatch",
                     "stars": 39,
@@ -1970,7 +1970,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 93,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3242,7 +3242,7 @@
                     "open_issues": 14,
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3580,7 +3580,7 @@
                     "open_issues": 8,
                     "owner": "junshengzhou",
                     "repo": "VP2P-Match",
-                    "stars": 140,
+                    "stars": 139,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5044,7 +5044,7 @@
                     "open_issues": 0,
                     "owner": "apple-aiml-research",
                     "repo": "ml-aspanformer",
-                    "stars": 251,
+                    "stars": 252,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6171,7 +6171,7 @@
                     "open_issues": 21,
                     "owner": "QingyongHu",
                     "repo": "SpinNet",
-                    "stars": 310,
+                    "stars": 309,
                     "topics": [
                       "3dmatch",
                       "descriptor",
@@ -6201,7 +6201,7 @@
                     "open_issues": 15,
                     "owner": "lijx10",
                     "repo": "DeepI2P",
-                    "stars": 262,
+                    "stars": 261,
                     "topics": [
                       "3d-vision",
                       "cnn",
@@ -7422,7 +7422,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2754,
+                    "stars": 2756,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7730,7 +7730,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 908,
+                    "stars": 907,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -8143,7 +8143,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2754,
+                    "stars": 2756,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T11:10:45Z",
-                    "open_issues": 2784,
+                    "last_commit": "2026-10-10T09:31:47Z",
+                    "open_issues": 2793,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91126,
+                    "stars": 91138,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8477,7 +8477,7 @@
                     "open_issues": 21,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 686,
+                    "stars": 685,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -8600,7 +8600,7 @@
                         "open_issues": 100,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1839,
+                        "stars": 1840,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7512,
+                        "stars": 7515,
                         "topics": [
                           "slam"
                         ]
@@ -9086,7 +9086,7 @@
                 "open_issues": 5,
                 "owner": "NUAAXQ",
                 "repo": "awesome-point-cloud-analysis-2023",
-                "stars": 1584,
+                "stars": 1585,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:59:30.241Z",
+    "last_updated": "2026-10-10T11:15:52.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
