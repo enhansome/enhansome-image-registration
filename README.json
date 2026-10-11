@@ -314,7 +314,7 @@
                     "open_issues": 39,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 506,
+                    "stars": 505,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1949,7 +1949,7 @@
                     "open_issues": 3,
                     "owner": "yejy53",
                     "repo": "EP-BEV",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8057,7 +8057,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10203,
+                        "stars": 10204,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8447,10 +8447,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-10T09:31:47Z",
-                    "open_issues": 2793,
+                    "open_issues": 2805,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91138,
+                    "stars": 91156,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8477,7 +8477,7 @@
                     "open_issues": 21,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 685,
+                    "stars": 686,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9412,
+                "stars": 9410,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:15:52.114Z",
+    "last_updated": "2026-10-11T11:29:17.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
