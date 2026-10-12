@@ -282,7 +282,7 @@
                     "id": 375416785,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T12:12:02Z",
+                    "last_commit": "2026-10-11T15:52:48Z",
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
@@ -559,7 +559,7 @@
                     "open_issues": 0,
                     "owner": "Windsrain",
                     "repo": "ZeroStereo",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "iccv2025",
                       "stereo-matching"
@@ -4497,7 +4497,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 982,
+                    "stars": 983,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -5065,7 +5065,7 @@
                     "open_issues": 5,
                     "owner": "tub-rip",
                     "repo": "event_based_optical_flow",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": [
                       "asynchronous-sensor",
                       "burgers-scheme",
@@ -7797,7 +7797,7 @@
                     "open_issues": 22,
                     "owner": "isl-org",
                     "repo": "FastGlobalRegistration",
-                    "stars": 553,
+                    "stars": 552,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7825,7 +7825,7 @@
                     "open_issues": 11,
                     "owner": "yangjiaolong",
                     "repo": "Go-ICP",
-                    "stars": 509,
+                    "stars": 508,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7983,7 +7983,7 @@
                         "open_issues": 5,
                         "owner": "hpatches",
                         "repo": "hpatches-dataset",
-                        "stars": 284,
+                        "stars": 285,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8089,7 +8089,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4225,
+                        "stars": 4226,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T09:31:47Z",
-                    "open_issues": 2805,
+                    "last_commit": "2026-10-12T12:59:04Z",
+                    "open_issues": 2796,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91156,
+                    "stars": 91159,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8600,7 +8600,7 @@
                         "open_issues": 100,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1840,
+                        "stars": 1839,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -8646,7 +8646,7 @@
                         "id": 1260804203,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-09-18T04:49:49Z",
+                        "last_commit": "2026-10-12T01:20:49Z",
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7515,
+                        "stars": 7512,
                         "topics": [
                           "slam"
                         ]
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11376,
+                "stars": 11377,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9410,
+                "stars": 9415,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -8949,7 +8949,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7508,
+                "stars": 7509,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -8976,7 +8976,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4225,
+                "stars": 4226,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9011,7 +9011,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2940,
+                "stars": 2941,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9044,7 +9044,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2016,
+                "stars": 2018,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:29:17.766Z",
+    "last_updated": "2026-10-12T13:20:23.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
