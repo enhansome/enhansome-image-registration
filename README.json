@@ -1970,7 +1970,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3171,7 +3171,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 684,
+                    "stars": 685,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -5044,7 +5044,7 @@
                     "open_issues": 0,
                     "owner": "apple-aiml-research",
                     "repo": "ml-aspanformer",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8057,7 +8057,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10204,
+                        "stars": 10206,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T12:59:04Z",
-                    "open_issues": 2796,
+                    "last_commit": "2026-10-13T11:53:48Z",
+                    "open_issues": 2800,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91159,
+                    "stars": 91168,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8646,7 +8646,7 @@
                         "id": 1260804203,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-10-12T01:20:49Z",
+                        "last_commit": "2026-10-13T07:33:40Z",
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7512,
+                        "stars": 7513,
                         "topics": [
                           "slam"
                         ]
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11377,
+                "stars": 11378,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9415,
+                "stars": 9414,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9011,7 +9011,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:20:23.173Z",
+    "last_updated": "2026-10-13T12:48:48.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
