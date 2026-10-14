@@ -538,7 +538,7 @@
                     "open_issues": 2,
                     "owner": "Sharpiless",
                     "repo": "L2M",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 715,
+                    "stars": 716,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2076,7 +2076,7 @@
                     "open_issues": 5,
                     "owner": "littlespray",
                     "repo": "StreamFlow",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2094,7 +2094,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-11-05T14:48:54Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "yayoyo66",
                     "repo": "SRStitcher",
                     "stars": 34,
@@ -4497,7 +4497,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 983,
+                    "stars": 984,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4528,7 +4528,7 @@
                     "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "cvpr2022",
                       "global-matching",
@@ -5332,7 +5332,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2022-09-18T11:20:33Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "phdymz",
                     "repo": "PointCLM",
                     "stars": 26,
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T11:53:48Z",
-                    "open_issues": 2800,
+                    "last_commit": "2026-10-14T10:17:38Z",
+                    "open_issues": 2803,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91168,
+                    "stars": 91179,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8646,7 +8646,7 @@
                         "id": 1260804203,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-10-13T07:33:40Z",
+                        "last_commit": "2026-10-13T16:52:35Z",
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7513,
+                        "stars": 7514,
                         "topics": [
                           "slam"
                         ]
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11378,
+                "stars": 11379,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9414,
+                "stars": 9413,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9107,7 +9107,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1296,
+                "stars": 1297,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:48:48.179Z",
+    "last_updated": "2026-10-14T10:22:20.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
