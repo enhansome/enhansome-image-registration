@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 682,
+                    "stars": 683,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -823,7 +823,7 @@
                     "open_issues": 0,
                     "owner": "qortmdgh4141",
                     "repo": "GAS",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 102,
+                    "stars": 104,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1928,7 +1928,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 716,
+                    "stars": 717,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2448,7 +2448,7 @@
                     "open_issues": 8,
                     "owner": "ZAX130",
                     "repo": "RDP",
-                    "stars": 66,
+                    "stars": 65,
                     "topics": [
                       "image",
                       "medical",
@@ -5044,7 +5044,7 @@
                     "open_issues": 0,
                     "owner": "apple-aiml-research",
                     "repo": "ml-aspanformer",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7107,7 +7107,7 @@
                     "open_issues": 6,
                     "owner": "uncbiag",
                     "repo": "easyreg",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8057,7 +8057,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10206,
+                        "stars": 10204,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8344,7 +8344,7 @@
                     "open_issues": 1,
                     "owner": "uncbiag",
                     "repo": "registration",
-                    "stars": 294,
+                    "stars": 295,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T10:17:38Z",
-                    "open_issues": 2803,
+                    "last_commit": "2026-10-15T09:50:26Z",
+                    "open_issues": 2805,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91179,
+                    "stars": 91185,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8700,7 +8700,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7514,
+                        "stars": 7516,
                         "topics": [
                           "slam"
                         ]
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11379,
+                "stars": 11378,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8910,7 +8910,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9413,
+                "stars": 9412,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -8949,7 +8949,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7509,
+                "stars": 7508,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9107,7 +9107,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1297,
+                "stars": 1296,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9131,7 +9131,7 @@
                 "open_issues": 0,
                 "owner": "tzxiang",
                 "repo": "awesome-image-alignment-and-stitching",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "alignment",
                   "awesome",
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:22:20.954Z",
+    "last_updated": "2026-10-15T10:07:45.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
