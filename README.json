@@ -261,7 +261,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 683,
+                    "stars": 687,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -695,6 +695,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. [PUB",
+                  "description": "BIT-Vision/EMatch",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching",
+                    "homepage": null,
+                    "id": 1012905793,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-11-15T15:27:19Z",
+                    "open_issues": 0,
+                    "owner": "BIT-Vision",
+                    "repo": "EMatch",
+                    "stars": 13,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Leveraging Local Patch Alignment to Seam-Cutting for Large Parallax Image Stitching. [PUB",
                   "description": "tlliao/LPAM_seam-cutting",
                   "children": [],
@@ -733,27 +754,6 @@
                     "owner": "zhengcy-lambo",
                     "repo": "RARE",
                     "stars": 13,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "EMatch: A Unified Framework for Event-Based Optical Flow and Stereo Matching. [PUB",
-                  "description": "BIT-Vision/EMatch",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching",
-                    "homepage": null,
-                    "id": 1012905793,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-11-15T15:27:19Z",
-                    "open_issues": 0,
-                    "owner": "BIT-Vision",
-                    "repo": "EMatch",
-                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -851,7 +851,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 104,
+                    "stars": 106,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -3221,7 +3221,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7045,7 +7045,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1738,
+                    "stars": 1737,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7419,7 +7419,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 155,
+                    "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2756,
@@ -8089,7 +8089,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4226,
+                        "stars": 4227,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8140,7 +8140,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 155,
+                    "open_issues": 156,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2756,
@@ -8446,11 +8446,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T09:50:26Z",
-                    "open_issues": 2805,
+                    "last_commit": "2026-10-16T08:32:40Z",
+                    "open_issues": 2821,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91185,
+                    "stars": 91203,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8883,7 +8883,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11378,
+                "stars": 11377,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -8949,7 +8949,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7508,
+                "stars": 7509,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -8976,7 +8976,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4226,
+                "stars": 4227,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9011,7 +9011,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2942,
+                "stars": 2941,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9044,7 +9044,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9200,7 +9200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:07:45.610Z",
+    "last_updated": "2026-10-16T09:57:52.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
