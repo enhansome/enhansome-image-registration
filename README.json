@@ -9,6 +9,272 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Scaling Multi-Identity Consistency for Image Customization via Multi-to-Multi Matching Paradigm. [PUB",
+                  "description": "bytedance/UMO",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026] 🔥🔥  Official Repo of UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward",
+                    "homepage": "https://bytedance.github.io/UMO/",
+                    "id": 1047017976,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-09-15T07:43:07Z",
+                    "open_issues": 7,
+                    "owner": "bytedance",
+                    "repo": "UMO",
+                    "stars": 191,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration. [PUB",
+                  "description": "NEU-Liuxuecong/CRFT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation of \"CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration\" (CVPR 2026).",
+                    "homepage": null,
+                    "id": 1187731875,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-23T05:37:23Z",
+                    "open_issues": 6,
+                    "owner": "NEU-Liuxuecong",
+                    "repo": "CRFT",
+                    "stars": 51,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching. [PUB",
+                  "description": "Picsart-AI-Research/FlowDIS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2026] FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching",
+                    "homepage": null,
+                    "id": 1215929924,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-05-15T11:35:15Z",
+                    "open_issues": 0,
+                    "owner": "Picsart-AI-Research",
+                    "repo": "FlowDIS",
+                    "stars": 49,
+                    "topics": [
+                      "ai-background",
+                      "ai-background-removal",
+                      "background-removal",
+                      "remove-background",
+                      "remove-bg",
+                      "segmentation"
+                    ]
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs. [PUB",
+                  "description": "anpei96/hg-i2p-demo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An implementation of hg-i2p",
+                    "homepage": null,
+                    "id": 1174048677,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-03-09T03:07:37Z",
+                    "open_issues": 1,
+                    "owner": "anpei96",
+                    "repo": "hg-i2p-demo",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CVPR"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WAFT: Warping-Alone Field Transforms for Optical Flow. [PUB",
+                  "description": "princeton-vl/WAFT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICLR2026 - Oral] WAFT: Warping-Alone Field Transforms for Optical Flow",
+                    "homepage": null,
+                    "id": 1009404350,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-03-26T15:56:07Z",
+                    "open_issues": 5,
+                    "owner": "princeton-vl",
+                    "repo": "WAFT",
+                    "stars": 272,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation. [PUB",
+                  "description": "XingtongGe/SenseFlow",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🚀 [ICLR 2026] SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation",
+                    "homepage": "https://xingtongge.github.io/SenseFlow-page",
+                    "id": 988830703,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-03-14T12:11:26Z",
+                    "open_issues": 4,
+                    "owner": "XingtongGe",
+                    "repo": "SenseFlow",
+                    "stars": 117,
+                    "topics": [
+                      "diffusion-distillation",
+                      "diffusion-models",
+                      "flow-matching",
+                      "generative-ai",
+                      "generative-model",
+                      "text-to-image"
+                    ]
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification. [PUB",
+                  "description": "htew0001/DSFM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1063651869,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-05-31T16:16:48Z",
+                    "open_issues": 1,
+                    "owner": "htew0001",
+                    "repo": "DSFM",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ICLR"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Vector-Symbolic Architecture for Event-Based Optical Flow. [PUB",
+                  "description": "youhongzhi/VSA_For_EventOpticalFlow",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 780856882,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-16T08:17:57Z",
+                    "open_issues": 0,
+                    "owner": "youhongzhi",
+                    "repo": "VSA_For_EventOpticalFlow",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCV"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Biomechanics-Informed Non-Rigid Medical Image Registration With Elasticity Theories. [PUB",
+                  "description": "ZheMin-1992/Registration_PINNs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 601325986,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-04-21T05:29:17Z",
+                    "open_issues": 2,
+                    "owner": "ZheMin-1992",
+                    "repo": "Registration_PINNs",
+                    "stars": 13,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "A 3-D Cross-Modal Keypoint Descriptor for MR-US Matching and Registration. [PUB",
+                  "description": "morozovdd/CrossKEY",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration",
+                    "homepage": null,
+                    "id": 1017896397,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-04-12T21:28:02Z",
+                    "open_issues": 1,
+                    "owner": "morozovdd",
+                    "repo": "CrossKEY",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Adaptive Conditional Contrast-Agnostic Deformable Image Registration With Uncertainty Estimation. [PUB",
+                  "description": "Yinsong0510/AC-CAR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Offical Implementation of the paper “Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation\", published in IEEE Transactions on Medical Imaging, 2026.",
+                    "homepage": null,
+                    "id": 1128957513,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-04-08T14:31:48Z",
+                    "open_issues": 1,
+                    "owner": "Yinsong0510",
+                    "repo": "AC-CAR",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Overlap-Aware Online-Adaptive Non-Rigid Registration of Intraoperative Tissue in Minimally Invasive Surgery. [PUB",
                   "description": "AIGCer0807/OANRM",
                   "children": [],
@@ -48,6 +314,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CIM-VTP: Correlation-Guided Image Modeling With Visual-Textual Task Prompt for Universal Medical Image Registration. [PUB",
+                  "description": "xiehousheng/CIM-VTP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1028208870,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-06-01T13:01:21Z",
+                    "open_issues": 0,
+                    "owner": "xiehousheng",
+                    "repo": "CIM-VTP",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
                 },
                 {
                   "node_type": "item",
@@ -181,6 +468,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deformable image registration for self-supervised cardiac phase detection in cardiac magnetic resonance images of patients with various diseases. [PUB",
+                  "description": "Cardio-AI/cmr-multi-view-phase-detection",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1048397457,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-08-11T11:29:04Z",
+                    "open_issues": 1,
+                    "owner": "Cardio-AI",
+                    "repo": "cmr-multi-view-phase-detection",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:30:53.012Z"
                 },
                 {
                   "node_type": "item",
@@ -2039,7 +2347,7 @@
                     "open_issues": 4,
                     "owner": "Egkang-Luis",
                     "repo": "BurstM",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": [
                       "burst-image-super-resolution",
                       "deep-learning",
@@ -7419,7 +7727,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 156,
+                    "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2756,
@@ -7692,7 +8000,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 459,
+                    "stars": 460,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -8057,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10204,
+                        "stars": 10206,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8089,7 +8397,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4227,
+                        "stars": 4228,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8140,7 +8448,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 156,
+                    "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2756,
@@ -8446,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T08:32:40Z",
-                    "open_issues": 2821,
+                    "last_commit": "2026-10-16T18:08:45Z",
+                    "open_issues": 2838,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91203,
+                    "stars": 91205,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8700,7 +9008,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7516,
+                        "stars": 7517,
                         "topics": [
                           "slam"
                         ]
@@ -8910,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9412,
+                "stars": 9413,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -8976,7 +9284,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4227,
+                "stars": 4228,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9040,11 +9348,11 @@
                 "id": 494658282,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-03T04:00:05Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T09:06:03Z",
+                "open_issues": 1,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2019,
+                "stars": 2020,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9200,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:57:52.862Z",
+    "last_updated": "2026-10-17T09:30:53.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9208,7 +9516,7 @@
       "id": 218470804,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-07-23T06:17:17Z",
+      "last_commit": "2026-10-17T08:26:41Z",
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
@@ -9226,7 +9534,7 @@
         "slam"
       ]
     },
-    "original_repository_sha": "ecce30841e682c9f9d0c6f045ef70b926ce25be2",
+    "original_repository_sha": "388429e88a48fa1397c26eec3edb4d0dec510164",
     "enhanced_repository": "enhansome/enhansome-image-registration",
     "enhanced_repository_description": null,
     "title": "Awesome Image Registration with stars"

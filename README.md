@@ -2,13 +2,13 @@
 
 A curated list of image registration related books, papers, videos, and toolboxes
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,550 | 🐛 0 | 📅 2026-07-23  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,550 | 🐛 0 | 📅 2026-07-23
+[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,550 | 🐛 0 | 📅 2026-10-17  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,550 | 🐛 0 | 📅 2026-10-17
 
 [**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
 It is used in computer vision, medical imaging, military automatic target recognition, compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from different measurements.
 
-We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 14 | 🌐 Python | 📅 2026-10-10 if you need it.
+We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-10 if you need it.
 
 Please note that if this page does not display the full content, please visit the [official homepage](https://awesome-image-registration-organization.github.io/awesome-image-registration/) for full information.
 
@@ -59,9 +59,11 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### Update log
 
-*Last updated: 2026/05/21*
+*Last updated: 2026/10/17*
 
-*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 14 | 🌐 Python | 📅 2026-10-10, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
+*2026/10/17* - merge 179 new papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker/blob/main/IR-Papers.md) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-10, including 2026 updates, NeurIPS 2025, and historical supplements.
+
+*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-10, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
 
 *2025/09/21* - update recent papers
 
@@ -89,6 +91,99 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ## 2026
 
+### CVPR
+
+* Scaling Multi-Identity Consistency for Image Customization via Multi-to-Multi Matching Paradigm. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_Scaling_Multi-Identity_Consistency_for_Image_Customization_via_Multi-to-Multi_Matching_Paradigm_CVPR_2026_paper.html)] \[[CODE](https://github.com/bytedance/UMO) ⭐ 191 | 🐛 7 | 🌐 Python | 📅 2025-09-15] \[**`data.`**] \[**`dep.`**]
+* CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_CRFT_Consistent-Recurrent_Feature_Flow_Transformer_for_Cross-Modal_Image_Registration_CVPR_2026_paper.html)] \[[CODE](https://github.com/NEU-Liuxuecong/CRFT) ⭐ 51 | 🐛 6 | 🌐 Python | 📅 2026-08-23] \[**`medi.`**] \[**`rs.`**] \[**`dep.`**] \[**`oth.`**]
+* FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Sargsyan_FlowDIS_Language-Guided_Dichotomous_Image_Segmentation_with_Flow_Matching_CVPR_2026_paper.html)] \[[CODE](https://github.com/Picsart-AI-Research/FlowDIS) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-05-15] \[**`medi.`**] \[**`data.`**]
+* Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/An_Hg-I2P_Bridging_Modalities_for_Generalizable_Image-to-Point-Cloud_Registration_via_Heterogeneous_Graphs_CVPR_2026_paper.html)] \[[CODE](https://github.com/anpei96/hg-i2p-demo) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-03-09] \[**`pc.`**] \[**`data.`**]
+* BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Dai_BiFM_Bidirectional_Flow_Matching_for_Few-Step_Image_Editing_and_Generation_CVPR_2026_paper.html)] \[**`dep.`**]
+* BluRef: Unsupervised Image Deblurring with Dense-Matching References. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Pham_BluRef_Unsupervised_Image_Deblurring_with_Dense-Matching_References_CVPR_2026_paper.html)]
+* Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_Can_We_Build_Scene_Graphs_Not_Classify_Them_FlowSG_Progressive_CVPR_2026_paper.html)] \[**`dep.`**]
+* C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Haitman_C-GenReg_Training-Free_3D_Point_Cloud_Registration_by_Multi-View-Consistent_Geometry-to-Image_Generation_CVPR_2026_paper.html)] \[**`pc.`**] \[**`dep.`**]
+* Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Amoyal_Cross-Instance_Gaussian_Splatting_Registration_via_Geometry-Aware_Feature-Guided_Alignment_CVPR_2026_paper.html)] \[**`oth.`**]
+* Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Disentangle-then-Align_Non-Iterative_Hybrid_Multimodal_Image_Registration_via_Cross-Scale_Feature_Disentanglement_CVPR_2026_paper.html)] \[**`medi.`**] \[**`dep.`**] \[**`oth.`**]
+* DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Li_DualReg_Dual-Space_Filtering_and_Reinforcement_for_Rigid_Registration_CVPR_2026_paper.html)]
+* Dynamic Stream Network for Combinatorial Explosion Problem in Deformable Medical Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Bi_Dynamic_Stream_Network_for_Combinatorial_Explosion_Problem_in_Deformable_Medical_CVPR_2026_paper.html)] \[**`medi.`**]
+* Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Briedis_Efficient_All-Pairs_Correlation_Volume_Sampling_for_Optical_Flow_Estimation_CVPR_2026_paper.html)] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* Feed-forward Gaussian Registration for Head Avatar Creation and Editing. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Prinzler_Feed-forward_Gaussian_Registration_for_Head_Avatar_Creation_and_Editing_CVPR_2026_paper.html)] \[**`dep.`**]
+* Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Flow4DGS-SLAM_Optical_Flow-Guided_4D_Gaussian_Splatting_SLAM_CVPR_2026_paper.html)] \[**`pc.`**] \[**`oth.`**]
+* FlowFM: Advancing Dark Optical Flow Estimation with Flow Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Zuo_FlowFM_Advancing_Dark_Optical_Flow_Estimation_with_Flow_Matching_CVPR_2026_paper.html)] \[**`oth.`**]
+* FlowPalm: Optical Flow Driven Non-Rigid Deformation for Geometrically Diverse Palmprint Generation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Zou_FlowPalm_Optical_Flow_Driven_Non-Rigid_Deformation_for_Geometrically_Diverse_Palmprint_CVPR_2026_paper.html)] \[**`data.`**] \[**`oth.`**]
+* Frequency-Aware Flow Matching for High-Quality Image Generation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Ren_Frequency-Aware_Flow_Matching_for_High-Quality_Image_Generation_CVPR_2026_paper.html)]
+* From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_From_Contrast_to_Consistency_Rethinking_Event-based_Continuous-Time_Optical_Flow_Estimation_CVPR_2026_paper.html)] \[**`dep.`**] \[**`oth.`**]
+* FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$N$ Diffusion Refinement. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_FUSER_Feed-Forward_Multiview_3D_Registration_Transformer_and_SE3N_Diffusion_Refinement_CVPR_2026_paper.html)] \[**`pc.`**] \[**`dep.`**]
+* FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Bian_FusionRegister_Every_Infrared_and_Visible_Image_Fusion_Deserves_Registration_CVPR_2026_paper.html)]
+* Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Generalized-CVO_Fast_and_Correspondence-Free_Local_Point_Cloud_Registration_with_Second_CVPR_2026_paper.html)] \[**`pc.`**]
+* GeniNav: Generative Model Driven Image-Goal Navigation via Imagination-Guided Consistency Flow Matching. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_GeniNav_Generative_Model_Driven_Image-Goal_Navigation_via_Imagination-Guided_Consistency_Flow_CVPR_2026_paper.html)]
+* GM-R2: Generative Matching Learning for Unsupervised Geometric Representation and Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_GM-R2_Generative_Matching_Learning_for_Unsupervised_Geometric_Representation_and_Registration_CVPR_2026_paper.html)]
+* LAOF: Robust Latent Action Learning with Optical Flow Constraints. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Bu_LAOF_Robust_Latent_Action_Learning_with_Optical_Flow_Constraints_CVPR_2026_paper.html)] \[**`dep.`**] \[**`oth.`**]
+* Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures Using Semigroup Regularization. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Matinkia_Learning_Diffeomorphism_for_Medical_Image_Registration_with_Time-Embedded_Architectures_Using_CVPR_2026_paper.html)] \[**`medi.`**]
+* Match-and-Fuse: Consistent Generation from Unstructured Image Sets. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Feingold_Match-and-Fuse_Consistent_Generation_from_Unstructured_Image_Sets_CVPR_2026_paper.html)]
+* MHopReg: Efficient Hierarchical Multi-Hop Graph Search for Point Cloud Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_MHopReg_Efficient_Hierarchical_Multi-Hop_Graph_Search_for_Point_Cloud_Registration_CVPR_2026_paper.html)] \[**`pc.`**]
+* MorphSeek: Fine-grained Latent Representation-Level Policy Optimization for Deformable Image Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_MorphSeek_Fine-grained_Latent_Representation-Level_Policy_Optimization_for_Deformable_Image_Registration_CVPR_2026_paper.html)] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**] \[**`oth.`**]
+* Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_Optical_Flow_Matching_Reframing_Optical_Flow_as_Continuous_Transport_Dynamics_CVPR_2026_paper.html)] \[**`oth.`**]
+* PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_PiLoT_Neural_Pixel-to-3D_Registration_for_UAV-based_Ego_and_Target_Geo-localization_CVPR_2026_paper.html)] \[[CODE](https://github.com/Choyaa/PiLoT)] \[**`rs.`**] \[**`pc.`**] \[**`data.`**]
+* ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_ReFlow_Self-correction_Motion_Learning_for_Dynamic_Scene_Reconstruction_CVPR_2026_paper.html)] \[**`oth.`**]
+* Registration-Free Learnable Multi-View Capture of Faces in Dense Semantic Correspondence. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Filntisis_Registration-Free_Learnable_Multi-View_Capture_of_Faces_in_Dense_Semantic_Correspondence_CVPR_2026_paper.html)] \[**`dep.`**]
+* Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_Rethinking_2D-3D_Registration_A_Novel_Network_for_High-Value_Zone_Selection_CVPR_2026_paper.html)] \[**`pc.`**]
+* Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Stitch-a-Demo_Creating_Video_Demonstrations_from_Multistep_Descriptions_CVPR_2026_paper.html)] \[**`oth.`**]
+* STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Li_STiTch_Semantic_Transition_and_Transportation_in_Collaboration_for_Training-Free_Zero-Shot_CVPR_2026_paper.html)] \[**`dep.`**] \[**`oth.`**]
+* SuP: Sub-cloud Driven Point Cloud Registration. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Fung_SuP_Sub-cloud_Driven_Point_Cloud_Registration_CVPR_2026_paper.html)] \[**`pc.`**]
+* U2Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation. \[[PUB](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_U2Flow_Uncertainty-Aware_Unsupervised_Optical_Flow_Estimation_CVPR_2026_paper.html)] \[**`oth.`**]
+
+### ECCV
+
+* AdaBridge-SR: Adaptive Bridge Matching for Real-World Image Super-Resolution. \[[PUB](https://doi.org/10.1007/978-3-032-37461-5_33)] \[**`nat.`**]
+* AnyMatch: Supercharging Universal Multi-modal Image Matching with Large-Scale Single-View Images. \[[PUB](https://doi.org/10.1007/978-3-032-37718-0_12)] \[**`nat.`**] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* CasaMaestro: Multi-view Panoramas for House-Scale 3D Reconstruction. \[[PUB](https://doi.org/10.1007/978-3-032-37252-9_12)] \[**`pc.`**]
+* DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models. \[[PUB](https://doi.org/10.1007/978-3-032-37041-9_29)] \[**`data.`**]
+* Ex-Sim(3)-Reg: 2D-3D Correspondence Pruning via Extended Sim(3) Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37261-1_33)] \[**`dep.`**]
+* FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval. \[[PUB](https://doi.org/10.1007/978-3-032-37038-9_10)]
+* FlowInOne: Unifying Multimodal Generation as Image-in, Image-Out Flow Matching. \[[PUB](https://doi.org/10.1007/978-3-032-37592-6_14)] \[**`data.`**]
+* FlowPainter: Inpainting Optical Flow via Confidence-Guided Completion. \[[PUB](https://doi.org/10.1007/978-3-032-37324-3_26)] \[**`oth.`**]
+* Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration. \[[PUB](https://doi.org/10.1007/978-3-032-37718-0_14)] \[**`dep.`**]
+* Foundation-Guided Representation Alignment for Multimodal Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37435-6_28)] \[**`medi.`**]
+* FreeFlow: A Bias-Free Hierarchical Transformer for Optical Flow Estimation. \[[PUB](https://doi.org/10.1007/978-3-032-37132-4_11)] \[**`dep.`**] \[**`oth.`**]
+* GraphCPD: Coherent Point Drift for Point Cloud Registration via Graph Signal Processing. \[[PUB](https://doi.org/10.1007/978-3-032-37602-2_23)] \[**`pc.`**]
+* MegaFlow: Zero-Shot Large Displacement Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-032-37321-2_19)] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* OCA: ODE-Driven Cross-Attention for Image-to-Point-Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37718-0_16)] \[**`data.`**] \[**`dep.`**]
+* On the Real-World Generalisability of Optical Flow Models. \[[PUB](https://doi.org/10.1007/978-3-032-36839-3_20)] \[**`data.`**] \[**`oth.`**]
+* Parsimonious Flow Matching for Efficient Image Generation. \[[PUB](https://doi.org/10.1007/978-3-032-37383-0_25)]
+* PGCR: Pose-Geometry Coupled Reasoning for Image-to-Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37032-7_36)] \[**`pc.`**]
+* Pixel-Wise Geo-Registration of Drone Images. \[[PUB](https://doi.org/10.1007/978-3-032-37422-6_5)] \[**`rs.`**] \[**`pc.`**] \[**`data.`**] \[**`oth.`**]
+* RegHead: Non-humanoid Head Blendshapes via Feed-Forward Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37029-7_13)] \[**`data.`**] \[**`dep.`**]
+* Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching. \[[PUB](https://doi.org/10.1007/978-3-032-37369-4_2)] \[**`pc.`**]
+* Revisiting Avatar-as-Image: High-Fidelity Registration is All You Need. \[[PUB](https://doi.org/10.1007/978-3-032-37627-5_6)] \[**`pc.`**] \[**`dep.`**]
+* RTE-FM-Dehazer: Radiative Transfer Equation Inspired Flow Matching for Real-World Image Dehazing. \[[PUB](https://doi.org/10.1007/978-3-032-37026-6_22)] \[**`nat.`**]
+* SLAIR: Structured Latent Flow Matching for All-in-One Image Restoration. \[[PUB](https://doi.org/10.1007/978-3-032-37517-9_3)]
+* Stitched Embeddings: A Unified Latent Space for 3D Garments and 2D Patterns. \[[PUB](https://doi.org/10.1007/978-3-032-37041-9_13)]
+* Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37095-2_18)] \[**`medi.`**]
+* Triangular Consistency as a Universal Constraint for Learning Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-032-37261-1_8)] \[**`oth.`**]
+* Tuning Real-World Image Restoration at Inference: A Test-Time Scaling Paradigm for Flow Matching Models. \[[PUB](https://doi.org/10.1007/978-3-032-37553-7_10)] \[**`nat.`**]
+* Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37429-5_13)]
+* UniStitch: Unifying Semantic and Geometric Features for Image Stitching. \[[PUB](https://doi.org/10.1007/978-3-032-37010-5_25)] \[**`dep.`**] \[**`oth.`**]
+* Unsupervised Point Cloud Registration via Training-Time Semantic Guidance. \[[PUB](https://doi.org/10.1007/978-3-032-37464-6_26)] \[**`pc.`**]
+* WiFlow: Estimating Optical Flow Using WiFi Channel State Information. \[[PUB](https://doi.org/10.1007/978-3-032-37350-2_24)] \[**`data.`**] \[**`oth.`**]
+* XPos3R: Cross-Modal Transformer for Intraoperative 2D/3D Registration. \[[PUB](https://doi.org/10.1007/978-3-032-37032-7_23)] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**]
+
+### ICLR
+
+* WAFT: Warping-Alone Field Transforms for Optical Flow. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ff2853ed92a6e6983ecccd9c922a42d2-Abstract-Conference.html)] \[[CODE](https://github.com/princeton-vl/WAFT) ⭐ 272 | 🐛 5 | 🌐 Python | 📅 2026-03-26] \[**`oth.`**]
+* SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/94a98f4338b6e5fba81344f961bac8e5-Abstract-Conference.html)] \[[CODE](https://github.com/XingtongGe/SenseFlow) ⭐ 117 | 🐛 4 | 🌐 Python | 📅 2026-03-14] \[**`data.`**] \[**`dep.`**]
+* Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad9804eed175610302917a0c21ab9b52-Abstract-Conference.html)] \[[CODE](https://github.com/htew0001/DSFM.git) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-05-31] \[**`medi.`**]
+* A Scalable Distributed Framework for Multimodal GigaVoxel Image Registration. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/c242f2b7f60d8c685b6481939330e241-Abstract-Conference.html)] \[**`medi.`**] \[**`pc.`**] \[**`data.`**] \[**`dep.`**]
+* ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d3408794e41dd23e34634344d662f5e9-Abstract-Conference.html)] \[**`oth.`**]
+* Credit-Budgeted ICPC-Style Coding: When Agents Must Pay for Every Decision. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/8bd5148caced2d73cea7b6961a874a49-Abstract-Conference.html)] \[**`data.`**]
+* DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/204810b414d4971c4bfccf7eb3422ecc-Abstract-Conference.html)] \[**`dep.`**]
+* Multimodal Aligned Semantic Knowledge for Unpaired Image-text Matching. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/e48fa1c4f08fd1ae35d5df8352c3106d-Abstract-Conference.html)]
+* Purrception: Variational Flow Matching for Vector-Quantized Image Generation. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/9d8cf1247786d6dfeefeeb53b8b5f6d7-Abstract-Conference.html)]
+* RayI2P: Learning Rays for Image-to-Point Cloud Registration. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/49f42aafbcce59b2665640cb9f3d794f-Abstract-Conference.html)] \[**`pc.`**]
+* Reliable Evaluation of MRI Motion Correction: Dataset and Insights. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/090298ec38fee9b8ced6dad1e1c3a7d8-Abstract-Conference.html)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**]
+* RobustSpring: Benchmarking Robustness to Image Corruptions for Optical Flow, Scene Flow and Stereo. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/5892bfd54d762b9da1d2c513aef3df42-Abstract-Conference.html)] \[**`data.`**] \[**`oth.`**]
+* Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/40121c4f72e384c6d1d2c1366c39b57e-Abstract-Conference.html)] \[**`oth.`**]
+* Unified Brain Surface and Volume Registration. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d64740dd69bcc90ba225a182984b81ba-Abstract-Conference.html)] \[**`medi.`**]
+
 ### AAAI
 
 * Adaptive Agent Selection and Interaction Network for Image-to-Point Cloud Registration. \[[PUB](https://doi.org/10.1609/aaai.v40i5.37329)]
@@ -100,6 +195,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Graph Flow Matching: Enhancing Image Generation with Neighbor-Aware Flow Fields. \[[PUB](https://doi.org/10.1609/aaai.v40i30.39741)]
 * Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection. \[[PUB](https://doi.org/10.1609/aaai.v40i4.37280)] \[**`data.`**]
 * MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration. \[[PUB](https://doi.org/10.1609/aaai.v40i28.39531)]
+* PMPGuard: Catching Pseudo-Matched Pairs in Remote Sensing Image-Text Retrieval. \[[PUB](https://doi.org/10.1609/aaai.v40i10.37767)] \[**`rs.`**] \[**`data.`**] \[**`dep.`**]
 * RAW-Flow: Advancing RGB-to-RAW Image Reconstruction with Deterministic Latent Flow Matching. \[[PUB](https://doi.org/10.1609/aaai.v40i9.37682)]
 * SGPFeat: Semantic and Geometric Priors for Multi-modal Image Matching. \[[PUB](https://doi.org/10.1609/aaai.v40i5.37355)]
 * SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration. \[[PUB](https://doi.org/10.1609/aaai.v40i12.37939)]
@@ -109,7 +205,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * Bayesian Unsupervised Disentanglement of Anatomy and Geometry for Deep Groupwise Image Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3609521)]
 * BEVTrack: Multi-View Multi-Human Registration and Tracking in the Bird's Eye View. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3647707)]
+* ColorPCR++: Unleash the Power of Color for Point Cloud Registration Using Hypergraph Computation. \[[PUB](https://doi.org/10.1109/TPAMI.2026.3694889)] \[**`pc.`**]
 * Consistency-Aware Spot-Guided Transformer for Accurate and Versatile Point Cloud Registration. \[[PUB](https://doi.org/10.1109/TPAMI.2026.3653989)]
+* Distribution-to-Points Matching for Image Text Retrieval. \[[PUB](https://doi.org/10.1109/TPAMI.2026.3664613)] \[**`dep.`**]
+* Equivariant Bayesian Hyperspectral Imaging via Mosaiced and PAN Image Fusion. \[[PUB](https://doi.org/10.1109/TPAMI.2026.3682543)] \[**`rs.`**] \[**`data.`**] \[**`dep.`**]
 * Iterative Differential Entropy Minimization (IDEM) Method for Fine Rigid Pairwise 3D Point Cloud Registration: A Focus on the Metric. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3647835)] \[**`pc.`**]
 * Joint Sparse Optical Flow Estimation and Keypoint Detection via Dual-task Imperative Learning. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3627192)]
 * Learning Efficient Meshflow and Optical Flow From Event Cameras. \[[PUB](https://doi.org/10.1109/TPAMI.2025.3615144)]
@@ -120,17 +219,29 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IJCV
 
+* Vector-Symbolic Architecture for Event-Based Optical Flow. \[[PUB](https://doi.org/10.1007/s11263-026-02951-8)] \[[CODE](https://github.com/youhongzhi/VSA_For_EventOpticalFlow) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-16] \[**`dep.`**] \[**`oth.`**]
 * CylindFormer: Image-to-Point Cloud Registration with Cylindrical Transformer. \[[PUB](https://doi.org/10.1007/s11263-026-02747-w)]
 * Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy. \[[PUB](https://doi.org/10.1007/s11263-025-02723-w)]
+* ICPE-FAS: Instance and Category Prompts Engineering for Generalizable Face Anti-Spoofing. \[[PUB](https://doi.org/10.1007/s11263-026-02888-y)]
+* IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion. \[[PUB](https://doi.org/10.1007/s11263-026-03043-3)]
 * Robust Partial-to-Partial Point Cloud Registration with Overlapping Mask Learning. \[[PUB](https://doi.org/10.1007/s11263-026-02772-9)] \[**`pc.`**]
 
 ### TMI
 
+* Biomechanics-Informed Non-Rigid Medical Image Registration With Elasticity Theories. \[[PUB](https://doi.org/10.1109/TMI.2026.3665279)] \[[CODE](https://github.com/ZheMin-1992/Registration_PINNs) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2023-04-21] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**] \[**`oth.`**]
+* A 3-D Cross-Modal Keypoint Descriptor for MR-US Matching and Registration. \[[PUB](https://doi.org/10.1109/TMI.2026.3680352)] \[[CODE](https://github.com/morozovdd/CrossKEY) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-04-12] \[**`medi.`**] \[**`data.`**]
+* Adaptive Conditional Contrast-Agnostic Deformable Image Registration With Uncertainty Estimation. \[[PUB](https://doi.org/10.1109/TMI.2026.3652830)] \[[CODE](https://github.com/Yinsong0510/AC-CAR) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-04-08] \[**`medi.`**] \[**`dep.`**] \[**`oth.`**]
 * Overlap-Aware Online-Adaptive Non-Rigid Registration of Intraoperative Tissue in Minimally Invasive Surgery. \[[PUB](https://doi.org/10.1109/TMI.2025.3620746)] \[[CODE](https://github.com/AIGCer0807/OANRM) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-10-22] \[**`medi.`**]
 * CASHNet: Context-Aware Semantics-Driven Hierarchical Network for Hybrid Diffeomorphic CT-CBCT Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3607700)] \[[CODE](https://github.com/xiaorugao999/CASHNet) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-10-15]
+* CIM-VTP: Correlation-Guided Image Modeling With Visual-Textual Task Prompt for Universal Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2026.3690772)] \[[CODE](https://github.com/xiehousheng/CIM-VTP) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-01] \[**`medi.`**] \[**`dep.`**]
 * MoE-Morph: Lightweight Pyramid Model With Heterogeneous Mixture of Experts for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3620406)] \[[CODE](https://github.com/Darlinglinlinlin/MOE_Morph) ⭐ 0 | 🐛 4 | 📅 2025-08-26]
 * Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases. \[[PUB](https://doi.org/10.1109/TMI.2025.3595421)]
+* Dynamic Registration-Based Photoacoustic Endoscopic Temperature Imaging for Precision Interventional Thermal Therapy and Monitoring. \[[PUB](https://doi.org/10.1109/TMI.2026.3668711)] \[**`medi.`**]
 * Efficient Large-Deformation Medical Image Registration via Recurrent Dynamic Correlation. \[[PUB](https://doi.org/10.1109/TMI.2025.3630584)]
+* EMORe: Motion-Robust 5D MRI Reconstruction via Expectation-Maximization-Guided Binning Correction and Outlier Rejection. \[[PUB](https://doi.org/10.1109/TMI.2026.3686805)] \[**`medi.`**] \[**`pc.`**]
+* Head Motion Correction Based on Pilot Tone Signals in MRI: A Referenceless Method. \[[PUB](https://doi.org/10.1109/TMI.2026.3677132)] \[**`medi.`**] \[**`data.`**]
+* Neural Optimization for Image Registration via Joint Modeling of Global Affine and Local Deformation Transformations. \[[PUB](https://doi.org/10.1109/TMI.2026.3687063)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* Temporal Conditioning for Longitudinal Brain MRI Registration and Aging Analysis. \[[PUB](https://doi.org/10.1109/TMI.2026.3674458)] \[**`medi.`**] \[**`dep.`**] \[**`oth.`**]
 
 ### MIA
 
@@ -139,24 +250,76 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * BIASNet: A bidirectional feature alignment and semantics-guided network for weakly-supervised medical image registration. \[[PUB](https://doi.org/10.1016/j.media.2025.103913)] \[[CODE](https://github.com/xiehousheng/BIASNet) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-12-21]
 * Unsupervised multimodal surface registration with geometric deep learning. \[[PUB](https://doi.org/10.1016/j.media.2025.103821)] \[[CODE](https://github.com/mohamedasuliman/GeoMorph) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-09-17]
 * UTMorph: A hybrid CNN-transformer network for weakly-supervised multimodal image registration in biopsy puncture. \[[PUB](https://doi.org/10.1016/j.media.2026.103938)] \[[CODE](https://github.com/Prps7/UTMorph) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-01-25]
+* Deformable image registration for self-supervised cardiac phase detection in cardiac magnetic resonance images of patients with various diseases. \[[PUB](https://doi.org/10.1016/j.media.2026.104142)] \[[CODE](https://github.com/Cardio-AI/cmr-multi-view-phase-detection.git) ⭐ 1 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-11] \[**`medi.`**] \[**`dep.`**]
 * GAGM: Geometry-aware graph matching framework for weakly supervised gyral hinge correspondence. \[[PUB](https://doi.org/10.1016/j.media.2025.103820)] \[[CODE](https://github.com/ZhibinHe/GAGM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-09-29]
+* Beyond the LUMIR challenge: The pathway to foundational registration models. \[[PUB](https://doi.org/10.1016/j.media.2026.104175)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
 * BundleWarp: Enhancing white matter tractometry and morphometry with precise neuronal mapping using streamline-based nonlinear registration. \[[PUB](https://doi.org/10.1016/j.media.2026.104114)]
 * Calibration-free 3D-2D surface registration for image guided intervention. \[[PUB](https://doi.org/10.1016/j.media.2026.104092)]
+* Contrastive Discrepancy: A label-free metric for deformable image registration supporting testing-time hyperparameter selection. \[[PUB](https://doi.org/10.1016/j.media.2026.104210)] \[**`medi.`**]
+* Data-driven registration and modeling of brain deformation for image-guided neurosurgery. \[[PUB](https://doi.org/10.1016/j.media.2026.104217)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* Effective registration-free dual-phase segmentation for pancreas and pancreatic mass via symmetrical selective feature integration. \[[PUB](https://doi.org/10.1016/j.media.2026.104116)] \[**`medi.`**] \[**`dep.`**]
+* FlowLet: Conditional 3D brain MRI synthesis using wavelet flow matching. \[[PUB](https://doi.org/10.1016/j.media.2026.104161)] \[**`medi.`**] \[**`dep.`**]
 * From model based to learned regularization in medical image registration: A comprehensive review. \[[PUB](https://doi.org/10.1016/j.media.2025.103854)]
 * ISDR-Net: Interpretable Self-Supervised Differentiable Rendering Network for monocular dynamic sensor-head pose tracking and registration. \[[PUB](https://doi.org/10.1016/j.media.2026.104084)] \[**`dep.`**]
 * Iterative learning for joint image denoising and motion artifact correction of 3D brain MRI. \[[PUB](https://doi.org/10.1016/j.media.2025.103872)]
 * Learning dual-scale context with overlap awareness for keypoint-driven partial-overlap medical image registration. \[[PUB](https://doi.org/10.1016/j.media.2026.104100)] \[**`medi.`**]
 * ModeTv2: GPU-accelerated motion decomposition transformer for pairwise optimization in medical image registration. \[[PUB](https://doi.org/10.1016/j.media.2025.103862)]
+* NeuralBoneReg: An instance-specific label-free point cloud-based method for multi-modal bone surface registration. \[[PUB](https://doi.org/10.1016/j.media.2026.104133)] \[**`medi.`**] \[**`pc.`**] \[**`data.`**] \[**`dep.`**]
 * OphMatcher: Uncertainty-aware self-training on ophthalmic surgical videos for anatomy-constrained matching and intraoprative navigation. \[[PUB](https://doi.org/10.1016/j.media.2026.104057)] \[**`medi.`**]
+* PIVOTS: Aligning unseen structures using preoperative to intraoperative volume-to-surface registration for liver navigation. \[[PUB](https://doi.org/10.1016/j.media.2026.104139)] \[**`medi.`**] \[**`pc.`**] \[**`data.`**] \[**`dep.`**]
 * Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models. \[[PUB](https://doi.org/10.1016/j.media.2026.103948)]
 * Spatio-temporal registration of multi-perspective 3D echocardiography for improved strain estimation. \[[PUB](https://doi.org/10.1016/j.media.2025.103791)] \[**`medi.`**]
+* Two-stage robust 3D CTA-2D DSA alignment via vascular-aware rigid and pyramid-based hierarchical non-rigid registration. \[[PUB](https://doi.org/10.1016/j.media.2026.104150)] \[**`medi.`**] \[**`dep.`**]
 * Unsupervised learning of spatially varying regularization for diffeomorphic image registration. \[[PUB](https://doi.org/10.1016/j.media.2025.103887)] \[**`dep.`**]
 * Vision foundation model for 3D magnetic resonance imaging segmentation, classification, and registration. \[[PUB](https://doi.org/10.1016/j.media.2026.103992)]
+
+### MICCAI
+
+* Angio-Stitch: An Unsupervised Coarse-to-Fine Framework for Sequential Stitching of Confocal Laser Endomicroscopy Images. \[[PUB](https://doi.org/10.1007/978-3-032-38470-6_36)] \[**`medi.`**] \[**`oth.`**]
+* DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_4)] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**]
+* End2Reg: Learning Task-Specific Segmentation for Markerless Registration in Spine Surgery. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_7)] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**]
+* FlowReg: Reconstruction-Guided Flow Matching for Universal Spinal CT/X-Ray Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_8)] \[**`medi.`**]
+* FSE-Reg: Enhancing 3D Deformable Registration with Frozen Large-Scale Pre-trained Segmentation Encoders. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_9)] \[**`medi.`**] \[**`dep.`**]
+* Human-AI Collaboration for 2D/3D Registration Quality Assurance. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_11)] \[**`medi.`**] \[**`pc.`**]
+* Intraoperative Fluoroscopy-Volume Registration Using Virtual-Supervision Skeleton Attention. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_13)] \[**`medi.`**]
+* Intraoperative X-Ray-Guided Tumor Tracking via Dynamic 3D/2D Registration with Task-Driven 3D Gaussian Priors. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_14)] \[**`medi.`**]
+* Joint Decomposition and Learned Deformation for Part-to-Whole MRI to Histology Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_15)] \[**`medi.`**] \[**`dep.`**]
+* Keypoint Correspondence Learning for CBCT-IOS Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_16)] \[**`medi.`**]
+* KGT-Reg: Knowledge-Guided Multimodal Framework for Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_17)] \[**`medi.`**]
+* Latent Lessons from Histopathology: A Registration-Free Cross-Modal Supervision Framework for mpMRI-Based ISUP Grading. \[[PUB](https://doi.org/10.1007/978-3-032-38224-5_23)] \[**`medi.`**]
+* Learning Hierarchical Anatomy-Grounded Representation for Cross-Modal Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_19)] \[**`medi.`**]
+* Learning Modality-Invariant Structure and Distribution Alignment for Multimodal Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_20)] \[**`medi.`**]
+* Making HE Histopathological Images More Colorful by Conditional Flow Matching. \[[PUB](https://doi.org/10.1007/978-3-032-38224-5_29)] \[**`medi.`**]
+* OPS: One-Shot Point Prompted Semantics-Aware Learning for Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_24)] \[**`medi.`**]
+* Optimal Steps for Fast Diffeomorphic Shape Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_25)] \[**`medi.`**]
+* PathoMamba: Piecewise-Diffeomorphic Registration via Stiffness-Modulated State Space Dynamics. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_26)] \[**`medi.`**]
+* Really Need Recursion? Revisiting One-Pass Registration with Multi-Level Multi-Space Contextual Guidance. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_27)] \[**`medi.`**]
+* Set-Based Groupwise Registration for Variable-Length, Variable-Contrast Cardiac MRI. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_28)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* Shape-Aware Registration Without Pretraining: CT-Ultrasound Bone Surface Alignment via Instance-Level Shape Completion. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_29)] \[**`medi.`**]
+* SPEAR: Error-Guided Sparse Refinement for Scalable Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_30)] \[**`medi.`**]
+* SwallowReg: SAM-Assisted Deformable Registration with Adaptive Global-Local Features for Cine-MRI Swallowing Function Quantification. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_31)] \[**`medi.`**]
+* TG-OT: Topology-Guided CCTA-IVUS Registration via Optimal Transport Matching. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_32)] \[**`medi.`**] \[**`data.`**]
+* VarDeFlow: Variational Deformation Learning with Flow Matching for Multi-organ Cross-Modality Medical Image Synthesis. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_36)] \[**`medi.`**]
+* Vis2Reg: Visibility-Aware Landmark-Free Geometric 3D-2D Registration for Liver Laparoscopy. \[[PUB](https://doi.org/10.1007/978-3-032-38186-6_37)] \[**`medi.`**] \[**`dep.`**] \[**`oth.`**]
 
 ### JBHI
 
 * Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery With Patches-to-Partial Matching. \[[PUB](https://doi.org/10.1109/JBHI.2025.3583875)] \[[CODE](https://github.com/zixinyang9109/P2P) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-07-29]
+* Cross-Correlation Rectification for Robust Deformable Registration of Brain Tumor MRI Between Preoperative and Postoperative Phases. \[[PUB](https://doi.org/10.1109/JBHI.2025.3648846)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+* Cross-Modality Image Registration via Generating Aligned Image Using Reference-Augmented Framework. \[[PUB](https://doi.org/10.1109/JBHI.2025.3642431)] \[**`medi.`**] \[**`data.`**] \[**`dep.`**]
+* Deformable Medical Image Registration With Effective Anatomical Structure Representation and Divide-and-Conquer Network. \[[PUB](https://doi.org/10.1109/JBHI.2025.3639819)] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**] \[**`oth.`**]
+* Diffusion Tensor Magnetic Resonance Image Registration Based on Parallel Dual-Channel VoxelMorph. \[[PUB](https://doi.org/10.1109/JBHI.2025.3644884)] \[**`medi.`**] \[**`pc.`**] \[**`dep.`**] \[**`oth.`**]
+* GuidedMorph: Two-Stage Deformable Registration for Breast MRI. \[[PUB](https://doi.org/10.1109/JBHI.2025.3647349)] \[**`medi.`**] \[**`pc.`**] \[**`data.`**] \[**`dep.`**]
+* LADDA: Latent Diffusion-Based Domain-Adaptive Feature Disentangling for Unsupervised Multi-Modal Medical Image Registration. \[[PUB](https://doi.org/10.1109/JBHI.2025.3588511)] \[**`medi.`**] \[**`dep.`**]
 * Medical Image Privacy in Federated Learning: Segmentation-Reorganization and Sparsified Gradient Matching Attacks. \[[PUB](https://doi.org/10.1109/JBHI.2025.3593631)] \[**`medi.`**]
+
+### KDD
+
+* TS-Arena - A Live Forecast Pre-Registration Platform. \[[PUB](https://doi.org/10.1145/3770855.3817515)] \[**`data.`**] \[**`dep.`**]
+
+### S\&P
+
+* Scalable Registration-Based Encryption from Lattices. \[[PUB](https://doi.org/10.1109/SP63933.2026.00199)]
 
 ## 2025
 
@@ -240,6 +403,24 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Turboreg: Turboclique for Robust and Efficient Point Cloud Registration. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02447)]
 * U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02308)] \[**`rs.`**]
 * Unsupervised Rgb-D Point Cloud Registration for Scenes With Low Overlap and Photometric Inconsistency. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02306)] \[**`pc.`**]
+
+### NeurIPS
+
+* Depth-Supervised Fusion Network for Seamless-Free Image Stitching. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/bcf5b917751e92c941d03512ae75dd03-Abstract-Conference.html)] \[**`oth.`**]
+* E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/2b7539f0892fdb0e096a2b718c6890f9-Abstract-Conference.html)] \[**`oth.`**]
+* GeGS-PCR: Fast and Robust Color 3D Point Cloud Registration with Two-Stage Geometric-3DGS Fusion. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/0d2e544c1baa964a0e274e711ecdacf5-Abstract-Conference.html)] \[**`pc.`**]
+* ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/fbcd803d44439b49fc76b250208d8e1f-Abstract-Datasets_and_Benchmarks_Track.html)] \[**`dep.`**]
+* Image Stitching in Adverse Condition: A Bidirectional-Consistency Learning Framework and Benchmark. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/3c963fce0837a28100cf33eba74cda32-Abstract-Conference.html)] \[**`data.`**] \[**`oth.`**]
+* Implicit-ARAP: Efficient Handle-Guided Neural Field Deformation via Local Patch Meshing. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/b4c5bb69e44575cb70c8245b6e816b78-Abstract-Conference.html)]
+* Injecting Frame-Event Complementary Fusion into Diffusion for Optical Flow in Challenging Scenes. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/2d7b46ab7623124c2705683dea36fbef-Abstract-Conference.html)] \[**`oth.`**]
+* Learning normalized image densities via dual score matching. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/818049bb753acade30abd1a6555cc04d-Abstract-Conference.html)]
+* Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/08c6112ac1712333f2c319f234b45b12-Abstract-Conference.html)] \[**`oth.`**]
+* PointTruss: K-Truss for Point Cloud Registration. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/49ea0f02a4e7da79bc121e29337389ac-Abstract-Conference.html)] \[**`pc.`**]
+* PolyPose: Deformable 2D/3D Registration via Polyrigid Transformations. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/5750f91d8fb9d5c02bd8ad2c3b44456b-Abstract-Conference.html)] \[**`pc.`**]
+* Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/07bc722f08f096e6ea7ee99349ff0a86-Abstract-Conference.html)]
+* SAM2Flow: Interactive Optical Flow Estimation with Dual Memory for in vivo Microcirculation Analysis. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/2d5e30cc59c46aebe9d35a73ff41d32b-Abstract-Conference.html)] \[**`oth.`**]
+* Taming generative video models for zero-shot optical flow extraction. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/bcc97a47e54a9bec240cf5e5aadfd8fb-Abstract-Conference.html)] \[**`oth.`**]
+* Unsupervised Trajectory Optimization for 3D Registration in Serial Section Electron Microscopy using Neural ODEs. \[[PUB](http://papers.nips.cc/paper_files/paper/2025/hash/b9ecf4d84999a61783c360c3782e801e-Abstract-Conference.html)] \[**`medi.`**] \[**`pc.`**]
 
 ### ICML
 
@@ -508,7 +689,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 93 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 74 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
 * PointRegGPT: Boosting 3D Point Cloud Registration Using Generative Point-Cloud Pairs for Training. \[[PUB](https://doi.org/10.1007/978-3-031-72983-6_16)] \[[CODE](https://github.com/Chen-Suyi/PointRegGPT) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-02-24]
-* BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 38 | 🐛 4 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
+* BurstM: Deep Burst Multi-scale SR Using Fourier Space with Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72946-1_26)] \[[CODE](https://github.com/Egkang-Luis/burstm) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2024-09-30] \[**`oth.`**]
 * Adaptive Correspondence Scoring for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72920-1_5)]
 * BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation Using RGB Frames and Events. \[[PUB](https://doi.org/10.1007/978-3-031-72855-6_2)]
 * Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning. \[[PUB](https://doi.org/10.1007/978-3-031-73223-2_5)] \[**`pc.`**]
@@ -970,6 +1151,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * One-shot Joint Extraction, Registration and Segmentation of Neuroimaging Data. \[[PUB](https://doi.org/10.1145/3580305.3599452)]
 
+### TCAD
+
+* A Highly Compressed Accelerator With Temporal Optical Flow Feature Fusion and Tensorized LSTM for Video Action Recognition on Terminal Device. \[[PUB](https://doi.org/10.1109/TCAD.2023.3241113)] \[**`data.`**] \[**`dep.`**] \[**`oth.`**]
+
 ### TPDS
 
 * Faber: A Hardware/SoftWare Toolchain for Image Registration. \[[PUB](https://doi.org/10.1109/TPDS.2022.3218898)]
@@ -1225,8 +1410,13 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * Multi-Stage Framework with Refinement Based Point Set Registration for Unsupervised Bi-Lingual Word Alignment. \[[PUB](https://aclanthology.org/2022.coling-1.92)] \[**`pc.`**]
 
+### EMNLP
+
+* Cross-stitching Text and Knowledge Graph Encoders for Distantly Supervised Relation Extraction. \[[PUB](https://doi.org/10.18653/v1/2022.emnlp-main.467)] \[**`oth.`**]
+
 ### KDD
 
+* Dense Feature Tracking of Atmospheric Winds with Deep Optical Flow. \[[PUB](https://doi.org/10.1145/3534678.3539345)] \[**`rs.`**] \[**`dep.`**] \[**`oth.`**]
 * ERNet: Unsupervised Collective Extraction and Registration in Neuroimaging Data. \[[PUB](https://doi.org/10.1145/3534678.3539227)]
 * Quantifying and Reducing Registration Uncertainty of Spatial Vector Labels on Earth Imagery. \[[PUB](https://doi.org/10.1145/3534678.3539410)]
 
@@ -1708,7 +1898,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### TMI
 
-* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,756 | 🐛 156 | 🌐 Python | 📅 2026-09-11]
+* VoxelMorph: A Learning Framework for Deformable Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2019.2897538)] \[[CODE](https://github.com/voxelmorph/voxelmorph) ⭐ 2,756 | 🐛 155 | 🌐 Python | 📅 2026-09-11]
 * 3D Multi-Resolution Optical Flow Analysis of Cardiovascular Pulse Propagation in Human Brain. \[[PUB](https://doi.org/10.1109/TMI.2019.2904762)]
 * A Global Method for Non-Rigid Registration of Cell Nuclei in Live Cell Time-Lapse Images. \[[PUB](https://doi.org/10.1109/TMI.2019.2901918)]
 * A Statistical Model for Rigid Image Registration Performance: The Influence of Soft-Tissue Deformation as a Confounding Noise Source. \[[PUB](https://doi.org/10.1109/TMI.2019.2907868)]
@@ -1817,6 +2007,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### TPDS
 
 * A Performance Model for GPU Architectures that Considers On-Chip Resources: Application to Medical Image Registration. \[[PUB](https://doi.org/10.1109/TPDS.2019.2905213)] \[**`medi.`**]
+
+### VLDB
+
+* Panorama: A Data System for Unbounded Vocabulary Querying over Video. \[[PUB](http://www.vldb.org/pvldb/vol13/p477-zhang.pdf)] \[**`dep.`**] \[**`oth.`**]
 
 ## 2018
 
@@ -1956,7 +2150,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### IEEE Access
 
-* Multi-temporal Remote Sensing Image Registration Using Deep Convolutional Features. \[[PUB](https://ieeexplore.ieee.org/document/8404075)] \[[CODE](https://github.com/yzhq97/cnn-registration) ⭐ 459 | 🐛 25 | 🌐 Python | 📅 2020-12-28] \[**`rs.`**] :fire:
+* Multi-temporal Remote Sensing Image Registration Using Deep Convolutional Features. \[[PUB](https://ieeexplore.ieee.org/document/8404075)] \[[CODE](https://github.com/yzhq97/cnn-registration) ⭐ 460 | 🐛 25 | 🌐 Python | 📅 2020-12-28] \[**`rs.`**] :fire:
 
 ### COLING
 
@@ -2119,9 +2313,17 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * Using 2 point+normal sets for fast registration of point clouds with small overlap. \[[PUB](https://ieeexplore.ieee.org/document/7989664)] \[**`pc.`**]
 
+### EuroSys
+
+* Mosaic: Processing a Trillion-Edge Graph on a Single Machine. \[[PUB](https://doi.org/10.1145/3064176.3064191)] \[**`oth.`**]
+
 ### KDD
 
 * Evaluating U.S. Electoral Representation with a Joint Statistical Model of Congressional Roll-Calls, Legislative Text, and Voter Registration Data. \[[PUB](https://doi.org/10.1145/3097983.3098151)]
+
+### USENIX Security
+
+* Game of Registrars: An Empirical Analysis of Post-Expiration Domain Name Takeovers. \[[PUB](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/lauinger)]
 
 ## 2016
 
@@ -2519,6 +2721,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Efficient Cross-Domain Image Retrieval by Multi-Level Matching and Spatial Verification for Structural Similarity. \[[PUB](https://doi.org/10.1145/2647868.2655032)] \[**`nat.`**]
 * Real-Time HDR Panorama Video. \[[PUB](https://doi.org/10.1145/2647868.2655049)] \[**`oth.`**]
 
+### TPDS
+
+* Task-Tree Based Large-Scale Mosaicking for Massive Remote Sensed Imageries with Dynamic DAG Scheduling. \[[PUB](https://doi.org/10.1109/TPDS.2013.272)] \[**`oth.`**]
+
 ### WWW
 
 * XXXtortion?: inferring registration intent in the .XXX TLD. \[[PUB](https://doi.org/10.1145/2566486.2567995)] \[**`data.`**]
@@ -2813,6 +3019,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Minimax hypothesis testing for curve registration. \[[PUB](http://proceedings.mlr.press/v22/collier12.html)]
 * Wilks' phenomenon and penalized likelihood-ratio test for nonparametric curve registration. \[[PUB](http://proceedings.mlr.press/v22/dalalyan12.html)]
 
+### TC
+
+* A Comparison of FPGA and GPU for Real-Time Phase-Based Optical Flow, Stereo, and Local Image Features. \[[PUB](https://doi.org/10.1109/TC.2011.120)] \[**`oth.`**]
+
 ## 2011
 
 ### CVPR
@@ -3083,6 +3293,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * 3D ancient mosaics. \[[PUB](https://doi.org/10.1145/1873951.1874289)]
 
+### TCAD
+
+* An Automatic Optical Simulation-Based Lithography Hotspot Fix Flow for Post-Route Optimization. \[[PUB](https://doi.org/10.1109/TCAD.2010.2043756)] \[**`rs.`**]
+
 ### TPDS
 
 * An Analytical Approach to Optimizing Parallel Image Registration/Retrieval. \[[PUB](https://doi.org/10.1109/TPDS.2009.164)]
@@ -3238,6 +3452,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### RSS
 
 * Generalized-ICP. \[[PUB](http://www.robots.ox.ac.uk/~avsegal/resources/papers/Generalized_ICP.pdf)]
+
+### WWW
+
+* Detecting image spam using local invariant features and pyramid match kernel. \[[PUB](https://doi.org/10.1145/1526709.1526921)]
 
 ## 2008
 
@@ -4140,6 +4358,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Automatic Fusion of Freehand Endoscopic Brain Images to Three-Dimensional Surfaces: Creating Stereoscopic Panoramas. \[[PUB](https://doi.org/10.1109/42.981231)]
 * Computational Cost of Non-Rigid Registration Algorithms Based on Fluid Dynamics. \[[PUB](https://doi.org/10.1109/TMI.2002.803113)] \[**`medi.`**]
 * Consistent Landmark and Intensity-based Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2002.1009381)] \[**`medi.`**]
+* HAMMER: Heirarchical Attribute Matching Mechanism for Elastic Registration. \[**`medi.`**] \[**`pc.`**]
 * Local Frequency Representations for Robust Multimodal Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2002.1009382)]
 * Method for Three Dimensional Data Registration from Disparate Imaging Modalities. \[[PUB](https://doi.org/10.1109/TMI.2002.806320)] \[**`medi.`**]
 * Model Evaluation and Calibration for Prospective Respiratory Motion Correction in Coronary MR Angiography Based on 3D Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2002.804428)]
@@ -4188,6 +4407,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Using Points and Surfaces to Improve Voxel-Based Non-rigid Registration. \[[PUB](https://doi.org/10.1007/3-540-45787-9_71)] \[**`medi.`**]
 * Validation of Volume-Preserving Non-rigid Registration: Application to Contrast-Enhanced MR-Mammography. \[[PUB](https://doi.org/10.1007/3-540-45786-0_38)] \[**`medi.`**]
 
+### INFOCOM
+
+* Impact of Segments Aggregation on TCP Reno Flows in Optical Burst Switching Networks. \[[PUB](https://doi.org/10.1109/INFCOM.2002.1019434)]
+
 ## 2001
 
 ### CVPR
@@ -4212,6 +4435,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Stochastic Rigidity: Image Registration for Nowhere-Static Scenes. \[[PUB](https://doi.ieeecomputersociety.org/10.1109/ICCV.2001.10086)]
 * Template Matching Approach to Content Based Image Indexing by Low Dimensional Euclidean Embedding. \[[PUB](https://doi.org/10.1109/ICCV.2001.937676)]
 * Towards Real-Time Multi-Modality 3-D Medical Image Registration. \[[PUB](https://doi.ieeecomputersociety.org/10.1109/ICCV.2001.10068)] \[**`medi.`**]
+
+### IJCAI
+
+* Fuzzy Conceptual Graphs for Matching Images of Natural Scenes.
 
 ### TPAMI
 
@@ -4427,6 +4654,13 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Segmentation, Registration and Measurement of Shape Variation via Image Object Shape. \[[PUB](https://doi.org/10.1109/42.811263)] \[**`medi.`**]
 * Validation of an Optical Flow Method for Tag Displacement Estimation. \[[PUB](https://doi.org/10.1109/42.768845)]
 
+### MIA
+
+* Comparative evaluation of multiresolution optimization strategies for multimodality image registration by maximization of mutual information. \[[PUB](https://doi.org/10.1016/S1361-8415\(99\)80030-9)]
+* Evaluation of robot-based registration for subtraction radiography. \[[PUB](https://doi.org/10.1016/S1361-8415\(99\)80023-1)]
+* Registration and difference analysis of corresponding mammogram images. \[[PUB](https://doi.org/10.1016/S1361-8415\(99\)80001-2)]
+* Rigid point feature registration using mutual information. \[[PUB](https://doi.org/10.1016/S1361-8415\(99\)80034-6)] \[**`medi.`**] \[**`pc.`**]
+
 ### MICCAI
 
 * 3-D Deformable Registration of Medical Images Using a Statistical Atlas. \[[PUB](https://doi.org/10.1007/10704282_67)] \[**`medi.`**]
@@ -4590,6 +4824,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Three-Dimensional PET Emission Scan Registration and Transmission Scan Synthesis. \[[PUB](https://doi.org/10.1109/42.640744)] \[**`medi.`**]
 * Three-Dimensional Surface Reconstruction Using Optical Flow for Medical Imaging. \[[PUB](https://doi.org/10.1109/42.640754)]
 
+### MIA
+
+* A robust point-matching algorithm for autoradiograph alignment. \[[PUB](https://doi.org/10.1016/S1361-8415\(97\)85008-6)] \[**`medi.`**] \[**`pc.`**]
+
 ### IPMI
 
 * A Robust and Efficient Algorithm for Image Registration. \[[PUB](https://doi.org/10.1007/3-540-63046-5_44)] \[**`medi.`**]
@@ -4601,6 +4839,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 ### MM
 
 * PanoramaExcerpts: Extracting and Packing Panoramas for Video Browsing. \[[PUB](https://doi.org/10.1145/266180.266396)]
+
+### KDD
+
+* Image Feature Reduction through Spoiling: Its Application to Multiple Matched Filters for Focus of Attention. \[[PUB](http://www.aaai.org/Library/KDD/1997/kdd97-053.php)]
 
 ## 1996
 
@@ -4962,6 +5204,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ## 1983
 
+### IJCAI
+
+* The 3D MOSAIC Scene Understanding System. \[**`nat.`**] \[**`oth.`**]
+
 ### TPAMI
 
 * Bounds on (Deterministic) Correlation Functions with Application to Registration. \[[PUB](https://doi.org/10.1109/TPAMI.1983.4767373)]
@@ -4981,6 +5227,10 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Moving Target Tracking Using Symbolic Registration. \[[PUB](https://doi.org/10.1109/TPAMI.1982.4767296)]
 
 ## 1981
+
+### IJCAI
+
+* An Iterative Image Registration Technique with an Application to Stereo Vision.
 
 ### AI
 
@@ -5022,7 +5272,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 # Learning Resources
 
-Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) ⭐ 9,412 | 🐛 14 | 🌐 Python | 📅 2026-03-02 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,412 | 🐛 14 | 🌐 Python | 📅 2026-03-02. I followed his style to collect resources
+Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) ⭐ 9,413 | 🐛 14 | 🌐 Python | 📅 2026-03-02 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,413 | 🐛 14 | 🌐 Python | 📅 2026-03-02. I followed his style to collect resources
 
 **This resources collect:**
 
@@ -5164,11 +5414,11 @@ The KITTI Vision Benchmark Suite
 
 **其他总结**
 
-链接：<https://github.com/timzhang642/3D-Machine-Learning> ⭐ 10,204 | 🐛 21 | 📅 2024-07-04
+链接：<https://github.com/timzhang642/3D-Machine-Learning> ⭐ 10,206 | 🐛 21 | 📅 2024-07-04
 
 Other
 
-**[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets) ⭐ 4,227 | 🐛 3 | 📅 2023-05-19**
+**[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets) ⭐ 4,228 | 🐛 3 | 📅 2023-05-19**
 
 \[[UWA Dataset](https://drive.google.com/drive/folders/1_ZeEIBug_Wd5OyWHlxQZACYCOh1dbB12)]  \[**`pc.`**] (Uploaded by @sukun1045 for their repository [shlizee/Predict-Cluster](https://github.com/shlizee/Predict-Cluster) ⭐ 111 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-08-28)
 
@@ -5286,7 +5536,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
 **Github repository for deep learning medical image registration**:
 
-\[Keras] [**VoxelMorph**](https://github.com/voxelmorph/voxelmorph) ⭐ 2,756 | 🐛 156 | 🌐 Python | 📅 2026-09-11 :fire:
+\[Keras] [**VoxelMorph**](https://github.com/voxelmorph/voxelmorph) ⭐ 2,756 | 🐛 155 | 🌐 Python | 📅 2026-09-11 :fire:
 
 \[Keras] [**FAIM**](https://github.com/dykuang/Medical-image-registration) ⭐ 191 | 🐛 0 | 🌐 Python | 📅 2020-03-27 :fire:
 
@@ -5312,7 +5562,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
 \[C++] [OTB](https://github.com/orfeotoolbox/OTB) ⭐ 393 | 🐛 7 | 🌐 C++ | 📅 2026-10-08: Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
 
-\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,203 | 🐛 2,821 | 🌐 C++ | 📅 2026-10-16: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,205 | 🐛 2,838 | 🌐 C++ | 📅 2026-10-16: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
 \[C++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.
 
@@ -5396,7 +5646,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 #### Point Cloud
 
-[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) ⭐ 7,516 | 🐛 204 | 🌐 C++ | 📅 2024-03-22 By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **视觉SLAM十四讲**  视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。 \[[github\]](https://github.com/gaoxiang12/slambook) ⭐ 7,516 | 🐛 204 | 🌐 C++ | 📅 2024-03-22 \[[Videos\]](https://space.bilibili.com/38737757)
+[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) ⭐ 7,517 | 🐛 204 | 🌐 C++ | 📅 2024-03-22 By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **视觉SLAM十四讲**  视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。 \[[github\]](https://github.com/gaoxiang12/slambook) ⭐ 7,517 | 🐛 204 | 🌐 C++ | 📅 2024-03-22 \[[Videos\]](https://space.bilibili.com/38737757)
 
 [点云数据配准及曲面细分技术](https://baike.baidu.com/item/点云数据配准及曲面细分技术/10225974) by 薛耀红, 赵建平, 蒋振刚, 等   书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。
 
@@ -5656,11 +5906,11 @@ Many thanks :heart: to all project contributors:
 Many thanks :heart: to the other awesome list:
 
 * **[hoya012](https://github.com/hoya012)**  [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,377 | 🐛 5 | 🌐 Python | 📅 2024-02-12
-* [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,412 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+* [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,413 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 * **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,509 | 🐛 7 | 📅 2022-12-17
-* **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,227 | 🐛 3 | 📅 2023-05-19
+* **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,228 | 🐛 3 | 📅 2023-05-19
 * **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,941 | 🐛 4 | 🌐 Python | 📅 2024-08-30
-* [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) ⭐ 2,019 | 🐛 0 | 🌐 Python | 📅 2026-10-03
+* [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) ⭐ 2,020 | 🐛 1 | 🌐 Python | 📅 2026-10-17
 * **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022) ⭐ 1,585 | 🐛 5 | 📅 2024-04-10
 * [**JunMa11**](https://github.com/JunMa11) [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,296 | 🐛 0 | 📅 2026-09-23
 * [**tzxiang**](https://github.com/tzxiang)  [awesome-image-alignment-and-stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching) ⭐ 465 | 🐛 0 | 📅 2022-08-08
@@ -5669,4 +5919,4 @@ Many thanks :heart: to the other awesome list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
