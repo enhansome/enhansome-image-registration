@@ -387,27 +387,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. [PUB",
-                  "description": "ybby2020/ARDMR_MIA",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "code ",
-                    "homepage": null,
-                    "id": 1044337275,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-08-26T12:14:09Z",
-                    "open_issues": 2,
-                    "owner": "ybby2020",
-                    "repo": "ARDMR_MIA",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "BIASNet: A bidirectional feature alignment and semantics-guided network for weakly-supervised medical image registration. [PUB",
                   "description": "xiehousheng/BIASNet",
                   "children": [],
@@ -423,6 +402,27 @@
                     "owner": "xiehousheng",
                     "repo": "BIASNet",
                     "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. [PUB",
+                  "description": "ybby2020/ARDMR_MIA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "code ",
+                    "homepage": null,
+                    "id": 1044337275,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-08-26T12:14:09Z",
+                    "open_issues": 2,
+                    "owner": "ybby2020",
+                    "repo": "ARDMR_MIA",
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5981,7 +5981,7 @@
                     "open_issues": 4,
                     "owner": "heyblackC",
                     "repo": "DFMIR",
-                    "stars": 54,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6073,7 +6073,7 @@
                     "open_issues": 9,
                     "owner": "DIAL-RPI",
                     "repo": "Attention-Reg",
-                    "stars": 80,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7008,7 +7008,7 @@
                     "open_issues": 9,
                     "owner": "DIAL-RPI",
                     "repo": "Attention-Reg",
-                    "stars": 80,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7246,7 +7246,7 @@
                     "open_issues": 0,
                     "owner": "itailang",
                     "repo": "SampleNet",
-                    "stars": 390,
+                    "stars": 391,
                     "topics": [
                       "cvpr2020",
                       "deep-learning",
@@ -7562,7 +7562,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 493,
+                    "stars": 494,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7583,7 +7583,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 493,
+                    "stars": 494,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7604,7 +7604,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 493,
+                    "stars": 494,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7730,7 +7730,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2756,
+                    "stars": 2755,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10206,
+                        "stars": 10207,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8451,7 +8451,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2756,
+                    "stars": 2755,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8755,10 +8755,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T18:08:45Z",
-                    "open_issues": 2838,
+                    "open_issues": 2851,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91205,
+                    "stars": 91211,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9413,
+                "stars": 9416,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9348,8 +9348,8 @@
                 "id": 494658282,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-17T09:06:03Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-18T01:59:24Z",
+                "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
                 "stars": 2020,
@@ -9439,7 +9439,7 @@
                 "open_issues": 0,
                 "owner": "tzxiang",
                 "repo": "awesome-image-alignment-and-stitching",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "alignment",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:30:53.012Z",
+    "last_updated": "2026-10-18T09:44:17.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
