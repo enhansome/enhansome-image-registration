@@ -44,7 +44,7 @@
                     "open_issues": 6,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -590,8 +590,8 @@
                     "id": 375416785,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T15:09:56Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-21T06:52:00Z",
+                    "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
                     "stars": 555,
@@ -785,7 +785,7 @@
                     "open_issues": 4,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 291,
+                    "stars": 292,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -1705,7 +1705,7 @@
                     "id": 1006794919,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-07-11T15:02:28Z",
+                    "last_commit": "2026-10-21T05:21:26Z",
                     "open_issues": 5,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
@@ -3529,7 +3529,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4122,7 +4122,7 @@
                     "open_issues": 4,
                     "owner": "HpWang-whu",
                     "repo": "RoReg",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5331,7 +5331,7 @@
                     "open_issues": 14,
                     "owner": "MediaBrain-SJTU",
                     "repo": "RegAD",
-                    "stars": 323,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7353,7 +7353,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1737,
+                    "stars": 1738,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7415,7 +7415,7 @@
                     "open_issues": 6,
                     "owner": "uncbiag",
                     "repo": "easyreg",
-                    "stars": 177,
+                    "stars": 178,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7653,7 +7653,7 @@
                     "open_issues": 0,
                     "owner": "sergeyprokudin",
                     "repo": "bps",
-                    "stars": 203,
+                    "stars": 204,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8337,7 +8337,7 @@
                         "open_issues": 2,
                         "owner": "GatorSense",
                         "repo": "MUUFLGulfport",
-                        "stars": 100,
+                        "stars": 101,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10207,
+                        "stars": 10206,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8397,7 +8397,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4232,
+                        "stars": 4231,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T09:07:45Z",
-                    "open_issues": 2850,
+                    "last_commit": "2026-10-21T08:59:24Z",
+                    "open_issues": 2837,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91243,
+                    "stars": 91268,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7518,
+                        "stars": 7519,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11377,
+                "stars": 11376,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7509,
+                "stars": 7508,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9284,7 +9284,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4232,
+                "stars": 4231,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9349,7 +9349,7 @@
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-10-18T01:59:24Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
                 "stars": 2021,
@@ -9394,7 +9394,7 @@
                 "open_issues": 5,
                 "owner": "NUAAXQ",
                 "repo": "awesome-point-cloud-analysis-2023",
-                "stars": 1586,
+                "stars": 1585,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:12:38.856Z",
+    "last_updated": "2026-10-21T10:22:02.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
