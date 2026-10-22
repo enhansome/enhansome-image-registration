@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 273,
+                    "stars": 275,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -590,8 +590,8 @@
                     "id": 375416785,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T06:52:00Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-21T10:23:19Z",
+                    "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
                     "stars": 555,
@@ -619,7 +619,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-09-28T11:15:13Z",
-                    "open_issues": 39,
+                    "open_issues": 41,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
                     "stars": 505,
@@ -785,7 +785,7 @@
                     "open_issues": 4,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -1705,7 +1705,7 @@
                     "id": 1006794919,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-21T05:21:26Z",
+                    "last_commit": "2026-10-22T07:11:32Z",
                     "open_issues": 5,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
@@ -4883,7 +4883,7 @@
                     "open_issues": 1,
                     "owner": "MCG-NJU",
                     "repo": "CamLiFlow",
-                    "stars": 253,
+                    "stars": 254,
                     "topics": [
                       "cvpr2022",
                       "multimodal",
@@ -6917,7 +6917,7 @@
                     "open_issues": 2,
                     "owner": "multimodallearning",
                     "repo": "graphregnet",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6987,7 +6987,7 @@
                     "open_issues": 1,
                     "owner": "cwmok",
                     "repo": "Conditional_LapIRN",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7730,7 +7730,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2755,
+                    "stars": 2754,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10206,
+                        "stars": 10208,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8451,7 +8451,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2755,
+                    "stars": 2754,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T08:59:24Z",
-                    "open_issues": 2837,
+                    "last_commit": "2026-10-22T09:00:34Z",
+                    "open_issues": 2828,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91268,
+                    "stars": 91286,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8785,7 +8785,7 @@
                     "open_issues": 24,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 686,
+                    "stars": 687,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -8958,7 +8958,7 @@
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
-                        "stars": 25,
+                        "stars": 26,
                         "topics": [
                           "3dgs",
                           "gaussian-splatting",
@@ -9008,7 +9008,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7519,
+                        "stars": 7521,
                         "topics": [
                           "slam"
                         ]
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9419,
+                "stars": 9421,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:22:02.250Z",
+    "last_updated": "2026-10-22T10:20:41.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
