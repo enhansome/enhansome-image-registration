@@ -622,7 +622,7 @@
                     "open_issues": 41,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 505,
+                    "stars": 506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1398,7 +1398,7 @@
                     "open_issues": 0,
                     "owner": "xi-jia",
                     "repo": "LessNet",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1705,7 +1705,7 @@
                     "id": 1006794919,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-22T07:11:32Z",
+                    "last_commit": "2026-10-23T02:09:56Z",
                     "open_issues": 5,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
@@ -2756,7 +2756,7 @@
                     "open_issues": 8,
                     "owner": "ZAX130",
                     "repo": "RDP",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": [
                       "image",
                       "medical",
@@ -3508,7 +3508,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3653,7 +3653,7 @@
                 {
                   "node_type": "item",
                   "title": "TMA: Temporal Motion Aggregation for Event-based Optical Flow. [PUB",
-                  "description": "ispc-lab/TMA",
+                  "description": "sii-pilab/TMA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3664,7 +3664,7 @@
                     "license": null,
                     "last_commit": "2024-03-08T07:38:25Z",
                     "open_issues": 4,
-                    "owner": "ispc-lab",
+                    "owner": "sii-pilab",
                     "repo": "TMA",
                     "stars": 35,
                     "topics": []
@@ -4210,7 +4210,7 @@
                 {
                   "node_type": "item",
                   "title": "HRegNet: A Hierarchical Network for Efficient and Accurate Outdoor LiDAR Point Cloud Registration. [PUB",
-                  "description": "ispc-lab/HRegNet2",
+                  "description": "sii-pilab/HRegNet2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4221,7 +4221,7 @@
                     "license": "MIT",
                     "last_commit": "2022-01-12T13:53:13Z",
                     "open_issues": 1,
-                    "owner": "ispc-lab",
+                    "owner": "sii-pilab",
                     "repo": "HRegNet2",
                     "stars": 12,
                     "topics": []
@@ -4836,7 +4836,7 @@
                     "open_issues": 7,
                     "owner": "haofeixu",
                     "repo": "gmflow",
-                    "stars": 804,
+                    "stars": 805,
                     "topics": [
                       "cvpr2022",
                       "global-matching",
@@ -4910,7 +4910,7 @@
                     "open_issues": 15,
                     "owner": "rabbityl",
                     "repo": "lepard",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8038,7 +8038,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 907,
+                    "stars": 909,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10208,
+                        "stars": 10207,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T09:00:34Z",
-                    "open_issues": 2828,
+                    "last_commit": "2026-10-23T08:42:16Z",
+                    "open_issues": 2819,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91286,
+                    "stars": 91306,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9421,
+                "stars": 9424,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7508,
+                "stars": 7507,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2944,
+                "stars": 2945,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:20:41.625Z",
+    "last_updated": "2026-10-23T10:15:58.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
