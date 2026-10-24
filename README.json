@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 275,
+                    "stars": 277,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -715,7 +715,7 @@
                     "open_issues": 1,
                     "owner": "GeWu-Lab",
                     "repo": "Motion-based-Self-Reflection-Framework",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2061,7 +2061,7 @@
                     "open_issues": 2,
                     "owner": "LA30",
                     "repo": "FlowDiffuser",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2236,7 +2236,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 718,
+                    "stars": 719,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3206,7 +3206,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3508,7 +3508,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 335,
+                    "stars": 336,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6094,7 +6094,7 @@
                     "open_issues": 1,
                     "owner": "HiLab-git",
                     "repo": "SCPM-Net",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": [
                       "anchor-free",
                       "lung-nodule-detection",
@@ -8337,7 +8337,7 @@
                         "open_issues": 2,
                         "owner": "GatorSense",
                         "repo": "MUUFLGulfport",
-                        "stars": 101,
+                        "stars": 100,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10207,
+                        "stars": 10208,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T08:42:16Z",
-                    "open_issues": 2819,
+                    "last_commit": "2026-10-24T09:31:46Z",
+                    "open_issues": 2832,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91306,
+                    "stars": 91315,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8785,7 +8785,7 @@
                     "open_issues": 24,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 687,
+                    "stars": 688,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -9008,7 +9008,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7521,
+                        "stars": 7522,
                         "topics": [
                           "slam"
                         ]
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7507,
+                "stars": 7506,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:15:58.240Z",
+    "last_updated": "2026-10-24T09:38:33.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
