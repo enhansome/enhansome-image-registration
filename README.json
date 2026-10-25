@@ -44,7 +44,7 @@
                     "open_issues": 6,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 52,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -65,7 +65,7 @@
                     "open_issues": 0,
                     "owner": "Picsart-AI-Research",
                     "repo": "FlowDIS",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": [
                       "ai-background",
                       "ai-background-removal",
@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 687,
+                    "stars": 688,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -594,7 +594,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 555,
+                    "stars": 556,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -1705,8 +1705,8 @@
                     "id": 1006794919,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-23T02:09:56Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-25T07:05:32Z",
+                    "open_issues": 1,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
                     "stars": 41,
@@ -4059,7 +4059,7 @@
                     "open_issues": 5,
                     "owner": "WPC-WHU",
                     "repo": "GROR",
-                    "stars": 232,
+                    "stars": 233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10208,
+                        "stars": 10209,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T09:31:46Z",
-                    "open_issues": 2832,
+                    "last_commit": "2026-10-25T07:56:26Z",
+                    "open_issues": 2836,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91315,
+                    "stars": 91321,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8905,10 +8905,10 @@
                         "language": "C++",
                         "license": "BSD-3-Clause",
                         "last_commit": "2026-08-27T14:20:25Z",
-                        "open_issues": 100,
+                        "open_issues": 101,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1839,
+                        "stars": 1840,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -9008,7 +9008,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7522,
+                        "stars": 7523,
                         "topics": [
                           "slam"
                         ]
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9424,
+                "stars": 9427,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7506,
+                "stars": 7508,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2945,
+                "stars": 2944,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:38:33.895Z",
+    "last_updated": "2026-10-25T09:56:32.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9520,7 +9520,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1550,
+      "stars": 1551,
       "topics": [
         "awesome",
         "awesome-list",
