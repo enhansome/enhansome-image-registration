@@ -44,7 +44,7 @@
                     "open_issues": 6,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 277,
+                    "stars": 279,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -142,7 +142,7 @@
                     "open_issues": 4,
                     "owner": "XingtongGe",
                     "repo": "SenseFlow",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": [
                       "diffusion-distillation",
                       "diffusion-models",
@@ -387,6 +387,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. [PUB",
+                  "description": "ybby2020/ARDMR_MIA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "code ",
+                    "homepage": null,
+                    "id": 1044337275,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-08-26T12:14:09Z",
+                    "open_issues": 2,
+                    "owner": "ybby2020",
+                    "repo": "ARDMR_MIA",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "BIASNet: A bidirectional feature alignment and semantics-guided network for weakly-supervised medical image registration. [PUB",
                   "description": "xiehousheng/BIASNet",
                   "children": [],
@@ -402,27 +423,6 @@
                     "owner": "xiehousheng",
                     "repo": "BIASNet",
                     "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ARDMR: Adaptive recursive inference and representation disentanglement for multimodal large deformation registration. [PUB",
-                  "description": "ybby2020/ARDMR_MIA",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "code ",
-                    "homepage": null,
-                    "id": 1044337275,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-08-26T12:14:09Z",
-                    "open_issues": 2,
-                    "owner": "ybby2020",
-                    "repo": "ARDMR_MIA",
-                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -594,7 +594,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 556,
+                    "stars": 557,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -715,7 +715,7 @@
                     "open_issues": 1,
                     "owner": "GeWu-Lab",
                     "repo": "Motion-based-Self-Reflection-Framework",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -732,7 +732,7 @@
                     "id": 949736172,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-06-21T02:54:58Z",
+                    "last_commit": "2026-10-26T06:55:21Z",
                     "open_issues": 1,
                     "owner": "Spritea",
                     "repo": "OCTA-Flow",
@@ -1377,7 +1377,7 @@
                     "open_issues": 8,
                     "owner": "junzastar",
                     "repo": "Self-P2IR",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2236,7 +2236,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 719,
+                    "stars": 720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2807,7 +2807,7 @@
                     "open_issues": 1,
                     "owner": "TVayne",
                     "repo": "GroupMorph",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3529,7 +3529,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 320,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3571,7 +3571,7 @@
                     "open_issues": 10,
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4805,7 +4805,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 984,
+                    "stars": 985,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4931,7 +4931,7 @@
                     "open_issues": 3,
                     "owner": "ZhiChen902",
                     "repo": "SC2-PCR",
-                    "stars": 199,
+                    "stars": 200,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5455,7 +5455,7 @@
                     "open_issues": 0,
                     "owner": "ActiveVisionLab",
                     "repo": "DFNet",
-                    "stars": 109,
+                    "stars": 110,
                     "topics": [
                       "6dof-pose",
                       "camera-relocalization",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10209,
+                        "stars": 10211,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T07:56:26Z",
-                    "open_issues": 2836,
+                    "last_commit": "2026-10-26T11:13:27Z",
+                    "open_issues": 2838,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91321,
+                    "stars": 91326,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 204,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7523,
+                        "stars": 7524,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11376,
+                "stars": 11375,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9427,
+                "stars": 9429,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7508,
+                "stars": 7509,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9394,7 +9394,7 @@
                 "open_issues": 5,
                 "owner": "NUAAXQ",
                 "repo": "awesome-point-cloud-analysis-2023",
-                "stars": 1585,
+                "stars": 1584,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:56:32.496Z",
+    "last_updated": "2026-10-26T11:18:43.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
