@@ -40,11 +40,11 @@
                     "id": 1187731875,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-23T05:37:23Z",
+                    "last_commit": "2026-10-27T17:07:22Z",
                     "open_issues": 6,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -142,7 +142,7 @@
                     "open_issues": 4,
                     "owner": "XingtongGe",
                     "repo": "SenseFlow",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": [
                       "diffusion-distillation",
                       "diffusion-models",
@@ -933,7 +933,7 @@
                     "open_issues": 1,
                     "owner": "joomeok",
                     "repo": "GrassmannRegistration",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3958,7 +3958,7 @@
                     "open_issues": 11,
                     "owner": "MengLi-l1",
                     "repo": "StrokeExtraction",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5352,7 +5352,7 @@
                     "open_issues": 0,
                     "owner": "apple-aiml-research",
                     "repo": "ml-aspanformer",
-                    "stars": 254,
+                    "stars": 255,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5838,7 +5838,7 @@
                     "open_issues": 12,
                     "owner": "Algolzw",
                     "repo": "SPAC-Deformable-Registration",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "image-registration",
                       "python",
@@ -7353,7 +7353,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1738,
+                    "stars": 1739,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7382,7 +7382,7 @@
                     "open_issues": 2,
                     "owner": "tudelft",
                     "repo": "cuSNN",
-                    "stars": 137,
+                    "stars": 136,
                     "topics": [
                       "cuda",
                       "cuda-kernels",
@@ -7730,7 +7730,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2755,
+                    "stars": 2756,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8451,7 +8451,7 @@
                     "open_issues": 155,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2755,
+                    "stars": 2756,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T06:29:49Z",
-                    "open_issues": 2858,
+                    "last_commit": "2026-10-28T10:04:01Z",
+                    "open_issues": 2867,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91335,
+                    "stars": 91354,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8908,7 +8908,7 @@
                         "open_issues": 101,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1840,
+                        "stars": 1841,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -8958,7 +8958,7 @@
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
-                        "stars": 26,
+                        "stars": 27,
                         "topics": [
                           "3dgs",
                           "gaussian-splatting",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9431,
+                "stars": 9433,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2944,
+                "stars": 2943,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9352,7 +9352,7 @@
                 "open_issues": 1,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2022,
+                "stars": 2021,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:43:14.164Z",
+    "last_updated": "2026-10-28T11:27:02.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9520,7 +9520,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1552,
+      "stars": 1553,
       "topics": [
         "awesome",
         "awesome-list",
