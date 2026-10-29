@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 281,
+                    "stars": 284,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 689,
+                    "stars": 691,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -594,7 +594,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -643,7 +643,7 @@
                     "open_issues": 1,
                     "owner": "Yore0",
                     "repo": "TTDG-MGM",
-                    "stars": 98,
+                    "stars": 99,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7727,10 +7727,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 155,
+                    "open_issues": 158,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2756,
+                    "stars": 2758,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10215,
+                        "stars": 10216,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8448,10 +8448,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 155,
+                    "open_issues": 158,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2756,
+                    "stars": 2758,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T10:04:01Z",
-                    "open_issues": 2867,
+                    "last_commit": "2026-10-29T11:08:11Z",
+                    "open_issues": 2862,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91354,
+                    "stars": 91368,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7525,
+                        "stars": 7526,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11375,
+                "stars": 11376,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9433,
+                "stars": 9432,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9352,7 +9352,7 @@
                 "open_issues": 1,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2021,
+                "stars": 2020,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9415,7 +9415,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1295,
+                "stars": 1294,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:27:02.605Z",
+    "last_updated": "2026-10-29T11:37:35.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
