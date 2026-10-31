@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 691,
+                    "stars": 690,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -912,7 +912,7 @@
                     "open_issues": 4,
                     "owner": "ZizhuoLi",
                     "repo": "CoMatch",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -954,7 +954,7 @@
                     "open_issues": 2,
                     "owner": "tub-rip",
                     "repo": "e2fai",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1034,7 +1034,7 @@
                     "id": 725601746,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2025-12-16T04:37:29Z",
+                    "last_commit": "2026-10-31T02:53:41Z",
                     "open_issues": 1,
                     "owner": "tlliao",
                     "repo": "LPAM_seam-cutting",
@@ -1709,7 +1709,7 @@
                     "open_issues": 1,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2236,7 +2236,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 720,
+                    "stars": 721,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2257,7 +2257,7 @@
                     "open_issues": 3,
                     "owner": "yejy53",
                     "repo": "EP-BEV",
-                    "stars": 102,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4479,7 +4479,7 @@
                     "open_issues": 3,
                     "owner": "ImFusionGmbH",
                     "repo": "DISA-universal-multimodal-registration",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6868,7 +6868,7 @@
                     "open_issues": 8,
                     "owner": "ubc-vision",
                     "repo": "image-matching-benchmark",
-                    "stars": 548,
+                    "stars": 549,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T09:54:06Z",
-                    "open_issues": 2857,
+                    "last_commit": "2026-10-31T08:27:17Z",
+                    "open_issues": 2856,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91379,
+                    "stars": 91390,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7527,
+                        "stars": 7530,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11376,
+                "stars": 11378,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9432,
+                "stars": 9433,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7510,
+                "stars": 7513,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9415,7 +9415,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1294,
+                "stars": 1295,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:28:48.693Z",
+    "last_updated": "2026-10-31T11:00:02.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
