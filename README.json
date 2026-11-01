@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -590,7 +590,7 @@
                     "id": 375416785,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T10:23:19Z",
+                    "last_commit": "2026-10-31T17:28:56Z",
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
@@ -2236,7 +2236,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5768,7 +5768,7 @@
                     "open_issues": 10,
                     "owner": "rabbityl",
                     "repo": "DeformationPyramid",
-                    "stars": 224,
+                    "stars": 225,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7353,7 +7353,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1740,
+                    "stars": 1741,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7730,7 +7730,7 @@
                     "open_issues": 158,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2758,
+                    "stars": 2757,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10216,
+                        "stars": 10217,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8451,7 +8451,7 @@
                     "open_issues": 158,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2758,
+                    "stars": 2757,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T08:27:17Z",
-                    "open_issues": 2856,
+                    "last_commit": "2026-10-31T14:56:08Z",
+                    "open_issues": 2858,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91390,
+                    "stars": 91401,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9433,
+                "stars": 9434,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:00:02.219Z",
+    "last_updated": "2026-11-01T11:55:24.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9520,7 +9520,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1553,
+      "stars": 1552,
       "topics": [
         "awesome",
         "awesome-list",
