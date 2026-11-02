@@ -65,7 +65,7 @@
                     "open_issues": 0,
                     "owner": "Picsart-AI-Research",
                     "repo": "FlowDIS",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": [
                       "ai-background",
                       "ai-background-removal",
@@ -664,7 +664,7 @@
                     "open_issues": 1,
                     "owner": "x-xc",
                     "repo": "SACB_Net",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "convolution",
                       "image-registration",
@@ -1159,7 +1159,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -2616,7 +2616,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 219,
+                    "stars": 220,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7727,7 +7727,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 158,
+                    "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2757,
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10217,
+                        "stars": 10216,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8448,7 +8448,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T20:04:15Z",
-                    "open_issues": 158,
+                    "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
                     "stars": 2757,
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T14:56:08Z",
-                    "open_issues": 2858,
+                    "last_commit": "2026-11-02T09:18:41Z",
+                    "open_issues": 2867,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91401,
+                    "stars": 91410,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8781,8 +8781,8 @@
                     "id": 16567502,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T16:45:13Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-11-01T17:43:36Z",
+                    "open_issues": 21,
                     "owner": "spectralpython",
                     "repo": "spectral",
                     "stars": 688,
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9434,
+                "stars": 9437,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:55:24.103Z",
+    "last_updated": "2026-11-02T13:41:13.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
