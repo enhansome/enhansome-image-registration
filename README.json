@@ -594,7 +594,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 558,
+                    "stars": 560,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -1335,7 +1335,7 @@
                     "open_issues": 6,
                     "owner": "multimodallearning",
                     "repo": "convexAdam",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2236,7 +2236,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 722,
+                    "stars": 723,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2278,7 +2278,7 @@
                     "open_issues": 6,
                     "owner": "yaorz97",
                     "repo": "PARENet",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2412,6 +2412,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration. [PUB",
+                  "description": "zlynpu/3DFMNet",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 912726735,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-01-19T14:56:25Z",
+                    "open_issues": 6,
+                    "owner": "zlynpu",
+                    "repo": "3DFMNet",
+                    "stars": 20,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:31:21.643Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation. [PUB",
                   "description": "jiangchaokang/NeuroGauss4D-PCI",
                   "children": [],
@@ -2427,27 +2448,6 @@
                     "owner": "jiangchaokang",
                     "repo": "NeuroGauss4D-PCI",
                     "stars": 20,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:31:21.643Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration. [PUB",
-                  "description": "zlynpu/3DFMNet",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 912726735,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-01-19T14:56:25Z",
-                    "open_issues": 6,
-                    "owner": "zlynpu",
-                    "repo": "3DFMNet",
-                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2616,7 +2616,7 @@
                     "open_issues": 0,
                     "owner": "yxzhang15",
                     "repo": "PCR",
-                    "stars": 220,
+                    "stars": 221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3278,7 +3278,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-12T16:37:46Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "SYSU-SAIL",
                     "repo": "BUFFER",
                     "stars": 100,
@@ -3508,7 +3508,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3958,7 +3958,7 @@
                     "open_issues": 11,
                     "owner": "MengLi-l1",
                     "repo": "StrokeExtraction",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5597,7 +5597,7 @@
                     "open_issues": 0,
                     "owner": "Ryan-prime",
                     "repo": "3DG-STFM",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6332,7 +6332,7 @@
                     "open_issues": 0,
                     "owner": "HpWang-whu",
                     "repo": "YOHO",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": [
                       "point-cloud",
                       "registration"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10216,
+                        "stars": 10218,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T09:18:41Z",
-                    "open_issues": 2867,
+                    "last_commit": "2026-11-03T10:13:01Z",
+                    "open_issues": 2882,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91410,
+                    "stars": 91421,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8908,7 +8908,7 @@
                         "open_issues": 101,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1841,
+                        "stars": 1842,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11378,
+                "stars": 11379,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9437,
+                "stars": 9438,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:41:13.988Z",
+    "last_updated": "2026-11-03T12:54:09.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
