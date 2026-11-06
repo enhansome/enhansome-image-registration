@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -2644,7 +2644,7 @@
                     "open_issues": 2,
                     "owner": "wwsource",
                     "repo": "SplatFlow",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8723,7 +8723,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T16:26:02Z",
+                    "last_commit": "2026-11-05T20:02:50Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T11:17:21Z",
-                    "open_issues": 2901,
+                    "last_commit": "2026-11-06T11:01:20Z",
+                    "open_issues": 2908,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91465,
+                    "stars": 91471,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8908,7 +8908,7 @@
                         "open_issues": 101,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1842,
+                        "stars": 1843,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -9349,7 +9349,7 @@
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-10-18T01:59:24Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
                 "stars": 2019,
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:20:57.274Z",
+    "last_updated": "2026-11-06T13:04:12.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
