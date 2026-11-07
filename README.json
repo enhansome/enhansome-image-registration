@@ -289,7 +289,7 @@
                     "open_issues": 0,
                     "owner": "xiaorugao999",
                     "repo": "CASHNet",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3281,7 +3281,7 @@
                     "open_issues": 14,
                     "owner": "SYSU-SAIL",
                     "repo": "BUFFER",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3571,7 +3571,7 @@
                     "open_issues": 10,
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7730,7 +7730,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2758,
+                    "stars": 2759,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10220,
+                        "stars": 10219,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8451,7 +8451,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2758,
+                    "stars": 2759,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T11:01:20Z",
-                    "open_issues": 2908,
+                    "last_commit": "2026-11-06T15:21:52Z",
+                    "open_issues": 2915,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91471,
+                    "stars": 91478,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7535,
+                        "stars": 7534,
                         "topics": [
                           "slam"
                         ]
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:04:12.144Z",
+    "last_updated": "2026-11-07T11:49:45.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
