@@ -1307,7 +1307,7 @@
                     "open_issues": 1,
                     "owner": "YutingHe-list",
                     "repo": "GEMINI",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3529,7 +3529,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 322,
+                    "stars": 323,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4458,7 +4458,7 @@
                     "open_issues": 12,
                     "owner": "xmed-lab",
                     "repo": "FSDiffReg",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10219,
+                        "stars": 10220,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T15:21:52Z",
-                    "open_issues": 2915,
+                    "last_commit": "2026-11-08T08:47:12Z",
+                    "open_issues": 2912,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91478,
+                    "stars": 91483,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7534,
+                        "stars": 7535,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11380,
+                "stars": 11381,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9440,
+                "stars": 9441,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:49:45.413Z",
+    "last_updated": "2026-11-08T12:01:44.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
