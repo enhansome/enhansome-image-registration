@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 690,
+                    "stars": 691,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -2254,7 +2254,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2025-07-08T03:41:02Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "yejy53",
                     "repo": "EP-BEV",
                     "stars": 101,
@@ -2665,7 +2665,7 @@
                     "open_issues": 2,
                     "owner": "lhaippp",
                     "repo": "GyroFlowPlus",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3278,7 +3278,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-12T16:37:46Z",
-                    "open_issues": 14,
+                    "open_issues": 13,
                     "owner": "SYSU-SAIL",
                     "repo": "BUFFER",
                     "stars": 101,
@@ -3479,7 +3479,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 686,
+                    "stars": 687,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -3550,7 +3550,7 @@
                     "open_issues": 14,
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3571,7 +3571,7 @@
                     "open_issues": 10,
                     "owner": "IRMVLab",
                     "repo": "RegFormer",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 6,
                     "owner": "xi-jia",
                     "repo": "Fourier-Net",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10220,
+                        "stars": 10221,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T08:47:12Z",
-                    "open_issues": 2912,
+                    "last_commit": "2026-11-09T12:15:15Z",
+                    "open_issues": 2913,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91483,
+                    "stars": 91495,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11381,
+                "stars": 11378,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9441,
+                "stars": 9444,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9352,7 +9352,7 @@
                 "open_issues": 2,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2019,
+                "stars": 2018,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:01:44.139Z",
+    "last_updated": "2026-11-09T14:06:08.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9520,7 +9520,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1552,
+      "stars": 1553,
       "topics": [
         "awesome",
         "awesome-list",
