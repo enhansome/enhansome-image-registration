@@ -3529,7 +3529,7 @@
                     "open_issues": 36,
                     "owner": "nie-lang",
                     "repo": "UDIS2",
-                    "stars": 323,
+                    "stars": 324,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4805,7 +4805,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 985,
+                    "stars": 986,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -8133,7 +8133,7 @@
                     "open_issues": 11,
                     "owner": "yangjiaolong",
                     "repo": "Go-ICP",
-                    "stars": 510,
+                    "stars": 511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8397,7 +8397,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4230,
+                        "stars": 4231,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T12:15:15Z",
-                    "open_issues": 2913,
+                    "last_commit": "2026-11-10T12:05:49Z",
+                    "open_issues": 2916,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91495,
+                    "stars": 91518,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8785,7 +8785,7 @@
                     "open_issues": 21,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 688,
+                    "stars": 689,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9444,
+                "stars": 9448,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9284,7 +9284,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4230,
+                "stars": 4231,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2943,
+                "stars": 2945,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9415,7 +9415,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:06:08.024Z",
+    "last_updated": "2026-11-10T13:38:28.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
