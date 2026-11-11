@@ -23,7 +23,7 @@
                     "open_issues": 7,
                     "owner": "bytedance",
                     "repo": "UMO",
-                    "stars": 191,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -44,7 +44,7 @@
                     "open_issues": 7,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 285,
+                    "stars": 286,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -594,7 +594,7 @@
                     "open_issues": 0,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 562,
+                    "stars": 563,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -622,7 +622,7 @@
                     "open_issues": 41,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 508,
+                    "stars": 509,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1159,7 +1159,7 @@
                     "open_issues": 0,
                     "owner": "neel-dey",
                     "repo": "anatomix",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": [
                       "contrastive-learning",
                       "image-registration",
@@ -1356,7 +1356,7 @@
                     "open_issues": 4,
                     "owner": "RPIDIAL",
                     "repo": "DINO-Reg",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1377,7 +1377,7 @@
                     "open_issues": 8,
                     "owner": "junzastar",
                     "repo": "Self-P2IR",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4479,7 +4479,7 @@
                     "open_issues": 3,
                     "owner": "ImFusionGmbH",
                     "repo": "DISA-universal-multimodal-registration",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5597,7 +5597,7 @@
                     "open_issues": 0,
                     "owner": "Ryan-prime",
                     "repo": "3DG-STFM",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7730,7 +7730,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2759,
+                    "stars": 2760,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8291,7 +8291,7 @@
                         "open_issues": 5,
                         "owner": "hpatches",
                         "repo": "hpatches-dataset",
-                        "stars": 283,
+                        "stars": 285,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8365,7 +8365,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10221,
+                        "stars": 10223,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8451,7 +8451,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2759,
+                    "stars": 2760,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T12:05:49Z",
-                    "open_issues": 2916,
+                    "last_commit": "2026-11-11T12:24:31Z",
+                    "open_issues": 2915,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91518,
+                    "stars": 91532,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7535,
+                        "stars": 7537,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11378,
+                "stars": 11379,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9218,7 +9218,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9448,
+                "stars": 9450,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9257,7 +9257,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7514,
+                "stars": 7516,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9352,7 +9352,7 @@
                 "open_issues": 2,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9415,7 +9415,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1296,
+                "stars": 1297,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:38:28.626Z",
+    "last_updated": "2026-11-11T12:50:30.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9520,7 +9520,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1553,
+      "stars": 1554,
       "topics": [
         "awesome",
         "awesome-list",
