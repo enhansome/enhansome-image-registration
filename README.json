@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 286,
+                    "stars": 288,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -1209,7 +1209,7 @@
                     "open_issues": 0,
                     "owner": "imigraz",
                     "repo": "Restora-Flow",
-                    "stars": 20,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2236,7 +2236,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 724,
+                    "stars": 725,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 6,
                     "owner": "xi-jia",
                     "repo": "Fourier-Net",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5768,7 +5768,7 @@
                     "open_issues": 10,
                     "owner": "rabbityl",
                     "repo": "DeformationPyramid",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8397,7 +8397,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4231,
+                        "stars": 4232,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8727,7 +8727,7 @@
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": [
                       "cpp14",
                       "image-processing",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T13:55:53Z",
-                    "open_issues": 2937,
+                    "last_commit": "2026-11-13T12:45:37Z",
+                    "open_issues": 2919,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91546,
+                    "stars": 91552,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7536,
+                        "stars": 7537,
                         "topics": [
                           "slam"
                         ]
@@ -9284,7 +9284,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4231,
+                "stars": 4232,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9352,7 +9352,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:52:54.734Z",
+    "last_updated": "2026-11-13T13:16:12.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9520,7 +9520,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1556,
+      "stars": 1557,
       "topics": [
         "awesome",
         "awesome-list",

@@ -2,7 +2,7 @@
 
 A curated list of image registration related books, papers, videos, and toolboxes
 
-[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,556 | 🐛 0 | 📅 2026-10-17  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,556 | 🐛 0 | 📅 2026-10-17
+[![Stars](https://img.shields.io/github/stars/youngfish42/image-registration-resources.svg?color=orange)](https://github.com/youngfish42/image-registration-resources/stargazers) ⭐ 1,557 | 🐛 0 | 📅 2026-10-17  [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8C%87%E5%8C%97-blue)](https://zhuanlan.zhihu.com/Image-Registration)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/image-registration-resources.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ⭐ 1,557 | 🐛 0 | 📅 2026-10-17
 
 [**Image registration**](https://en.wikipedia.org/wiki/Image_registration) is the process of transforming different sets of data into one coordinate system. Data may be multiple photographs, and from different sensors, times, depths, or viewpoints.
 
@@ -169,7 +169,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ICLR
 
-* WAFT: Warping-Alone Field Transforms for Optical Flow. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ff2853ed92a6e6983ecccd9c922a42d2-Abstract-Conference.html)] \[[CODE](https://github.com/princeton-vl/WAFT) ⭐ 286 | 🐛 5 | 🌐 Python | 📅 2026-03-26] \[**`oth.`**]
+* WAFT: Warping-Alone Field Transforms for Optical Flow. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ff2853ed92a6e6983ecccd9c922a42d2-Abstract-Conference.html)] \[[CODE](https://github.com/princeton-vl/WAFT) ⭐ 288 | 🐛 5 | 🌐 Python | 📅 2026-03-26] \[**`oth.`**]
 * SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/94a98f4338b6e5fba81344f961bac8e5-Abstract-Conference.html)] \[[CODE](https://github.com/XingtongGe/SenseFlow) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2026-03-14] \[**`data.`**] \[**`dep.`**]
 * Functional MRI Time Series Generation via Wavelet-Based Image Transform and Spectral Flow Matching for Brain Disorder Identification. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad9804eed175610302917a0c21ab9b52-Abstract-Conference.html)] \[[CODE](https://github.com/htew0001/DSFM.git) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-05-31] \[**`medi.`**]
 * A Scalable Distributed Framework for Multimodal GigaVoxel Image Registration. \[[PUB](https://proceedings.iclr.cc/paper_files/paper/2026/hash/c242f2b7f60d8c685b6481939330e241-Abstract-Conference.html)] \[**`medi.`**] \[**`pc.`**] \[**`data.`**] \[**`dep.`**]
@@ -434,7 +434,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * Learning General-purpose Biomedical Volume Representations using Randomized Synthesis. \[[PUB](https://arxiv.org/abs/2411.02372)] [CODE](https://github.com/neel-dey/anatomix) ⭐ 109 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-21
 * Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation. \[[PUB](https://openreview.net/forum?id=OdnqG1fYpo)] \[[CODE](https://github.com/iwuqing/Moner) ⭐ 23 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-29]
-* PnP-Flow: Plug-and-Play Image Restoration with Flow Matching. \[[PUB](https://openreview.net/forum?id=5AtHrq3B5R)] \[[CODE](https://github.com/imigraz/Restora-Flow) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
+* PnP-Flow: Plug-and-Play Image Restoration with Flow Matching. \[[PUB](https://openreview.net/forum?id=5AtHrq3B5R)] \[[CODE](https://github.com/imigraz/Restora-Flow) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
 * InstaRevive: One-Step Image Enhancement via Dynamic Score Matching. \[[PUB](https://openreview.net/forum?id=G1CN7R5qwE)] \[[CODE](https://github.com/EternalEvan/InstaRevive) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-04-21] \[**`dep.`**]
 * Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching. \[[PUB](https://openreview.net/forum?id=zKlFXV87Pp)] \[[CODE](https://github.com/imagination-research/Distilled-Decoding-2) ⭐ 1 | 🐛 1 | 📅 2025-10-23]
 * CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation. \[[PUB](https://openreview.net/forum?id=M2SsqpxGtc)]
@@ -684,7 +684,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### ECCV
 
-* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 724 | 🐛 4 | 🌐 Python | 📅 2026-03-26]
+* SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow. \[[PUB](https://doi.org/10.1007/978-3-031-72667-5_3)] \[[CODE](https://github.com/princeton-vl/SEA-RAFT) ⭐ 725 | 🐛 4 | 🌐 Python | 📅 2026-03-26]
 * Cross-View Image Geo-Localization with Panorama-BEV Co-retrieval Network. \[[PUB](https://doi.org/10.1007/978-3-031-72913-3_5)] \[[CODE](https://github.com/yejy53/EP-BEV) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2025-07-08]
 * PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration. \[[PUB](https://doi.org/10.1007/978-3-031-72904-1_17)] \[[CODE](https://github.com/yaorz97/PARENet) ⭐ 94 | 🐛 6 | 🌐 Python | 📅 2024-08-14] \[**`pc.`**]
 * Eliminating Warping Shakes for Unsupervised Online Video Stitching. \[[PUB](https://doi.org/10.1007/978-3-031-73235-5_22)] \[[CODE](https://github.com/nie-lang/StabStitch) ⭐ 76 | 🐛 7 | 🌐 Python | 📅 2025-02-12]
@@ -990,7 +990,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### AAAI
 
-* Fourier-Net: Fast Image Registration with Band-Limited Deformation. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25182)] \[[CODE](https://github.com/xi-jia/Fourier-Net) ⭐ 68 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-11]
+* Fourier-Net: Fast Image Registration with Band-Limited Deformation. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25182)] \[[CODE](https://github.com/xi-jia/Fourier-Net) ⭐ 69 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-11]
 * Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25220)] \[[CODE](https://github.com/MengLi-l1/StrokeExtraction) ⭐ 43 | 🐛 11 | 🌐 Python | 📅 2023-11-12] \[**`dep.`**]
 * Rethinking Rotation Invariance with Point Cloud Registration. \[[PUB](https://doi.org/10.1609/aaai.v37i3.25438)] \[[CODE](https://github.com/Crane-YU/rethink_rotation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2022-12-30] \[**`pc.`**]
 * Exploit Domain-Robust Optical Flow in Domain Adaptive Video Semantic Segmentation. \[[PUB](https://doi.org/10.1609/aaai.v37i1.25140)] \[[CODE](https://github.com/EdenHazardan/SFC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-06-13] \[**`oth.`**]
@@ -1240,7 +1240,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### NeurIPS
 
-* Non-rigid Point Cloud Registration with Neural Deformation Pyramid. \[[PUB](https://arxiv.org/pdf/2205.12796.pdf)] \[[CODE](https://github.com/rabbityl/DeformationPyramid) ⭐ 225 | 🐛 10 | 🌐 Python | 📅 2025-01-01] \[**`pc.`**]
+* Non-rigid Point Cloud Registration with Neural Deformation Pyramid. \[[PUB](https://arxiv.org/pdf/2205.12796.pdf)] \[[CODE](https://github.com/rabbityl/DeformationPyramid) ⭐ 226 | 🐛 10 | 🌐 Python | 📅 2025-01-01] \[**`pc.`**]
 * Learning Optical Flow from Continuous Spike Streams. \[[PUB](http://papers.nips.cc/paper_files/paper/2022/hash/33951c28630e48c441cb59db356f2037-Abstract-Conference.html)] \[[CODE](https://github.com/ruizhao26/Spike2Flow) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2022-11-24]
 * Reduced Representation of Deformation Fields for Effective Non-rigid Shape Matching. \[[PUB](http://papers.nips.cc/paper_files/paper/2022/hash/43d1d3bdd92204c96fa4ac3c578f6a33-Abstract-Conference.html)] \[[CODE](https://github.com/Sentient07/DeformationBasis) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-01-03]
 * CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation. \[[PUB](http://papers.nips.cc/paper_files/paper/2022/hash/cb78e6b5246b03e0b82b4acc8b11cc21-Abstract-Conference.html)] \[**`dep.`**]
@@ -5418,7 +5418,7 @@ The KITTI Vision Benchmark Suite
 
 Other
 
-**[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets) ⭐ 4,231 | 🐛 3 | 📅 2023-05-19**
+**[awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets) ⭐ 4,232 | 🐛 3 | 📅 2023-05-19**
 
 \[[UWA Dataset](https://drive.google.com/drive/folders/1_ZeEIBug_Wd5OyWHlxQZACYCOh1dbB12)]  \[**`pc.`**] (Uploaded by @sukun1045 for their repository [shlizee/Predict-Cluster](https://github.com/shlizee/Predict-Cluster) ⭐ 111 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-08-28)
 
@@ -5560,9 +5560,9 @@ The software consists of a collection of algorithms that are commonly used to so
 
 ### Remote Sensing
 
-\[C++] [OTB](https://github.com/orfeotoolbox/OTB) ⭐ 393 | 🐛 7 | 🌐 C++ | 📅 2026-11-05: Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
+\[C++] [OTB](https://github.com/orfeotoolbox/OTB) ⭐ 394 | 🐛 7 | 🌐 C++ | 📅 2026-11-05: Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
 
-\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,546 | 🐛 2,937 | 🌐 C++ | 📅 2026-11-11: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,552 | 🐛 2,919 | 🌐 C++ | 📅 2026-11-13: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
 \[C++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.
 
@@ -5646,7 +5646,7 @@ Part Ⅱ introduces the most basic network and architecture of medical registrat
 
 #### Point Cloud
 
-[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) ⭐ 7,536 | 🐛 203 | 🌐 C++ | 📅 2024-03-22 By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **视觉SLAM十四讲**  视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。 \[[github\]](https://github.com/gaoxiang12/slambook) ⭐ 7,536 | 🐛 203 | 🌐 C++ | 📅 2024-03-22 \[[Videos\]](https://space.bilibili.com/38737757)
+[14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) ⭐ 7,537 | 🐛 203 | 🌐 C++ | 📅 2024-03-22 By Xiang Gao and Tao Zhang and Yi Liu and Qinrui Yan.  **视觉SLAM十四讲**  视觉配准方向较易懂的入门教材。通俗讲述视觉匹配的物理模型， 数学几何基础，优化过程等。 新手必读。 \[[github\]](https://github.com/gaoxiang12/slambook) ⭐ 7,537 | 🐛 203 | 🌐 C++ | 📅 2024-03-22 \[[Videos\]](https://space.bilibili.com/38737757)
 
 [点云数据配准及曲面细分技术](https://baike.baidu.com/item/点云数据配准及曲面细分技术/10225974) by 薛耀红, 赵建平, 蒋振刚, 等   书籍内容比较过时，仅适合零基础读者阅读。推荐自行查找相关博客学习。
 
@@ -5908,9 +5908,9 @@ Many thanks :heart: to the other awesome list:
 * **[hoya012](https://github.com/hoya012)**  [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,379 | 🐛 5 | 🌐 Python | 📅 2024-02-12
 * [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,450 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 * **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,516 | 🐛 7 | 📅 2022-12-17
-* **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,231 | 🐛 3 | 📅 2023-05-19
+* **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,232 | 🐛 3 | 📅 2023-05-19
 * **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,945 | 🐛 4 | 🌐 Python | 📅 2024-08-30
-* [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) ⭐ 2,018 | 🐛 0 | 🌐 Python | 📅 2026-11-11
+* [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) ⭐ 2,019 | 🐛 0 | 🌐 Python | 📅 2026-11-11
 * **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022) ⭐ 1,585 | 🐛 5 | 📅 2024-04-10
 * [**JunMa11**](https://github.com/JunMa11) [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,297 | 🐛 0 | 📅 2026-09-23
 * [**tzxiang**](https://github.com/tzxiang)  [awesome-image-alignment-and-stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching) ⭐ 466 | 🐛 0 | 📅 2022-08-08
@@ -5919,4 +5919,4 @@ Many thanks :heart: to the other awesome list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
