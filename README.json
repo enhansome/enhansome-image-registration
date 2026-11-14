@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 288,
+                    "stars": 290,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -591,7 +591,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-31T17:28:56Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
                     "stars": 563,
@@ -622,7 +622,7 @@
                     "open_issues": 41,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 510,
+                    "stars": 511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -867,7 +867,7 @@
                     "open_issues": 0,
                     "owner": "Windsrain",
                     "repo": "ZeroStereo",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": [
                       "iccv2025",
                       "stereo-matching"
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T12:45:37Z",
-                    "open_issues": 2919,
+                    "last_commit": "2026-11-14T03:55:16Z",
+                    "open_issues": 2928,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91552,
+                    "stars": 91566,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:16:12.035Z",
+    "last_updated": "2026-11-14T12:20:41.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
