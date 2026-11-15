@@ -4805,7 +4805,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 986,
+                    "stars": 987,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "tub-rip",
                     "repo": "event_based_optical_flow",
-                    "stars": 198,
+                    "stars": 197,
                     "topics": [
                       "asynchronous-sensor",
                       "burgers-scheme",
@@ -8727,7 +8727,7 @@
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
-                    "stars": 394,
+                    "stars": 396,
                     "topics": [
                       "cpp14",
                       "image-processing",
@@ -8754,11 +8754,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T03:55:16Z",
+                    "last_commit": "2026-11-15T09:33:06Z",
                     "open_issues": 2928,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91566,
+                    "stars": 91570,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8782,7 +8782,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-01T17:43:36Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "spectralpython",
                     "repo": "spectral",
                     "stars": 690,
@@ -9008,7 +9008,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7537,
+                        "stars": 7536,
                         "topics": [
                           "slam"
                         ]
@@ -9191,7 +9191,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11379,
+                "stars": 11378,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9319,7 +9319,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2945,
+                "stars": 2946,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9508,7 +9508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:20:41.973Z",
+    "last_updated": "2026-11-15T12:51:32.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
