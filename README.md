@@ -8,7 +8,7 @@ A curated list of image registration related books, papers, videos, and toolboxe
 
 It is used in computer vision, medical imaging, military automatic target recognition, compiling and analyzing images and data from satellites. Registration is necessary in order to be able to compare or integrate the data obtained from different measurements.
 
-We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-11 if you need it.
+We use another project to automatically track updates to IR papers, click on [IR-paper-update-tracker](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-11-16 if you need it.
 
 Please note that if this page does not display the full content, please visit the [official homepage](https://awesome-image-registration-organization.github.io/awesome-image-registration/) for full information.
 
@@ -61,9 +61,9 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *Last updated: 2026/10/17*
 
-*2026/10/17* - merge 179 new papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker/blob/main/IR-Papers.md) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-11, including 2026 updates, NeurIPS 2025, and historical supplements.
+*2026/10/17* - merge 179 new papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker/blob/main/IR-Papers.md) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-11-16, including 2026 updates, NeurIPS 2025, and historical supplements.
 
-*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-11-11, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
+*2026/05/21* - major update: merge \~3,500 papers from [IR-Papers.md](https://github.com/Awesome-Image-Registration-Organization/IR-paper-update-tracker) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-11-16, extend coverage from 2026 to 1972 (51 years), add new venues (TMI, JBHI, IPMI, MM, IJCV, etc.), unify paper format, and remove duplicates.
 
 *2025/09/21* - update recent papers
 
@@ -73,7 +73,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
-*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,946 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,947 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -368,7 +368,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00624)] \[[CODE](https://github.com/Sharpiless/L2M) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2026-05-23]
 * ZeroStereo: Zero-Shot Stereo Matching from Single Images. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02616)] \[[CODE](https://github.com/Windsrain/ZeroStereo) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-05-21]
 * Diff2I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.02391)] \[[CODE](https://github.com/mujc2021/Diff2I2P) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2026-02-25]
-* CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01721)] \[[CODE](https://github.com/ZizhuoLi/CoMatch) ⭐ 40 | 🐛 4 | 🌐 Python | 📅 2025-07-25]
+* CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01721)] \[[CODE](https://github.com/ZizhuoLi/CoMatch) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2025-07-25]
 * Registration beyond Points: General Affine Subspace Alignment via Geodesic Distance on Grassmann Manifold. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00359)] \[[CODE](https://github.com/joomeok/GrassmannRegistration) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2025-10-05]
 * Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.00748)] \[[CODE](https://github.com/tub-rip/E2FAI) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2026-01-22]
 * Anchor Token Matching: Implicit Structure Locking for Training-Free AR Image Editing. \[[PUB](https://doi.org/10.1109/ICCV51701.2025.01688)] \[[CODE](https://github.com/hutaiHang/ATM) ⭐ 28 | 🐛 3 | 📅 2025-04-15] \[**`dep.`**]
@@ -550,7 +550,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * Spatial regularisation for improved accuracy and interpretability in keypoint-based registration. \[[PUB](https://doi.org/10.1007/978-3-032-05185-1_56)] [CODE](https://github.com/BenBillot/spatial_regularisation) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-03-07
 * High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation. \[[PUB](https://doi.org/10.1007/978-3-032-05185-1_27)] \[[CODE](https://github.com/Bian-jh/HoP-TM) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-09-29]
 * VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration. \[[PUB](https://doi.org/10.1007/978-3-032-04965-0_63)] [CODE](https://github.com/tinymilky/VoxelOpt) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-11
-* FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation. \[[PUB](https://doi.org/10.1007/978-3-032-04978-0_24)] \[[CODE](https://github.com/siomvas/FedCLAM) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-03-02]
+* FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation. \[[PUB](https://doi.org/10.1007/978-3-032-04978-0_24)] \[[CODE](https://github.com/siomvas/FedCLAM) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-15]
 * 3D Acetabular Surface Reconstruction from 2D Pre-operative X-Ray Images Using SRVF Elastic Registration and Deformation Graph. \[[PUB](https://doi.org/10.1007/978-3-032-05325-1_1)] \[**`medi.`**]
 * A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection. \[[PUB](https://doi.org/10.1007/978-3-032-05162-2_3)]
 * Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection. \[[PUB](https://doi.org/10.1007/978-3-032-05114-1_5)] \[**`medi.`**]
@@ -936,7 +936,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 * GlueStick: Robust Image Matching by Sticking Points and Lines Together. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00890)] \[[CODE](https://github.com/cvg/GlueStick) ⭐ 687 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-04-07]
 * VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01146)] \[[CODE](https://github.com/XiaoyuShi97/VideoFlow) ⭐ 337 | 🐛 4 | 🌐 Python | 📅 2023-09-20]
-* Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 324 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
+* Parallax-Tolerant Unsupervised Deep Image Stitching. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00680)] \[[CODE](https://github.com/nie-lang/UDIS2) ⭐ 325 | 🐛 36 | 🌐 Python | 📅 2024-10-29]
 * 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.01299)] \[[CODE](https://github.com/minhaolee/2D3DMATR) ⭐ 156 | 🐛 14 | 🌐 Python | 📅 2023-10-27] \[**`pc.`**]
 * RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.00776)] \[[CODE](https://github.com/IRMVLab/RegFormer) ⭐ 154 | 🐛 10 | 🌐 Python | 📅 2025-11-30] \[**`pc.`**]
 * DReg-NeRF: Deep Registration for Neural Radiance Fields. \[[PUB](https://doi.org/10.1109/ICCV51070.2023.02075)] \[[CODE](https://github.com/AIBluefisher/DReg-NeRF) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2023-09-04]
@@ -1123,7 +1123,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 ### MM
 
-* Your Negative May not Be True Negative: Boosting Image-Text Matching with False Negative Elimination. \[[PUB](https://doi.org/10.1145/3581783.3612101)] \[[CODE](https://github.com/LuminosityX/FNE) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2023-12-03] \[**`dep.`**]
+* Your Negative May not Be True Negative: Boosting Image-Text Matching with False Negative Elimination. \[[PUB](https://doi.org/10.1145/3581783.3612101)] \[[CODE](https://github.com/LuminosityX/FNE) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2023-12-03] \[**`dep.`**]
 * 360-Degree Panorama Generation from Few Unregistered NFoV Images. \[[PUB](https://doi.org/10.1145/3581783.3612508)]
 * A Capture to Registration Framework for Realistic Image Super-Resolution in the Industry Environment. \[[PUB](https://doi.org/10.1145/3581783.3611973)] \[**`data.`**]
 * Deep Algorithm Unrolling with Registration Embedding for Pansharpening. \[[PUB](https://doi.org/10.1145/3581783.3613754)]
@@ -5272,7 +5272,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 # Learning Resources
 
-Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) ⭐ 9,450 | 🐛 14 | 🌐 Python | 📅 2026-03-02 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,450 | 🐛 14 | 🌐 Python | 📅 2026-03-02. I followed his style to collect resources
+Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) ⭐ 9,453 | 🐛 14 | 🌐 Python | 📅 2026-03-02 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,453 | 🐛 14 | 🌐 Python | 📅 2026-03-02. I followed his style to collect resources
 
 **This resources collect:**
 
@@ -5414,7 +5414,7 @@ The KITTI Vision Benchmark Suite
 
 **其他总结**
 
-链接：<https://github.com/timzhang642/3D-Machine-Learning> ⭐ 10,224 | 🐛 21 | 📅 2024-07-04
+链接：<https://github.com/timzhang642/3D-Machine-Learning> ⭐ 10,225 | 🐛 21 | 📅 2024-07-04
 
 Other
 
@@ -5562,11 +5562,11 @@ The software consists of a collection of algorithms that are commonly used to so
 
 \[C++] [OTB](https://github.com/orfeotoolbox/OTB) ⭐ 396 | 🐛 7 | 🌐 C++ | 📅 2026-11-05: Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
 
-\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,570 | 🐛 2,928 | 🌐 C++ | 📅 2026-11-15: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,596 | 🐛 2,962 | 🌐 C++ | 📅 2026-11-16: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
 \[C++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.
 
-\[Python] [Spectral Python (SPy)](https://github.com/spectralpython/spectral) ⭐ 690 | 🐛 22 | 🌐 Python | 📅 2026-11-01: Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery.
+\[Python] [Spectral Python (SPy)](https://github.com/spectralpython/spectral) ⭐ 690 | 🐛 20 | 🌐 Python | 📅 2026-11-15: Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery.
 
 **Post Processing Tools**
 
@@ -5601,7 +5601,7 @@ The software consists of a collection of algorithms that are commonly used to so
 
 [Libicp](http://www.cvlibs.net/software/libicp/)
 
-[libpointmatcher ](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,843 | 🐛 101 | 🌐 C++ | 📅 2026-08-27 :fire:
+[libpointmatcher ](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,845 | 🐛 101 | 🌐 C++ | 📅 2026-08-27 :fire:
 
 [g-icp](https://github.com/avsegal/gicp) ⭐ 187 | 🐛 2 | 🌐 C++ | 📅 2015-08-15 :fire:
 
@@ -5906,10 +5906,10 @@ Many thanks :heart: to all project contributors:
 Many thanks :heart: to the other awesome list:
 
 * **[hoya012](https://github.com/hoya012)**  [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,378 | 🐛 5 | 🌐 Python | 📅 2024-02-12
-* [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,450 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+* [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,453 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 * **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,516 | 🐛 7 | 📅 2022-12-17
 * **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,232 | 🐛 3 | 📅 2023-05-19
-* **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,946 | 🐛 4 | 🌐 Python | 📅 2024-08-30
+* **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,947 | 🐛 4 | 🌐 Python | 📅 2024-08-30
 * [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) ⭐ 2,019 | 🐛 0 | 🌐 Python | 📅 2026-11-11
 * **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022) ⭐ 1,585 | 🐛 5 | 📅 2024-04-10
 * [**JunMa11**](https://github.com/JunMa11) [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,297 | 🐛 0 | 📅 2026-09-23
@@ -5919,4 +5919,4 @@ Many thanks :heart: to the other awesome list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
