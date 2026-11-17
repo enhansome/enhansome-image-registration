@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 290,
+                    "stars": 291,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -1335,7 +1335,7 @@
                     "open_issues": 6,
                     "owner": "multimodallearning",
                     "repo": "convexAdam",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1849,7 +1849,7 @@
                     "id": 939026548,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T18:32:05Z",
+                    "last_commit": "2026-11-17T14:09:01Z",
                     "open_issues": 1,
                     "owner": "siomvas",
                     "repo": "FedCLAM",
@@ -2247,7 +2247,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 725,
+                    "stars": 726,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2416,7 +2416,7 @@
                     "open_issues": 3,
                     "owner": "yayoyo66",
                     "repo": "SRStitcher",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3217,7 +3217,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3519,7 +3519,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 337,
+                    "stars": 338,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6463,7 +6463,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 606,
+                    "stars": 607,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -6490,7 +6490,7 @@
                     "open_issues": 21,
                     "owner": "QingyongHu",
                     "repo": "SpinNet",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": [
                       "3dmatch",
                       "descriptor",
@@ -7236,7 +7236,7 @@
                     "open_issues": 14,
                     "owner": "zgojcic",
                     "repo": "3D_multiview_reg",
-                    "stars": 405,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7257,7 +7257,7 @@
                     "open_issues": 0,
                     "owner": "itailang",
                     "repo": "SampleNet",
-                    "stars": 391,
+                    "stars": 392,
                     "topics": [
                       "cvpr2020",
                       "deep-learning",
@@ -7978,7 +7978,7 @@
                     "open_issues": 30,
                     "owner": "wentaoyuan",
                     "repo": "pcn",
-                    "stars": 488,
+                    "stars": 489,
                     "topics": [
                       "3d-reconstruction",
                       "computer-vision",
@@ -8049,7 +8049,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 909,
+                    "stars": 910,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -8376,7 +8376,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10225,
+                        "stars": 10227,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8408,7 +8408,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4232,
+                        "stars": 4233,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T11:39:04Z",
-                    "open_issues": 2962,
+                    "last_commit": "2026-11-17T13:56:11Z",
+                    "open_issues": 2951,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91596,
+                    "stars": 91613,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9453,
+                "stars": 9452,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9268,7 +9268,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7516,
+                "stars": 7518,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9295,7 +9295,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4232,
+                "stars": 4233,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9330,7 +9330,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2947,
+                "stars": 2949,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9363,7 +9363,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2019,
+                "stars": 2020,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9426,7 +9426,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1297,
+                "stars": 1298,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:50:57.071Z",
+    "last_updated": "2026-11-17T14:43:05.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
@@ -9531,7 +9531,7 @@
       "open_issues": 0,
       "owner": "Awesome-Image-Registration-Organization",
       "repo": "awesome-image-registration",
-      "stars": 1557,
+      "stars": 1558,
       "topics": [
         "awesome",
         "awesome-list",
