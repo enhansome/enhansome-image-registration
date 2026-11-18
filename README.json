@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 291,
+                    "stars": 292,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 563,
+                    "stars": 564,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -1709,7 +1709,7 @@
                     "open_issues": 1,
                     "owner": "shenao1995",
                     "repo": "RadGS_Reg",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1845,11 +1845,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "PyTorch implementation of FedCLAM: Client Adaptive Momentum with Foreground Intensity Matching for Federated Medical Image Segmentation, accepted at MICCAI 2025",
-                    "homepage": "https://arxiv.org/abs/2506.22580",
+                    "homepage": "https://siomvas.github.io/FedCLAM/",
                     "id": 939026548,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T14:09:01Z",
+                    "last_commit": "2026-11-17T20:38:46Z",
                     "open_issues": 1,
                     "owner": "siomvas",
                     "repo": "FedCLAM",
@@ -5384,7 +5384,7 @@
                     "open_issues": 5,
                     "owner": "tub-rip",
                     "repo": "event_based_optical_flow",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": [
                       "asynchronous-sensor",
                       "burgers-scheme",
@@ -5445,7 +5445,7 @@
                     "open_issues": 17,
                     "owner": "DiffuseMorph",
                     "repo": "DiffuseMorph",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6463,7 +6463,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 607,
+                    "stars": 608,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -7741,7 +7741,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2760,
+                    "stars": 2761,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7950,7 +7950,7 @@
                     "open_issues": 2,
                     "owner": "xuelunshen",
                     "repo": "H-Net",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8376,7 +8376,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10227,
+                        "stars": 10230,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8462,7 +8462,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2760,
+                    "stars": 2761,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-17T13:56:11Z",
-                    "open_issues": 2951,
+                    "last_commit": "2026-11-18T11:45:03Z",
+                    "open_issues": 2979,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91613,
+                    "stars": 91628,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8969,7 +8969,7 @@
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
-                        "stars": 27,
+                        "stars": 30,
                         "topics": [
                           "3dgs",
                           "gaussian-splatting",
@@ -9202,7 +9202,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11378,
+                "stars": 11380,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9452,
+                "stars": 9454,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9426,7 +9426,7 @@
                 "open_issues": 0,
                 "owner": "JunMa11",
                 "repo": "MICCAI-OpenSourcePapers",
-                "stars": 1298,
+                "stars": 1299,
                 "topics": [
                   "deep-learning",
                   "medical-imaging"
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:43:05.890Z",
+    "last_updated": "2026-11-18T14:21:52.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
