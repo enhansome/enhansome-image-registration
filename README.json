@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 691,
+                    "stars": 692,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -622,7 +622,7 @@
                     "open_issues": 41,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 511,
+                    "stars": 512,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -785,7 +785,7 @@
                     "open_issues": 4,
                     "owner": "MIT-SPARK",
                     "repo": "BUFFER-X",
-                    "stars": 293,
+                    "stars": 294,
                     "topics": [
                       "3d",
                       "feature-extraction",
@@ -991,9 +991,9 @@
                     "homepage": null,
                     "id": 1009544820,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-07-24T04:20:10Z",
-                    "open_issues": 4,
+                    "license": "MIT",
+                    "last_commit": "2026-11-19T10:57:52Z",
+                    "open_issues": 2,
                     "owner": "longliangLiu",
                     "repo": "PriOr-Flow",
                     "stars": 19,
@@ -1892,7 +1892,7 @@
                     "open_issues": 1,
                     "owner": "HaoXu0507",
                     "repo": "IPMI25-SAM-Assisted-Registration",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3490,7 +3490,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 687,
+                    "stars": 688,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -5342,7 +5342,7 @@
                     "open_issues": 14,
                     "owner": "MediaBrain-SJTU",
                     "repo": "RegAD",
-                    "stars": 323,
+                    "stars": 324,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7741,7 +7741,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2761,
+                    "stars": 2763,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8302,7 +8302,7 @@
                         "open_issues": 5,
                         "owner": "hpatches",
                         "repo": "hpatches-dataset",
-                        "stars": 285,
+                        "stars": 286,
                         "topics": []
                       },
                       "first_seen": "2026-10-06T10:45:08.934Z"
@@ -8462,7 +8462,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2761,
+                    "stars": 2763,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8734,7 +8734,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T20:02:50Z",
+                    "last_commit": "2026-11-18T18:20:35Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T11:45:03Z",
-                    "open_issues": 2979,
+                    "last_commit": "2026-11-19T13:47:44Z",
+                    "open_issues": 3003,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91628,
+                    "stars": 91642,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9019,7 +9019,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7536,
+                        "stars": 7537,
                         "topics": [
                           "slam"
                         ]
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9454,
+                "stars": 9457,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9268,7 +9268,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7518,
+                "stars": 7517,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:21:52.656Z",
+    "last_updated": "2026-11-19T14:33:23.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
