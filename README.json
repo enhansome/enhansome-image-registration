@@ -65,7 +65,7 @@
                     "open_issues": 0,
                     "owner": "Picsart-AI-Research",
                     "repo": "FlowDIS",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": [
                       "ai-background",
                       "ai-background-removal",
@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -170,7 +170,7 @@
                     "open_issues": 1,
                     "owner": "htew0001",
                     "repo": "DSFM",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
-                    "stars": 564,
+                    "stars": 562,
                     "topics": [
                       "lightning",
                       "optical-flow",
@@ -1680,7 +1680,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-21T19:39:28Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
                     "stars": 199,
@@ -2043,7 +2043,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-04-21T19:39:28Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "eigenvivek",
                     "repo": "DiffPose",
                     "stars": 199,
@@ -2247,7 +2247,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 726,
+                    "stars": 727,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3217,7 +3217,7 @@
                     "open_issues": 42,
                     "owner": "zhangxy0517",
                     "repo": "3D-Registration-with-Maximal-Cliques",
-                    "stars": 547,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3519,7 +3519,7 @@
                     "open_issues": 4,
                     "owner": "XiaoyuShi97",
                     "repo": "VideoFlow",
-                    "stars": 338,
+                    "stars": 337,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4816,7 +4816,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 987,
+                    "stars": 986,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -4963,7 +4963,7 @@
                     "open_issues": 5,
                     "owner": "cwmok",
                     "repo": "C2FViT",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -6463,7 +6463,7 @@
                     "open_issues": 17,
                     "owner": "prs-eth",
                     "repo": "OverlapPredator",
-                    "stars": 608,
+                    "stars": 607,
                     "topics": [
                       "3dvision",
                       "attention-mechanism",
@@ -6490,7 +6490,7 @@
                     "open_issues": 21,
                     "owner": "QingyongHu",
                     "repo": "SpinNet",
-                    "stars": 310,
+                    "stars": 309,
                     "topics": [
                       "3dmatch",
                       "descriptor",
@@ -7236,7 +7236,7 @@
                     "open_issues": 14,
                     "owner": "zgojcic",
                     "repo": "3D_multiview_reg",
-                    "stars": 406,
+                    "stars": 405,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7257,7 +7257,7 @@
                     "open_issues": 0,
                     "owner": "itailang",
                     "repo": "SampleNet",
-                    "stars": 392,
+                    "stars": 391,
                     "topics": [
                       "cvpr2020",
                       "deep-learning",
@@ -7364,7 +7364,7 @@
                     "open_issues": 63,
                     "owner": "NVlabs",
                     "repo": "PWC-Net",
-                    "stars": 1741,
+                    "stars": 1740,
                     "topics": [
                       "caffe",
                       "computer-vision",
@@ -7741,7 +7741,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2763,
+                    "stars": 2762,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -7978,7 +7978,7 @@
                     "open_issues": 30,
                     "owner": "wentaoyuan",
                     "repo": "pcn",
-                    "stars": 489,
+                    "stars": 488,
                     "topics": [
                       "3d-reconstruction",
                       "computer-vision",
@@ -8049,7 +8049,7 @@
                     "open_issues": 23,
                     "owner": "andyzeng",
                     "repo": "3dmatch-toolbox",
-                    "stars": 910,
+                    "stars": 909,
                     "topics": [
                       "3d",
                       "3d-deep-learning",
@@ -8376,7 +8376,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10230,
+                        "stars": 10232,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8408,7 +8408,7 @@
                         "open_issues": 3,
                         "owner": "Yochengliu",
                         "repo": "awesome-point-cloud-analysis",
-                        "stars": 4233,
+                        "stars": 4232,
                         "topics": [
                           "3d-graphics",
                           "3d-reconstruction",
@@ -8462,7 +8462,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2763,
+                    "stars": 2762,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8734,11 +8734,11 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T18:20:35Z",
+                    "last_commit": "2026-11-20T14:00:30Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
-                    "stars": 396,
+                    "stars": 395,
                     "topics": [
                       "cpp14",
                       "image-processing",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T13:47:44Z",
-                    "open_issues": 3003,
+                    "last_commit": "2026-11-20T13:42:37Z",
+                    "open_issues": 2966,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91642,
+                    "stars": 91654,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8796,7 +8796,7 @@
                     "open_issues": 20,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 690,
+                    "stars": 689,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -9019,7 +9019,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7537,
+                        "stars": 7538,
                         "topics": [
                           "slam"
                         ]
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9457,
+                "stars": 9455,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9295,7 +9295,7 @@
                 "open_issues": 3,
                 "owner": "Yochengliu",
                 "repo": "awesome-point-cloud-analysis",
-                "stars": 4233,
+                "stars": 4232,
                 "topics": [
                   "3d-graphics",
                   "3d-reconstruction",
@@ -9363,7 +9363,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2020,
+                "stars": 2019,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9477,7 +9477,7 @@
                 "open_issues": 0,
                 "owner": "Alison-brie",
                 "repo": "Awesome-Medical-Image-Registration",
-                "stars": 256,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:33:23.586Z",
+    "last_updated": "2026-11-20T14:11:39.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
