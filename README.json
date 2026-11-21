@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 692,
+                    "stars": 693,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -3561,7 +3561,7 @@
                     "open_issues": 14,
                     "owner": "minhaolee",
                     "repo": "2D3DMATR",
-                    "stars": 156,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8734,7 +8734,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T14:00:30Z",
+                    "last_commit": "2026-11-20T17:33:48Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T13:42:37Z",
-                    "open_issues": 2966,
+                    "last_commit": "2026-11-21T09:07:09Z",
+                    "open_issues": 2974,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91654,
+                    "stars": 91666,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8919,7 +8919,7 @@
                         "open_issues": 101,
                         "owner": "norlab-ulaval",
                         "repo": "libpointmatcher",
-                        "stars": 1845,
+                        "stars": 1846,
                         "topics": [
                           "libnabo",
                           "libpointmatcher",
@@ -9019,7 +9019,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7538,
+                        "stars": 7539,
                         "topics": [
                           "slam"
                         ]
@@ -9202,7 +9202,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11380,
+                "stars": 11381,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9455,
+                "stars": 9457,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9268,7 +9268,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7517,
+                "stars": 7518,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9363,7 +9363,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2019,
+                "stars": 2020,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:11:39.793Z",
+    "last_updated": "2026-11-21T13:36:39.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
