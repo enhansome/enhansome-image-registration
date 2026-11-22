@@ -73,7 +73,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 *2024/04/30* - update recent papers on [TPAMI](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AIEEE_Trans._Pattern_Anal._Mach._Intell.%3A)/[MICCAI](https://dblp.org/search?q=registra%20venue%3AMICCAI%3A)/[CVPR](https://dblp.org/search?q=registra%20%20venue%3ACVPR%3A)/[ICCV](https://dblp.org/search?q=registra%20venue%3AICCV%3A)/[ECCV](https://dblp.org/search?q=registra%20venue%3AECCV%3A)/[AAAI](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AAAAI%3A)/[NeurIPS](https://dblp.org/search?q=registra%20venue%3ANeurIPS%3A)/[MIA](https://dblp.org/search?q=registra%20type%3AJournal_Articles%3A%20venue%3AMedical_Image_Anal.%3A)/[ICLR](https://dblp.org/search?q=registra%20type%3AConference_and_Workshop_Papers%3A%20venue%3AICLR%3A)
 
-*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,949 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
+*2023/03/02* - add papers according to [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,950 | 🐛 4 | 🌐 Python | 📅 2024-08-30, update recent papers on CVPR/ECCV 2022
 
 *2022/07/27* - update recent papers on ECCV 2022
 
@@ -499,7 +499,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 * ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3462248)] \[[CODE](http://github.com/multimodallearning/convexAdam) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2025-11-17]
 * DINO-Reg: Efficient Multimodal Image Registration With Distilled Features. \[[PUB](https://doi.org/10.1109/TMI.2025.3567247)] \[[CODE](https://github.com/RPIDIAL/DINO-Reg) ⭐ 69 | 🐛 4 | 🌐 Python | 📅 2025-03-21]
 * Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection. \[[PUB](https://doi.org/10.1109/TMI.2025.3574198)] \[[CODE](https://github.com/junzastar/Self-P2IR) ⭐ 35 | 🐛 8 | 🌐 Python | 📅 2025-12-04]
-* Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
+* Decoder-Only Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2025.3562056)] \[[CODE](https://github.com/xi-jia/LessNet) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2025-04-15]
 * Stitching, Fine-Tuning, and Re-Training: A SAM-Enabled Framework for Semi-Supervised 3D Medical Image Segmentation. \[[PUB](https://doi.org/10.1109/TMI.2025.3532084)] \[[CODE](https://github.com/ShumengLI/SFR) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2024-10-22]
 * UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration. \[[PUB](https://doi.org/10.1109/TMI.2024.3467919)] \[[CODE](https://github.com/Runshi-Zhang/UTSRMorph) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2025-08-22]
 * OTMorph: Unsupervised Multi-Domain Abdominal Medical Image Registration Using Neural Optimal Transport. \[[PUB](https://doi.org/10.1109/TMI.2024.3437295)] \[[CODE](https://github.com/boahK/OTMorph) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2024-12-25]
@@ -5272,7 +5272,7 @@ Statistics: :fire:  code is available & stars >= 100  |  :star: citation >= 
 
 # Learning Resources
 
-Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) ⭐ 9,457 | 🐛 14 | 🌐 Python | 📅 2026-03-02 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,457 | 🐛 14 | 🌐 Python | 📅 2026-03-02. I followed his style to collect resources
+Many thanks to [**yzhao062**](https://github.com/yzhao062/anomaly-detection-resources/commits?author=yzhao062) ⭐ 9,458 | 🐛 14 | 🌐 Python | 📅 2026-03-02 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,458 | 🐛 14 | 🌐 Python | 📅 2026-03-02. I followed his style to collect resources
 
 **This resources collect:**
 
@@ -5562,11 +5562,11 @@ The software consists of a collection of algorithms that are commonly used to so
 
 \[C++] [OTB](https://github.com/orfeotoolbox/OTB) ⭐ 395 | 🐛 7 | 🌐 C++ | 📅 2026-11-20: Orfeo ToolBox (OTB) is an open-source project for state-of-the-art remote sensing. Built on the shoulders of the open-source geospatial community, it can process high resolution optical, multispectral and radar images at the terabyte scale. A wide variety of applications are available: from ortho-rectification or pansharpening, all the way to classification, SAR processing, and much more!
 
-\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,666 | 🐛 2,974 | 🌐 C++ | 📅 2026-11-21: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+\[C++] \[Python] [OpenCV](https://github.com/opencv/opencv) ⭐ 91,679 | 🐛 2,991 | 🌐 C++ | 📅 2026-11-22: OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to  provide a common infrastructure for computer vision applications and to  accelerate the use of machine perception in the commercial products.Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
 \[C++] [ITK](https://itk.org/):   **Insight Toolkit (ITK)**  an open-source, cross-platform system  that provides developers  with an extensive suite of software tools for image  analysis.  Developed through extreme  programming methodologies, ITK employs  leading-edge algorithms for registering  and segmenting multidimensional data.
 
-\[Python] [Spectral Python (SPy)](https://github.com/spectralpython/spectral) ⭐ 689 | 🐛 20 | 🌐 Python | 📅 2026-11-15: Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery.
+\[Python] [Spectral Python (SPy)](https://github.com/spectralpython/spectral) ⭐ 689 | 🐛 21 | 🌐 Python | 📅 2026-11-15: Spectral Python (SPy) is a pure Python module for processing hyperspectral image data (imaging spectroscopy data). It has functions for reading, displaying, manipulating, and classifying hyperspectral imagery.
 
 **Post Processing Tools**
 
@@ -5906,10 +5906,10 @@ Many thanks :heart: to all project contributors:
 Many thanks :heart: to the other awesome list:
 
 * **[hoya012](https://github.com/hoya012)**  [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,381 | 🐛 5 | 🌐 Python | 📅 2024-02-12
-* [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,457 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+* [**yzhao062**](https://github.com/yzhao062/)  [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,458 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 * **[Amusi](https://github.com/amusi)**  [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,518 | 🐛 7 | 📅 2022-12-17
 * **[Yochengliu](https://github.com/Yochengliu)**  [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,232 | 🐛 3 | 📅 2023-05-19
-* **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,949 | 🐛 4 | 🌐 Python | 📅 2024-08-30
+* **[zhulf0804](https://github.com/zhulf0804)**  [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) ⭐ 2,950 | 🐛 4 | 🌐 Python | 📅 2024-08-30
 * [**youngfish42**](https://github.com/youngfish42)  [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) ⭐ 2,020 | 🐛 0 | 🌐 Python | 📅 2026-11-11
 * **[NUAAXQ](https://github.com/NUAAXQ)**  [awesome-point-cloud-analysis-2022](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2022) ⭐ 1,585 | 🐛 5 | 📅 2024-04-10
 * [**JunMa11**](https://github.com/JunMa11) [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) ⭐ 1,299 | 🐛 0 | 📅 2026-09-23
@@ -5919,4 +5919,4 @@ Many thanks :heart: to the other awesome list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
