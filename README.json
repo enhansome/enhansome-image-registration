@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 693,
+                    "stars": 694,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -1017,7 +1017,7 @@
                     "open_issues": 0,
                     "owner": "BIT-Vision",
                     "repo": "EMatch",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3948,7 +3948,7 @@
                     "open_issues": 6,
                     "owner": "xi-jia",
                     "repo": "Fourier-Net",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -7308,7 +7308,7 @@
                     "open_issues": 9,
                     "owner": "XiaoshuiHuang",
                     "repo": "fmr",
-                    "stars": 158,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8376,7 +8376,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10232,
+                        "stars": 10233,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8734,7 +8734,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T17:33:48Z",
+                    "last_commit": "2026-11-23T09:31:07Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-22T13:05:51Z",
-                    "open_issues": 2991,
+                    "last_commit": "2026-11-23T12:01:59Z",
+                    "open_issues": 3009,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91679,
+                    "stars": 91688,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8796,7 +8796,7 @@
                     "open_issues": 21,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 689,
+                    "stars": 688,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -9019,7 +9019,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7539,
+                        "stars": 7540,
                         "topics": [
                           "slam"
                         ]
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9458,
+                "stars": 9459,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9268,7 +9268,7 @@
                 "open_issues": 7,
                 "owner": "amusi",
                 "repo": "awesome-object-detection",
-                "stars": 7518,
+                "stars": 7519,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -9363,7 +9363,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2020,
+                "stars": 2021,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T13:28:33.591Z",
+    "last_updated": "2026-11-23T16:14:37.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
