@@ -44,7 +44,7 @@
                     "open_issues": 8,
                     "owner": "NEU-Liuxuecong",
                     "repo": "CRFT",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -93,7 +93,7 @@
                     "open_issues": 1,
                     "owner": "anpei96",
                     "repo": "hg-i2p-demo",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -2247,7 +2247,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 727,
+                    "stars": 726,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3490,7 +3490,7 @@
                     "open_issues": 4,
                     "owner": "cvg",
                     "repo": "GlueStick",
-                    "stars": 688,
+                    "stars": 689,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -4816,7 +4816,7 @@
                     "open_issues": 53,
                     "owner": "qinzheng93",
                     "repo": "GeoTransformer",
-                    "stars": 987,
+                    "stars": 988,
                     "topics": [
                       "attention-mechanism",
                       "computer-vision",
@@ -7741,7 +7741,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2762,
+                    "stars": 2764,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8376,7 +8376,7 @@
                         "open_issues": 21,
                         "owner": "timzhang642",
                         "repo": "3D-Machine-Learning",
-                        "stars": 10233,
+                        "stars": 10234,
                         "topics": [
                           "3d",
                           "3d-reconstruction",
@@ -8462,7 +8462,7 @@
                     "open_issues": 157,
                     "owner": "voxelmorph",
                     "repo": "voxelmorph",
-                    "stars": 2762,
+                    "stars": 2764,
                     "topics": [
                       "deep-learning",
                       "diffeomorphism",
@@ -8734,7 +8734,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T15:00:05Z",
+                    "last_commit": "2026-11-25T10:36:46Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T15:08:21Z",
-                    "open_issues": 2984,
+                    "last_commit": "2026-11-25T14:34:00Z",
+                    "open_issues": 2957,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91704,
+                    "stars": 91723,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -8796,7 +8796,7 @@
                     "open_issues": 21,
                     "owner": "spectralpython",
                     "repo": "spectral",
-                    "stars": 688,
+                    "stars": 689,
                     "topics": [
                       "anomaly-detection",
                       "hyperspectral",
@@ -8969,7 +8969,7 @@
                         "open_issues": 0,
                         "owner": "Archerkattri",
                         "repo": "splatreg",
-                        "stars": 30,
+                        "stars": 31,
                         "topics": [
                           "3dgs",
                           "gaussian-splatting",
@@ -9019,7 +9019,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7540,
+                        "stars": 7541,
                         "topics": [
                           "slam"
                         ]
@@ -9202,7 +9202,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11381,
+                "stars": 11382,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:01:42.075Z",
+    "last_updated": "2026-11-25T15:50:24.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
