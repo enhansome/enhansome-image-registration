@@ -569,7 +569,7 @@
                     "open_issues": 40,
                     "owner": "LSXI7",
                     "repo": "MINIMA",
-                    "stars": 695,
+                    "stars": 696,
                     "topics": [
                       "cvpr2025",
                       "image-matching",
@@ -622,7 +622,7 @@
                     "open_issues": 41,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 513,
+                    "stars": 514,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -1849,7 +1849,7 @@
                     "id": 939026548,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T20:38:46Z",
+                    "last_commit": "2026-11-26T23:42:33Z",
                     "open_issues": 1,
                     "owner": "siomvas",
                     "repo": "FedCLAM",
@@ -2114,7 +2114,7 @@
                     "open_issues": 3,
                     "owner": "Coradlut",
                     "repo": "Bi-JROS",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2247,7 +2247,7 @@
                     "open_issues": 4,
                     "owner": "princeton-vl",
                     "repo": "SEA-RAFT",
-                    "stars": 726,
+                    "stars": 725,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -3920,7 +3920,7 @@
                     "open_issues": 0,
                     "owner": "rqhuang88",
                     "repo": "DFR",
-                    "stars": 25,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -4921,7 +4921,7 @@
                     "open_issues": 15,
                     "owner": "rabbityl",
                     "repo": "lepard",
-                    "stars": 242,
+                    "stars": 241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -5380,7 +5380,7 @@
                     "id": 512650640,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2025-03-12T22:28:19Z",
+                    "last_commit": "2026-11-27T08:46:28Z",
                     "open_issues": 5,
                     "owner": "tub-rip",
                     "repo": "event_based_optical_flow",
@@ -7828,7 +7828,7 @@
                 {
                   "node_type": "item",
                   "title": "Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition. [PUB",
-                  "description": "kevin-ssy/Optical-Flow-Guided-Feature",
+                  "description": "dr-shuyangsun/Optical-Flow-Guided-Feature",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7839,7 +7839,7 @@
                     "license": "MIT",
                     "last_commit": "2019-05-17T09:11:50Z",
                     "open_issues": 0,
-                    "owner": "kevin-ssy",
+                    "owner": "dr-shuyangsun",
                     "repo": "Optical-Flow-Guided-Feature",
                     "stars": 203,
                     "topics": [
@@ -8179,7 +8179,7 @@
                     "open_issues": 1,
                     "owner": "quqixun",
                     "repo": "ImageRegistration",
-                    "stars": 228,
+                    "stars": 227,
                     "topics": [
                       "affine-transformation",
                       "image-registration",
@@ -8734,7 +8734,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T10:53:27Z",
+                    "last_commit": "2026-11-27T11:53:51Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T12:31:44Z",
-                    "open_issues": 2949,
+                    "last_commit": "2026-11-27T13:26:31Z",
+                    "open_issues": 2957,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91742,
+                    "stars": 91746,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9019,7 +9019,7 @@
                         "open_issues": 203,
                         "owner": "gaoxiang12",
                         "repo": "slambook",
-                        "stars": 7541,
+                        "stars": 7540,
                         "topics": [
                           "slam"
                         ]
@@ -9056,7 +9056,7 @@
                         "open_issues": 1,
                         "owner": "quqixun",
                         "repo": "ImageRegistration",
-                        "stars": 228,
+                        "stars": 227,
                         "topics": [
                           "affine-transformation",
                           "image-registration",
@@ -9202,7 +9202,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11383,
+                "stars": 11382,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9462,
+                "stars": 9464,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9363,7 +9363,7 @@
                 "open_issues": 0,
                 "owner": "youngfish42",
                 "repo": "Awesome-FL",
-                "stars": 2022,
+                "stars": 2021,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -9477,7 +9477,7 @@
                 "open_issues": 0,
                 "owner": "Alison-brie",
                 "repo": "Awesome-Medical-Image-Registration",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-10-06T10:45:08.934Z"
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T15:29:55.083Z",
+    "last_updated": "2026-11-27T15:23:01.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
