@@ -121,7 +121,7 @@
                     "open_issues": 5,
                     "owner": "princeton-vl",
                     "repo": "WAFT",
-                    "stars": 294,
+                    "stars": 295,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:30:53.012Z"
@@ -591,7 +591,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-31T17:28:56Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "hmorimitsu",
                     "repo": "ptlflow",
                     "stars": 562,
@@ -619,10 +619,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-09-28T11:15:13Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "opendatalab",
                     "repo": "UniMERNet",
-                    "stars": 514,
+                    "stars": 515,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -820,7 +820,7 @@
                     "open_issues": 0,
                     "owner": "msu-video-group",
                     "repo": "memfof",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "deep-learning",
                       "optical-flow",
@@ -933,7 +933,7 @@
                     "open_issues": 1,
                     "owner": "joomeok",
                     "repo": "GrassmannRegistration",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -2310,7 +2310,7 @@
                     "open_issues": 7,
                     "owner": "nie-lang",
                     "repo": "StabStitch",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:31:21.643Z"
@@ -8734,7 +8734,7 @@
                     "id": 39262442,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-27T11:53:51Z",
+                    "last_commit": "2026-11-27T16:17:04Z",
                     "open_issues": 7,
                     "owner": "orfeotoolbox",
                     "repo": "OTB",
@@ -8765,11 +8765,11 @@
                     "id": 5108051,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-27T13:26:31Z",
-                    "open_issues": 2957,
+                    "last_commit": "2026-11-28T13:56:14Z",
+                    "open_issues": 2966,
                     "owner": "opencv",
                     "repo": "opencv",
-                    "stars": 91746,
+                    "stars": 91756,
                     "topics": [
                       "c-plus-plus",
                       "computer-vision",
@@ -9202,7 +9202,7 @@
                 "open_issues": 5,
                 "owner": "hoya012",
                 "repo": "deep_learning_object_detection",
-                "stars": 11382,
+                "stars": 11381,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -9229,7 +9229,7 @@
                 "open_issues": 14,
                 "owner": "yzhao062",
                 "repo": "anomaly-detection-resources",
-                "stars": 9464,
+                "stars": 9463,
                 "topics": [
                   "anomaly-detection",
                   "awesome",
@@ -9330,7 +9330,7 @@
                 "open_issues": 4,
                 "owner": "zhulf0804",
                 "repo": "3D-PointCloud",
-                "stars": 2951,
+                "stars": 2952,
                 "topics": [
                   "autonomous-driving",
                   "classification",
@@ -9519,7 +9519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:23:01.945Z",
+    "last_updated": "2026-11-28T14:22:52.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "image registration related books, papers, videos, and toolboxes ",
